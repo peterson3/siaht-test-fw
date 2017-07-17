@@ -1,0 +1,119 @@
+[21/06/2017 17:40:33] Acao: Logar (223.223.2.102) Login 327
+[21/06/2017 17:40:47] Acao: Ir Para Login 361
+[21/06/2017 17:40:49] Acao: Informar Tabela Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 473
+[21/06/2017 17:40:52] Acao: Informar Descrição Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 481
+[21/06/2017 17:40:54] Unable to find element with name == nom_tabelaWebDriver
+[21/06/2017 19:19:24] Acao: Logar (223.223.2.102) Login 327
+[21/06/2017 19:19:40] Acao: Ir Para Login 361
+[21/06/2017 19:19:46] Acao: Informar Tabela Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 456
+[21/06/2017 19:19:53] Acao: Informar Descrição Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 458
+[21/06/2017 19:19:55] Acao: Informar TISS Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 462
+[21/06/2017 19:19:57] Acao: Clicar em Inserir  Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 463
+[21/06/2017 19:19:59] Acao: Informar Código Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 464
+[21/06/2017 19:20:30] Timed out after 30 secondsWebDriver.Support
+[21/06/2017 19:20:41] Acao: Logar (223.223.2.102) Login 327
+[21/06/2017 19:20:57] Acao: Ir Para Login 361
+[21/06/2017 19:21:02] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 459
+[21/06/2017 19:21:08] Acao: Informar Data Vigência Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 460
+[21/06/2017 19:21:10] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 461
+[21/06/2017 19:21:12] Acao: Informar Opção de Ação Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 466
+[21/06/2017 19:21:14] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 467
+[21/06/2017 19:21:25] Acao: Logar (223.223.2.102) Login 327
+[21/06/2017 19:21:39] Acao: Ir Para Login 361
+[21/06/2017 19:21:42] Acao: Informar Tabela Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 473
+[21/06/2017 19:21:45] Acao: Informar Descrição Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 481
+[21/06/2017 19:21:47] Acao: Selecionar % ICMS Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 482
+[21/06/2017 19:21:49] Acao: Selecionar Tipo Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 489
+[21/06/2017 19:21:51] Acao: Selecionar Tipo Tabela TISS Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 485
+[21/06/2017 19:21:53] Acao: Selecionar Tipo Preço Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 486
+[21/06/2017 19:21:55] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 490
+[21/06/2017 19:21:57] Acao: [VERIFICADOR] Operação Realizada com Sucesso? Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 491
+[21/06/2017 19:22:08] Acao: Logar (223.223.2.102) Login 327
+[21/06/2017 19:22:22] Acao: Ir Para Login 361
+[21/06/2017 19:22:25] Acao: Informar Código Controle de Acesso > Tipo de Usuário > Tipo de Usuário 362
+[21/06/2017 19:22:32] Acao: [VERIFICADOR] O Tipo Usuário deve Existir? Controle de Acesso > Tipo de Usuário > Tipo de Usuário 363
+[21/06/2017 19:22:33] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[21/06/2017 19:22:44] Acao: Logar (223.223.2.102) Login 327
+[21/06/2017 19:22:59] Acao: Ir Para Login 361
+[21/06/2017 19:23:02] Acao: Informar Login Controle de Acesso > Usuário > Cadastro de Usuário 401
+[21/06/2017 19:23:08] Acao: Informar  Login Workflow Controle de Acesso > Usuário > Cadastro de Usuário 402
+[21/06/2017 19:23:10] Acao: Informar Nome Controle de Acesso > Usuário > Cadastro de Usuário 403
+[21/06/2017 19:23:12] Acao: Selecionar Tipo Usuário Controle de Acesso > Usuário > Cadastro de Usuário 404
+[21/06/2017 19:23:14] Acao: Clicar Botão: Incluir Controle de Acesso > Usuário > Cadastro de Usuário 405
+[21/06/2017 19:23:45] Timed out after 30 secondsWebDriver.Support
+[21/06/2017 19:23:55] Acao: Logar (223.223.2.102) Login 327
+[21/06/2017 19:24:10] Acao: Ir Para Login 361
+[21/06/2017 19:24:13] Acao: Informar Código Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 450
+[21/06/2017 19:24:18] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 451
+[21/06/2017 19:24:19] Acao: Informar Descrição Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 452
+[21/06/2017 19:24:22] Acao: Informar Regime Atendimento Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 453
+[21/06/2017 19:24:24] Acao: Informar Regime Atendimento Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 453
+[21/06/2017 19:24:26] Acao: Selecionar Grupo Estatístico Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 454
+[21/06/2017 19:24:30] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 455
+[21/06/2017 19:24:32] Acao: [VERIFICADOR] Operação Realizada com Sucesso? Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 457
+[21/06/2017 19:24:45] Acao: Logar (223.223.2.102) Login 327
+[21/06/2017 19:25:00] Acao: Ir Para Login 361
+[21/06/2017 19:25:02] Acao: Informar Tabela Honorários, Serviços e Tabelas > Taxas e Serviços > Importação Tabela Taxas 468
+[21/06/2017 19:25:03] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Taxas e Serviços > Importação Tabela Taxas 469
+[21/06/2017 19:25:09] Acao: Informar Data Vigência Honorários, Serviços e Tabelas > Taxas e Serviços > Importação Tabela Taxas 470
+[21/06/2017 19:25:11] Acao: Informar Arquivo Honorários, Serviços e Tabelas > Taxas e Serviços > Importação Tabela Taxas 471
+[21/06/2017 19:25:13] Acao: Clicar Botão: Executar Honorários, Serviços e Tabelas > Taxas e Serviços > Importação Tabela Taxas 472
+[21/06/2017 19:25:13] stale element reference: element is not attached to the page document
+  (Session info: chrome=59.0.3071.104)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.10586 x86_64)WebDriver
+[21/06/2017 19:25:24] Acao: Logar (223.223.2.102) Login 327
+[21/06/2017 19:25:38] Acao: Ir Para Login 361
+[21/06/2017 19:25:40] Acao: Informar Tipo Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 475
+[21/06/2017 19:25:44] Acao: Informar Código Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 476
+[21/06/2017 19:25:51] Acao: Informar Descrição Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 477
+[21/06/2017 19:25:52] Acao: Selecionar Classificação (Por Nome) Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 478
+[21/06/2017 19:25:57] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 479
+[21/06/2017 19:26:27] Timed out after 30 secondsWebDriver.Support
+[21/06/2017 19:26:38] Acao: Logar (223.223.2.102) Login 327
+[21/06/2017 19:26:53] Acao: Ir Para Login 361
+[21/06/2017 19:26:59] Acao: Informar Codigo Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 431
+[21/06/2017 19:27:01] Acao: Clicar no botão: Continuar Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 432
+[21/06/2017 19:27:03] Acao: Informar Descrição Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 433
+[21/06/2017 19:27:07] Acao: Selecionar Padrão Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 435
+[21/06/2017 19:27:19] Acao: Selecionar Sexo Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 436
+[21/06/2017 19:27:20] Acao: Selecionar Grupo Estatístico Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 437
+[21/06/2017 19:27:22] unknown error: Element <iframe id="iframeasp" src="http://223.223.2.102/ace/mvcToAsp.asp?../../hes/asp/hes0008a.asp$$$p=&amp;PT=Procedimentos&amp;pm=74&amp;pcf=HES0008&amp;pprf=ADMIN,99&amp;PPRM=S,S,S,S,N,N&amp;tipoFuncao=A&amp;chaveAcesso=ADMIN[TD]AEB3BEBCD1E2E331[TD]TS_MASTER[TD]4&amp;css=" style="left: 300px; bottom: 0px; right: 0px; width: 100%; height: 655px; border: none; margin: 0px; padding: 0% 0px 0px; overflow: hidden; z-index: 999;" cd_frame_id_="ad7873e2fc0bdccf5877f5b5e14472fc"></iframe> is not clickable at point (1032, 737). Other element would receive the click: <p class="text-muted">...</p>
+  (Session info: chrome=59.0.3071.104)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.10586 x86_64)WebDriver
+[21/06/2017 19:27:33] Acao: Logar (223.223.2.102) Login 327
+[21/06/2017 19:27:47] Acao: Ir Para Login 361
+[21/06/2017 19:27:49] Acao: Informar Tabela Origem Honorários, Serviços e Tabelas > Honorários > Cópia Tabela 441
+[21/06/2017 19:27:54] Acao: Informar Sigla Tabela Destino  Honorários, Serviços e Tabelas > Honorários > Cópia Tabela 442
+[21/06/2017 19:27:56] Acao: Informar Nome Tabela Destino Honorários, Serviços e Tabelas > Honorários > Cópia Tabela 443
+[21/06/2017 19:27:58] Acao: Informar Tipo Cópia Honorários, Serviços e Tabelas > Honorários > Cópia Tabela 444
+[21/06/2017 19:28:02] Acao: Informar Fator Honorários, Serviços e Tabelas > Honorários > Cópia Tabela 445
+[21/06/2017 19:28:03] Acao: Clicar botão: Incluir Honorários, Serviços e Tabelas > Honorários > Cópia Tabela 446
+[21/06/2017 19:28:21] Acao: Logar (223.223.2.102) Login 327
+[21/06/2017 19:28:36] Acao: Ir Para Login 361
+[21/06/2017 19:28:43] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 413
+[21/06/2017 19:28:53] Acao: Informar Nome Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 407
+[21/06/2017 19:28:56] Acao: Informar Tipo Tabela Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 409
+[21/06/2017 19:28:58] Acao: Selecionar Padrão Codificação Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 410
+[21/06/2017 19:29:00] Acao: Selecionar Padrão Valoração Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 411
+[21/06/2017 19:29:03] Acao: Selecionar TISS Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 412
+[21/06/2017 19:29:05] Acao: Selecionar Sigla Moeda Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 381
+[21/06/2017 19:29:07] Acao: Ir Para ABA Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 415
+[21/06/2017 19:29:10] Acao: Horário Especial Benef. Local - D.Util - DE Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 417
+[21/06/2017 19:29:12] Acao: Horário Especial Benef. Local - D.Util - ATÉ Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 418
+[21/06/2017 19:29:14] Acao: Horário Especial Benef. Local - Sabado - DE Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 419
+[21/06/2017 19:29:16] Acao: Horário Especial Benef. Local - Sabado - ATÉ Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 420
+[21/06/2017 19:29:18] Acao: Horário Especial Benef. IF - D.Util - DE Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 421
+[21/06/2017 19:29:21] Acao: Horário Especial Benef. I.Fed - D.Util - ATÉ Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 422
+[21/06/2017 19:29:23] Acao: Horário Especial Benef. I.Fed -Sabado- DE Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 423
+[21/06/2017 19:29:25] Acao: Horário Especial Benef. I.Fed -Sabado- ATÉ Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 424
+[21/06/2017 19:29:27] Acao: Horário Especial Benef. I.Nac - D.Util - DE Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 425
+[21/06/2017 19:29:29] Acao: Horário Especial Benef. I.Nac - D.Util - ATÉ Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 426
+[21/06/2017 19:29:32] Acao: Horário Especial Benef. I.Nac -Sabado- DE Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 427
+[21/06/2017 19:29:34] Acao: Horário Especial Benef. I.Nac -Sabado- ATÉ Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 428
+[21/06/2017 19:29:36] Acao: Clicar no Botão: Incluir Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 429
+[21/06/2017 19:29:38] Acao: [VERIFICADOR] Operação realizada com Sucesso? Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 430
+[21/06/2017 19:29:54] Acao: Logar (223.223.2.102) Login 327
+[21/06/2017 19:30:09] Acao: Ir Para Login 361
+[21/06/2017 19:30:12] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Honorários > Importação 447
+[21/06/2017 19:30:17] Acao: Informar Arquivo Honorários, Serviços e Tabelas > Honorários > Importação 448
+[21/06/2017 19:30:19] Acao: Clicar Botão: Executar Honorários, Serviços e Tabelas > Honorários > Importação 449

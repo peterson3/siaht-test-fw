@@ -1,0 +1,25 @@
+[16/05/2017 17:19:02] Acao: Logar (223.223.2.132) Principal 169
+[16/05/2017 17:19:10] Acao: Ir Para ANS > Dados Atenção Saúde TISS > Consultas > Monitoramento 171
+[16/05/2017 17:19:18] Acao: Selecionar Operadora ANS > Dados Atenção Saúde TISS > Consultas > Monitoramento 161
+[16/05/2017 17:19:20] Acao: Informar Período Processamento de  ANS > Dados Atenção Saúde TISS > Consultas > Monitoramento 162
+[16/05/2017 17:19:23] Acao: Informar Período Processamento até  ANS > Dados Atenção Saúde TISS > Consultas > Monitoramento 163
+[16/05/2017 17:19:25] Acao: Selecionar Situação ANS > Dados Atenção Saúde TISS > Consultas > Monitoramento 164
+[16/05/2017 17:19:27] Acao: Selecionar Tipo Arquivo ANS > Dados Atenção Saúde TISS > Consultas > Monitoramento 165
+[16/05/2017 17:19:29] Acao: Clicar em Executar  ANS > Dados Atenção Saúde TISS > Consultas > Monitoramento 166
+[16/05/2017 18:26:04] D:\Peterson\Projetos\QADynamicFramework\UI_test_player_TD\bin\Debug\ctf\created
+[16/05/2017 20:16:09] Acao: Logar (223.223.2.132) Principal 169
+[16/05/2017 20:38:43] Acao: Logar (223.223.2.132) Principal 169
+[16/05/2017 20:38:49] Acao: Ir Para ANS > Dados Atenção Saúde TISS >  Processar 172
+[16/05/2017 20:38:57] Acao: Selecionar Operadora ANS > Dados Atenção Saúde TISS >  Processar 146
+[16/05/2017 20:38:59] Acao: Informar Referência ANS > Dados Atenção Saúde TISS >  Processar 147
+[16/05/2017 20:39:00] Acao: Informar Tipo Arquivo ANS > Dados Atenção Saúde TISS >  Processar 148
+[16/05/2017 20:39:02] Acao: Clicar em Processar  ANS > Dados Atenção Saúde TISS >  Processar 149
+[16/05/2017 20:39:07] Acao: Logar (223.223.2.132) Principal 169
+[16/05/2017 20:39:12] Acao: Ir Para ANS > Dados Atenção Saúde TISS > Finalizar Referência 170
+[16/05/2017 20:39:19] Acao: Selecionar Operadora ANS > Dados Atenção Saúde TISS > Finalizar Referência 154
+[16/05/2017 20:39:21] Acao: Informar Referência ANS > Dados Atenção Saúde TISS > Finalizar Referência 155
+[16/05/2017 20:39:23] Acao: Selecionar Tipo Arquivo ANS > Dados Atenção Saúde TISS > Finalizar Referência 156
+[16/05/2017 20:39:24] Acao: Clicar em Executar  ANS > Dados Atenção Saúde TISS > Finalizar Referência 157
+[16/05/2017 20:39:30] Acao: Logar (223.223.2.132) Principal 169
+[16/05/2017 20:39:34] Acao: Ir Para ANS > Dados Atenção Saúde TISS > Consultas > Monitoramento 171
+[16/05/2017 20:39:37] JavaScript error (UnexpectedJavaScriptError)WebDriver

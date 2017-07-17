@@ -1,0 +1,45 @@
+﻿<UserControl x:Class="UI_test_player_TD.Views.AcoesView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d"
+             MinHeight="576"
+             MinWidth="1024"
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <Grid  x:Name="settingsFormBox" ScrollViewer.HorizontalScrollBarVisibility="Auto" UseLayoutRounding="False">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="144"/>
+                <ColumnDefinition Width="375*"/>
+                <ColumnDefinition Width="71*"/>
+                <ColumnDefinition Width="867*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="58"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="40"/>
+                <RowDefinition Height="292"/>
+                <RowDefinition Height="140*"/>
+                <RowDefinition Height="97*"/>
+
+            </Grid.RowDefinitions>
+            <Label Content="Ações" VerticalAlignment="Center" FontSize="36" FontFamily="Segoe UI Light" HorizontalAlignment="Left" Height="58" Width="461" Grid.ColumnSpan="2"/>
+            <Label Content="Sistema" HorizontalAlignment="Right" VerticalAlignment="Center" FontFamily="Segoe UI Light" Margin="0,8,0,2" FontSize="16" Grid.Row="3" Height="30" Width="61"/>
+            <ComboBox x:Name="sistemaCombo" DisplayMemberPath="Nome" SelectedValue="{Binding selectedSistema, Mode=TwoWay, UpdateSourceTrigger=Default}" ItemsSource="{Binding sistemas, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"  Grid.Column="1" HorizontalAlignment="Left" Margin="15,12,0,0" Grid.Row="3" VerticalAlignment="Top" Width="344" RenderTransformOrigin="-0.233,-0.423" Height="26"/>
+            <Label Content="Tela" HorizontalAlignment="Right" VerticalAlignment="Center" FontFamily="Segoe UI Light" Margin="0,11,26,39" FontSize="16" Grid.Row="3" Height="30" Width="34" Grid.Column="2" Grid.RowSpan="2"/>
+            <ComboBox x:Name="telaCombo" DisplayMemberPath="Nome" SelectedItem="{Binding selectedTela, Mode=TwoWay, UpdateSourceTrigger=Default}" ItemsSource="{Binding telas, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Grid.Column="3" HorizontalAlignment="Left" Margin="10,11,0,0" Grid.Row="3" VerticalAlignment="Top" Width="344" RenderTransformOrigin="-0.233,-0.423" SelectionChanged="telaCombo_SelectionChanged" Height="26"/>
+            <DataGrid x:Name="acaoGrid" IsReadOnly="True" SelectedItem="{Binding selectedAcao, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" DisplayMemberPath="Nome" HorizontalAlignment="Left" Margin="83,15,0,0" Grid.Row="5" VerticalAlignment="Top" Height="406" Width="1281" Grid.ColumnSpan="4" Grid.RowSpan="2" AutoGenerateColumns="False">
+                <DataGrid.Columns>
+                    <DataGridTextColumn Binding="{Binding Nome}"></DataGridTextColumn>
+                </DataGrid.Columns>
+            </DataGrid>
+            <Button Content="Adicionar novo" HorizontalAlignment="Left" Margin="647,10,0,0" VerticalAlignment="Top" Width="127" Grid.Row="7" Grid.Column="3" Background="MediumSeaGreen" Foreground="White" Click="AddItem"/>
+            <Button Content="Editar" HorizontalAlignment="Left" Margin="83,19,0,0" VerticalAlignment="Top" Width="127" Grid.Row="7" Grid.ColumnSpan="2" Background="CornflowerBlue" Foreground="White" Click="EditItem"/>
+            <Button Content="Excluir" HorizontalAlignment="Left" Margin="94,19,0,0" VerticalAlignment="Top" Width="126" Grid.Row="7" Background="OrangeRed" Foreground="White" Grid.Column="1" Click="ExcluirItem"/>
+
+        </Grid>
+    </Grid>
+</UserControl>

@@ -1,0 +1,32 @@
+[12/05/2017 12:40:10] Acao: Ir Para (10.10.100.147) Login 5
+[12/05/2017 12:40:18] Acao: Informar Base Login 21
+[12/05/2017 12:40:27] Acao: Informar Usuário Login 22
+[12/05/2017 12:40:30] Acao: Informar Senha Login 23
+[12/05/2017 12:40:35] Acao: Clicar em Logar Login 24
+[12/05/2017 12:40:38] Acao: Verificar: Está Em? Principal 201
+[12/05/2017 12:40:52] Acao: Logar (223.223.2.132) Principal 169
+[12/05/2017 12:41:01] Acao: Ir Para ANS > Dados Atenção Saúde TISS > Consultas > Monitoramento 171
+[12/05/2017 12:41:10] Acao: Selecionar Operadora ANS > Dados Atenção Saúde TISS > Consultas > Monitoramento 161
+[12/05/2017 12:41:14] Acao: Informar Período Processamento de  ANS > Dados Atenção Saúde TISS > Consultas > Monitoramento 162
+[12/05/2017 12:41:17] Acao: Informar Período Processamento até  ANS > Dados Atenção Saúde TISS > Consultas > Monitoramento 163
+[12/05/2017 12:41:21] Acao: Selecionar Situação ANS > Dados Atenção Saúde TISS > Consultas > Monitoramento 164
+[12/05/2017 12:41:24] Acao: Selecionar Tipo Arquivo ANS > Dados Atenção Saúde TISS > Consultas > Monitoramento 165
+[12/05/2017 12:41:27] Acao: Clicar em Executar  ANS > Dados Atenção Saúde TISS > Consultas > Monitoramento 166
+[12/05/2017 16:31:52] D:\Peterson\Projetos\QADynamicFramework\UI_test_player_TD\bin\Debug\ctf\created
+[12/05/2017 17:02:15] D:\Peterson\Projetos\QADynamicFramework\UI_test_player_TD\bin\Debug\ctf\created
+[12/05/2017 17:17:29] Acao: Ir Para (10.10.100.147) Login 5
+[12/05/2017 17:17:32] Acao: Informar Base Login 21
+[12/05/2017 17:17:36] Acao: Informar Usuário Login 22
+[12/05/2017 17:17:38] Acao: Informar Senha Login 23
+[12/05/2017 17:17:40] Acao: Clicar em Logar Login 24
+[12/05/2017 17:17:42] Acao: Verificar: Está Em? Principal 201
+[12/05/2017 17:17:49] Acao: Logar (223.223.2.132) Principal 169
+[12/05/2017 17:17:55] Acao: Ir Para ANS > Dados Atenção Saúde TISS > Consultas > Monitoramento 171
+[12/05/2017 17:18:03] Acao: Selecionar Operadora ANS > Dados Atenção Saúde TISS > Consultas > Monitoramento 161
+[12/05/2017 17:18:05] Acao: Informar Período Processamento de  ANS > Dados Atenção Saúde TISS > Consultas > Monitoramento 162
+[12/05/2017 17:18:07] Acao: Informar Período Processamento até  ANS > Dados Atenção Saúde TISS > Consultas > Monitoramento 163
+[12/05/2017 17:18:09] Acao: Selecionar Situação ANS > Dados Atenção Saúde TISS > Consultas > Monitoramento 164
+[12/05/2017 17:18:11] Acao: Selecionar Tipo Arquivo ANS > Dados Atenção Saúde TISS > Consultas > Monitoramento 165
+[12/05/2017 17:18:12] Acao: Clicar em Executar  ANS > Dados Atenção Saúde TISS > Consultas > Monitoramento 166
+[12/05/2017 17:29:14] D:\Peterson\Projetos\QADynamicFramework\UI_test_player_TD\bin\Debug\ctf\created
+[12/05/2017 17:54:27] D:\Peterson\Projetos\QADynamicFramework\UI_test_player_TD\bin\Debug\ctf\created

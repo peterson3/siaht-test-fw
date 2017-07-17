@@ -1,0 +1,8 @@
+D:\Peterson\Projetos\QADynamicFramework\testercl\bin\Debug\testercl.exe.config
+D:\Peterson\Projetos\QADynamicFramework\testercl\bin\Debug\testercl.exe
+D:\Peterson\Projetos\QADynamicFramework\testercl\bin\Debug\testercl.pdb
+D:\Peterson\Projetos\QADynamicFramework\testercl\obj\Debug\testercl.exe
+D:\Peterson\Projetos\QADynamicFramework\testercl\obj\Debug\testercl.pdb
+D:\Peterson\Projetos\QADynamicFramework\testercl\obj\Debug\testercl.csprojResolveAssemblyReference.cache
+D:\Peterson\Projetos\QADynamicFramework\testercl\bin\Debug\CommandLine.dll
+D:\Peterson\Projetos\QADynamicFramework\testercl\bin\Debug\CommandLine.xml

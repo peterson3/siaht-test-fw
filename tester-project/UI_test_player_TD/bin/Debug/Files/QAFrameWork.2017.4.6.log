@@ -1,0 +1,4943 @@
+[06/04/2017 14:07:14] Acao: Logar PRINCIPAL 86
+[06/04/2017 14:07:31] Acao: Ir Para Gestão Prestador > Cadastro Prestador > Inclusão 45
+[06/04/2017 14:07:41] Acao: Informar Vinculação Gestão Prestador > Cadastro Prestador > Inclusão 46
+[06/04/2017 14:07:49] Acao: Informar Tipo Pessoa Gestão Prestador > Cadastro Prestador > Inclusão 47
+[06/04/2017 14:07:53] Acao: Clicar Link: Incluir Pessoa Física Gestão Prestador > Cadastro Prestador > Inclusão 48
+[06/04/2017 14:08:07] Acao: Informar Nome Gestão Prestador > Cadastro Prestador > Inclusão 49
+[06/04/2017 14:08:11] Acao: Informar Naturalidade Gestão Prestador > Cadastro Prestador > Inclusão 50
+[06/04/2017 14:08:14] Acao: Informar Sexo Gestão Prestador > Cadastro Prestador > Inclusão 51
+[06/04/2017 14:08:18] Acao: Informar Nascimento Gestão Prestador > Cadastro Prestador > Inclusão 52
+[06/04/2017 14:08:22] Acao: Informar CPF Gestão Prestador > Cadastro Prestador > Inclusão 53
+[06/04/2017 14:08:22] [UTILITÁRIOS] Gerando CPF
+[06/04/2017 14:08:26] Acao: Acessar Menu Gestão Prestador > Cadastro Prestador > Inclusão 54
+[06/04/2017 14:08:36] Acao: Informar CEP Gestão Prestador > Cadastro Prestador > Inclusão 55
+[06/04/2017 14:08:43] Acao: Informar Número Endereço Gestão Prestador > Cadastro Prestador > Inclusão 56
+[06/04/2017 14:08:48] Acao: Clicar no ícone 'Incluir' Gestão Prestador > Cadastro Prestador > Inclusão 57
+[06/04/2017 14:09:02] Referência de objeto não definida para uma instância de um objeto.UI_test_player_TD
+[06/04/2017 14:14:58] Acao: Logar PRINCIPAL 86
+[06/04/2017 14:15:09] Acao: Ir Para Gestão Prestador > Cadastro Prestador > Inclusão 45
+[06/04/2017 14:15:18] Acao: Informar Vinculação Gestão Prestador > Cadastro Prestador > Inclusão 46
+[06/04/2017 14:15:25] Acao: Informar Tipo Pessoa Gestão Prestador > Cadastro Prestador > Inclusão 47
+[06/04/2017 14:15:29] Acao: Clicar Link: Incluir Pessoa Física Gestão Prestador > Cadastro Prestador > Inclusão 48
+[06/04/2017 14:15:42] Acao: Informar Nome Gestão Prestador > Cadastro Prestador > Inclusão 49
+[06/04/2017 14:15:46] Acao: Informar Naturalidade Gestão Prestador > Cadastro Prestador > Inclusão 50
+[06/04/2017 14:15:50] Acao: Informar Sexo Gestão Prestador > Cadastro Prestador > Inclusão 51
+[06/04/2017 14:15:54] Acao: Informar Nascimento Gestão Prestador > Cadastro Prestador > Inclusão 52
+[06/04/2017 14:15:58] Acao: Informar CPF Gestão Prestador > Cadastro Prestador > Inclusão 53
+[06/04/2017 14:15:58] [UTILITÁRIOS] Gerando CPF
+[06/04/2017 14:16:02] Acao: Acessar Menu Gestão Prestador > Cadastro Prestador > Inclusão 54
+[06/04/2017 14:16:12] Acao: Informar CEP Gestão Prestador > Cadastro Prestador > Inclusão 55
+[06/04/2017 14:16:18] Acao: Informar Número Endereço Gestão Prestador > Cadastro Prestador > Inclusão 56
+[06/04/2017 14:16:22] Acao: Clicar no ícone 'Incluir' Gestão Prestador > Cadastro Prestador > Inclusão 57
+[06/04/2017 14:16:31] Referência de objeto não definida para uma instância de um objeto.UI_test_player_TD
+[06/04/2017 14:32:13] Acao: Logar PRINCIPAL 86
+[06/04/2017 14:32:24] Acao: Ir Para Gestão Prestador > Cadastro Prestador > Inclusão 45
+[06/04/2017 14:32:33] Acao: Informar Vinculação Gestão Prestador > Cadastro Prestador > Inclusão 46
+[06/04/2017 14:32:40] Acao: Informar Tipo Pessoa Gestão Prestador > Cadastro Prestador > Inclusão 47
+[06/04/2017 14:32:43] Acao: Clicar Link: Incluir Pessoa Física Gestão Prestador > Cadastro Prestador > Inclusão 48
+[06/04/2017 14:32:56] Acao: Informar Nome Gestão Prestador > Cadastro Prestador > Inclusão 49
+[06/04/2017 14:33:00] Acao: Informar Naturalidade Gestão Prestador > Cadastro Prestador > Inclusão 50
+[06/04/2017 14:33:04] Acao: Informar Sexo Gestão Prestador > Cadastro Prestador > Inclusão 51
+[06/04/2017 14:33:07] Acao: Informar Nascimento Gestão Prestador > Cadastro Prestador > Inclusão 52
+[06/04/2017 14:33:11] Acao: Informar CPF Gestão Prestador > Cadastro Prestador > Inclusão 53
+[06/04/2017 14:33:11] [UTILITÁRIOS] Gerando CPF
+[06/04/2017 14:33:15] Acao: Acessar Menu Gestão Prestador > Cadastro Prestador > Inclusão 54
+[06/04/2017 14:33:25] Acao: Informar CEP Gestão Prestador > Cadastro Prestador > Inclusão 55
+[06/04/2017 14:33:31] Acao: Informar Número Endereço Gestão Prestador > Cadastro Prestador > Inclusão 56
+[06/04/2017 14:33:35] Acao: Clicar no ícone 'Incluir' Gestão Prestador > Cadastro Prestador > Inclusão 57
+[06/04/2017 14:33:47] Acao: Verificar Sucesso na Inclusão Gestão Prestador > Cadastro Prestador > Inclusão 72
+[06/04/2017 14:33:56] Acao: Logar PRINCIPAL 86
+[06/04/2017 14:34:08] Acao: Ir Para Gestão Prestador > Cadastro Prestador > Alteração 74
+[06/04/2017 14:34:17] Acao: Informar Prestador Gestão Prestador > Cadastro Prestador > Alteração 75
+[06/04/2017 14:34:21] Acao: Acessar Menu Gestão Prestador > Cadastro Prestador > Inclusão 54
+[06/04/2017 14:34:31] Acao: Informar Sigla Conselho Gestão Prestador > Cadastro Prestador > Inclusão 58
+[06/04/2017 14:34:34] Acao: Informar Número Endereço Gestão Prestador > Cadastro Prestador > Inclusão 56
+[06/04/2017 14:35:05] Timed out after 30 secondsWebDriver.Support
+[06/04/2017 14:37:10] Acao: Logar PRINCIPAL 86
+[06/04/2017 14:37:21] Acao: Ir Para Gestão Prestador > Cadastro Prestador > Inclusão 45
+[06/04/2017 14:37:31] Acao: Informar Vinculação Gestão Prestador > Cadastro Prestador > Inclusão 46
+[06/04/2017 14:37:37] Acao: Informar Tipo Pessoa Gestão Prestador > Cadastro Prestador > Inclusão 47
+[06/04/2017 14:37:41] Acao: Clicar Link: Incluir Pessoa Física Gestão Prestador > Cadastro Prestador > Inclusão 48
+[06/04/2017 14:37:54] Acao: Informar Nome Gestão Prestador > Cadastro Prestador > Inclusão 49
+[06/04/2017 14:37:58] Acao: Informar Naturalidade Gestão Prestador > Cadastro Prestador > Inclusão 50
+[06/04/2017 14:38:01] Acao: Informar Sexo Gestão Prestador > Cadastro Prestador > Inclusão 51
+[06/04/2017 14:38:05] Acao: Informar Nascimento Gestão Prestador > Cadastro Prestador > Inclusão 52
+[06/04/2017 14:38:09] Acao: Informar CPF Gestão Prestador > Cadastro Prestador > Inclusão 53
+[06/04/2017 14:38:09] [UTILITÁRIOS] Gerando CPF
+[06/04/2017 14:38:12] Acao: Acessar Menu Gestão Prestador > Cadastro Prestador > Inclusão 54
+[06/04/2017 14:38:22] Acao: Informar CEP Gestão Prestador > Cadastro Prestador > Inclusão 55
+[06/04/2017 14:38:29] Acao: Informar Número Endereço Gestão Prestador > Cadastro Prestador > Inclusão 56
+[06/04/2017 14:38:33] Acao: Clicar no ícone 'Incluir' Gestão Prestador > Cadastro Prestador > Inclusão 57
+[06/04/2017 14:38:43] Acao: Verificar Sucesso na Inclusão Gestão Prestador > Cadastro Prestador > Inclusão 72
+[06/04/2017 14:38:52] Acao: Logar PRINCIPAL 86
+[06/04/2017 14:39:03] Acao: Ir Para Gestão Prestador > Cadastro Prestador > Alteração 74
+[06/04/2017 14:39:13] Acao: Informar Prestador Gestão Prestador > Cadastro Prestador > Alteração 75
+[06/04/2017 14:39:17] Acao: Acessar Menu Gestão Prestador > Cadastro Prestador > Inclusão 54
+[06/04/2017 14:39:27] Acao: Informar Sigla Conselho Gestão Prestador > Cadastro Prestador > Inclusão 58
+[06/04/2017 14:39:30] Acao: Informar Número Conselho Gestão Prestador > Cadastro Prestador > Inclusão 59
+[06/04/2017 14:39:34] Acao: Informar UF Conselho Gestão Prestador > Cadastro Prestador > Inclusão 60
+[06/04/2017 14:39:38] Acao: Clicar Botão Alterar Gestão Prestador > Cadastro Prestador > Alteração 76
+[06/04/2017 14:39:47] Acao: Logar PRINCIPAL 86
+[06/04/2017 14:39:58] Acao: Ir Para Gestão Prestador > Cadastro Prestador > Alteração 74
+[06/04/2017 14:40:07] Acao: Informar Prestador Gestão Prestador > Cadastro Prestador > Alteração 75
+[06/04/2017 14:40:11] Acao: Acessar Menu Gestão Prestador > Cadastro Prestador > Inclusão 54
+[06/04/2017 14:40:21] Acao: Informar Operadora Gestão Prestador > Cadastro Prestador > Inclusão 61
+[06/04/2017 14:40:25] Acao: Informar Tipo Estabelecimento ANS Gestão Prestador > Cadastro Prestador > Inclusão 62
+[06/04/2017 14:40:28] Acao: Informar Disponibilidade Serviço ANS Gestão Prestador > Cadastro Prestador > Inclusão 63
+[06/04/2017 14:40:32] Acao: Informar Tipo Contratualização ANS Gestão Prestador > Cadastro Prestador > Inclusão 64
+[06/04/2017 14:40:35] Acao: Acessar Menu Gestão Prestador > Cadastro Prestador > Inclusão 54
+[06/04/2017 14:40:45] Acao: Selecionar Tipo Estabelecimento (Todos) Gestão Prestador > Cadastro Prestador > Alteração 77
+[06/04/2017 14:40:49] Acao: Clicar Botão Alterar Gestão Prestador > Cadastro Prestador > Alteração 76
+[06/04/2017 14:40:57] Acao: Acessar Menu Gestão Prestador > Cadastro Prestador > Inclusão 54
+[06/04/2017 14:41:07] Acao: Informar Data Vigência (De) Gestão Prestador > Cadastro Prestador > Inclusão 67
+[06/04/2017 14:41:12] Acao: Informar Data Vigência (Até) Gestão Prestador > Cadastro Prestador > Inclusão 68
+[06/04/2017 14:41:15] Acao: Informar Forma Pagamento das Contas Gestão Prestador > Cadastro Prestador > Inclusão 69
+[06/04/2017 14:41:19] Acao: Selecionar Emite Nota Fiscal Gestão Prestador > Cadastro Prestador > Inclusão 70
+[06/04/2017 14:41:24] Acao: Selecionar Momento Apresentação Gestão Prestador > Cadastro Prestador > Inclusão 71
+[06/04/2017 14:41:28] Acao: Acessar Menu Gestão Prestador > Cadastro Prestador > Inclusão 54
+[06/04/2017 14:41:38] Acao: Clicar Botão: Adicionar Rede Atendimento Gestão Prestador > Cadastro Prestador > Alteração 78
+[06/04/2017 14:41:45] Acao: Pesquisar Rede Atendimento (Marcar Todas) Gestão Prestador > Cadastro Prestador > Alteração 79
+[06/04/2017 14:41:47] iframe:toolbar2
+[06/04/2017 14:41:48] iframe:principal2
+[06/04/2017 14:41:49] ################     toolbar2     ################
+[06/04/2017 14:41:49] HTML
+[06/04/2017 14:41:50] NAME: 
+[06/04/2017 14:41:50] INNERHTML: <HEAD><LINK rel=stylesheet type=text/css href="../../gen/css/css002.css"></HEAD>
+<BODY onload="" bottomMargin=0 leftMargin=0 rightMargin=0 topMargin=0>
+<FORM name=form01>
+<SCRIPT language=JavaScript>
+document.onmouseover = doOver;
+document.onmouseout  = doOut;
+document.onmousedown = doDown;
+document.onmouseup   = doUp;
+function doOver() {
+    var toEl = getReal(window.event.toElement, "className", "coolButton");
+    var fromEl = getReal(window.event.fromElement, "className", "coolButton");
+    if (toEl == fromEl) return;
+    var el = toEl;
+   var cDisabled = el.cDisabled;
+   cDisabled = (cDisabled != null);
+    if (el.className == "coolButton")
+        el.onselectstart = new Function("return false");
+    if ((el.className == "coolButton") && !cDisabled) {
+        makeRaised(el);
+        makeGray(el,false);
+    }
+}
+function doOut() {
+    var toEl = getReal(window.event.toElement, "className", "coolButton");
+    var fromEl = getReal(window.event.fromElement, "className", "coolButton");
+    if (toEl == fromEl) return;
+    var el = fromEl;
+    var cDisabled = el.cDisabled;
+    cDisabled = (cDisabled != null);
+    var cToggle = el.cToggle;
+    toggle_disabled = (cToggle != null);
+    if (cToggle && el.value) {
+        makePressed(el);
+        makeGray(el,true);
+    }
+    else if ((el.className == "coolButton") && !cDisabled) {
+        makeFlat(el);
+        makeGray(el,true);
+    }
+}
+function doDown() {
+    el = getReal(window.event.srcElement, "className", "coolButton");
+    var cDisabled = el.cDisabled;
+    cDisabled = (cDisabled != null);
+    if ((el.className == "coolButton") && !cDisabled) {
+        makePressed (el)
+    }
+}
+function doUp() {
+    el = getReal(window.event.srcElement, "className", "coolButton");
+    var cDisabled = el.cDisabled;
+    cDisabled = (cDisabled != null);
+    if ((el.className == "coolButton") && !cDisabled) {
+        makeRaised(el);
+    }
+}
+function getReal(el, type, value) {
+    temp = el;
+    while ((temp != null) && (temp.tagName != "BODY")) {
+        if (eval("temp." + type) == value) {
+            el = temp;
+            return el;
+        }
+        temp = temp.parentElement;
+    }
+    return el;
+}
+function findChildren(el, type, value) {
+    var children = el.children;
+    var tmp = new Array();
+    var j=0;
+    for (var i=0; i<children.length; i++) {
+        if (eval("children[i]." + type + "==\"" + value + "\"")) {
+            tmp[tmp.length] = children[i];
+        }
+        tmp = tmp.concat(findChildren(children[i], type, value));
+    }
+    return tmp;
+}
+function disable(el) {
+    if (document.readyState != "complete") {
+        window.setTimeout("disable(" + el.id + ")", 100);
+        return;
+    }
+    var cDisabled = el.cDisabled;
+    cDisabled = (cDisabled != null);
+    if (!cDisabled) {
+        el.cDisabled = true;
+        el.innerHTML = '<span style="background: buttonshadow; width: 100%; height: 100%; text-align: center;">' +
+                        '<span style="filter:Mask(Color=buttonface) DropShadow(Color=buttonhighlight, OffX=1, OffY=1, Positive=0); height: 100%; width: 100%%; text-align: center;">' +
+                        el.innerHTML +
+                        '</span>' +
+                        '</span>';
+        if (el.onclick != null) {
+            el.cDisabled_onclick = el.onclick;
+            el.onclick = null;
+        }
+    }
+}
+function enable(el) {
+    var cDisabled = el.cDisabled;
+    cDisabled = (cDisabled != null);
+    if (cDisabled) {
+        el.cDisabled = null;
+        el.innerHTML = el.children[0].children[0].innerHTML;
+        if (el.cDisabled_onclick != null) {
+            el.onclick = el.cDisabled_onclick;
+            el.cDisabled_onclick = null;
+        }
+    }
+}
+function addToggle(el) {
+    var cDisabled = el.cDisabled;
+    cDisabled = (cDisabled != null);
+    var cToggle = el.cToggle;
+    cToggle = (cToggle != null);
+    if (!cToggle && !cDisabled) {
+        el.cToggle = true;
+        if (el.value == null)
+            el.value = 0;
+        if (el.onclick != null)
+            el.cToggle_onclick = el.onclick;
+        else
+            el.cToggle_onclick = "";
+        el.onclick = new Function("toggle(" + el.id +"); " + el.id + ".cToggle_onclick();");
+    }
+}
+function removeToggle(el) {
+    var cDisabled = el.cDisabled;
+    cDisabled = (cDisabled != null);
+    var cToggle = el.cToggle;
+    cToggle = (cToggle != null);
+    if (cToggle && !cDisabled) {
+        el.cToggle = null;
+        if (el.value) {
+            toggle(el);
+        }
+        makeFlat(el);
+        if (el.cToggle_onclick != null) {
+            el.onclick = el.cToggle_onclick;
+            el.cToggle_onclick = null;
+        }
+    }
+}
+function toggle(el) {
+    el.value = !el.value;
+    if (el.value)
+        el.style.background = "URL(/images/tileback.gif)";
+    else
+        el.style.backgroundImage = "";
+}
+function makeFlat(el) {
+    with (el.style) {
+        background = "";
+        border = "1px solid buttonface";
+        padding      = "1px";
+    }
+}
+function makeRaised(el) {
+    with (el.style) {
+        borderLeft   = "1px solid buttonhighlight";
+        borderRight  = "1px solid buttonshadow";
+        borderTop    = "1px solid buttonhighlight";
+        borderBottom = "1px solid buttonshadow";
+        padding      = "1px";
+    }
+}
+function makePressed(el) {
+    with (el.style) {
+        borderLeft   = "1px solid buttonshadow";
+        borderRight  = "1px solid buttonhighlight";
+        borderTop    = "1px solid buttonshadow";
+        borderBottom = "1px solid buttonhighlight";
+        paddingTop    = "2px";
+        paddingLeft   = "2px";
+        paddingBottom = "0px";
+        paddingRight  = "0px";
+    }
+}
+function makeGray(el,b) {
+    var filtval;
+    if (b)
+        filtval = "gray()";
+    else
+        filtval = "";
+    var imgs = findChildren(el, "tagName", "IMG");
+    for (var i=0; i<imgs.length; i++) {
+        imgs[i].style.filter = filtval;
+    }
+}
+document.write("<Style>");
+document.write(".coolBar {border-top: 0px solid buttonhighlight;  border-left: 0px solid buttonhighlight; border-bottom: 0px solid buttonshadow; border-right: 0px solid buttonshadow; padding: 2px; font: menu; background:#004f72; background-repeat; padding: 3px;}");
+document.write(".coolButton {border: 1px solid buttonface; padding: 1px; text-align: center; cursor: default;height:20px;}");
+document.write(".coolButton IMG {filter: gray();}");
+document.write("</style>");
+</SCRIPT>
+
+<STYLE>.coolBar {border-top: 0px solid buttonhighlight;  border-left: 0px solid buttonhighlight; border-bottom: 0px solid buttonshadow; border-right: 0px solid buttonshadow; padding: 2px; font: menu; background:#004f72; background-repeat; padding: 3px;}.coolButton {border: 1px solid buttonface; padding: 1px; text-align: center; cursor: default;height:20px;}.coolButton IMG {filter: gray();}</STYLE>
+
+<STYLE>.barimg{vertical-align:middle;}</STYLE>
+
+<DIV class=coolBar style="HEIGHT: 36px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<SPAN onclick=window.parent.principal2.acao_continuar() id=btn_acao_continuar class=coolButton> <IMG title=Continuar class=barimg alt=Continuar src="../../gen/mid/seta_dir_c.gif" width=23 height=23> <B class=barimg></B></SPAN></DIV>
+<DIV></DIV></FORM>
+<SCRIPT>
+
+var message="";
+
+function clickIE() {
+ if (document.all) {
+  (message);
+  return false;
+ }
+}
+
+function clickNS(e) {
+ if (document.layers||(document.getElementById&&!document.all)) {
+  if (e.which==2||e.which==3) {
+   (message);
+   return false;
+  }
+ }
+}
+
+if (document.layers) {
+ document.captureEvents(Event.MOUSEDOWN);
+ document.onmousedown=clickNS;
+}
+
+else{
+ document.onmouseup=clickNS;document.oncontextmenu=clickIE;
+}
+
+document.oncontextmenu=new Function("return false")
+
+</SCRIPT>
+</BODY>
+[06/04/2017 14:41:50] TEXT: 
+[06/04/2017 14:41:50] 
+
+
+
+[06/04/2017 14:41:52] ################     principal2     ################
+[06/04/2017 14:41:52] HTML
+[06/04/2017 14:41:52] NAME: 
+[06/04/2017 14:41:53] INNERHTML: <HEAD><TITLE>TopSaúde</TITLE>
+<SCRIPT>
+function Selecionar(pItem, pNome, pOp, pNomOp, pContador) {
+	var txt_chamada = '';
+	try {
+		var oMyObject = window.dialogArguments;
+		var aux = oMyObject.document;
+		txt_chamada = "oMyObject";
+	}catch (e){
+		txt_chamada = "window.parent.opener";
+	}
+    
+	
+		var oGrid = eval(txt_chamada + '.document.all["grid_rede"].object');
+
+		    oGrid.insertRow();
+			oGrid.setCell(oGrid.rowCount()-1,'0','S');
+			oGrid.setCell(oGrid.rowCount()-1,'1',pItem);
+			oGrid.setCell(oGrid.rowCount()-1,'2',pNome);
+			oGrid.setCell(oGrid.rowCount()-1,'3',pOp);
+			oGrid.setCell(oGrid.rowCount()-1,'4',pNomOp);
+		
+	
+	    var oHidden = eval(txt_chamada + '.document.all["txt_selecao"]');
+	    if (oHidden.value != "") {oHidden.value += ';'}
+	    oHidden.value += '(' + pItem + ',' + pOp + ')';
+	
+}
+</SCRIPT>
+<LINK rel=stylesheet type=text/css href="\gen\css\css002.css"><!-- Include the code and stylesheet for the grid control. -->
+<SCRIPT language=jscript.encode src="../../gen/inc/ebagrid.js"></SCRIPT>
+<LINK rel=stylesheet type=text/css href="../../gen/inc/styles/xp/eba.css">
+<SCRIPT type=text/javascript src="../../gen/js/cpaint2.inc.compressed.js"></SCRIPT>
+<INPUT id=p_versaoINC0000 type=hidden value="$Revision: 1.25 $" name=p_versaoINC0000>
+<SCRIPT language=JAVASCRIPT type=TEXT/JAVASCRIPT>
+<!-- Oculta de navegadores antigos
+    var boolPressionouALT = false;
+    function DesabilitaHelp()
+    {
+        return false;
+    }
+    document.onhelp = DesabilitaHelp;
+    function CapturaTecla(evt)
+    {
+        var tecla = evt.keyCode;
+        var retorno;
+        if ((tecla == 112) || (tecla == 114) || (tecla == 116) || (tecla == 122))
+        {
+            event.keyCode     = 0;
+            event.returnValue = false;
+        }
+        if (tecla == 18)
+            boolPressionouALT = true;
+
+        switch (tecla)
+        {
+            case 18:
+                retorno = 'ALT';
+                break;
+            case 27:
+                retorno = 'ESC';
+                break;
+            case 112:
+                retorno = 'F1';
+                break;
+            case 113:
+                retorno = 'F2';
+                break;
+            case 114:
+                retorno = 'F3';
+                break;
+            case 115:
+                retorno = 'F4';
+                break;
+            case 116:
+                retorno = 'F5';
+                break;
+            case 117:
+                retorno = 'F6';
+                break;
+            case 118:
+                retorno = 'F7';
+                break;
+            case 119:
+                retorno = 'F8';
+                break;
+            case 120:
+                retorno = 'F9';
+                break;
+            case 121:
+                retorno = 'F10';
+                break;
+            case 122:
+                retorno = 'F11';
+                break;
+            case 123:
+                retorno = 'F12';
+                break;
+            default:
+                retorno = tecla;
+        }
+        return retorno;
+    }
+    function LiberaTeclaALT(evt)
+    {
+        var tecla = evt.keyCode;
+        if (tecla == 18)
+            boolPressionouALT = false;
+    }
+    /*
+    if (IsIE6()==false)
+    {
+    alert("Sistema compatível somente com Internet Explorer na versão 6.0 ou superior."); //é inferior a versão 6.0 e por isso não suporta algumas funções desta tela, por favor instale o Internet Explorer 6.0 ou superior.");
+    location.href = '../../ace/ace001a.asp';
+    }
+    */
+    function IsIE6()
+    {
+        if (/MSIE (\d+\.\d+);/.test(navigator.userAgent)){ 
+            var ieversion=new Number(RegExp.$1);
+            if (ieversion>=6)
+                return true;
+            else
+                return false;
+        }else
+            return false;
+    }
+    function OrdenaCombo(Lista, Ordem, Selecionado)
+    {
+        var valor			= new Array();
+        var valor_ordenado	= new Array();
+        var tam = Lista.length;
+        for (var j = 0; j < tam; j++)
+        {
+            if (Ordem == 'C')
+                valor[j] = Lista[j].value + "$" + Lista[j].text;
+
+            if (Ordem == 'D')
+                valor[j] = Lista[j].text + "$" + Lista[j].value;
+        }
+        valor_ordenado = valor.sort();
+        for (var j = 0; j < tam; j++)
+        {
+            i = valor_ordenado[j].indexOf("$");
+            {
+                Lista[j].value	= valor_ordenado[j].substr(0, i);
+                Lista[j].text	= valor_ordenado[j].substr(i + 1, 100);
+            }
+            if (Ordem == 'D')
+            {
+                Lista[j].text	= valor_ordenado[j].substr(0, i);
+                Lista[j].value	= valor_ordenado[j].substr(i + 1, 100);
+            }
+            if (Lista[j].value == Selecionado)
+                Lista[j].selected = true;
+        }
+    }
+    function ExibirRoteiro(pCodFuncao)
+    {
+        try{
+            parent.document['all'].td_escoder_roteiro.style.display	= '';
+            parent.document['all'].td_roteiro.style.display			= '';
+            parent.document['all'].td_escoder_roteiro.style.height	= '123px';
+            parent.document['all'].barra_roteiro.src				= '../gen/img/barra_laleral_abrir.jpg';
+            parent.document['all'].barra_roteiro.alt				= 'Esconder Roteiro';
+            parent.document['all'].Td_Principal.style.width			= '56%';
+            parent.document['all'].Td_Menu.style.display			= 'none';
+            parent.document['all'].expande.src						= '../gen/mid/seta_dir2_c.gif';
+            parent.document['all'].expande.alt						= 'Exibir Menu';
+            
+            window.top.frames['links'].location = '../../ace/ace010a.asp?cod_funcao='+ pCodFuncao + '&cod_modulo=77';
+            window.parent['roteiro'].location = '../../ace/ace040a.asp?cod_funcao=' + pCodFuncao;
+        } catch(e) {};
+    }
+    try{
+        parent.document['all'].td_escoder_roteiro.style.display	= 'none';
+        parent.document['all'].td_roteiro.style.display			= 'none';
+        parent.document['all'].Td_Principal.style.width			= '78%';
+        window.top.frames['links'].dv_cbo_funcao.style.display  = 'none';
+        parent.document['all'].Td_Menu.style.display			= '';
+    }catch(e){};
+    function ReloadIFramesSubMenu(pFuncao)
+    {
+        var objIFrame;
+        var boolVisivel;
+        var ind = 0;
+        for (i = 1; i <= QtdIframes(); i++)
+        {
+            objIFrame = eval('parent.frames[\'I' + i + '\']');
+
+            if (objIFrame.location != 'about:blank')
+            {
+                if (pFuncao == '')
+                    objIFrame.reexecute();
+                else
+                    eval('objIFrame.' + pFuncao);
+
+                eval('boolVisivel = (parent.document[\'all\'].I' + i + '.style.display == \'\')');
+
+                if (boolVisivel)
+                    ind = i;
+            }
+        }
+        if (ind != 0)
+        {
+            objIFrame = eval('parent.frames[\'I' + ind + '\']');
+            objIFrame.focus();
+        }
+    }
+    function CarregarSubMenu(strCodFuncao)
+    {	
+        
+        try
+        {
+            parent.document['all'].menu.style.display		= 'none';
+        parent.document['all'].submenu.style.display	= '';
+
+        parent.frames['control'].botoessubmenu.style.display = '';
+    }
+catch (e){};
+
+    try
+    {
+        window.parent['submenu'].document.frm_submenu.action='../../ace/ace003f.asp?cod_funcao=' + strCodFuncao;
+        window.parent['submenu'].document.frm_submenu.submit();
+    }
+    catch (e)
+    {
+        window.parent['submenu'].location = '../../ace/ace003f.asp?cod_funcao=' + strCodFuncao;
+    }
+    }
+    function LimpaFrameSubMenu()
+    {
+        
+        for (var i = 1; i <= QtdIframes(); i++)
+        eval('parent.document[\'all\'].I' + i + '.src = \'\'');
+        EscondeIndAlteracao();
+    }
+    function ExibeIndAlteracao()
+    {
+        try
+        { document.forms['form01'].ind_alterado.value = 'S'; }
+        catch(e)
+        { window.parent.opener.document.form01.ind_alterado.value = 'S'; }
+        try
+        { window.top.frames['control'].IndAlteracao.style.display = ''; }
+        catch(e)
+        { window.parent.opener.top.frames['control'].IndAlteracao.style.display = ''; }
+        return true;
+    }
+    function EscondeIndAlteracao()
+    {
+        parent.frames['control'].IndAlteracao.style.display = 'none';
+    }
+    function MontaXMLGrid(pNomeGrd, pNomeXML, pLimaText)
+    {
+        var txt_hidden = '';
+        var oGrid;
+        var txt_cod_funcao = '';
+        var iFrm;
+        if (pLimaText==null || pLimaText=="")
+            pLimaText='';
+        if (pNomeXML==null || pNomeXML=="")
+        {
+            pNomeXML='';
+            pLimaText='S';
+        }
+        iFrm = RecuperarIFGrid(pNomeGrd);
+        if (iFrm!="0")
+        {
+            try {
+                var ind_alterado = parent.frames['I'+iFrm].document.form01.ind_alterado.value;
+            } catch(e) {
+                ind_alterado = "";
+            }
+            if (ind_alterado=="")
+                return false;
+            oGrid = eval("parent.frames['I'+iFrm]." + pNomeGrd + ".object");
+            txt_cod_funcao = parent.frames["I"+iFrm].document.form01.pcf.value;
+            txt_hidden = eval("document.form01.txt_XML_" + txt_cod_funcao);
+            if (pLimaText=="S")
+                txt_hidden.value = "";
+            if (pNomeXML!="")
+                txt_hidden.value = txt_hidden.value + "<" + pNomeXML + ">" + oGrid.oLog.xml + "</" + pNomeXML + ">";
+            else
+                txt_hidden.value = txt_hidden.value + oGrid.oLog.xml;
+        }
+    }
+    function RecuperarIFGrid(pNomeGrd)
+    {
+        var oGrid;
+        for (var i=1; i<=QtdIframes(); i++)
+        {
+            try
+            {
+                oGrid = eval("parent.frames['I'+i]." + pNomeGrd + ".object");
+                return i;
+            }
+            catch(e)
+            {
+                oGrid = "";
+            }
+        }
+        return 0;
+    }
+    function XMLFormulario2(pobjForm) {
+        var v_posicao;
+        var sXML = '';
+        try	{
+            v_posicao = 100;
+            if (pobjForm!=null)
+            {
+                v_posicao = 200;
+                sXML = montaXMLElements(pobjForm.elements);
+            }
+
+            return sXML;
+        }
+        catch(e) {
+            alert('Erro ao executar a função "XMLFormulario2".\rJavaScript Erro: '+e.description+'\rPosição: '+v_posicao);
+            return false;
+        }
+    }
+    function montaXMLElements(pelementos) {
+        var tot = pelementos.length;
+        var sXML = '';
+        var sNome;
+        var i=0;
+        var v_posicao;
+        try	{
+            v_posicao = 600;
+            while (i<tot)
+            {
+                v_posicao = 700;
+                if (pelementos[ i ].type == 'text' || pelementos[ i ].type == 'hidden'  || pelementos[ i ].type == 'textarea')
+                {
+                    v_posicao = 800;
+                    sXML += '<' + pelementos[ i ].name.toUpperCase() + '><![CDATA[';
+                    sXML += pelementos[ i ].value;
+                    sXML += ']]></' + pelementos[ i ].name.toUpperCase() + '>';
+                }
+                v_posicao = 900;
+                if (pelementos[ i ].type == 'select-one')
+                {
+                    sXML += '<' + pelementos[ i ].name.toUpperCase() + '>';
+                    sXML += pelementos[ i ].value;
+                    sXML += '</' + pelementos[ i ].name.toUpperCase() + '>';
+                }
+                //Incluído em 31/07/2007 - Julio - Inicio
+                v_posicao = 950;
+                if (pelementos[ i ].type == 'file')
+                {
+                    sXML += '<' + pelementos[ i ].name.toUpperCase() + '><![CDATA[';
+                    sXML += pelementos[ i ].value;
+                    sXML += ']]></' + pelementos[ i ].name.toUpperCase() + '>';
+                }
+                //Incluído em 31/07/2007 - Julio - Fim
+                v_posicao = 1000;
+                if (pelementos[ i ].type == 'select-multiple')
+                {
+                    v_posicao = 1100;
+                    var sSelected = '';
+                    sXML += '<' + pelementos[ i ].name.toUpperCase() + '>';
+                    for (var j=0;j<pelementos[ i ].options.length;j++)
+                    {
+                        if (pelementos[ i ].options[j].selected)
+                        {
+                            if (sSelected!='')
+                                sSelected += ',';
+                            sSelected += pelementos[ i ].options[j].value;
+                        }
+                    }
+                    sXML += sSelected;
+                    sXML += '</' + pelementos[ i ].name.toUpperCase() + '>';
+                }
+                v_posicao = 1200;
+                if (pelementos[ i ].type == 'radio')
+                {
+                    sNome = pelementos[ i ].name;
+                    while (sNome == pelementos[ i ].name)
+                    {
+                        if (pelementos[ i ].checked)
+                        {
+                            sXML += '<' + pelementos[ i ].name.toUpperCase() + '>';
+                            sXML += pelementos[ i ].value;
+                            sXML += '</' + pelementos[ i ].name.toUpperCase() + '>';
+                        }
+                        i++;
+                    }
+                    i--;
+                }
+                v_posicao = 1300;
+                if (pelementos[ i ].type == 'checkbox')
+                {
+                    if (pelementos[ i ].checked)
+                    {
+                        sXML += '<' + pelementos[ i ].name.toUpperCase() + '>';
+                        sXML += pelementos[ i ].value;
+                        sXML += '</' + pelementos[ i ].name.toUpperCase() + '>';
+                    }
+                }
+                i++;
+            }
+            return sXML;
+        }
+        catch(e) {
+            alert('Erro ao executar a função "montaXMLElements".\rJavaScript Erro: '+e.description+'\rPosição: '+v_posicao);
+            return false;
+        }
+    }
+    function MontaXMLForm()
+    {
+        for (i=1; i<=QtdIframes(); i++)
+        {
+            XMLFormulario('I' + i);
+        }
+    }
+    function XMLFormulario(pNomeIframe)
+    {
+        var v_posicao;
+        var sXML = '';
+        try	{
+            v_posicao = 100;
+            if (pNomeIframe!=null && pNomeIframe!="")
+            {
+                try
+                {
+                    v_posicao = 200;
+                    var ind_alterado = parent.frames[pNomeIframe].document.form01.ind_alterado.value;
+                }
+                catch(e)
+                {
+                    ind_alterado = "";
+                }
+                if (ind_alterado=="")
+                    return false;
+
+                v_posicao = 300;
+                var cod_funcao = parent.frames[pNomeIframe].document.form01.pcf.value;
+                v_posicao = 400;
+                var elementos = parent.frames[pNomeIframe].document.form01.elements;
+
+            }else{
+                v_posicao = 500;
+                var elementos = document.form01.elements;
+            }
+
+            sXML = montaXMLElements(elementos);
+
+            v_posicao = 1400;
+            if (pNomeIframe!=null && pNomeIframe!="")
+            {
+                v_posicao = 1500;
+                var txt_XML = eval("parent.pesquisa.document.all['txt_XML_' + cod_funcao]");
+                txt_XML.value = sXML;
+                return true;
+            }else{
+                v_posicao = 1600;
+                return sXML;
+            }
+        }
+        catch(e) {
+            alert('Erro ao executar a função "XMLFormulario".\rJavaScript Erro: '+e.description+'\rPosição: '+v_posicao);
+            return false;
+        }
+    }
+    function QtdIframes()
+    {
+        return parent.document['all'].qtd_iframes.value;      
+    }
+    function SuportaTab()
+    {
+        if (typeof hasSupport.support != "undefined")
+            return hasSupport.support;
+        var ie55 = /msie 5\.[56789]/i.test( navigator.userAgent );
+        hasSupport.support = ( typeof document.implementation != "undefined" &&
+        document.implementation.hasFeature( "html", "1.0" ) || ie55 )
+        if ( ie55 ) {
+            document._getElementsByTagName = document.getElementsByTagName;
+            document.getElementsByTagName = function ( sTagName ) {
+                if ( sTagName == "*" )
+                    return document.all;
+                else
+                    return document._getElementsByTagName( sTagName );
+            };
+        }
+        return hasSupport.support;
+    }
+    function validacao_hora(hora)
+    {
+        campo = eval("document.form01." + hora);
+        var tamanho = campo.value.length;
+        var hora="", minuto="", sep="";
+        var i;
+        if (tamanho!=5)
+        {
+            return false;
+        }
+        for (i=0; i<tamanho; i++) {
+            if (i!=2){
+                if (!parseFloat(campo.value.charAt(i))){
+                    if(campo.value.charAt(i) != '0') {
+                        return false;
+                    }
+                }
+            }
+            if (i<2)  {
+                hora=(hora + campo.value.charAt(i));
+            }
+            if (i==2)  {
+                sep=(sep + campo.value.charAt(i));
+            }
+            if (i>2)  {
+                minuto=(minuto + campo.value.charAt(i));
+            }
+        }
+        if (parseFloat(hora)<0 || parseFloat(hora)>23){
+            return false;
+        }
+        if (parseFloat(minuto)<0 || parseFloat(hora)>59){
+            return false;
+        }
+        if (sep!=':'){
+            return false;
+        }
+        return true;
+    }
+    function comp_hora(hora_ini, hora_fim)
+    {
+        var hora1="", hora2="";
+        var i, tamanho, campo;
+
+        campo = eval("document.form01." + hora_ini);
+        tamanho = campo.value.length;
+        for (i=0; i<tamanho; i++) {
+            if (i!=2)  {
+                hora1=(hora1 + campo.value.charAt(i));
+            }
+        }
+        campo = eval("document.form01." + hora_fim);
+        tamanho = campo.value.length;
+        for (i=0; i<tamanho; i++) {
+            if (i!=2)  {
+                hora2=(hora2 + campo.value.charAt(i));
+            }
+        }
+        if (parseFloat(hora1)>parseFloat(hora2)){
+            return false;
+        }
+        return true;
+    }
+    function formata_hora(campo) {
+        var valor, ini;
+        elemento = eval("document.form01." + campo);
+        valor = elemento.value;
+        ini = parseInt(elemento.value.charAt(0) + elemento.value.charAt(1));
+        if (ini == 24)
+        {
+            valor = "23:";
+        }
+        else
+        {
+            if (elemento.value.length == 1)
+            {
+                if (elemento.value > 2)
+                {
+                    valor = "0" + elemento.value + ":";
+                }
+            }
+            if (elemento.value.length == 2)
+            {
+                if (elemento.value > 24)
+                {
+                    valor = elemento.value.charAt(0);
+                }
+                else
+                {
+
+                    valor = elemento.value + ":";
+                }
+            }
+            if (elemento.value.length == 4)
+            {
+                if (elemento.value.charAt(3) > 5)
+                {
+                    valor = elemento.value.charAt(0) + elemento.value.charAt(1) + elemento.value.charAt(2);
+                }
+                else
+                {
+                    valor = elemento.value;
+                }
+            }
+        }
+        return valor;
+    }
+    function MascIP()
+    {
+        var conteudo;
+        conteudo = event.srcElement.value;
+        if ((event.keyCode == '46') && (conteudo.indexOf(".") > 10 ))
+        {
+            event.returnValue=false;
+        }
+        if ((event.keyCode < '48' || event.keyCode > '57') &&
+        (event.keyCode != '46') &&
+        (event.keyCode != '8'))
+            event.returnValue=false;
+    }
+    function MascData(tipo)
+    {
+        var valor, novo_valor, mes;
+        valor = event.srcElement.value;
+        tipo = tipo.toUpperCase();
+        if ( (event.keyCode < '48' || event.keyCode > '57') && (event.keyCode != '8') )
+        {
+            event.returnValue = false;
+        }
+        else
+        {
+            novo_valor = event.srcElement.value + String.fromCharCode(event.keyCode);
+            if ( ( tipo == 'MM/YYYY' ) && ( (valor.length + 1) == 2 ) )
+            {
+                if ( ValidaInfo(novo_valor,'MM') )
+                {
+                    event.srcElement.value = novo_valor + '/';
+                }
+                event.returnValue=false;
+            }
+            else
+            {
+                if ( tipo == 'DD/MM/YYYY' )
+                {
+                    if ( (valor.length + 1) == 2 )
+                    {
+                        if ( ValidaInfo(novo_valor,'DD') )
+                            event.srcElement.value = novo_valor + '/';
+                        event.returnValue=false;
+                    }
+                    if ( (valor.length + 1) == 5 )
+                    {
+                        mes = novo_valor.substr(3,2);
+                        if ( ValidaInfo(mes, 'MM') )
+                            event.srcElement.value = novo_valor + '/';
+
+                        event.returnValue=false;
+                    }
+                }
+            }
+        }
+    }
+	
+	/*!
+  * Bowser - a browser detector
+  * https://github.com/ded/bowser
+  * MIT License | (c) Dustin Diaz 2013
+  */
+	!function(e,t){typeof module!="undefined"&&module.exports?module.exports.browser=t():typeof define=="function"?define(t):this[e]=t()}("bowser",function(){function y(){return n?{name:"Internet Explorer",msie:t,version:e.match(/(msie |rv:)(\d+(\.\d+)?)/i)[2]}:c?{name:"Opera",opera:t,version:e.match(v)?e.match(v)[1]:e.match(/opr\/(\d+(\.\d+)?)/i)[1]}:r?{name:"Chrome",webkit:t,chrome:t,version:e.match(/(?:chrome|crios)\/(\d+(\.\d+)?)/i)[1]}:i?{name:"PhantomJS",webkit:t,phantom:t,version:e.match(/phantomjs\/(\d+(\.\d+)+)/i)[1]}:u?{name:"TouchPad",webkit:t,touchpad:t,version:e.match(/touchpad\/(\d+(\.\d+)?)/i)[1]}:a?{name:"Amazon Silk",webkit:t,android:t,mobile:t,version:e.match(/silk\/(\d+(\.\d+)?)/i)[1]}:s||o?(g={name:s?"iPhone":"iPad",webkit:t,mobile:t,ios:t,iphone:s,ipad:o},v.test(e)&&(g.version=e.match(v)[1]),g):l?{name:"Android",webkit:t,android:t,mobile:t,version:(e.match(v)||e.match(m))[1]}:f?{name:"Safari",webkit:t,safari:t,version:e.match(v)[1]}:p?(g={name:"Gecko",gecko:t,mozilla:t,version:e.match(m)[1]},h&&(g.name="Firefox",g.firefox=t),g):d?{name:"SeaMonkey",seamonkey:t,version:e.match(/seamonkey\/(\d+(\.\d+)?)/i)[1]}:{}}var e=navigator.userAgent,t=!0,n=/(msie|trident)/i.test(e),r=/chrome|crios/i.test(e),i=/phantom/i.test(e),s=/iphone/i.test(e),o=/ipad/i.test(e),u=/touchpad/i.test(e),a=/silk/i.test(e),f=/safari/i.test(e)&&!r&&!i&&!a,l=/android/i.test(e),c=/opera/i.test(e)||/opr/i.test(e),h=/firefox/i.test(e),p=/gecko\//i.test(e),d=/seamonkey\//i.test(e),v=/version\/(\d+(\.\d+)?)/i,m=/firefox\/(\d+(\.\d+)?)/i,g,b=y();return b.msie&&b.version>=8||b.chrome&&b.version>=10||b.firefox&&b.version>=4||b.safari&&b.version>=5||b.opera&&b.version>=10?b.a=t:b.msie&&b.version<8||b.chrome&&b.version<10||b.firefox&&b.version<4||b.safari&&b.version<5||b.opera&&b.version<10?b.c=t:b.x=t,b})
+	//FIM BROWSER
+	//multibrowser busca em array
+	if (!Array.prototype.indexOf) {
+		Array.prototype.indexOf = function (obj, fromIndex) {
+			if (fromIndex == null) {
+				fromIndex = 0;
+			} else if (fromIndex < 0) {
+				fromIndex = Math.max(0, this.length + fromIndex);
+			}
+			for (var i = fromIndex, j = this.length; i < j; i++) {
+				if (this[i] === obj)
+					return i;
+			}
+			return -1;
+		};
+	}
+
+	function MascDataMB(tipo,event){
+		var evt = event || window.event; //Pega o evento
+		var keyCode = evt.keyCode ? evt.keyCode : evt.which ? evt.which : evt.charCode;	//Pega o código valor digitado
+		var target = evt.target || window.event.srcElement; //Pega a referencia do objeto
+		var valor, novo_valor, mes;
+		novo_valor = "";
+		valor = target.value;//Teste no tamanho da string
+		tipo = tipo.toUpperCase();//Caixa Alta no tipo(dd/mm/yyyy	)
+		var isIE = /*@cc_on!@*/false || !!document.documentMode;//SE FOR TRUE É O IE
+		
+		if( (keyCode < 48 || keyCode > 57) && (keyCode != 8))//Não deixa colocar caracter especial
+	    {
+			if (isIE == true){//VERIFICA SE É O IE
+				if (bowser.msie && parseInt(bowser.version) <= 10.0)//VERIFICA A VERSAO, COMPATIBILIDADE OU NÃO
+				{
+					evt.returnValue = false;
+				}
+				else
+				{
+					return evt.preventDefault();
+				}
+			}else{//SE FOR OUTROS NAVEGADOR
+				return evt.preventDefault();
+			}
+	    }
+	    else
+	    {
+			novo_valor = String.fromCharCode(keyCode);//Variavel com valor digitado
+			
+			//TRATAMENTO QUANDO É PASSADO MM/YYYY NO PARAMETRO
+			if( tipo == 'MM/YYYY' )
+			{
+				if ((valor.length + 1) == 1 ){//Pos 0
+					var v1 = parseInt(novo_valor,10);
+						if(v1 > 1){
+							if (isIE == true){
+								if (bowser.msie && parseInt(bowser.version) <= 10.0)
+								{
+									evt.returnValue = false;
+								}
+								else
+								{
+									return evt.preventDefault();
+								}
+							}else{
+								return evt.preventDefault();
+							}
+						}
+				}
+				if (((valor.length + 1) == 2 ) && (keyCode != 8)){//Pos 1 -> MES
+					var val = target.value + novo_valor;//Recebe o valor no campo concatenado com o valor digitado nessa posição
+					var valInt = parseInt(val.substr(0,2),10);//Recebe a string MES, passando para Int
+						if((valInt > 12) || (valInt < 1)){
+							if (isIE == true){
+								if (bowser.msie && parseInt(bowser.version) <= 10.0)
+								{
+									evt.returnValue = false;
+									var verif = false;
+								}
+								else
+								{
+									return evt.preventDefault();
+								}
+							}else{
+								return evt.preventDefault();
+							}
+						}
+				}
+				if (((valor.length + 1) == 2 ) && (keyCode != 8)){//Pos 2
+					if(verif == false){
+						evt.returnValue = false;				
+					}else{
+						target.value = val + "/";
+						if (isIE == true){
+							if (bowser.msie && parseInt(bowser.version) <= 10.0)
+							{
+								evt.returnValue = false;
+							}
+							else
+							{
+								return evt.preventDefault();
+							}
+						}else{
+							return evt.preventDefault();
+						}
+					}
+				}
+				if ((valor.length + 1) == 4 ){//Pos 3
+					var v4 = parseInt(novo_valor,10);
+					if (v4 > 9){
+						if (isIE == true){
+							if (bowser.msie && parseInt(bowser.version) <= 10.0)
+							{
+								evt.returnValue = false;
+							}
+							else
+							{
+								return evt.preventDefault();
+							}
+						}else{
+							return evt.preventDefault();
+						}
+					}
+				}
+			}
+			else
+			{
+				//TRATAMENTO QUANDO É PASSADO DD/MM/YYYY NO PARAMETRO
+				if ( tipo == 'DD/MM/YYYY' )
+				{
+					if ((valor.length + 1) == 1 ){//Pos 0
+						var v1 = parseInt(novo_valor,10);
+							if ((v1 > 3) || (v1 < 0)){
+								if (isIE == true){
+									if (bowser.msie && parseInt(bowser.version) <= 10.0)
+									{
+										evt.returnValue = false;
+									}
+									else
+									{
+										return evt.preventDefault();
+									}
+								}else{
+									return evt.preventDefault();
+								}							
+							}	
+					}
+					if (((valor.length + 1) == 2 ) && (keyCode != 8)){//Pos 1 -> DIA
+						var val = target.value + novo_valor;//Recebe o valor no campo concatenado com o valor digitado nessa posição
+						var valInt = parseInt(val.substr(0,2),10);//Recebe a string Dia, passando para Int
+							if((valInt > 31) || (valInt <1)){
+								if (isIE == true){
+									if (bowser.msie && parseInt(bowser.version) <= 10.0)
+									{
+										evt.returnValue = false;
+										var verif = false;
+									}
+									else
+									{
+										return evt.preventDefault();
+									}
+								}else{
+									return evt.preventDefault();
+								}
+							}
+					}
+					if (((valor.length + 1) == 2 ) && (keyCode != 8)){//*A POSIÇÃO ANTERIOR JOGAVA O VALOR DUPLICADO,  AQUI ESTÁ CONCATENANDO O VALOR MAIS A '/' RETIRANDO O BUG
+						if(verif == false){
+							evt.returnValue = false;				
+						}else{	
+							target.value = val + "/";
+								if (isIE == true){
+									if (bowser.msie && parseInt(bowser.version) <= 10.0)
+									{
+										evt.returnValue = false;
+									}
+									else
+									{
+										return evt.preventDefault();
+									}
+								}else{
+									return evt.preventDefault();
+								}
+						}		
+					}
+					if ((valor.length + 1) == 4 ){//Pos 3
+						var v4 = parseInt(novo_valor,10);
+							if (v4 > 1){
+								if (isIE == true){
+									if (bowser.msie && parseInt(bowser.version) <= 10.0)
+									{
+										evt.returnValue = false;
+									}
+									else
+									{
+										return evt.preventDefault();
+									}
+								}else{
+									return evt.preventDefault();
+								}
+							}
+					}
+					if (((valor.length + 1) == 5 )  && (keyCode != 8)){//Pos 4 -> MES
+						var val = target.value + novo_valor;//Recebe o valor no campo concatenado com o valor digitado nessa posição
+						var valInt = parseInt(val.substr(3,2),10);//Recebe a string Mes, passando para Int
+							if((valInt > 12) || (valInt < 1)){
+								if (isIE == true){
+									if (bowser.msie && parseInt(bowser.version) <= 10.0)
+									{
+										evt.returnValue = false;
+										var verif = false;
+									}
+									else
+									{
+										return evt.preventDefault();
+									}
+								}else{
+									return evt.preventDefault();
+								}
+							}
+					}
+					if (((valor.length + 1) == 5 ) && (keyCode != 8)){//Pos 5
+						
+						if(verif == false){
+							evt.returnValue = false;				
+						}else{					
+							target.value = val + "/";
+								if (isIE == true){
+									if (bowser.msie && parseInt(bowser.version) <= 10.0)
+									{
+										evt.returnValue = false;
+									}
+									else
+									{
+										return evt.preventDefault();
+									}
+								}else{
+									return evt.preventDefault();
+								}
+						}
+					}
+					if ((valor.length + 1) == 7 ){//Pos 6
+						var v7 = parseInt(novo_valor,10);
+							if (v7 > 9){
+								if (isIE == true){
+									if (bowser.msie && parseInt(bowser.version) <= 10.0)
+									{
+										evt.returnValue = false;
+									}
+									else
+									{
+										return evt.preventDefault();
+									}
+								}else{
+									return evt.preventDefault();
+								}
+							}
+					}
+				}
+			}
+		}
+	}
+	
+	function MascNumMB(event){
+		var evt = event || window.event; //Pega o evento
+		var keyCode = evt.keyCode ? evt.keyCode : evt.which ? evt.which : evt.charCode;
+		var target = evt.target || window.event.srcElement; //Pega a referencia do objeto
+		var conteudo = target.value;
+		var isIE = /*@cc_on!@*/false || !!document.documentMode;//SE FOR TRUE É O IE
+		
+		if((keyCode == '44') && (conteudo.indexOf(",") > 0)){
+			if (isIE == true)//VERIFICA SE É O IE
+			{
+				if (bowser.msie && parseInt(bowser.version) <= 10.0)//VERIFICA A VERSAO, COMPATIBILIDADE OU NÃO
+				{
+					evt.returnValue = false;
+				}
+				else
+				{
+					return evt.preventDefault();
+				}
+			}else//SE FOR OUTROS NAVEGADOR
+			{
+				return evt.preventDefault();
+			}
+		}
+		
+		if ((keyCode < '48' || keyCode > '57') && (keyCode != '44') && (keyCode != '8')){
+			if (isIE == true)//VERIFICA SE É O IE
+			{
+				if (bowser.msie && parseInt(bowser.version) <= 10.0)//VERIFICA A VERSAO, COMPATIBILIDADE OU NÃO
+				{
+					evt.returnValue = false;
+				}
+				else
+				{
+					return evt.preventDefault();
+				}
+			}else//SE FOR OUTROS NAVEGADOR
+			{
+				return evt.preventDefault();
+			}
+		}
+	}
+	
+	function ValidaNumMB(event){
+		var evt = event || window.event; //Pega o evento
+		var keyCode = evt.keyCode ? evt.keyCode : evt.which ? evt.which : evt.charCode;
+		var target = evt.target || window.event.srcElement; //Pega a referencia do objeto
+		var conteudo = target.value; //Pega o valor do elemento
+		var elem = target.name;//Pega o elemento
+		
+		if (conteudo.indexOf('.') > -1) {
+			setTimeout ( "try{document.all['"+ elem +"'].focus()}catch(e){}", 500 );
+			alert("O dado informado não é numérico.");
+			target.value = "";
+			return false;
+		}
+		conteudo = conteudo.replace(',', '.');
+		if (isNaN(conteudo)) {
+			setTimeout ( "try{document.all['"+ elem +"'].focus()}catch(e){}", 500 );
+			alert("O dado informado não é numérico.");
+			target.value = "";
+			return false;
+		}
+	}
+
+    function ValidaAno() {
+        var elem = event.srcElement.name;
+        var ano = event.srcElement.value;
+        if (ano != "") {
+            if ( (!IsNumeric(ano)) ) {
+                setTimeout("try{document.all['" + elem + "'].focus()}catch(e){}", 500);
+                alert("Ano inválido.");
+                event.srcElement.value = "";
+                return false;
+            }
+            if (ano.length < 4) {
+                setTimeout("try{document.all['" + elem + "'].focus()}catch(e){}", 500);
+                alert("Ano inválido.");
+                event.srcElement.value = "";
+                return false;
+            }
+        }
+        else return true;
+
+    }
+
+    function ValidaData() {
+        var mes, dia, ano;					        
+        var elem = event.srcElement.name;
+        var bissexto = 0;
+        c = event.srcElement.value;
+
+        if (c == null)
+            return true;
+    
+        if (c == '')
+            return true;
+
+        dia = c.substr(0, 2);
+        mes = c.substr(3, 2);
+        ano = c.substr(6, 4);
+
+        if((!IsNumeric(dia)) || (!IsNumeric(mes)) || (!IsNumeric(ano))){
+            setTimeout ( "try{document.all['"+ elem +"'].focus()}catch(e){}", 500 );
+            alert("Data inválida.");
+            event.srcElement.value = "";
+            return false;
+        }
+
+        if (c.length != 10 || c.substr(2, 1) != '/' || c.substr(5, 1) != '/' || !ValidaInfo(dia, 'DD') || !ValidaInfo(mes, 'MM')) {
+            setTimeout ( "try{document.all['"+ elem +"'].focus()}catch(e){}", 500 );
+            alert("Data inválida.");
+            event.srcElement.value = "";
+            return false;
+        }   
+
+        switch (mes){
+            case '01':
+            case '03':
+            case '05':
+            case '07':
+            case '08':
+            case '10':
+            case '12':
+                if  (dia <= 31){
+                    return true;
+                }                                        
+                break; 	
+            case '04':
+            case '06':
+            case '09':
+            case '11': 
+                if  (dia <= 30){
+                    return true;
+                }
+                break;                              
+            case '02': 
+                /* Validando ano Bissexto / fevereiro / dia */
+                if ((ano % 4 == 0) || (ano % 100 == 0) || (ano % 400 == 0)){
+                    bissexto = 1;
+                }                                         
+                if ((bissexto == 1) && (dia <= 29)){
+                    return true;                                                                     
+                }                                         
+                if ((bissexto != 1) && (dia <= 28)){
+                    return true;
+                }
+                break;
+        }
+        alert("Data inválida.");
+        event.srcElement.value = "";
+        return false;                     
+    }
+
+
+    function ValidaMesAno() {		        
+        var mes, ano;					        
+        var elem = event.srcElement.name;
+        c = event.srcElement.value;
+
+        if (c == null)
+            return true;
+    
+        if (c == '')
+            return true;
+
+        mes = c.substr(0, 2);
+        ano = c.substr(3, 4);
+
+
+        if((!IsNumeric(mes)) || (!IsNumeric(ano))){
+            setTimeout ( "try{document.all['"+ elem +"'].focus()}catch(e){}", 500 );
+            alert("Mês/Ano inválido.");
+            event.srcElement.value = "";
+            return false;
+        }  
+
+        if (c.length != 7 || c.substr(2, 1) != '/' || !ValidaInfo(mes, 'MM')) {
+            setTimeout ( "try{document.all['"+ elem +"'].focus()}catch(e){}", 500 );
+            alert("Mês/Ano inválido.");
+            event.srcElement.value = "";
+            return false;
+        }                     
+    }
+
+    function ValidaDataTeste(data) {		        
+        var mes, dia, ano;					        
+
+        c = eval("document.form01." + data).value;
+
+        if (c == '')
+            return true;
+    
+        dia = c.substr(0, 2);
+        mes = c.substr(3, 2);
+        ano = c.substr(6, 4);
+
+        if((!IsNumeric(dia)) || (!IsNumeric(mes)) || (!IsNumeric(ano))){
+            alert("Data inválida.");
+            event.srcElement.value = "";
+            return false;
+        }
+
+        if (c.length != 10 || c.substr(2, 1) != '/' || c.substr(5, 1) != '/' || !ValidaInfo(dia, 'DD') || !ValidaInfo(mes, 'MM')) {
+            alert("Data inválida.");
+            event.srcElement.value = "";
+            return false;
+        }                        
+    }				    
+    function MascCpf()
+    {
+        var valor;
+        valor = event.srcElement.value;
+        if ( (event.keyCode < '48' || event.keyCode > '57') &&
+        (event.keyCode != '8') )
+        {
+            event.returnValue=false;
+        }
+        else
+        {
+            if ( ( (valor.length + 1) == 3 ) ||
+            ( (valor.length + 1) == 7 ) )
+            {
+                event.srcElement.value += String.fromCharCode(event.keyCode) + '.';
+                event.returnValue=false;
+            }
+            else
+            {
+                if ( ( (valor.length + 1) == 11 ) )
+                {
+                    event.srcElement.value += String.fromCharCode(event.keyCode) + '-';
+                    event.returnValue=false;
+                }
+            }
+        }
+    }
+    function MascCpfMB(event)
+    {
+        var evt = event || window.event; 					// event object
+		var target = evt.target || window.event.srcElement; // event target
+		var targetValue = target.value; 					// event target id
+		var valor;
+		var keyCode;
+		
+
+		keyCode = evt.keyCode ? evt.keyCode : evt.which ? evt.which : evt.charCode;
+		valor = target.value;
+		var isIE = /*@cc_on!@*/false || !!document.documentMode; //SE FOR TRUE É O IE
+		
+		if ((keyCode < '48' || keyCode > '57') && (keyCode != '8'))
+		{
+			if (isIE == true){//VERIFICA SE É O IE
+				if (bowser.msie && parseInt(bowser.version) <= 10.0)//VERIFICA A VERSAO, COMPATIBILIDADE OU NÃO
+				{
+					evt.returnValue = false;
+					
+				}else{	
+					return evt.preventDefault();
+					
+					}
+			}else{
+				return evt.preventDefault(); //se for outros navegadores
+			}
+		}	
+		else 
+		{
+			if (((valor.length + 1) == 3)||((valor.length + 1) == 7))
+			{
+				target.value += String.fromCharCode(keyCode) + '.';
+				if (isIE == true){
+					if (bowser.msie && parseInt(bowser.version) <= 10.0)
+					{
+						evt.returnValue = false;
+					}
+					else
+					{
+						return evt.preventDefault();
+					}
+				}else{
+					return evt.preventDefault();
+				}
+		}
+		else
+		{
+		
+			if (((valor.length + 1) == 11))
+			{
+				target.value += String.fromCharCode(keyCode) + '-';
+				if (isIE == true){
+					if (bowser.msie && parseInt(bowser.version) <= 10.0)
+					{
+						evt.returnValue = false;
+					}
+					else
+					{
+						return evt.preventDefault();
+					}
+				}else{
+					return evt.preventDefault();
+				}
+			}	
+		}
+		}
+	}
+    function MascCgc()
+    {
+        var valor;
+        valor = event.srcElement.value;
+        if ( (event.keyCode < '48' || event.keyCode > '57') &&
+        (event.keyCode != '8') )
+        {
+            event.returnValue=false;
+        }
+        else
+        {
+            if ( ( (valor.length + 1) == 2 ) ||
+            ( (valor.length + 1) == 6 ) )
+            {
+                event.srcElement.value += String.fromCharCode(event.keyCode) + '.';
+                event.returnValue=false;
+            }
+            else
+            {
+                if ( ( (valor.length + 1) == 10 ) )
+                {
+                    event.srcElement.value += String.fromCharCode(event.keyCode) + '/';
+                    event.returnValue=false;
+                }
+                else
+                {
+                    if ( ( (valor.length + 1) == 15 ) )
+                    {
+                        event.srcElement.value += String.fromCharCode(event.keyCode) + '-';
+                        event.returnValue=false;
+                    }
+                }
+            }
+        }
+    }
+    function MascCep()
+    {
+        var valor;
+        valor = event.srcElement.value;
+        if ( (event.keyCode < '48' || event.keyCode > '57') &&
+        (event.keyCode != '8') )
+        {
+            event.returnValue=false;
+        }
+        else
+        {
+            if ( ( (valor.length + 1) == 2 ) )
+            {
+                event.srcElement.value += String.fromCharCode(event.keyCode) + '.';
+                event.returnValue=false;
+            }
+            else
+            {
+                if ( ( (valor.length + 1) == 6 ) )
+                {
+                    event.srcElement.value += String.fromCharCode(event.keyCode) + '-';
+                    event.returnValue=false;
+                }
+            }
+        }
+    }
+    function MascHora()
+    {
+        var valor, novo_valor, minuto;
+        valor = event.srcElement.value;
+        if ( (event.keyCode < '48' || event.keyCode > '57') &&
+        (event.keyCode != '8') )
+        {
+            event.keyCode = '';
+            event.returnValue=false;
+        }
+        else
+        {
+            if (event.srcElement.value.length == 2) {
+                event.srcElement.value = event.srcElement.value + ':'
+            }
+            novo_valor = event.srcElement.value + String.fromCharCode(event.keyCode);
+            if ( (valor.length + 1) == 2 )
+            {
+                if ( ValidaInfo(novo_valor,'HH') )
+                    event.srcElement.value = novo_valor + ':';
+                event.keyCode = '';
+                event.returnValue=false;
+            }
+            if ( (valor.length + 1) == 5 )
+            {
+                minuto = novo_valor.substr(3,2);
+                if ( ValidaInfo(minuto,'MI') )
+                    event.srcElement.value = novo_valor ;
+                event.keyCode = '';
+                event.returnValue=false;
+            }
+        }
+        event.returnValue=true;
+    }
+    function MascNum()
+    {
+        var conteudo;
+        conteudo = event.srcElement.value;
+        if ( (event.keyCode == '44') &&
+        ( conteudo.indexOf(",") > 0 ) )
+            event.returnValue=false;
+        if ( (event.keyCode < '48' || event.keyCode > '57') &&
+        (event.keyCode != '44') &&
+        (event.keyCode != '8') )
+            event.returnValue=false;
+    }
+
+
+    function MascInt()
+    {
+	    var conteudo;
+        conteudo = event.srcElement.value;
+        if ((event.keyCode == '44'))
+            event.returnValue=false;
+        if ( (event.keyCode < '48' || event.keyCode > '57'))
+            event.returnValue=false;
+    }
+	
+	function TipoBrowser(){
+        var tipo;	
+		 
+		 if ((navigator.userAgent.indexOf("MSIE") != -1 ) || (!!document.documentMode == true )) { //IF IE > 10
+			   tipo = 1;
+ 	 	 } else 
+			
+		 if (navigator.userAgent.indexOf("Firefox") != -1 ) {
+		       tipo = 2;    	
+		 } else 
+		 
+		 if (navigator.userAgent.indexOf("Chrome") != -1 ) {
+			   tipo = 3;
+		 }
+	  return tipo; 
+	}
+	
+    function MascIntMB(evt) 
+	{
+       var tecla=(window.event)?event.keyCode:evt.which;   
+	
+		  if((tecla > 47 && tecla < 58)) 
+			return true;
+		  else {
+			if (tecla==8 || tecla==0) return true;
+			
+			else 
+			 return false; 
+			  }
+	}
+	
+    function ValidaInt() {
+        var conteudo;
+        var elem = event.srcElement.name;
+        conteudo = event.srcElement.value;
+        if (isNaN(conteudo) || conteudo.indexOf('.') > -1 || conteudo.indexOf(',') > -1 || conteudo.substr(0,1).indexOf(' ') > -1) {
+            setTimeout ( "try{document.all['"+ elem +"'].focus()}catch(e){}", 500 );
+            alert("O dado informado não é numérico.");
+            event.srcElement.value = "";
+            return false;
+        }
+        if ((conteudo.indexOf('.') > -1) || conteudo.indexOf('-') > -1) {
+            setTimeout ( "try{document.all['"+ elem +"'].focus()}catch(e){}", 500 );
+            alert("O dado informado não é um número válido.");
+            event.srcElement.value = "";
+            return false;
+        }
+        conteudo = conteudo.replace(',', '.');
+        if (isNaN(conteudo)) {
+            setTimeout ( "try{document.all['"+ elem +"'].focus()}catch(e){}", 500 );
+            alert("O dado informado não é um número válido.");
+            event.srcElement.value = "";
+            return false;
+        }
+    }
+	
+	function ValidaIntMB(evt) {
+		
+		var tpBrowser = TipoBrowser();
+		
+		if ( tpBrowser == 1 ) {
+		 var conteudo;
+         var elem = event.srcElement.name;
+         conteudo = event.srcElement.value;
+		 
+		} else 
+		
+		if ( tpBrowser > 1 ) {
+		var evt = evt || window.event.srcElement.name; // captura o evento gerado pelo onChange.
+        var conteudo = evt.target.value; // Pega o valor gerado pela caixa de texo. 
+		
+		}
+		
+        if (isNaN(conteudo) || conteudo.indexOf('.') > -1 || conteudo.indexOf(',') > -1 || conteudo.substr(0,1).indexOf(' ') > -1) {
+            setTimeout ( "try{document.all['"+ evt +"'].focus()}catch(e){}", 500 );
+            alert("O dado informado não é numérico.");
+            event.srcElement.value = "";
+            return false;
+        }
+        if ((conteudo.indexOf('.') > -1) || conteudo.indexOf('-') > -1) {
+            setTimeout ( "try{document.all['"+ evt +"'].focus()}catch(e){}", 500 );
+            alert("O dado informado não é um número válido.");
+            event.srcElement.value = "";
+            return false;
+        }
+        conteudo = conteudo.replace(',', '.');
+        if (isNaN(conteudo)) {
+            setTimeout ( "try{document.all['"+ evt +"'].focus()}catch(e){}", 500 );
+            alert("O dado informado não é um número válido.");
+            event.srcElement.value = "";
+            return false;
+        }
+    }
+	
+    function ValidaNum() {
+        var conteudo;
+        var elem = event.srcElement.name;
+        conteudo = event.srcElement.value;
+        if (conteudo.indexOf('.') > -1) {
+            setTimeout ( "try{document.all['"+ elem +"'].focus()}catch(e){}", 500 );
+            alert("O dado informado não é numérico.");
+            event.srcElement.value = "";
+            return false;
+        }
+        conteudo = conteudo.replace(',', '.');
+        if (isNaN(conteudo)) {
+            setTimeout ( "try{document.all['"+ elem +"'].focus()}catch(e){}", 500 );
+            alert("O dado informado não é numérico.");
+            event.srcElement.value = "";
+            return false;
+        }
+    }
+	
+	function isNumber(n) {
+		return !isNaN(parseFloat(n)) && isFinite(n);
+	}
+
+	
+
+    //valida se campo obrigatório possui valor nulo
+    function notNull() {
+        var conteudo;
+        var elem = event.srcElement.name;
+        conteudo = event.srcElement.value;
+        if (conteudo != '' && !(conteudo.match(/^\s+$/))) {
+            return true;
+        } else {
+            alert('Campo obrigatório com valor nulo');
+            event.srcElement.value = "";
+            return false;
+        }
+    }
+    //valida se campo obrigatório possui valor nulo não retorna msg, só retorna true ou false
+    function notNull2(p_valor) {
+        //se existir valor no campo retorna true
+        if (p_valor != '' && !(p_valor.match(/^\s+$/))) {
+            return true;
+        } else {
+            return false;
+        }
+    }
+
+    //---Funções de Validação de Caracteres Especiais
+    function achouCaracteresEspeciais(objeto)
+    {
+        var lista = new Array('!','@','#','$','%','¨','&','*','(',')','_','-','+','=','|','\\','<',',','>','.',':',';','?','/','^','~','}',']','´','`','{','[','\'','º','¿');
+    
+        for (var x = 0; x < objeto.length; x++)
+        {
+            for (var y = 0; y < lista.length; y++)
+            {
+                if (objeto.charAt(x) == lista[y])
+                    return true;
+            }
+        }
+    
+        return false;
+    }
+
+    function ValCaracteresEspeciaisSemExcecao()
+    {
+        var nomeElemento = event.srcElement.name;
+        for (var i = 0; i < event.srcElement.value.length; i++)
+        {
+            if(
+               ((event.srcElement.value.charCodeAt(i) < '38' || event.srcElement.value.charCodeAt(i) > '57')  &&
+                (event.srcElement.value.charCodeAt(i) < '65' || event.srcElement.value.charCodeAt(i) > '90')  &&
+                (event.srcElement.value.charCodeAt(i) < '97' || event.srcElement.value.charCodeAt(i) > '122') &&
+                (event.srcElement.value.charCodeAt(i) < '192' || event.srcElement.value.charCodeAt(i) > '196') &&
+                (event.srcElement.value.charCodeAt(i) < '199' || event.srcElement.value.charCodeAt(i) > '207') &&
+                (event.srcElement.value.charCodeAt(i) < '210' || event.srcElement.value.charCodeAt(i) > '214') &&
+                (event.srcElement.value.charCodeAt(i) < '217' || event.srcElement.value.charCodeAt(i) > '220') &&
+                (event.srcElement.value.charCodeAt(i) < '224' || event.srcElement.value.charCodeAt(i) > '228') &&
+                (event.srcElement.value.charCodeAt(i) < '231' || event.srcElement.value.charCodeAt(i) > '239') &&
+                (event.srcElement.value.charCodeAt(i) < '242' || event.srcElement.value.charCodeAt(i) > '246') &&
+                (event.srcElement.value.charCodeAt(i) < '249' || event.srcElement.value.charCodeAt(i) > '252') &&
+                (event.srcElement.value.charCodeAt(i) != '8')  &&
+                (event.srcElement.value.charCodeAt(i) != '32') &&
+                (event.srcElement.value.charCodeAt(i) != '44') &&
+                (event.srcElement.value.charCodeAt(i) != '46') &&
+                (event.srcElement.value.charCodeAt(i) != '47') &&
+                (event.srcElement.value.charCodeAt(i) != '38') &&
+                (event.srcElement.value.charCodeAt(i) != '61') &&
+                (event.srcElement.value.charCodeAt(i) != '63') &&
+                (event.srcElement.value.charCodeAt(i) != '64') &&
+                (event.srcElement.value.charCodeAt(i) != '95') )
+                ||
+                ((event.srcElement.value.charCodeAt(i) == '38') || (event.srcElement.value.charCodeAt(i) == '44') || 
+                 (event.srcElement.value.charCodeAt(i) == '46') || (event.srcElement.value.charCodeAt(i) == '47') ||
+                 (event.srcElement.value.charCodeAt(i) == '63') || (event.srcElement.value.charCodeAt(i) == '64') ||
+                 (event.srcElement.value.charCodeAt(i) == '95')
+                )
+              )
+            {
+                alert('Dado inválido.');
+                event.srcElement.value = '';			
+                setTimeout ( "try{document.all['"+ nomeElemento +"'].focus()}catch(e){}", 500 );
+                return false;
+            }
+        
+        }
+        return true;
+    }
+
+    function caracterEhExcecao(valor)
+    {
+        /*---------------------------------------------------------------------------------------------------
+         Função utilitária que informa se determinado caracter é exceção na validação de caracteres especiais
+            Caracter   -> Código ASC
+            &          -> 38
+            hífen(-)   -> 45
+        ----------------------------------------------------------------------------------------------------*/
+        var arr = new Array('38','45');
+        var achou = false;
+    
+        for (var idx = 0; idx < arr.length; idx++)
+        {
+            if (valor.charCodeAt() == arr[idx])
+            {
+                achou = true;
+                break;
+            }
+        }
+        return achou;
+    }
+
+    function achouCaracteresEspeciais2(valor)
+    {
+        for (var i = 0; i < valor.length; i++)
+        {
+            if (!caracterEhExcecao(valor.charAt(i)))
+            {
+                if(
+                   ((valor.charCodeAt(i) < '48' || valor.charCodeAt(i) > '57')  &&
+                    (valor.charCodeAt(i) < '65' || valor.charCodeAt(i) > '90')  &&
+                    (valor.charCodeAt(i) < '97' || valor.charCodeAt(i) > '122') &&
+                    (valor.charCodeAt(i) < '192' || valor.charCodeAt(i) > '196') &&
+                    (valor.charCodeAt(i) < '199' || valor.charCodeAt(i) > '207') &&
+                    (valor.charCodeAt(i) < '210' || valor.charCodeAt(i) > '214') &&
+                    (valor.charCodeAt(i) < '217' || valor.charCodeAt(i) > '220') &&
+                    (valor.charCodeAt(i) < '224' || valor.charCodeAt(i) > '228') &&
+                    (valor.charCodeAt(i) < '231' || valor.charCodeAt(i) > '239') &&
+                    (valor.charCodeAt(i) < '242' || valor.charCodeAt(i) > '246') &&
+                    (valor.charCodeAt(i) < '249' || valor.charCodeAt(i) > '252') &&
+                    (valor.charCodeAt(i) != '8')  &&
+                    (valor.charCodeAt(i) != '32') &&
+                    (valor.charCodeAt(i) != '44') &&
+                    (valor.charCodeAt(i) != '46') &&
+                    (valor.charCodeAt(i) != '47') &&
+                    (valor.charCodeAt(i) != '38') &&
+                    (valor.charCodeAt(i) != '61') &&
+                    (valor.charCodeAt(i) != '63') &&
+                    (valor.charCodeAt(i) != '64') &&
+                    (valor.charCodeAt(i) != '95') )
+                    ||
+                    ((valor.charCodeAt(i) == '38') || (valor.charCodeAt(i) == '44') || 
+                     (valor.charCodeAt(i) == '46') || (valor.charCodeAt(i) == '47') ||
+                     (valor.charCodeAt(i) == '63') || (valor.charCodeAt(i) == '64') ||
+                     (valor.charCodeAt(i) == '95')
+                    )
+                  )
+                {
+                    return true;
+                }
+            }
+        }
+        return false;
+    }
+
+    function validaCaracteresEspeciais()
+    {
+        var nomeElemento = event.srcElement.name;
+        for (var i = 0; i < event.srcElement.value.length; i++)
+        {
+            if (!caracterEhExcecao(event.srcElement.value.charAt(i)))
+            {
+                if(
+                   ((event.srcElement.value.charCodeAt(i) < '48' || event.srcElement.value.charCodeAt(i) > '57')  &&
+                    (event.srcElement.value.charCodeAt(i) < '65' || event.srcElement.value.charCodeAt(i) > '90')  &&
+                    (event.srcElement.value.charCodeAt(i) < '97' || event.srcElement.value.charCodeAt(i) > '122') &&
+                    (event.srcElement.value.charCodeAt(i) < '192' || event.srcElement.value.charCodeAt(i) > '196') &&
+                    (event.srcElement.value.charCodeAt(i) < '199' || event.srcElement.value.charCodeAt(i) > '207') &&
+                    (event.srcElement.value.charCodeAt(i) < '210' || event.srcElement.value.charCodeAt(i) > '214') &&
+                    (event.srcElement.value.charCodeAt(i) < '217' || event.srcElement.value.charCodeAt(i) > '220') &&
+                    (event.srcElement.value.charCodeAt(i) < '224' || event.srcElement.value.charCodeAt(i) > '228') &&
+                    (event.srcElement.value.charCodeAt(i) < '231' || event.srcElement.value.charCodeAt(i) > '239') &&
+                    (event.srcElement.value.charCodeAt(i) < '242' || event.srcElement.value.charCodeAt(i) > '246') &&
+                    (event.srcElement.value.charCodeAt(i) < '249' || event.srcElement.value.charCodeAt(i) > '252') &&
+                    (event.srcElement.value.charCodeAt(i) != '8')  &&
+                    (event.srcElement.value.charCodeAt(i) != '32') &&
+                    (event.srcElement.value.charCodeAt(i) != '44') &&
+                    (event.srcElement.value.charCodeAt(i) != '46') &&
+                    (event.srcElement.value.charCodeAt(i) != '47') &&
+                    (event.srcElement.value.charCodeAt(i) != '38') &&
+                    (event.srcElement.value.charCodeAt(i) != '61') &&
+                    (event.srcElement.value.charCodeAt(i) != '63') &&
+                    (event.srcElement.value.charCodeAt(i) != '64') &&
+                    (event.srcElement.value.charCodeAt(i) != '95') )
+                    ||
+                    ((event.srcElement.value.charCodeAt(i) == '38') || (event.srcElement.value.charCodeAt(i) == '44') || 
+                     (event.srcElement.value.charCodeAt(i) == '46') || (event.srcElement.value.charCodeAt(i) == '47') ||
+                     (event.srcElement.value.charCodeAt(i) == '63') || (event.srcElement.value.charCodeAt(i) == '64') ||
+                     (event.srcElement.value.charCodeAt(i) == '95')
+                    )
+                  )
+                {
+                    try
+                    {
+                        var numAlfa = document.getElementById('ass_num_alfanumerico');
+                        if (numAlfa.value == 'S')
+                        {
+                            if (event.srcElement.value.charCodeAt(i) == '46')
+                            {
+                                return true;
+                            }
+                        }
+                    } catch(e){}
+
+                    alert('Dado inválido.');
+                    event.srcElement.value = '';			
+                    setTimeout ( "try{document.all['"+ nomeElemento +"'].focus()}catch(e){}", 500 );
+                    return false;
+                }
+            }
+        }
+        return true;
+    }
+    //--
+    function validaEndereco()
+    {
+	    return validaCaracteresEspeciais();
+    }
+    //--
+    function retiraAcentuacao(strTexto) {
+        var strAcentos = 'áàãâäéèêëíìîïóòõôöúùûüçÁÀÃÂÄÉÈÊËÍÌÎÏÓÒÕÖÔÚÙÛÜÇ';
+        var strSemAcentos = 'aaaaaeeeeiiiiooooouuuucAAAAAEEEEIIIIOOOOOUUUUC';
+    
+        var strCorrigido = '';
+    
+        for(i=0;i<strTexto.length;i++) {
+            if (strAcentos.search(strTexto.substr(i,1))>=0) {
+                strCorrigido += strSemAcentos.substr(strAcentos.search(strTexto.substr(i,1)),1);
+            }
+            else {
+                strCorrigido += strTexto.substr(i,1);
+            }
+        }
+        return strCorrigido;
+    }
+    //--
+
+    function validaCaracteresAscii()
+    {
+        var nomeElemento = event.srcElement.name;
+        for (var i = 0; i < event.srcElement.value.length; i++)
+        {
+            if (!caracterEhExcecao(event.srcElement.value.charAt(i)))
+            {
+                if ( event.srcElement.value.charCodeAt(i) > '255')
+                {
+                    alert('Dado inválido.');
+                    event.srcElement.value = '';			
+                    setTimeout ( "try{document.all['"+ nomeElemento +"'].focus()}catch(e){}", 500 );
+                    return false;
+                }
+            }
+        }
+        return true;
+    }
+
+    //usada nos campos q sejam numéricos com formatos "." e "-"
+    function ValidaNumEspeciais() {
+        var conteudo;
+        var elem = event.srcElement.name;
+        conteudo = event.srcElement.value;
+
+        conteudo = conteudo.replace('.', '');
+        conteudo = conteudo.replace('-', '');
+        conteudo = conteudo.replace('/', '');
+        if (isNaN(conteudo)) {
+            setTimeout ( "try{document.all['"+ elem +"'].focus()}catch(e){}", 500 );
+            alert("Dado inválido.");
+            event.srcElement.value = "";
+            return false;
+        }
+    }
+
+	
+    function ValidaNumPositivo() {
+        var conteudo;
+        var elem = event.srcElement.name;
+        conteudo = event.srcElement.value;
+        if ((conteudo.indexOf('.') > -1) || conteudo.indexOf('-') > -1) {
+            setTimeout ( "try{document.all['"+ elem +"'].focus()}catch(e){}", 500 );
+            alert("O dado informado não é um número válido.");
+            event.srcElement.value = "";
+            return false;
+        }
+        conteudo = conteudo.replace(',', '.');
+        if (isNaN(conteudo)) {
+            setTimeout ( "try{document.all['"+ elem +"'].focus()}catch(e){}", 500 );
+            alert("O dado informado não é um número válido.");
+            event.srcElement.value = "";
+            return false;
+        }
+    }		  	                    
+    function MascAlfa(bUpper,nTamanhoMaximo)
+    {
+        var tecla, novo_valor;
+        if ( (event.keyCode < '65' || event.keyCode > '90') &&
+        (event.keyCode < '97' || event.keyCode > '122') &&
+        (event.keyCode < '192' || event.keyCode > '196') &&
+        (event.keyCode < '199' || event.keyCode > '207') &&
+        (event.keyCode < '210' || event.keyCode > '214') &&
+        (event.keyCode < '217' || event.keyCode > '220') &&
+        (event.keyCode < '224' || event.keyCode > '228') &&
+        (event.keyCode < '231' || event.keyCode > '239') &&
+        (event.keyCode < '242' || event.keyCode > '246') &&
+        (event.keyCode < '249' || event.keyCode > '252') &&
+        (event.keyCode != '8')  &&
+        (event.keyCode != '32') &&
+        (event.keyCode != '44') &&
+        (event.keyCode != '46') &&
+        (event.keyCode != '47') && 
+        (event.keyCode != '61') &&
+        (event.keyCode != '63') &&
+        (event.keyCode != '64') &&
+        (event.keyCode != '95') )
+        {
+            event.returnValue=false;
+            return;
+        }
+        if (bUpper == true )
+        {
+            if(event.srcElement.value.length + 1 <= parseInt(nTamanhoMaximo))
+            {
+                tecla = String.fromCharCode(event.keyCode);
+                novo_valor = event.srcElement.value + tecla.toUpperCase();
+                event.srcElement.value = novo_valor;
+                event.returnValue=false;
+            }
+        }
+        return;
+    }
+    function MascAlfaNum(bUpper,nTamanhoMaximo, bSemCaracterEspecial)
+    {
+        var tecla, novo_valor;
+        if ( (event.keyCode < '48' || event.keyCode > '57')  &&
+        (event.keyCode < '65'  || event.keyCode > '90')  &&
+        (event.keyCode < '97'  || event.keyCode > '122') &&
+        (event.keyCode < '192' || event.keyCode > '196') &&
+        (event.keyCode < '199' || event.keyCode > '207') &&
+        (event.keyCode < '210' || event.keyCode > '214') &&
+        (event.keyCode < '217' || event.keyCode > '220') &&
+        (event.keyCode < '224' || event.keyCode > '228') &&
+        (event.keyCode < '231' || event.keyCode > '239') &&
+        (event.keyCode < '242' || event.keyCode > '246') &&
+        (event.keyCode < '249' || event.keyCode > '252') &&
+        (event.keyCode != '8')  &&
+        (event.keyCode != '32') &&
+        (event.keyCode != '44') &&
+        (event.keyCode != '46') &&
+        (event.keyCode != '47') &&
+        (event.keyCode != '38') &&
+        (event.keyCode != '61') &&
+        (event.keyCode != '63') &&
+        (event.keyCode != '95') &&
+        (event.keyCode == '64' || event.keyCode == '61' || event.keyCode == '47' || event.keyCode == '38' || event.keyCode == '63') )
+        {
+            event.returnValue=false;
+            return;
+        }
+
+        if (bUpper == true )
+        {
+            if(event.srcElement.value.length + 1 <= parseInt(nTamanhoMaximo))
+            {
+                tecla = String.fromCharCode(event.keyCode);
+                novo_valor = event.srcElement.value + tecla.toUpperCase();
+                event.srcElement.value = novo_valor;
+                event.returnValue=false;
+            }
+        }
+        return;
+    }
+    function MascAlfaNumCodigo()
+    {
+        var tecla = String.fromCharCode(event.keyCode);
+        if (IsAlfaNumCodigo(tecla) ==false)
+        {
+            event.returnValue=false;
+            return;
+        }
+    }
+    function MascEmail()
+    {
+        var tecla = String.fromCharCode(event.keyCode);
+        if (IsEmail(tecla) ==false)
+        {
+            event.returnValue=false;
+            return;
+        }
+    }
+    function MascEmailMultiplo()
+    {//mais de um email informado no mesmo campo texto
+        var tecla = String.fromCharCode(event.keyCode);
+        if (IsEmailMultiplo(tecla) ==false)
+        {
+            event.returnValue=false;
+            return;
+        }
+    }
+    function MascAlfaNumDesc()
+    {
+        var tecla = String.fromCharCode(event.keyCode);
+        if (IsAlfaNumDesc(tecla) ==false)
+        {
+            event.returnValue=false;
+            return;
+        }
+    }
+    function ValidaAlfaNumDesc()
+    {
+        var elem = event.srcElement.name;
+        if (Trim(event.srcElement.value)=="") return true;
+        event.srcElement.value = Trim(event.srcElement.value);
+        if (IsAlfaNumDesc(event.srcElement.value) ==false)
+        {
+            alert("O dado informado não é válido");
+            event.srcElement.value = "";
+            setTimeout ( "try{document.all['"+ elem +"'].focus()}catch(e){}", 500 );
+            return false;
+        }
+        return true;
+    }
+    function ValidaAlfaNumCodigo()
+    {
+        var elem = event.srcElement.name;
+        if (Trim(event.srcElement.value)=="") return true;
+        event.srcElement.value = Trim(event.srcElement.value);
+        if (IsAlfaNumCodigo(event.srcElement.value) ==false)
+        {
+            alert("O dado informado não é válido");
+            event.srcElement.value = "";
+            setTimeout ( "try{document.all['"+ elem +"'].focus()}catch(e){}", 500 );
+            return false;
+        }
+        return true;
+    }
+    function IsAlfaNumCodigo( str ) {
+        if (str+"" == "undefined" || str+"" == "null" || str+"" == "")	
+            return false;
+        str += "";
+        var valida = "0123456789ABCDEFGHIYJKLMNOPQRSTUVWXYZÇÁÉÍÓÚÀÈÌÒÙÃÕ";
+
+        if (IsAlfaNum()) 
+        {
+            valida = "0123456789ABCDEFGHIYJKLMNOPQRSTUVWXYZÇÁÉÍÓÚÀÈÌÒÙÃÕ.";
+        }
+                
+        for (i = 0; i < str.length; i++){
+            if (valida.indexOf(str.charAt(i).toUpperCase(),0)==-1)
+                return false;
+        }
+        return true;
+    }
+    function IsAlfaNum() {
+        try
+        {
+            var numAlfa = document.getElementById('ind_alfanumerico');
+            if (numAlfa.value == 'S')
+            {
+                 return true;  
+            }
+
+            return false;
+                        
+        } catch(e){
+            return false;
+        }
+    }
+    function IsEmail( str ) {
+        if (str+"" == "undefined" || str+"" == "null" || str+"" == "")	
+            return false;
+        str += "";
+        var valida = "0123456789ABCDEFGHIYJKLMNOPQRSTUVWXYZ_@.";
+        for (i = 0; i < str.length; i++){
+            if (valida.indexOf(str.charAt(i).toUpperCase(),0)==-1)
+                return false;
+        }
+        return true;
+    }
+    function IsEmailMultiplo( str ) {
+        if (str+"" == "undefined" || str+"" == "null" || str+"" == "")	
+            return false;
+        str += "";
+        var valida = "0123456789ABCDEFGHIYJKLMNOPQRSTUVWXYZ_@.,;";
+        for (i = 0; i < str.length; i++){
+            if (valida.indexOf(str.charAt(i).toUpperCase(),0)==-1)
+                return false;
+        }
+        return true;
+    }
+    function IsAlfaNumDesc( str ) {
+        if (str+"" == "undefined" || str+"" == "null" || str+"" == "")	
+            return false;
+        str += "";
+        var valida = "0123456789ABCDEFGHIYJKLMNOPQRSTUVWXYZÇÁÉÍÓÚÀÈÌÒÙÃÕ_ ";
+        for (i = 0; i < str.length; i++){
+            if (valida.indexOf(str.charAt(i).toUpperCase(),0)==-1)
+                return false;
+        }
+        return true;
+    }
+    function ValidaPrecisaoNumero(vValor, vSeparador, vTamOracle, vDecOracle)
+    {
+        var contador = 0;
+        var tamanho = 0;
+        var pos_separador = 0;
+        var nInteiros = 0;
+        var nDecimais = 0;
+        pos_separador = vValor.indexOf(vSeparador);
+        tamanho = vValor.length;
+        if (pos_separador == -1)
+        {
+            nInteiros = tamanho;
+        }
+        else
+        {
+            nInteiros = pos_separador;
+            nDecimais = tamanho - (nInteiros + 1);
+        }
+        nMaxInteiros = parseInt(vTamOracle) - parseInt(vDecOracle);
+        nMaxDecimais = parseInt(vDecOracle);
+        if (nMaxInteiros < nInteiros)
+        {
+            alert("Número de casas inteiras inválida !!");
+            return false;
+        }
+        if (nMaxDecimais < nDecimais)
+        {
+            alert("Número de casas decimais inválida !!");
+            return false;
+        }
+
+        return true;
+    }
+
+    function IsDate(valor, tipo) {
+        var data, dia = "", mes = "", ano = "";
+
+        tipo = tipo.toUpperCase();
+
+        if (tipo == 'DD/MM/YYYY') {
+            data = valor;
+
+            if (data.length != 10)
+                return false;
+
+            dia = valor.substr(0, 2);
+            mes = valor.substr(3, 2);
+            ano = valor.substr(6, 4);
+
+            if (isNaN(dia) || isNaN(mes) || isNaN(ano))
+                return false;
+		    
+            if ((mes < 1) || (mes > 12))
+                return false;
+
+            if ((dia < 1) || (dia > 31))
+                return false;
+
+            if (mes == 2) {
+                if ((ano % 4 == 0) && (dia > 29))
+                    return false;
+
+                if ((ano % 4 != 0) && (dia > 28))
+                    return false;
+            }
+
+            if (ano < 1900)
+                return false;
+
+            if (mes == 4 || mes == 6 || mes == 9 || mes == 11) {
+                if (dia > 30)
+                    return false;
+            }
+        } else {
+            if (tipo == 'MM/YYYY') {
+                data = valor;
+
+                if (data.length != 7)
+                    return false;
+
+                mes = valor.substr(0, 2);
+                ano = valor.substr(3, 4);
+			
+                if (isNaN(mes) || isNaN(ano))
+                    return false;
+
+                if ((mes < 1) || (mes > 12))
+                    return false;
+
+                if (ano < 1900)
+                    return false;
+            }
+        }
+        return true;
+    }
+
+    function ComparaData(data1, data2, formato, comparacao)
+    {
+        if ((data1 != "") && (data2 != ""))
+        {
+            var strData1 = new String(data1);
+            var strData2 = new String(data2);
+
+            var dia1 = "";
+            var mes1 = "";
+            var ano1 = "";
+
+            var dia2 = "";
+            var mes2 = "";
+            var ano2 = "";
+
+            var dc1 = "";
+            var dc2 = "";
+
+            if (formato == 'DD/MM/YYYY')
+            {
+                dia1 = strData1.slice(0, 2);
+                mes1 = strData1.slice(3, 5);
+                ano1 = strData1.slice(6, 10);
+
+                dia2 = strData2.slice(0, 2);
+                mes2 = strData2.slice(3, 5);
+                ano2 = strData2.slice(6, 10);
+
+                dc1 = ano1 + mes1 + dia1;
+                dc2 = ano2 + mes2 + dia2;
+            }
+            else
+            {
+                mes1 = strData1.slice(0, 2);
+                ano1 = strData1.slice(3, 7);
+
+                mes2 = strData2.slice(0, 2);
+                ano2 = strData2.slice(3, 7);
+
+                dc1 = ano1 + mes1;
+                dc2 = ano2 + mes2;
+            }
+
+            expressao = eval("parseFloat(dc1) " + comparacao + " parseFloat(dc2)");
+            if (expressao)
+            {
+                return true;
+            }
+        }
+        return false;
+    }
+    function IsNumeric(valor)
+    {
+        for (var i=0; i < valor.length; i++)
+        {
+            if (!parseFloat(valor.charAt(i)))
+            {
+                if(valor.charAt(i) != '0')
+                {
+                    if(valor.charAt(i) != ',')
+                    {
+                        return false;
+                        break;
+                    }
+                }
+            }
+        }
+        return true;
+    }
+
+    function LPad(ContentToSize, PadLength, PadChar)
+    {
+        var PaddedString = ContentToSize.toString();
+    
+        for(var i = ContentToSize.length+1; i <= PadLength; i++)
+        {
+            PaddedString = PadChar + PaddedString;
+        }
+    
+        event.srcElement.value = PaddedString;
+    }
+
+    function ValidaEmail(email)
+    {
+        var prim = email.value.indexOf("@");
+
+        if(prim < 2) {
+            alert("E-mail inválido.");
+            email.value='';
+            setTimeout ( "try{document.all['"+ email.name   +"'].focus()}catch(e){}", 500 );
+            email.select();
+            return false;
+        }
+
+        if(email.value.indexOf("@",prim + 1) != -1) {
+            alert("E-mail inválido.");
+            email.value='';
+            setTimeout ( "try{document.all['"+ email.name   +"'].focus()}catch(e){}", 500 );
+            email.select();
+            return false;
+        }
+
+        if(email.value.indexOf(".") < 1) {
+            alert("E-mail inválido.");
+            email.value='';
+            setTimeout ( "try{document.all['"+ email.name   +"'].focus()}catch(e){}", 500 );
+            email.select();
+            return false;
+        }
+
+        if(email.value.indexOf(" ") != -1) {
+            alert("E-mail inválido.");
+            email.value='';
+            setTimeout ( "try{document.all['"+ email.name   +"'].focus()}catch(e){}", 500 );
+            email.select();
+            return false;
+        }
+
+        if(email.value.indexOf(".@") > 0) {
+            alert("E-mail inválido.");
+            email.value='';
+            setTimeout ( "try{document.all['"+ email.name   +"'].focus()}catch(e){}", 500 );
+            email.select();
+            return false;
+        }
+
+        if(email.value.indexOf("@.") > 0) {
+            alert("E-mail inválido.");
+            email.value='';
+            setTimeout ( "try{document.all['"+ email.name   +"'].focus()}catch(e){}", 500 );
+            email.select();
+            return false;
+        }
+
+        if(email.value.indexOf(".com.br.") > 0) {
+            alert("E-mail inválido.");
+            email.value='';
+            setTimeout ( "try{document.all['"+ email.name   +"'].focus()}catch(e){}", 500 );
+            email.select();
+            return false;
+        }
+
+        if(email.value.indexOf("/") > 0) {
+            alert("E-mail inválido.");
+            email.value='';
+            setTimeout ( "try{document.all['"+ email.name   +"'].focus()}catch(e){}", 500 );
+            email.select();
+            return false;
+        }
+
+        if(email.value.indexOf("[") > 0) {
+            alert("E-mail inválido.");
+            email.value='';
+            setTimeout ( "try{document.all['"+ email.name   +"'].focus()}catch(e){}", 500 );
+            email.select();
+            return false;
+        }
+
+        if(email.value.indexOf("]") > 0) {
+            alert("E-mail inválido.");
+            email.value='';
+            setTimeout ( "try{document.all['"+ email.name   +"'].focus()}catch(e){}", 500 );
+            email.select();
+            return false;
+        }
+
+        if(email.value.indexOf("(") > 0) {
+            alert("E-mail inválido.");
+            email.value='';
+            setTimeout ( "try{document.all['"+ email.name   +"'].focus()}catch(e){}", 500 );
+            email.select();
+            return false;
+        }
+
+        if(email.value.indexOf(")") > 0) {
+            alert("E-mail inválido.");
+            email.value='';
+            setTimeout ( "try{document.all['"+ email.name   +"'].focus()}catch(e){}", 500 );
+            email.select();
+            return false;
+        }
+
+        if(email.value.indexOf("..") > 0) {
+            alert("E-mail inválido.");
+            email.value='';
+            setTimeout ( "try{document.all['"+ email.name   +"'].focus()}catch(e){}", 500 );
+            email.select();
+            return false;
+        }
+
+        //Ricardo Reis - 24/11/2011, valida Email com ponto e Virgula(;)
+        if(email.value.indexOf(";") > 0) {
+            alert("E-mail inválido.");
+            email.value='';
+            setTimeout ( "try{document.all['"+ email.name   +"'].focus()}catch(e){}", 500 );
+            email.select();
+            return false;
+        }
+
+        if(email.value.indexOf(".;") > 0) {
+            alert("E-mail inválido.");
+            email.value='';
+            setTimeout ( "try{document.all['"+ email.name   +"'].focus()}catch(e){}", 500 );
+            email.select();
+            return false;
+        }
+
+        if(email.value.indexOf(">") > 0) {
+            alert("E-mail inválido.");
+            email.value='';
+            setTimeout ( "try{document.all['"+ email.name   +"'].focus()}catch(e){}", 500 );
+            email.select();
+            return false;
+        }
+
+        if(email.value.indexOf("<") > 0) {
+            alert("E-mail inválido.");
+            email.value='';
+            setTimeout ( "try{document.all['"+ email.name   +"'].focus()}catch(e){}", 500 );
+            email.select();
+            return false;
+        }
+
+        //complemento para acentos
+        var er = new RegExp(/^[A-Za-z0-9_\-\.]+@[A-Za-z0-9_\-\.]{2,}\.[A-Za-z0-9]{2,}(\.[A-Za-z0-9])?/);  
+        if(typeof(email) == "string")
+        {             
+            if(er.test(email))
+                return true; 
+            else
+            {
+                alert("E-mail inválido.");
+                return false;
+            }             
+        }
+        else if(typeof(email) == "object")
+        {             
+            if(er.test(email.value))
+                return true;                                 
+            else
+            {
+                alert("E-mail inválido.");
+                email.value='';
+                setTimeout ( "try{document.all['"+ email.name   +"'].focus()}catch(e){}", 500 );
+                email.select();
+                return false;
+            }
+        }
+        else
+        { 
+            alert("E-mail inválido.");
+            return false;
+        }    
+    
+        return true;
+    }
+    function ValidaEmailMultiplo(email)
+    {
+        var prim = email.value.indexOf("@");
+
+        if(prim < 2) {
+            alert("E-mail inválido.");
+            email.value='';
+            setTimeout ( "try{document.all['"+ email.name   +"'].focus()}catch(e){}", 500 );
+            email.select();
+            return false;
+        }
+
+        if(email.value.indexOf(".") < 1) {
+            alert("E-mail inválido.");
+            email.value='';
+            setTimeout ( "try{document.all['"+ email.name   +"'].focus()}catch(e){}", 500 );
+            email.select();
+            return false;
+        }
+
+        if(email.value.indexOf(" ") != -1) {
+            alert("E-mail inválido.");
+            email.value='';
+            setTimeout ( "try{document.all['"+ email.name   +"'].focus()}catch(e){}", 500 );
+            email.select();
+            return false;
+        }
+
+        if(email.value.indexOf(".@") > 0) {
+            alert("E-mail inválido.");
+            email.value='';
+            setTimeout ( "try{document.all['"+ email.name   +"'].focus()}catch(e){}", 500 );
+            email.select();
+            return false;
+        }
+
+        if(email.value.indexOf("@.") > 0) {
+            alert("E-mail inválido.");
+            email.value='';
+            setTimeout ( "try{document.all['"+ email.name   +"'].focus()}catch(e){}", 500 );
+            email.select();
+            return false;
+        }
+
+        if(email.value.indexOf(".com.br.") > 0) {
+            alert("E-mail inválido.");
+            email.value='';
+            setTimeout ( "try{document.all['"+ email.name   +"'].focus()}catch(e){}", 500 );
+            email.select();
+            return false;
+        }
+
+        if(email.value.indexOf("/") > 0) {
+            alert("E-mail inválido.");
+            email.value='';
+            setTimeout ( "try{document.all['"+ email.name   +"'].focus()}catch(e){}", 500 );
+            email.select();
+            return false;
+        }
+
+        if(email.value.indexOf("[") > 0) {
+            alert("E-mail inválido.");
+            email.value='';
+            setTimeout ( "try{document.all['"+ email.name   +"'].focus()}catch(e){}", 500 );
+            email.select();
+            return false;
+        }
+
+        if(email.value.indexOf("]") > 0) {
+            alert("E-mail inválido.");
+            email.value='';
+            setTimeout ( "try{document.all['"+ email.name   +"'].focus()}catch(e){}", 500 );
+            email.select();
+            return false;
+        }
+
+        if(email.value.indexOf("(") > 0) {
+            alert("E-mail inválido.");
+            email.value='';
+            setTimeout ( "try{document.all['"+ email.name   +"'].focus()}catch(e){}", 500 );
+            email.select();
+            return false;
+        }
+
+        if(email.value.indexOf(")") > 0) {
+            alert("E-mail inválido.");
+            email.value='';
+            setTimeout ( "try{document.all['"+ email.name   +"'].focus()}catch(e){}", 500 );
+            email.select();
+            return false;
+        }
+
+        if(email.value.indexOf("..") > 0) {
+            alert("E-mail inválido.");
+            email.value='';
+            setTimeout ( "try{document.all['"+ email.name   +"'].focus()}catch(e){}", 500 );
+            email.select();
+            return false;
+        }
+
+
+        if(email.value.indexOf(".;") > 0) {
+            alert("E-mail inválido.");
+            email.value='';
+            setTimeout ( "try{document.all['"+ email.name   +"'].focus()}catch(e){}", 500 );
+            email.select();
+            return false;
+        }
+
+        //complemento para acentos
+        var er = new RegExp(/^[A-Za-z0-9_\-\.]+@[A-Za-z0-9_\-\.]{2,}\.[A-Za-z0-9]{2,}(\.[A-Za-z0-9])?/);  
+        if(typeof(email) == "string")
+        {             
+            if(er.test(email))
+                return true; 
+            else
+            {
+                alert("E-mail inválido.");
+                return false;
+            }             
+        }
+        else if(typeof(email) == "object")
+        {             
+            if(er.test(email.value))
+                return true;                                 
+            else
+            {
+                alert("E-mail inválido.");
+                email.value='';
+                setTimeout ( "try{document.all['"+ email.name   +"'].focus()}catch(e){}", 500 );
+                email.select();
+                return false;
+            }
+        }
+        else
+        { 
+            alert("E-mail inválido.");
+            return false;
+        }    
+    
+        return true;
+    }
+    /*
+    15/07/2010
+    Funções AtualizaLegendaTextArea e ContarTextoArea criadas porque existe um problema na ContarTexto onde após chegar no limite, 
+    se digitar um caracter no meio do texto, ele mantem este caracter e some sempre com o último caracter do texto
+    
+    Exemplo da chamada:
+    <textarea name="nom_motivo" tamanho="200" legenda="qtd_caracteres" wrap="soft" rows="4" cols="80" tabindex="1" onkeyup="AtualizaLegendaTextArea(this)" onkeypress="ContarTextoArea(this)"></textarea>
+    <div id="qtd_caracteres" class="label_left">200 caracteres restantes</div>
+    
+    Dúvidas ou sugestões favor falar com Júlio.
+    */
+    function AtualizaLegendaTextArea(elemento) { 
+        var tamanho = elemento.tamanho;
+        var legenda = elemento.legenda;
+        if (elemento.value.length > tamanho) { //Ultrapassou após colar texto
+            elemento.value = elemento.value.substr(0,tamanho);
+            alert("Você já digitou o limite máximo de " + tamanho + " caracteres");
+            aux.innerHTML   = "0 caracteres restantes";
+            elemento.focus();
+            return false;
+        }
+        if (legenda!="") {
+            elemento2 = elemento.value.length;
+            aux = eval(legenda);
+            var resultado = (parseInt(tamanho) - parseInt(elemento2));
+            if (resultado < 0) {resultado=0;}
+            aux.innerHTML = resultado + " caracteres restantes";
+        }
+    }
+    function ContarTextoArea(elemento) { 
+        var tamanho = elemento.tamanho;
+        var legenda = elemento.legenda;
+        var aux     = eval(legenda);
+        if ((event.keyCode < '37' || event.keyCode > '40') &&
+        (event.keyCode != 46) && (event.keyCode != 08) && (event.keyCode != 09) ) {
+            elemento1 = elemento.value;
+            elemento2 = elemento1.length;
+            if (elemento2 >= tamanho) { //Ultrapassou após digitação
+                event.keyCode     = 0;
+                event.returnValue = false;
+                alert("Você já digitou o limite máximo de " + tamanho + " caracteres");
+                elemento2       = elemento.value.length;
+                aux.innerHTML   = "0 caracteres restantes";
+                elemento.focus();
+                return false;
+            }
+        }
+        AtualizaLegendaTextArea(elemento);
+    }
+    /* FIM ALTERAÇÕES DO DIA 15/07/2010*/
+
+    function ContarTexto(elemento, tamanho, legenda)
+    { 
+        var aux = eval(legenda);
+
+        if ((event.keyCode < '37' || event.keyCode > '40') &&
+        (event.keyCode != 46) && (event.keyCode != 08) && (event.keyCode != 09) )
+        {
+            elemento1 = elemento.value;
+            elemento2 = elemento1.length;
+            if (elemento2 > tamanho)
+            {
+                event.returnValue=false;
+                elemento.value=elemento.value.substr(0,tamanho);
+                alert("Você já digitou o limite máximo de " + tamanho + " caracteres");
+
+                elemento2 = elemento.value.length;
+                //aux.innerHTML = (parseInt(tamanho) - parseInt(elemento2) ) + " caracteres restantes";
+                aux.innerHTML = "0 caracteres restantes";
+
+                elemento.focus();
+                return false;
+            }
+        }
+
+        if (legenda!="")
+        {
+            elemento2 = elemento.value.length;
+            aux = eval(legenda);
+
+            if (event.keyCode == "8")
+            {
+                aux.innerHTML = (parseInt(tamanho) - parseInt(elemento2) ) + " caracteres restantes";
+            }else{
+                aux.innerHTML = (parseInt(tamanho) - parseInt(elemento2) ) + " caracteres restantes";
+            }
+        }
+    }
+	
+	function ContarTextoMB(elemento, tamanho, legenda, event)
+    { 
+        var aux = eval(legenda);
+		var evt = event || window.event;
+		var keyCode = evt.keyCode ? evt.keyCode : evt.which ? evt.which : evt.charCode;	
+		var isIE = /*@cc_on!@*/false || !!document.documentMode;
+
+        if ((keyCode < '37' || keyCode > '40') && (keyCode != 46) && (keyCode != 08) && (keyCode != 09))
+        {
+            elemento1 = elemento.value;
+            elemento2 = elemento1.length;
+            if (elemento2 > tamanho)
+            {
+                
+                elemento.value=elemento.value.substr(0,tamanho);
+                alert("Você já digitou o limite máximo de " + tamanho + " caracteres");
+
+                elemento2 = elemento.value.length;
+                //aux.innerHTML = (parseInt(tamanho) - parseInt(elemento2) ) + " caracteres restantes";
+                aux.innerHTML = "0 caracteres restantes";
+
+                elemento.focus();
+				
+                if (isIE == true)
+				{
+					if (bowser.msie && parseInt(bowser.version) <= 10.0)
+					{
+						evt.returnValue = false;
+					}
+					else
+					{
+						return evt.preventDefault();
+					}
+			    }
+				else
+				{
+					return evt.preventDefault();
+				}
+            }
+        }
+
+        if (legenda!="")
+        {
+            elemento2 = elemento.value.length;
+            aux = eval(legenda);
+
+            if (keyCode == "8")
+            {
+                aux.innerHTML = (parseInt(tamanho) - parseInt(elemento2) ) + " caracteres restantes";
+            }
+			else
+			{
+                aux.innerHTML = (parseInt(tamanho) - parseInt(elemento2) ) + " caracteres restantes";
+            }
+        }
+    }
+	
+    function HabilitaCampos(formulario)
+    {
+        elementos = document.forms[formulario].elements;
+
+        tot = elementos.length;
+
+        for( i=0; i<tot; i++ )
+        {
+            if ( elementos[ i ].disabled == true )
+            {
+                elementos[ i ].disabled = false;
+            }
+        }
+        return true;
+    }
+    function DesabilitaCampos(p_formulario, p_campo)
+    {
+        if (p_formulario == null) {
+            p_formulario = 'form01';
+        }
+
+        var elementos = document.forms[p_formulario].elements;
+        var tot = elementos.length;
+        var e;
+
+        for( var i=0; i<tot; i++ )
+        {
+            if (p_campo != null) {
+                try {
+                    if ( elementos[ i ].name.toUpperCase() == p_campo.toUpperCase() && elementos[ i ].disabled == false )
+                    {
+                        elementos[ i ].disabled = true;
+
+                        if (elementos[ i ].tagName != 'FIELDSET') {
+                            elementos[ i ].className = 'camposblocks';
+
+                        }
+
+                        if (elementos[ i ].type == 'button') {
+                            elementos[ i ].style.display = 'none';
+                        }
+                    }
+                }
+                catch(e) {
+                }
+            }
+            else {
+                if ( elementos[ i ].disabled == false )
+                {
+                    if (elementos[i].tagName != 'FIELDSET'){
+                        elementos[ i ].className = 'camposblocks';
+                        elementos[ i ].disabled = true;
+                    }
+                    if (elementos[ i ].type == 'button') {
+                        elementos[ i ].style.display = 'none';
+                    }
+                }
+            }
+        }
+        return true;
+    }
+    function ValidaInfo(valor, tipo)
+    {
+        tipo = tipo.toUpperCase();
+        nvalor = parseInt(valor, 10);
+        if ( tipo == 'DD' )
+        {
+            if (nvalor < 1 || nvalor > 31)
+                return false;
+        }
+        else if ( tipo == 'MM' )
+        {
+            if (nvalor < 1 || nvalor > 12)
+                return false;
+        }
+        else if ( tipo == 'HH' )
+        {
+            if (nvalor > 23)
+                return false;
+        }
+        else if ( tipo == 'MI' )
+        {
+            if (nvalor > 59)
+                return false;
+        }
+        return true;
+    }
+    function CTRLC()
+    {
+        var ctrl=window.event.ctrlKey;
+        var tecla=window.event.keyCode;
+        if (ctrl && tecla==67)
+        {
+            event.keyCode=0;
+            event.returnValue=false;
+        }
+    }
+    function CTRLV()
+    {
+        var ctrl=window.event.ctrlKey;
+        var tecla=window.event.keyCode;
+        if(ctrl && tecla==86)
+        {
+            event.keyCode=0;
+            event.returnValue=false;
+        }
+    }
+    function desabilitamouse()
+    {
+        document.oncontextmenu = function ()
+        {
+            return false;
+        }
+    }
+    function TeclaEnter(strFuncao)
+    {
+        if ( event.keyCode == '13')
+        {
+            if (strFuncao==null)
+            {
+                event.keyCode = '9';
+            }
+            else
+            {
+                eval(strFuncao);
+            }
+        }
+        return true;
+    }
+    function acao_limpar(){
+        window.location="/prs/asp/prs0062c.asp?pt=Pesquisa Redes Atendimento";
+    }
+    function acao_voltar()
+    {
+        window.location="/prs/asp/prs0062c.asp?PT=Pesquisa%20Redes%20Atendimento&indsubmit=N&linha_grid=1&col_codigo=1&col_descricao=2&col_codigo_op=3&col_descricao_op=4&col_indicador=0&nome_grid=grid_rede&abre_modal=S&cod_prestador_ts=136376&ind_sel_mult=S&txt_hidden_selecao=txt_selecao&Titulo=Pesquisa%20Redes%20Atendimento";
+    }
+    function acao_continuar()
+    {
+        document.form01.submit();
+    }
+
+    -->
+</SCRIPT>
+
+<SCRIPT language=JavaScript>
+
+    function AbrePesquisa(urlPesq, img_name, Titulo, vWidth, vHeight, vTop, vLeft, vModal) {
+        if (isNaN(vWidth))
+            vWidth = 400;
+        if (isNaN(vHeight))
+            vHeight = 300;
+        if (isNaN(vTop))
+            vTop = 100;
+        if (isNaN(vLeft))
+            vLeft = 100;
+        if (isNaN(vModal) && vModal != "S")
+            vModal = 'N';
+        urlPesq = urlPesq.replace("?", "$$$")
+        var vURL = '/ace/ace005a.asp?' + urlPesq + '&Titulo=' + Titulo;
+        if ((vModal == 'S') && (document.all && window.print)) {
+            var vRetorno = '';
+            eval('vRetorno = window.showModalDialog(vURL,document.form01,"center:yes;help:0;status:no;resizable:no;scrollbars:yes;dialogWidth:' + vWidth + 'px;dialogHeight:' + vHeight + 'px")');
+            if (vRetorno != "")
+                eval(vRetorno);
+        }
+        else
+            eval('window.open(vURL,"","width=' + vWidth + ',height=' + vHeight + ',top=' + vTop + ',left=' + vLeft + ',resizable=1,scrollbars=no")');
+    }
+    function AbrePesquisa2(urlPesq, img_name, Titulo, vWidth, vHeight, vTop, vLeft, vModal, vSubmit, vCodCampo) {
+        if (isNaN(vWidth))
+            vWidth = 400;
+        if (isNaN(vHeight))
+            vHeight = 300;
+        if (isNaN(vTop))
+            vTop = 100;
+        if (isNaN(vLeft))
+            vLeft = 100;
+        if (isNaN(vModal) && vModal != "S")
+            vModal = 'N';
+        urlPesq = urlPesq.replace("?", "$$$")
+        var vURL = '/ace/ace005a.asp?' + urlPesq + '&Titulo=' + Titulo;
+
+        try { eval('document.form01.' + vCodCampo + '.focus()'); }
+        catch (e) { }
+        eval('vRetorno = window.showModalDialog(vURL,document.form01,"center:yes;help:0;status:no;resizable:no;scrollbars:yes;dialogWidth:' + vWidth + 'px;dialogHeight:' + vHeight + 'px")');
+
+        eval(vRetorno);
+        if (vSubmit == "S") {
+            window.document.form01.submit();
+        }
+        else {
+            //eval('document.form01.'+vCodCampo+'.blur()');
+        }
+    }
+    function AbrePesquisaUnico(urlPesq, img_name, Titulo, vWidth, vHeight, vTop, vLeft) {
+        var obj;
+        if (isNaN(vWidth))
+            vWidth = 400;
+        if (isNaN(vHeight))
+            vHeight = 300;
+        if (isNaN(vTop))
+            vTop = 100;
+        if (isNaN(vLeft))
+            vLeft = 100;
+        urlPesq = urlPesq.replace("?", "$$$")
+        var vURL = '/ace/ace005a.asp?' + urlPesq + '&Titulo=' + Titulo;
+        eval('obj = window.open(vURL,"janela","width=' + vWidth + ',height=' + vHeight + ',top=' + vTop + ',left=' + vLeft + ',resizable=1,scrollbars=no")');
+        obj.focus();
+    }
+    function isCGC(x) {
+        strNum = "";
+        if (x == "") {
+            return false;
+        }
+        cnpjO = x.replace(".", "");
+        cnpjO = cnpjO.replace(".", "");
+        cnpjO = cnpjO.replace("/", "");
+        cnpjO = cnpjO.replace("-", "");
+        x = cnpjO;
+        l = x.length;
+        for (i = 0; i < l; i++) {
+            caracter = x.substring(i, i + 1)
+            if ((caracter >= '0') && (caracter <= '9'))
+                strNum = strNum + caracter;
+        }
+        strMul = "6543298765432";
+        iValido = 1;
+        if (strNum.length != 14)
+            return (false);
+        iSoma = 0;
+        strNum_base = strNum.substring(0, 12);
+        iLenNum_base = strNum_base.length - 1;
+        iLenMul = strMul.length - 1;
+        for (i = 0; i < 12; i++)
+            iSoma = iSoma +
+            parseInt(strNum_base.substring((iLenNum_base - i), (iLenNum_base - i) + 1), 10) *
+            parseInt(strMul.substring((iLenMul - i), (iLenMul - i) + 1), 10)
+        iSoma = 11 - (iSoma - Math.floor(iSoma / 11) * 11);
+        if (iSoma == 11 || iSoma == 10)
+            iSoma = 0;
+        strNum_base = strNum_base + iSoma;
+        iSoma = 0;
+        iLenNum_base = strNum_base.length - 1
+        for (i = 0; i < 13; i++)
+            iSoma = iSoma +
+            parseInt(strNum_base.substring((iLenNum_base - i), (iLenNum_base - i) + 1), 10) *
+            parseInt(strMul.substring((iLenMul - i), (iLenMul - i) + 1), 10)
+        iSoma = 11 - (iSoma - Math.floor(iSoma / 11) * 11);
+        if (iSoma == 11 || iSoma == 10)
+            iSoma = 0;
+        strNum_base = strNum_base + iSoma;
+        if (strNum != strNum_base)
+            return (false);
+        return (true);
+    }
+
+    function validacpf(numcpf) {
+        x = 0;
+        soma = 0;
+        dig1 = 0;
+        dig2 = 0;
+        texto = "";
+        numcpf1 = "";
+        numcpf = numcpf.replace(".", "");
+        numcpf = numcpf.replace(".", "");
+        numcpf = numcpf.replace("-", "");
+
+        if ((numcpf == "11111111111") || (numcpf == "22222222222") || (numcpf == "33333333333") ||
+            (numcpf == "44444444444") || (numcpf == "55555555555") || (numcpf == "66666666666") ||
+            (numcpf == "77777777777") || (numcpf == "88888888888") || (numcpf == "99999999999")) {
+            alert("Número do CPF inválido.");
+            event.srcElement.value = "";
+            return false;
+        }
+
+        len = numcpf.length; x = len - 1;
+        // var numcpf = "12345678909";
+        for (var i = 0; i <= len - 3; i++) {
+            y = numcpf.substring(i, i + 1);
+            soma = soma + (y * x);
+            x = x - 1;
+            texto = texto + y;
+        }
+        dig1 = 11 - (soma % 11);
+        if (dig1 == 10) dig1 = 0;
+        if (dig1 == 11) dig1 = 0;
+        numcpf1 = numcpf.substring(0, len - 2) + dig1;
+        x = 11; soma = 0;
+        for (var i = 0; i <= len - 2; i++) {
+            soma = soma + (numcpf1.substring(i, i + 1) * x);
+            x = x - 1;
+        }
+        dig2 = 11 - (soma % 11);
+        if (dig2 == 10) dig2 = 0;
+        if (dig2 == 11) dig2 = 0;
+        //alert ("Digito Verificador : " + dig1 + "" + dig2);
+        if ((dig1 + "" + dig2) == numcpf.substring(len, len - 2)) {
+            return true;
+        }
+        alert("Numero do CPF inválido.");
+        return false;
+
+    }
+
+    function isCPF(st) {
+        if (st == "") {
+            return false;
+        }
+        st = st.replace(".", "");
+        st = st.replace(".", "");
+        st = st.replace("-", "");
+        l = st.length;
+        st2 = "";
+        for (i = 0; i < l; i++) {
+            caracter = st.substring(i, i + 1);
+            if ((caracter >= '0') && (caracter <= '9'));
+            st2 = st2 + caracter;
+        }
+        if ((st2.length > 11) || (st2.length < 10)) {
+            return false;
+        }
+        if (st2.length == 10) {
+            st2 = '0' + st2;
+        }
+        digito1 = st2.substring(9, 10);
+        digito2 = st2.substring(10, 11);
+        digito1 = parseInt(digito1, 10);
+        digito2 = parseInt(digito2, 10);
+        sum = 0; mul = 10;
+        for (i = 0; i < 9; i++) {
+            digit = st2.substring(i, i + 1);
+            tproduct = parseInt(digit, 10) * mul;
+            sum += tproduct;
+            mul--;
+        }
+        dig1 = (sum % 11);
+        if (dig1 == 0 || dig1 == 1) {
+            dig1 = 0;
+        } else {
+            dig1 = 11 - dig1;
+        }
+        if (dig1 != digito1) {
+            return false;
+        }
+        sum = 0;
+        mul = 11;
+        for (i = 0; i < 10; i++) {
+            digit = st2.substring(i, i + 1);
+            tproduct = parseInt(digit, 10) * mul;
+            sum += tproduct;
+            mul--;
+        }
+        dig2 = (sum % 11);
+        if (dig2 == 0 || dig2 == 1) {
+            dig2 = 0;
+        } else {
+            dig2 = 11 - dig2;
+        }
+        if (dig2 != digito2) {
+            return false;
+        }
+        return true;
+    }
+    function esconder() {
+        var cabec = document.all.item("cabec");
+        if (isNaN(cabec.length)) {
+            cabec.style.display = 'none';
+        }
+        else {
+            tam = cabec.length;
+            for (var i = 0; i < tam; i++) {
+                cabec[i].style.display = 'none';
+            }
+        }
+
+        var rodape = document.all.item("rodape");
+        if (isNaN(rodape.length)) {
+            rodape.style.display = 'none';
+        }
+        else {
+            tam = rodape.length;
+            for (var i = 0; i < tam; i++) {
+                rodape[i].style.display = 'none';
+            }
+        }
+    }
+    function mostrar() {
+        var cabec = document.all.item("cabec");
+        if (isNaN(cabec.length)) {
+            cabec.style.display = '';
+        }
+        else {
+            tam = cabec.length;
+            for (var i = 0; i < tam; i++) {
+                cabec[i].style.display = '';
+            }
+        }
+        var rodape = document.all.item("rodape");
+        if (isNaN(rodape.length)) {
+            rodape.style.display = '';
+        }
+        else {
+            tam = rodape.length;
+            for (var i = 0; i < tam; i++) {
+                rodape[i].style.display = '';
+            }
+        }
+    }
+</SCRIPT>
+<!-- Nas pgs associadas ao menu atendimento do módulo atendimento cooperado , existem campos
+que são desabilitados o que faz com que o script abaixo retorne erro  -->
+<SCRIPT language=JavaScript1.2>
+<!--
+
+var ie=document.all
+var ns6=document.getElementById&&!document.all
+var dragapproved=false
+var z,x,y
+function move(e){
+try{
+if (dragapproved){
+if (temp1+event.clientX-x <0 || temp2+event.clientY-y < 0)	 {
+return false} else {
+z.style.left=ns6? temp1+e.clientX-x: temp1+event.clientX-x
+z.style.top=ns6? temp2+e.clientY-y : temp2+event.clientY-y}
+return false
+}
+}catch(e){}
+}
+function MM_displayStatusMsg(msgStr) {
+status=msgStr;
+document.MM_returnValue = true;
+}
+function MM_preloadImages() {
+var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+function MM_swapImgRestore() {
+var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_findObj(n, d) {
+var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document); return x;
+}
+function MM_swapImage() {
+var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+function drags(e){
+try{
+if (!ie&&!ns6)
+return
+
+var firedobj=ns6? e.target : event.srcElement
+var topelement=ns6? "HTML" : "BODY"
+while (firedobj.tagName!=topelement&&firedobj.className!="drag"){
+firedobj=ns6? firedobj.parentNode : firedobj.parentElement
+}
+if (firedobj.className=="drag"){
+dragapproved=true
+z=firedobj
+temp1=parseInt(z.style.left+0)
+temp2=parseInt(z.style.top+0)
+x=ns6? e.clientX: event.clientX
+y=ns6? e.clientY: event.clientY
+document.onmousemove=move
+return false
+}
+}catch(e){};
+}
+document.onmousedown=drags
+document.onmouseup=new Function("dragapproved=false")
+
+//-->
+</SCRIPT>
+
+<SCRIPT>
+/*var message="";
+
+function clickIE() {
+if (document.all) {
+(message);
+return false;
+}
+}
+
+function clickNS(e){
+if (document.layers||(document.getElementById&&!document.all)) {
+if (e.which==2||e.which==3){
+(message);
+return false;
+}
+}
+}
+
+if (document.layers){
+document.captureEvents(Event.MOUSEDOWN);
+document.onmousedown=clickNS;
+}else{
+document.onmouseup=clickNS;document.oncontextmenu=clickIE;
+}
+document.oncontextmenu=new Function("return false")
+
+
+*/
+
+function MascValNeg()
+{
+var conteudo;
+conteudo = event.srcElement.value;
+if ( (event.keyCode == '44') &&
+( conteudo.indexOf(",") > -1 ) )
+event.returnValue=false;
+if ( (event.keyCode == '45') &&
+(( conteudo.indexOf("-") > -1 ) ||
+( conteudo.indexOf(",") > -1 ))  )
+event.returnValue=false;
+
+if ( (event.keyCode < '48' || event.keyCode > '57') &&
+(event.keyCode != '44') &&
+(event.keyCode != '8')  &&
+(event.keyCode != '45')   )
+event.returnValue=false;
+}
+function IsNumericNeg(valor)
+{
+if (valor.length=="1" && (valor=="-" || valor==","))
+return false;
+if (valor.charAt(0)!="-" && valor.indexOf("-") > -1)
+return false;
+for (var i=0; i < valor.length; i++)
+{
+if (!parseFloat(valor.charAt(i)))
+{
+if(valor.charAt(i) != '0')
+{
+if(valor.charAt(i) != ',')
+{
+if(valor.charAt(i) != '-')
+{
+	return false;
+	break;
+}
+}
+}
+}
+}
+return true;
+}
+function addRowDOM (tableID) {
+var table =
+document.all ? document.all[tableID] :
+document.getElementById(tableID);
+
+if (arguments.length > 1) {
+
+
+
+var row = table.insertRow(table.rows.length);
+if (document.all) {
+for (var i = 1; i < arguments.length; i++) {
+var cell = row.insertCell(i - 1);
+
+cell.innerHTML = arguments[i];
+}
+}
+else if (document.getElementById) {
+for (var i = arguments.length - 1; i >= 1; i--) {
+var cell = row.insertCell(arguments.length - 1 - i);
+cell.appendChild(document.createTextNode(arguments[i]));
+}
+}
+}
+}
+function stringReplace(originalString, findText, replaceText)
+{
+var pos = 0;
+var len = findText.length;
+originalString = originalString.toString();
+
+pos = originalString.indexOf(findText);
+while (pos != -1)
+{
+preString  = originalString.substring(0, pos);
+postString = originalString.substring(pos + len, originalString.length);
+originalString = preString + replaceText + postString;
+pos = originalString.indexOf(findText);
+}
+
+return originalString;
+}
+function arredonda(pNumero,Casas)
+{
+var numero_round = "";
+var strNumero = pNumero.toString();
+var bol_negativo=false;
+var bol_tem_ponto=false;
+var strDecimal = "";
+var strDecimal_Fmt = "";
+var i = 0;
+if (pNumero < 0)
+{
+pNumero = pNumero * -1.00;
+strNumero = pNumero.toString();
+bol_negativo=true;
+}
+
+var nPonto = strNumero.indexOf(".");
+
+if (nPonto == -1)
+{
+numero_round  = strNumero + ".00";
+bol_tem_ponto = true;
+}
+else
+{
+numero_round = strNumero.substr(0,nPonto + Casas + 1);
+numero_round = Math.round(1000*numero_round)/1000;
+strNumero  = numero_round.toString();
+strInteiro = strNumero.substr(0,nPonto);
+strDecimal = strNumero.substr(nPonto + 1,Casas);
+i = 0;
+while (i<Casas)
+{
+if (strDecimal.charAt(i) == "")
+{
+strDecimal_Fmt = strDecimal_Fmt + "0";
+}
+else
+{
+strDecimal_Fmt = strDecimal_Fmt + strDecimal.charAt(i);
+}
+
+i = i + 1;
+}
+numero_round = strInteiro + "." + strDecimal_Fmt;
+}
+
+if (bol_negativo==false)
+{
+return numero_round;
+}
+else
+{
+return "-" + numero_round;
+}
+}
+function formataNumero(pNumero,Casas)
+{
+var numero_round = "";
+var strNumero = pNumero.toString();
+var bol_negativo=false;
+var bol_tem_ponto=false;
+var strDecimal = "";
+var strDecimal_Fmt = "";
+var i = 0;
+
+if (pNumero < 0)
+{
+pNumero = pNumero * -1.00;
+strNumero = pNumero.toString();
+bol_negativo=true;
+}
+strNumero = stringReplace(strNumero,',','.');
+
+var nPonto = strNumero.indexOf(".");
+
+if (nPonto == -1)
+{
+numero_round  = strNumero + ".00";
+bol_tem_ponto = true;
+}
+else
+{
+numero_round = strNumero.substr(0,nPonto + Casas + 1);
+numero_round = Math.round(1000*numero_round)/1000;
+strNumero  = numero_round.toString();
+strInteiro = strNumero.substr(0,nPonto);
+strDecimal = strNumero.substr(nPonto + 1,Casas);
+i = 0;
+while (i<Casas)
+{
+if (strDecimal.charAt(i) == "")
+{
+strDecimal_Fmt = strDecimal_Fmt + "0";
+}
+else
+{
+strDecimal_Fmt = strDecimal_Fmt + strDecimal.charAt(i);
+}
+
+i = i + 1;
+}
+numero_round = strInteiro + "." + strDecimal_Fmt;
+}
+numero_round = stringReplace(numero_round,'.',',');
+
+if (bol_negativo==false)
+{
+return numero_round;
+}
+else
+{
+return "-" + numero_round;
+}
+}
+fillStringRight = function(str,fillStr,fillCount) {
+for(var t='',x=0; x<fillCount-String(str).length; x++)
+t+= fillStr;
+return str+t;
+};
+
+fillStringLeft = function(str,fillStr,fillCount) {
+for(var t='',x=0; x<fillCount-String(str).length; x++)
+t+= fillStr;
+return t+str;
+};
+function recuperaFrameNome(p_location, p_obj_principal)
+{
+var nome;
+var oparent;
+
+if (p_obj_principal != null)
+{
+oparent = p_obj_principal;
+}
+else
+{
+oparent = parent;
+}
+
+for (var i = 0;i<oparent.frames.length;i++)
+{
+if (oparent.frames[i].location.pathname.toUpperCase().indexOf(p_location.toUpperCase())>-1)
+{
+nome = oparent.frames[i].name;
+break;
+}
+}
+
+return nome;
+}
+function recuperaFrameForm(p_location, p_obj_principal)
+{
+var oForm;
+var oparent;
+
+if (p_obj_principal != null)
+{
+oparent = p_obj_principal;
+}
+else
+{
+oparent = parent;
+}
+
+for (var i = 0;i<oparent.frames.length;i++)
+{
+if (oparent.frames[i].location.pathname.toUpperCase().indexOf(p_location.toUpperCase())>-1)
+{
+oForm = oparent.frames[i].document.form01;
+break;
+}
+}
+
+return oForm;
+}
+function recuperaFrameDocument(p_location, p_obj_principal)
+{
+var oForm;
+var oparent;
+
+if (p_obj_principal != null)
+{
+oparent = p_obj_principal;
+}
+else
+{
+oparent = parent;
+}
+
+for (var i = 0;i<oparent.frames.length;i++)
+{
+if (oparent.frames[i].location.pathname.toUpperCase().indexOf(p_location.toUpperCase())>-1)
+{
+oForm = oparent.frames[i].document;
+break;
+}
+}
+
+return oForm;
+}
+function getFieldXMLAjax(pObj, pNomeCampo, pLinha){
+if (pLinha == null) {
+pLinha = 0;
+}
+
+if (pObj.getElementsByTagName(pNomeCampo)[pLinha].firstChild != null) {
+return pObj.getElementsByTagName(pNomeCampo)[pLinha].firstChild.nodeValue;
+}
+else {
+return '';
+}
+}
+function MontaStrSituacao()
+{
+var Str = "";
+Str = "&ind_nao_analisado=" + readCookie("26_ind_nao_analisado");
+Str = Str + "&ind_exigencia=" + readCookie("26_ind_exigencia");
+Str = Str + "&ind_pericia=" + readCookie("26_ind_pericia");
+Str = Str + "&ind_analise=" + readCookie("26_ind_analise");
+Str = Str + "&ind_digitacao=" + readCookie("26_ind_digitacao");
+Str = Str + "&ind_pend_exec=" + readCookie("26_ind_pend_exec");
+Str = Str + "&ind_liberacao=" + readCookie("26_ind_liberacao");
+Str = Str + "&cod_grupo_encaminhamento=" + readCookie("26_cod_grupo_encaminhamento");
+Str = Str + "&dt_ini_pendente=" + readCookie("26_dt_ini_pendente");
+Str = Str + "&dt_fim_pendente=" + readCookie("26_dt_fim_pendente");
+Str = Str + "&ind_negado=" + readCookie("26_ind_negado");
+Str = Str + "&ind_autorizado=" + readCookie("26_ind_autorizado");
+Str = Str + "&ind_cancelado=" + readCookie("26_ind_cancelado");
+Str = Str + "&dt_ini_analisado=" + readCookie("26_dt_ini_analisado");
+Str = Str + "&dt_fim_analisado=" + readCookie("26_dt_fim_analisado");
+Str = Str + "&cod_prestador=" + readCookie("26_cod_prestador");
+Str = Str + "&num_contrato=" + readCookie("26_num_contrato");
+Str = Str + "&num_associado=" + readCookie("26_num_associado");
+Str = Str + "&cod_usuario=" + readCookie("26_cod_usuario");
+return Str;
+}
+function writeCookie(name, value, time_exp)
+{
+return "";
+}
+
+function readCookie(name)
+{
+return "";
+}
+function deleteCookie(name, path, domain)
+{
+return "";
+}
+
+function Trim(str){return str.replace(/^\s+|\s+$/g,"");}
+
+
+function disableCtrlKeyCombination(e)
+{
+	if (!e) var e = window.event;
+	if (e.target) targ = e.target;
+	else if (e.srcElement) targ = e.srcElement;
+	var tipo = targ.tagName;
+	var readonly = targ.readOnly;
+	var check = targ.type;
+
+
+        //list all CTRL + key combinations you want to disable
+        forbiddenKeys = new Array('a', 'n', 'j');
+        var key;
+        var isCtrl;
+	var isAlt;
+
+        if(window.event)
+        {
+                key = window.event.keyCode;     //IE
+                if(window.event.ctrlKey)
+                        isCtrl = true;
+                else
+                        isCtrl = false;
+
+
+                if(window.event.altKey)
+                        isAlt = true;
+                else
+                        isAlt = false;
+		
+        }
+        else
+        {
+                key = e.which;     //firefox
+                if(e.ctrlKey)
+                        isCtrl = true;
+                else
+                        isCtrl = false;
+        }
+
+        //if ctrl is pressed check if other key is in forbidenKeys array
+        if(isCtrl)
+        {
+
+				//try{
+				if (key == 37){
+						itemMenuAnterior();
+					
+					
+				}
+				//}catch(e){}
+                for(i=0; i < forbiddenKeys.length; i++)
+                {
+                        //case-insensitive comparation
+                        if(forbiddenKeys[i].toLowerCase() == String.fromCharCode(key).toLowerCase())
+                        {
+                                alert('Você não pode utilizar as teclas CTRL + '+String.fromCharCode(key)+'.');
+                                return false;
+                        }
+                }
+        }
+	else
+	{
+		if (isAlt && key == 37 ) {
+			alert('Você não pode utilizar as teclas ALT + <seta>.');
+		}
+		else
+		{
+			if (key == 8)
+			{
+				if (check != 'checkbox' && check != 'radio' && check != 'file')
+				{				
+				    if ((tipo != 'INPUT' && tipo != 'TEXTAREA') || (readonly))
+				    {
+					    alert('Você não pode utilizar a tecla BKSPC.');
+        	        	            return false;
+				    }
+                }else
+                {
+                        alert('Você não pode utilizar a tecla BKSPC.');
+        	        	            return false;
+                }
+			}
+		}
+	}
+
+        return true;
+}
+function itemMenuAnterior() {
+        var objIFrame;            
+        var anterior, Ianterior, iframe_atual;
+
+
+        try{
+            objIFrame    = window.top.frames['submenu'].document.frm_submenu; 
+        }catch(e){
+            objIFrame    = window.parent['submenu'].document.frm_submenu;
+        }
+        
+        
+
+        try{   
+			iframe_atual = objIFrame.iframe_atual;  
+            anterior = eval('objIFrame.url_iframe_' + (parseInt(iframe_atual.value) - 1) + '.value');  
+        }catch(e){
+            return false;
+        }
+        
+
+        Ianterior = 'I' + (parseInt(iframe_atual.value) - 1);         
+
+        SelecionarItem(anterior, Ianterior);
+    }
+
+    function itemMenuPosterior() {
+        var objIFrame;            
+        var posterior, Iposterior, iframe_atual;
+
+
+        try{
+            objIFrame    = window.top.frames['submenu'].document.frm_submenu; 
+        }catch(e){
+            objIFrame    = window.parent['submenu'].document.frm_submenu;
+        }
+        
+        
+
+        try{    
+			iframe_atual = objIFrame.iframe_atual;  
+            posterior = eval('objIFrame.url_iframe_' + (parseInt(iframe_atual.value) + 1) + '.value');  
+        }catch(e){
+            return false;
+        }
+        
+
+        Iposterior = 'I' + (parseInt(iframe_atual.value) + 1);         
+
+        SelecionarItem(posterior, Iposterior);
+
+    }
+
+function toolbarAtalho(e)
+//teclas de atalho: alt+a = executa a acao_alterar/alt+i = acao_incluir/alt+e = acao_excluir/alt+l = acao_limpar
+//alt+x = acao_executar
+{
+         
+	if(window.event.altKey){		
+	
+        var v_submenu;
+        try{
+	        v_submenu = window.parent['submenu'].document.frm_submenu;
+        }
+        catch(e){
+            try{
+                v_submenu = window.top.frames['submenu'].document.frm_submenu;
+            }
+            catch(e){ 
+	            v_submenu = undefined;
+            }
+        }
+
+        try{
+            if(v_submenu != undefined)
+                window.top.frames['pesquisa'].focus();
+            else
+                window.top.frames['principal'].focus();
+        }
+        catch(e)
+        {
+        }
+
+	    
+
+	      if(window.event.keyCode == 76){												
+             if (document.frm_toolbar.acao_limpar.value=='S')
+		          acao_limpar();
+  		  }
+  		  
+  		  
+
+        /* Exemplo do botao extra q deve ter no asp
+            <input type='hidden' name='qtd_btn_extra' value='1' >
+            <input type='hidden' name='btn_extra_1' value='acao_imprimir' onclick='acao_imprimir();'>
+            <input type='hidden' name='tecla_btn_extra_1' value='80'>
+        */
+        				
+		try{	
+			if (document.form01.qtd_btn_extra == '[object]')
+            {
+                var qtd_btn_extra = document.form01.qtd_btn_extra.value;
+                for (i = 1; i <= qtd_btn_extra; i++)
+	            {
+	        	    if(window.event.keyCode == document.getElementById('tecla_btn_extra_' + i).value)
+		                document.getElementById('btn_extra_' + i).onclick();
+	            }
+            }
+		}catch(e){
+		}
+			
+        
+        
+	}else if(window.event.ctrlKey){
+		
+		if(window.event.keyCode == 46){
+			try{
+				window.event.keyCode = 0;
+				window.top.frames['pesquisa'].acao_excluir();
+				//window.top.frames['control'].botoessubmenu.style.display	= 'none';
+				if(window.event.preventDefault){
+					window.event.preventDefault();
+				}else{
+					window.event.returnValue = false;
+				}
+				return false;
+			}catch(e){};
+			
+		}
+		if(window.event.keyCode == 69){
+			try{
+				window.event.keyCode = 0;
+				window.top.frames['pesquisa'].acao_equipe();
+				//window.top.frames['control'].botoessubmenu.style.display	= 'none';
+				if(window.event.preventDefault){
+					window.event.preventDefault();
+				}else{
+					window.event.returnValue = false;
+				}
+				return false;
+			}catch(e){};
+			
+		}
+		
+		
+	}else{
+		
+		
+	}
+}
+
+function AtivaSubMenu(e){
+
+	var objIFrame;
+	var iframe_atual;
+	var Iposterior;
+	var Ianterior;
+	
+	
+	try{
+		objIFrame    = window.top.frames['submenu'].document.frm_submenu; //window.parent['submenu'].document.frm_submenu; //eval('parent.frames[\'I' + '1' + '\'].document.form01');
+	}catch(e){
+		objIFrame    = window.parent['submenu'].document.frm_submenu;
+	}
+		
+	iframe_atual = objIFrame.iframe_atual;	
+
+	if(window.event.altKey){
+				
+		if(window.event.keyCode == 107){								
+		
+		
+			try{	
+				posterior = eval('objIFrame.url_iframe_' + (parseInt(iframe_atual.value) + 1) + '.value'); 	
+			}catch(e){
+				return false;
+			}
+			
+			Iposterior = 'I' + (parseInt(iframe_atual.value) + 1);
+			
+			SelecionarItem(posterior, Iposterior)	;		
+		
+		}		
+		
+		if(window.event.keyCode == 109){									
+			
+			try{
+				anterior  = eval('objIFrame.url_iframe_' + (parseInt(iframe_atual.value) - 1) + '.value'); 
+			}catch(e){
+				return false;
+			}
+			Ianterior = 'I' + (parseInt(iframe_atual.value) - 1);							
+			
+			
+			SelecionarItem(anterior, Ianterior);	
+		}		
+	}
+}
+
+function SelecionarItem(strLink, strIFrame)
+{
+	var qtd_iframe_sub_menu;
+	try{
+		qtd_iframe_sub_menu = window.top.frames['submenu'].document.frm_submenu.qtd_iframe_sub_menu.value;
+	}catch(e){
+		qtd_iframe_sub_menu = window.parent['submenu'].document.frm_submenu.qtd_iframe_sub_menu.value;		
+	}
+
+	var objIFrame;
+	var boolIFrame;
+	var i;
+	
+	var iframe_atual;	
+	var ultimo_frame;
+	
+	try{
+		ultimo_frame = window.top.frames['submenu'].document.frm_submenu.ultimo_frame.value; //window.parent['submenu'].document.frm_submenu.ultimo_frame.value;		
+	}catch(e){
+		ultimo_frame = window.parent['submenu'].document.frm_submenu.ultimo_frame.value;		
+	}
+
+	if(ultimo_frame != ''){
+		try{
+			window.top.frames[ultimo_frame].document.focus();
+		}catch(e){
+			window.parent[ultimo_frame].focus();	
+		}		
+	}
+
+	try{
+		var qtd_iframes = window.top.document['all'].qtd_iframes.value;
+	}catch(e){
+		var qtd_iframes = parent.document['all'].qtd_iframes.value;
+		
+	}		
+        
+	//Exibe o iframe da funcao e esconde os outros
+	for (i = 1; i <= parseInt(qtd_iframes,10) ; i++) {
+	    if (i > qtd_iframe_sub_menu){
+	        break;
+        }
+
+		if ('I' + i == strIFrame) {
+			try{
+			   eval('window.top.document[\'all\'].' + strIFrame + '.style.display = \'\';');
+			}catch(e){
+				eval('parent.document[\'all\'].' + strIFrame + '.style.display = \'\';');
+			}			
+			
+			try{
+				objIFrame    = eval('parent.frames[\'I' + '1' + '\'].document.form01');
+				iframe_atual = objIFrame.iframe_atual;
+				iframe_atual.value = i;
+			}catch(e){}
+		}else{
+			try{
+				eval('window.top.document[\'all\'].I' + i + '.style.display = \'none\';');
+			}catch(e){
+				eval('parent.document[\'all\'].I' + i + '.style.display = \'none\';');
+			}
+		}
+	}
+	
+	//Verifica se o iframe ja possui alguma pagina carregada
+    try {
+            
+            try{
+                var src = window.top.document.getElementById(strIFrame).src;
+                if (src.indexOf('ace002a') > 0){
+                    boolIFrame = true;
+                } else {
+
+                    eval('boolIFrame = (window.top.document.getElementById(\'' + strIFrame + '\').src == \'\') ');
+                    
+                }
+            }catch(e){
+                var src = parent.document.getElementById(strIFrame).src;
+                if (src.indexOf('ace002a') > 0){
+                    boolIFrame = true;
+                } else {
+                    eval('boolIFrame = (parent.document[\'all\'].' + strIFrame + '.src == \'\')');
+                }
+            }
+        }
+    catch(e)
+        {
+            return;     
+        }
+	
+	
+	if (boolIFrame)		//Se o iframe nao possui pagina carregada.
+	{
+		/* 
+			Impedi o carregamento dos submenus se o formulário principal não estiver ok.
+			É preciso definir o campo formPrincipalOk no formulário principal.
+			Se não houver formulário principal ou este campo, os submenus serão carregados.
+		*/
+		var v_posicao;
+		try {
+			v_posicao = 10;
+			// Formulário principal.
+			var oFrame = window.top.frames['pesquisa'];
+			v_posicao = 20;
+			
+			//alert(oFrame.name);			
+			if (oFrame != null && typeof(oFrame.document.form01.formPrincipalOk) != "undefined") {				
+				if (oFrame.document.form01.formPrincipalOk.value == "S") {
+					v_posicao = 30;
+					
+					try{
+						eval('window.top.document[\'all\'].' + strIFrame + '.src = \'' + strLink + '\'');
+						eval('window.top.frames[\'' + strIFrame + '\'].location = \'' + strLink + '\'');
+					}catch(e){
+						eval('parent.document[\'all\'].' + strIFrame + '.src = \'' + strLink + '\'');
+						eval('window.parent[\'' + strIFrame + '\'].location = \'' + strLink + '\'');					
+					}
+				}
+				else {
+					alert('Para prosseguir é necessário preencher/selecionar os parâmetros de entrada.');
+				}
+			}
+			// Carrega o submenu, pois não existe o formulário principal ou o campo formPrincipalOk.
+			else {
+			
+				try{
+					eval('window.top.document[\'all\'].' + strIFrame + '.src = \'' + strLink + '\'');
+					eval('window.top.frames[\'' + strIFrame + '\'].location = \'' + strLink + '\'');
+				}catch(e){
+					eval('parent.document[\'all\'].' + strIFrame + '.src = \'' + strLink + '\'');
+					eval('window.parent[\'' + strIFrame + '\'].location = \'' + strLink + '\'');				
+				}
+			}
+		}
+		// Carrega o submenu, pois ocorreu um erro ao acessar o formulário principal.
+		catch(e) {
+		
+			try{
+				eval('window.top.document[\'all\'].' + strIFrame + '.src = \'' + strLink + '\'');
+				eval('window.top.frames[\'' + strIFrame + '\'].location = \'' + strLink + '\'');
+			}catch(e){
+				eval('parent.document[\'all\'].' + strIFrame + '.src = \'' + strLink + '\'');
+				eval('window.parent[\'' + strIFrame + '\'].location = \'' + strLink + '\'');			
+			}
+		}
+			
+	}
+	else {
+		// Efetua reload na página.
+		var v_posicao;
+		try {
+			v_posicao = 10;
+			try{
+				var oFrame = eval('window.top.frames[\'' + strIFrame + '\']');
+			}catch(e){
+				var oFrame = eval('window.parent[\'' + strIFrame + '\']');
+			}
+			
+			v_posicao = 20;
+			if (typeof(oFrame.document.form01.forcaReload) != "undefined" &&
+				oFrame.document.form01.forcaReload.value == "S") {
+				v_posicao = 30;
+				try{
+					eval('window.top.frames[\'' + strIFrame + '\'].document.form01.submit();')
+				}catch(e){
+					eval('window.parent[\'' + strIFrame + '\'].document.form01.submit();')
+				}
+			}
+		}
+		catch(e) {
+			alert('Aguarde o carregamento completo da página.');		
+		}
+	}
+	
+	//document.all['ultima_tela'].value = strLink;
+	//document.all['ultimo_frame'].value = strIFrame;
+	
+	try{
+		eval('window.top.frames[\'' + 'submenu' + '\'].document.frm_submenu.ultima_tela.value = \'' + strLink + '\'');
+		eval('window.top.frames[\'' + 'submenu' + '\'].document.frm_submenu.ultimo_frame.value = \'' + strIFrame + '\'');
+	}catch(e){
+		eval('window.parent[\'' + 'submenu' + '\'].document.frm_submenu.ultima_tela.value = \'' + strLink + '\'');
+		eval('window.parent[\'' + 'submenu' + '\'].document.frm_submenu.ultimo_frame.value = \'' + strIFrame + '\'');	
+	}
+	
+		
+	try{
+		objIFrame    =  eval('window.top.frames[\'' + 'submenu' + '\'].document.frm_submenu');
+	}catch(e){
+		objIFrame    =  eval('window.parent[\'' + 'submenu' + '\'].document.frm_submenu');
+	}
+	iframe_atual = objIFrame.iframe_atual;
+	
+	iframe_atual.value = strIFrame.replace('I','');
+
+	try{
+		eval('window.top.frames[\'' + strIFrame + '\'].focus();')
+	}catch(e){
+		eval('window.parent[\'' + strIFrame + '\'].focus();')
+	}
+	
+	/*try{
+		for(i = 0; i < parseInt(eval('window.parent[\'' + strIFrame + '\'].document.form01.elements.length')); i++){
+			try{
+				eval('window.parent[\'' + strIFrame + '\'].document.form01.elements[' + i + '].focus()');
+				return true;
+			}catch(e){
+			}		
+		}
+	}catch(e){
+	}*/
+	
+		
+}
+
+function funcoes(e){
+
+	var v_submenu;
+	
+
+	if (disableCtrlKeyCombination(e))
+	{
+	
+		try{
+			try{
+			   v_submenu = window.top.frames['submenu'].document.frm_submenu;
+			}catch(e){
+				v_submenu = window.parent['submenu'].document.frm_submenu;
+			}
+			 
+		}catch(e){
+			v_submenu = undefined;
+		}
+		
+		if(v_submenu != undefined){
+			AtivaSubMenu(e);
+		}
+	
+		toolbarAtalho(e);
+	} else {
+		return false;
+	}
+
+	
+}
+
+//document.onkeypress = funcoes;
+document.onkeydown  = funcoes;
+
+
+
+</SCRIPT>
+
+<SCRIPT>
+    window.onload = function () {
+        try {
+            if (document.form01.cod_sucursal.value != '') {
+                MontaComboInspetoria();
+            }
+        } catch (e)
+    { }
+    }
+
+//aqui fabi
+function MascCepMB(event){
+        var valor;
+        var evt = event || window.event;
+        var target = evt.target || window.event.srcElement;
+        var tecla=(window.event)?event.keyCode:evt.which;
+        var valor = target.value;
+        var isIE = /*@cc_on!@*/false || !!document.documentMode; //SE FOR TRUE É O IE
+        
+        if ((tecla < '48' || tecla > '57') && (tecla != '8')){
+             if (isIE){//VERIFICA SE É O IE
+                if (browser.msie && parseInt(browser.version) <= 10.0){//VERIFICA A VERSAO, COMPATIBILIDADE OU NÃO
+                    try{ evt.returnValue = false; }
+                    catch(e){ return evt.preventDefault(); }
+                }else{  
+                    return evt.preventDefault();
+                }
+            }else{
+                return evt.preventDefault(); //se for outros navegadores
+            }
+        }
+        else{
+            if(((valor.length + 1) == 2)){
+                target.value += String.fromCharCode(tecla) + '.';
+                 if (isIE){//VERIFICA SE É O IE
+                    if (browser.msie && parseInt(browser.version) <= 10.0){//VERIFICA A VERSAO, COMPATIBILIDADE OU NÃO
+                        try{ evt.returnValue = false; }
+                        catch(e){ return evt.preventDefault(); }
+                    }else{  
+                        return evt.preventDefault();
+                    }
+                }else{
+                    return evt.preventDefault(); //se for outros navegadores
+                }
+            }
+            else{
+                if (((valor.length + 1) == 6)){
+                    target.value += String.fromCharCode(event.keyCode) + '-';
+                     if (isIE){//VERIFICA SE É O IE
+                        if (browser.msie && parseInt(browser.version) <= 10.0){//VERIFICA A VERSAO, COMPATIBILIDADE OU NÃO
+                            try{ evt.returnValue = false; }
+                            catch(e){ return evt.preventDefault(); }
+                        }else{  
+                            return evt.preventDefault();
+                        }
+                    }else{
+                        return evt.preventDefault(); //se for outros navegadores
+                    }
+                }
+            }
+        }
+    }
+
+function MascCpfMB(event)
+    {
+        var evt = event || window.event;                    // event object
+        var target = evt.target || window.event.srcElement; // event target
+        var targetValue = target.value;                     // event target id
+        var valor;
+        var keyCode;
+        
+
+        keyCode = evt.keyCode ? evt.keyCode : evt.which ? evt.which : evt.charCode;
+        valor = target.value;
+        var isIE = /*@cc_on!@*/false || !!document.documentMode; //SE FOR TRUE É O IE
+        
+        if ((keyCode < '48' || keyCode > '57') && (keyCode != '8'))
+        {
+            if (isIE == true){//VERIFICA SE É O IE
+                if (browser.msie && parseInt(browser.version) <= 10.0)//VERIFICA A VERSAO, COMPATIBILIDADE OU NÃO
+                {
+                    evt.returnValue = false;
+                    
+                }else{  
+                    return evt.preventDefault();
+                    
+                    }
+            }else{
+                return evt.preventDefault(); //se for outros navegadores
+            }
+        }   
+        else 
+        {
+            if (((valor.length + 1) == 3)||((valor.length + 1) == 7))
+            {
+                target.value += String.fromCharCode(keyCode) + '.';
+                if (isIE == true){
+                    if (browser.msie && parseInt(browser.version) <= 10.0)
+                    {
+                        evt.returnValue = false;
+                    }
+                    else
+                    {
+                        return evt.preventDefault();
+                    }
+                }else{
+                    return evt.preventDefault();
+                }
+        }
+        else
+        {
+        
+            if (((valor.length + 1) == 11))
+            {
+                target.value += String.fromCharCode(keyCode) + '-';
+                if (isIE == true){
+                    if (browser.msie && parseInt(browser.version) <= 10.0)
+                    {
+                        evt.returnValue = false;
+                    }
+                    else
+                    {
+                        return evt.preventDefault();
+                    }
+                }else{
+                    return evt.preventDefault();
+                }
+            }   
+        }
+        }
+    }
+
+function MascCgcMB(event){
+        var evt = event || window.event;                    // event object
+        var target = evt.target || window.event.srcElement; // event target
+        var targetValue = target.value;                     
+        var tecla = (window.event)?event.keyCode:event.which;
+        var isIE = /*@cc_on!@*/false || !!document.documentMode; //SE FOR TRUE É O IE
+
+        if((tecla < '48' || tecla > '57') && (tecla != '8')){
+            if (isIE){//VERIFICA SE É O IE
+                if (browser.msie && parseInt(browser.version) <= 10.0){//VERIFICA A VERSAO, COMPATIBILIDADE OU NÃO
+                    try{ evt.returnValue = false; }
+                    catch(e){ return evt.preventDefault(); }
+                }else{  
+                    return evt.preventDefault();
+                }
+            }else{
+                return evt.preventDefault(); //se for outros navegadores
+            }
+        }
+        else{
+            if(((targetValue.length + 1) == 2) || ((targetValue.length + 1) == 6)){
+                target.value += String.fromCharCode(tecla) + '.';
+                if (isIE){//VERIFICA SE É O IE
+                    if (browser.msie && parseInt(browser.version) <= 10.0){//VERIFICA A VERSAO, COMPATIBILIDADE OU NÃO
+                        try{ evt.returnValue = false; }
+                        catch(e){ return evt.preventDefault(); }
+                    }else{  
+                        return evt.preventDefault();
+                    }
+                }else{
+                    return evt.preventDefault(); //se for outros navegadores
+                }
+            }
+            else{
+                if(((targetValue.length + 1) == 10)){
+                    target.value += String.fromCharCode(tecla) + '/';
+                    if (isIE){//VERIFICA SE É O IE
+                        if (browser.msie && parseInt(browser.version) <= 10.0){//VERIFICA A VERSAO, COMPATIBILIDADE OU NÃO
+                            try{ evt.returnValue = false; }
+                            catch(e){ return evt.preventDefault(); }
+                        }else{  
+                            return evt.preventDefault();
+                        }
+                    }else{
+                        return evt.preventDefault(); //se for outros navegadores
+                    }
+                }
+                else{
+                    if(((targetValue.length + 1) == 15)){
+                       target.value += String.fromCharCode(tecla) + '-';
+                       if (isIE){//VERIFICA SE É O IE
+                            if (browser.msie && parseInt(browser.version) <= 10.0){//VERIFICA A VERSAO, COMPATIBILIDADE OU NÃO
+                                try{ evt.returnValue = false; }
+                                catch(e){ return event.preventDefault(); }
+                            }else{  
+                                return evt.preventDefault();
+                            }
+                        }else{
+                            return evt.preventDefault(); //se for outros navegadores
+                        }
+                    }
+                }
+            }
+        }
+    }
+
+function ValidaNumEspeciaisMB(event) {
+        var conteudo;
+        var evt = event || window.event;
+        var target = evt.target || window.event.srcElement;
+
+        var elem = target.name;
+        conteudo = target.value;
+
+        conteudo = conteudo.replace('.', '');
+        conteudo = conteudo.replace('-', '');
+        conteudo = conteudo.replace('/', '');
+        if (isNaN(conteudo)) {
+            setTimeout ( "try{document.all['"+ elem +"'].focus()}catch(e){}", 500 );
+            alert("Dado inválido.");
+            target.value = "";
+            return false;
+        }
+    }
+function adicionaIdMB()
+{
+    var elementos = document.getElementsByTagName("*");
+    var element;
+    var attrName;
+    var attId;
+
+    for (var i = 0; i < elementos.length; i++)
+    {
+        try{ element = elementos[i]; } catch(e){ continue; }
+        attrName = element.getAttribute("name");
+        if (typeof attrName != 'undefined')
+        { if(attrName != "")
+            { if(attrName != null)
+              { if(element.getAttribute("type") != "radio")
+                { attId = document.createAttribute("id"); attId.value = attrName;element.setAttributeNode(attId); }
+              }
+            }
+        }
+    }
+}
+</SCRIPT>
+
+<SCRIPT>
+</SCRIPT>
+</HEAD>
+<BODY onload=init();>
+<SCRIPT language=JavaScript defer>
+
+function recuperarRedeOperadoraSel() {
+	var txt_chamada = '';
+	try {
+		var oMyObject = window.dialogArguments;
+		var aux = oMyObject.document;
+		txt_chamada = "oMyObject";
+	}catch (e){
+		txt_chamada = "window.parent.opener";
+	}
+	
+	var oCampo = eval(txt_chamada + '.document.all["txt_selecao"]');
+	form01.cod_rede_pesq.value = oCampo.value;
+}
+
+function init() {
+	
+	    //Recuperar as redes/operadoras já marcadas
+	    recuperarRedeOperadoraSel();
+	
+	
+	InitEBAGrids();
+}
+
+function acao_continuar() {   
+    if (validacao()) {
+	       
+	        document.form01.action = "prs0062c.asp?PT=Pesquisa Redes Atendimento&ind_continuar=S&ind_submit=N";
+	    
+    	
+	    document.form01.submit();
+	}
+}
+
+function validacao() {   
+    try {
+        if (form01.cod_operadora.value == ''  && //document.form01.cod_classe_rede.value == '' &&
+            form01.nome_rede.value == '')
+        {
+            alert("Selecione pelo menos um filtro para pesquisa.");
+            return false;
+        }
+        
+    } catch (e) {}
+        
+    return true;
+}
+
+function acao_voltar() {
+	document.form01.action = '../../prs/asp/prs0062c.asp?PT=Pesquisa Redes Atendimento';
+	document.form01.submit();
+}
+
+function reexecute() {
+	document.form01.action = '../../prs/asp/prs0062c.asp?PT=Pesquisa Redes Atendimento';
+	document.form01.submit();
+}
+
+function TipoPesquisa() {
+    if (document.form01.ind_tipo_pesquisa.value == "1" || document.form01.ind_tipo_pesquisa.value == "4") {
+        document.getElementById("trTipo").style.display = '';
+    }else{
+        document.getElementById("trTipo").style.display = 'none';
+    }
+}
+
+function TrataSelUnica() {
+    if ("S" != "S") {
+        var oGrid = grid_rede_atendimento.object;
+        var linha_atual = oGrid.getRow();
+        var qtd = oGrid.rowCount();
+        
+        for (i = 0; i < qtd; i++) {
+            oGrid.setCell(i,0,"N");           
+        }  
+        
+        oGrid.setCell(linha_atual,0,"S");
+        oGrid = null;      
+    } 
+    
+    return true;
+}
+
+function marcartodas() {
+    marcar("S");
+}
+
+function desmarcartodas() {
+    marcar("N");
+}
+
+function marcar(valor) {
+    try{
+        
+        var oGrid = grid_rede_atendimento.object;    
+        var qtd = oGrid.rowCount();
+        
+        for (i = 0; i < qtd; i++) {
+            oGrid.setCell(i,0,valor);           
+        }  
+            
+        oGrid = null; 
+        
+    } catch(e) {}
+}
+</SCRIPT>
+
+<FIELDSET id=tbl_inc_abre_table>
+<CENTER>
+<TABLE cellSpacing=0 cellPadding=0 width="100%" align=center border=0>
+<TBODY>
+<TR>
+<TD>
+<TABLE cellSpacing=0 cellPadding=8 width="100%" border=0>
+<TBODY>
+<TR>
+<TD><FONT class=label_right><B>Pesquisa Redes Atendimento</B></FONT> <BR><BR>
+<FORM method=post name=form01>
+<TABLE><!--OPERADORA-->
+<TBODY>
+<TR>
+<TD class=label_right>Operadora:&nbsp;</TD>
+<TD noWrap><SELECT tabIndex=1 multiple size=5 name=cod_operadora> <OPTION value=1>1 - SEPACO AutoGestão</OPTION> <OPTION value=2>2 - SEPACO Saúde</OPTION></SELECT> </TD></TR>
+<TR></TR>
+<TR></TR><!--
+	    <tr>
+		    <td class="label_right">Classe Rede:&nbsp;</td>
+		    <td class="label_left" >
+		    
+		    </td>
+	    </tr>
+	    <tr></tr>
+	    <tr></tr>
+	    -->
+<TR>
+<TD class=label_right vAlign=top>Nome:&nbsp;</TD>
+<TD><INPUT tabIndex=1 maxLength=50 size=50 name=nome_rede><BR><BR><FONT class=label_left>Procurar somente no início</FONT> <INPUT type=checkbox value=S name=chk_inicio> </TD></TR>
+<TR></TR><INPUT type=hidden value="Pesquisa Redes Atendimento" name=PT> <INPUT type=hidden value=N name=indsubmit> <INPUT type=hidden value=grid_rede name=nome_grid> <INPUT type=hidden value=1 name=col_codigo> <INPUT type=hidden value=2 name=col_descricao> <INPUT type=hidden value=3 name=col_codigo_op> <INPUT type=hidden value=4 name=col_descricao_op> <INPUT type=hidden value=0 name=col_indicador> <INPUT type=hidden value=1 name=linha_grid> <INPUT type=hidden name=txt_nome_campo_cod> <INPUT type=hidden name=txt_nome_campo_desc> <INPUT type=hidden name=txt_xml_grid> <INPUT type=hidden value=S name=abre_modal> <INPUT type=hidden value=136376 name=cod_prestador_ts> <INPUT type=hidden name=cod_rede_pesq> <INPUT type=hidden name=cod_operadora_pesq> <INPUT type=hidden value=S name=ind_sel_mult> <INPUT type=hidden value=txt_selecao name=txt_hidden_selecao> <INPUT type=hidden name=ind_tipo_pesq_rede> <INPUT type=hidden name=txt_where> </TBODY></TABLE></FORM></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></CENTER></FIELDSET> <BR>
+<FORM method=post name=frm_toolbar action=/ace/asp/toolbar.asp target=toolbar2><INPUT type=hidden value=N name=acao_voltar> <INPUT type=hidden value=S name=acao_continuar> <INPUT type=hidden value=N name=acao_limpar> <INPUT type=hidden value=N name=acao_incluir> <INPUT type=hidden value=N name=acao_alterar> <INPUT type=hidden value=N name=acao_excluir> <INPUT type=hidden value=N name=acao_executar> <INPUT type=hidden value=S name=ind_pesquisa> </FORM>
+<SCRIPT>
+		frm_toolbar.submit();
+	</SCRIPT>
+</BODY>
+[06/04/2017 14:41:53] TEXT: 
+[06/04/2017 14:41:53] 
+
+
+
+[06/04/2017 14:42:02] iframe:toolbar2
+[06/04/2017 14:42:02] iframe:principal2
+[06/04/2017 14:42:09] Acao: Selecionar Rede Atendimento (Todos) Gestão Prestador > Cadastro Prestador > Alteração 80
+[06/04/2017 14:42:13] Acao: Clicar Botão Alterar Gestão Prestador > Cadastro Prestador > Alteração 76
+[06/04/2017 14:42:22] Acao: Acessar Menu Gestão Prestador > Cadastro Prestador > Inclusão 54
+[06/04/2017 14:42:32] Acao: Informar Operadora Gestão Prestador > Cadastro Prestador > Inclusão 61
+[06/04/2017 14:42:36] Acao: Informar Data Credenciamento ANS Gestão Prestador > Cadastro Prestador > Inclusão 65
+[06/04/2017 14:42:41] Acao: Informar Data Contratualização ANS Gestão Prestador > Cadastro Prestador > Inclusão 66
+[06/04/2017 14:42:45] Acao: Clicar Botão Alterar Gestão Prestador > Cadastro Prestador > Alteração 76
+[06/04/2017 14:42:54] Acao: Acessar Menu Gestão Prestador > Cadastro Prestador > Inclusão 54
+[06/04/2017 14:43:04] Acao: Clicar Botão: Adicionar Endereço Atendimento Gestão Prestador > Cadastro Prestador > Alteração 85
+[06/04/2017 14:43:08] Acao: Informar CEP Atendimento Gestão Prestador > Cadastro Prestador > Alteração 82
+[06/04/2017 14:43:14] Acao: Informar Número Endereço Atendimento Gestão Prestador > Cadastro Prestador > Alteração 83
+[06/04/2017 14:43:18] Acao: Clicar Botão Alterar Gestão Prestador > Cadastro Prestador > Alteração 76
+[06/04/2017 14:56:05] Acao: Logar PRINCIPAL 86
+[06/04/2017 14:56:15] Acao: IrPara Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 9
+[06/04/2017 14:56:21] Acao: Informar Contrato Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 10
+[06/04/2017 14:56:28] Acao: Informar CPF Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 11
+[06/04/2017 14:56:28] [UTILITÁRIOS] Gerando CPF
+[06/04/2017 14:56:30] Acao: Informar Nome Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 12
+[06/04/2017 14:56:33] Acao: Informar Nome Cartão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 13
+[06/04/2017 14:56:35] Acao: Informar Sexo Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 14
+[06/04/2017 14:56:38] Acao: Informar Data Inclusão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 15
+[06/04/2017 14:56:40] Acao: Informar Data Nascimento Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 16
+[06/04/2017 14:56:42] Acao: Informar Nacionalidade Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 17
+[06/04/2017 14:56:45] Acao: Informar Mãe Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 18
+[06/04/2017 14:56:47] Acao: Informar Pai Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 19
+[06/04/2017 14:56:50] Acao: Informar Estado Civil Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 20
+[06/04/2017 14:56:52] Acao: Informar Plano Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 21
+[06/04/2017 14:56:54] Acao: Informar Cartão Nacional de Saúde Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 92
+[06/04/2017 14:56:57] Acao: Informar Tipo Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 28
+[06/04/2017 14:56:59] Acao: Informar País Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 29
+[06/04/2017 14:57:02] Acao: Informar CEP Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 30
+[06/04/2017 14:57:04] Acao: Informar Número Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 31
+[06/04/2017 14:57:07] Acao: Informar Matrícula Funcional Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 33
+[06/04/2017 14:57:10] Acao: Informar Data Admissão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 32
+[06/04/2017 14:57:12] Acao: Clicar em 'Incluir' Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 27
+[06/04/2017 14:57:14] Acao: Verificar Sucesso da Inclusão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 35
+[06/04/2017 14:57:18] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[06/04/2017 14:58:13] Acao: Logar PRINCIPAL 86
+[06/04/2017 14:58:23] Acao: IrPara Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 9
+[06/04/2017 14:58:28] Acao: Informar Contrato Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 10
+[06/04/2017 14:58:36] Acao: Informar CPF Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 11
+[06/04/2017 14:58:36] [UTILITÁRIOS] Gerando CPF
+[06/04/2017 14:58:38] Acao: Informar Nome Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 12
+[06/04/2017 14:58:40] Acao: Informar Nome Cartão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 13
+[06/04/2017 14:58:42] Acao: Informar Sexo Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 14
+[06/04/2017 14:58:45] Acao: Informar Data Inclusão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 15
+[06/04/2017 14:58:47] Acao: Informar Data Nascimento Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 16
+[06/04/2017 14:58:49] Acao: Informar Nacionalidade Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 17
+[06/04/2017 14:58:51] Acao: Informar Mãe Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 18
+[06/04/2017 14:58:54] Acao: Informar Pai Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 19
+[06/04/2017 14:58:56] Acao: Informar Estado Civil Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 20
+[06/04/2017 14:58:58] Acao: Informar Plano Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 21
+[06/04/2017 14:59:00] Acao: Informar Cartão Nacional de Saúde Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 92
+[06/04/2017 14:59:03] Acao: Informar Tipo Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 28
+[06/04/2017 14:59:05] Acao: Informar País Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 29
+[06/04/2017 14:59:07] Acao: Informar CEP Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 30
+[06/04/2017 14:59:10] Acao: Informar Número Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 31
+[06/04/2017 14:59:12] Acao: Informar Matrícula Funcional Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 33
+[06/04/2017 14:59:15] Acao: Informar Data Admissão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 32
+[06/04/2017 14:59:17] Acao: Clicar em 'Incluir' Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 27
+[06/04/2017 14:59:20] Acao: Verificar Sucesso da Inclusão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 35
+[06/04/2017 14:59:20] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[06/04/2017 15:00:24] Acao: Logar PRINCIPAL 86
+[06/04/2017 15:00:34] Acao: IrPara Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 9
+[06/04/2017 15:00:39] Acao: Informar Contrato Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 10
+[06/04/2017 15:00:47] Acao: Informar CPF Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 11
+[06/04/2017 15:00:47] [UTILITÁRIOS] Gerando CPF
+[06/04/2017 15:00:49] Acao: Informar Nome Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 12
+[06/04/2017 15:00:52] Acao: Informar Nome Cartão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 13
+[06/04/2017 15:00:54] Acao: Informar Sexo Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 14
+[06/04/2017 15:00:56] Acao: Informar Data Inclusão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 15
+[06/04/2017 15:00:59] Acao: Informar Data Nascimento Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 16
+[06/04/2017 15:01:01] Acao: Informar Nacionalidade Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 17
+[06/04/2017 15:01:03] Acao: Informar Mãe Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 18
+[06/04/2017 15:01:06] Acao: Informar Pai Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 19
+[06/04/2017 15:01:08] Acao: Informar Estado Civil Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 20
+[06/04/2017 15:01:10] Acao: Informar Plano Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 21
+[06/04/2017 15:01:13] Acao: Informar Cartão Nacional de Saúde Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 92
+[06/04/2017 15:01:15] Acao: Informar Tipo Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 28
+[06/04/2017 15:01:18] Acao: Informar País Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 29
+[06/04/2017 15:01:20] Acao: Informar CEP Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 30
+[06/04/2017 15:01:23] Acao: Informar Número Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 31
+[06/04/2017 15:01:25] Acao: Informar Matrícula Funcional Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 33
+[06/04/2017 15:01:28] Acao: Informar Data Admissão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 32
+[06/04/2017 15:01:30] Acao: Clicar em 'Incluir' Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 27
+[06/04/2017 15:01:32] Acao: Verificar Sucesso da Inclusão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 35
+[06/04/2017 15:01:33] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[06/04/2017 15:03:03] Acao: Logar PRINCIPAL 86
+[06/04/2017 15:03:13] Acao: IrPara Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 9
+[06/04/2017 15:03:18] Acao: Informar Contrato Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 10
+[06/04/2017 15:03:25] Acao: Informar CPF Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 11
+[06/04/2017 15:03:25] [UTILITÁRIOS] Gerando CPF
+[06/04/2017 15:03:28] Acao: Informar Nome Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 12
+[06/04/2017 15:03:30] Acao: Informar Nome Cartão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 13
+[06/04/2017 15:03:32] Acao: Informar Sexo Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 14
+[06/04/2017 15:03:35] Acao: Informar Data Inclusão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 15
+[06/04/2017 15:03:37] Acao: Informar Data Nascimento Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 16
+[06/04/2017 15:03:39] Acao: Informar Nacionalidade Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 17
+[06/04/2017 15:03:42] Acao: Informar Mãe Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 18
+[06/04/2017 15:03:44] Acao: Informar Pai Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 19
+[06/04/2017 15:03:46] Acao: Informar Estado Civil Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 20
+[06/04/2017 15:03:49] Acao: Informar Plano Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 21
+[06/04/2017 15:03:51] Acao: Informar Cartão Nacional de Saúde Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 92
+[06/04/2017 15:03:53] Acao: Informar Tipo Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 28
+[06/04/2017 15:03:56] Acao: Informar País Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 29
+[06/04/2017 15:03:58] Acao: Informar CEP Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 30
+[06/04/2017 15:04:01] Acao: Informar Número Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 31
+[06/04/2017 15:04:03] Acao: Informar Matrícula Funcional Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 33
+[06/04/2017 15:04:05] Acao: Informar Data Admissão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 32
+[06/04/2017 15:04:08] Acao: Clicar em 'Incluir' Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 27
+[06/04/2017 15:04:10] Acao: Verificar Sucesso da Inclusão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 35
+[06/04/2017 19:54:36] Acao: Logar PRINCIPAL 86
+[06/04/2017 19:54:50] Acao: IrPara Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 9
+[06/04/2017 19:54:56] Acao: Informar Contrato Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 10
+[06/04/2017 19:55:04] Acao: Informar CPF Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 11
+[06/04/2017 19:55:04] [UTILITÁRIOS] Gerando CPF
+[06/04/2017 19:55:06] Acao: Informar Nome Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 12
+[06/04/2017 19:55:09] Acao: Informar Nome Cartão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 13
+[06/04/2017 19:55:11] Acao: Informar Sexo Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 14
+[06/04/2017 19:55:14] Acao: Informar Data Inclusão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 15
+[06/04/2017 19:55:16] Acao: Informar Data Nascimento Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 16
+[06/04/2017 19:55:18] Acao: Informar Nacionalidade Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 17
+[06/04/2017 19:55:21] Acao: Informar Mãe Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 18
+[06/04/2017 19:55:23] Acao: Informar Pai Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 19
+[06/04/2017 19:55:26] Acao: Informar Estado Civil Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 20
+[06/04/2017 19:55:28] Acao: Informar Plano Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 21
+[06/04/2017 19:55:30] Acao: Informar Cartão Nacional de Saúde Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 92
+[06/04/2017 19:55:31] O índice e o comprimento devem se referir a um local dentro da cadeia de caracteres.
+Nome do parâmetro: lengthmscorlib
+[06/04/2017 19:58:09] Acao: Logar PRINCIPAL 86
+[06/04/2017 19:58:20] Acao: IrPara Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 9
+[06/04/2017 19:58:25] Acao: Informar Contrato Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 10
+[06/04/2017 19:58:33] Acao: Informar CPF Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 11
+[06/04/2017 19:58:33] [UTILITÁRIOS] Gerando CPF
+[06/04/2017 19:58:35] Acao: Informar Nome Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 12
+[06/04/2017 19:58:37] Acao: Informar Nome Cartão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 13
+[06/04/2017 19:58:40] Acao: Informar Sexo Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 14
+[06/04/2017 19:58:42] Acao: Informar Data Inclusão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 15
+[06/04/2017 19:58:44] Acao: Informar Data Nascimento Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 16
+[06/04/2017 19:58:47] Acao: Informar Nacionalidade Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 17
+[06/04/2017 19:58:50] Acao: Informar Mãe Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 18
+[06/04/2017 19:58:52] Acao: Informar Pai Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 19
+[06/04/2017 19:58:54] Acao: Informar Estado Civil Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 20
+[06/04/2017 19:58:57] Acao: Informar Plano Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 21
+[06/04/2017 19:58:59] Acao: Informar Cartão Nacional de Saúde Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 92
+[06/04/2017 19:59:02] Acao: Informar Tipo Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 28
+[06/04/2017 19:59:04] Acao: Informar País Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 29
+[06/04/2017 19:59:07] Acao: Informar CEP Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 30
+[06/04/2017 19:59:10] Acao: Informar Número Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 31
+[06/04/2017 19:59:13] Acao: Informar Matrícula Funcional Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 33
+[06/04/2017 19:59:15] Acao: Informar Data Admissão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 32
+[06/04/2017 19:59:18] Acao: Clicar em 'Incluir' Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 27
+[06/04/2017 19:59:21] Acao: Verificar Sucesso da Inclusão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 35
+[06/04/2017 20:06:27] Acao: Logar PRINCIPAL 86
+[06/04/2017 20:06:38] Acao: Ir Para Autorizações > Pedidos de Autorização > Inclusão 36
+[06/04/2017 20:06:49] Acao: Verificar Subtítulo Autorizações > Pedidos de Autorização > Inclusão 37
+[06/04/2017 20:06:55] Acao: Informar Beneficiário Autorizações > Pedidos de Autorização > Inclusão 39
+[06/04/2017 20:07:00] Acao: Informar Tipo Consulta Autorizações > Pedidos de Autorização > Inclusão 40
+[06/04/2017 20:07:10] Acao: Informar Data Solicitação Consulta Autorizações > Pedidos de Autorização > Inclusão 41
+[06/04/2017 20:07:13] Acao: Clicar no Botão: Alteração / Análise Autorizações > Pedidos de Autorização > Inclusão 42
+[06/04/2017 20:07:15] Acao: Aguardar Inclusão Autorizações > Pedidos de Autorização > Inclusão 43
+[06/04/2017 20:07:22] Acao: Verificar Sucesso Inclusão Autorizações > Pedidos de Autorização > Inclusão 44
+[06/04/2017 20:07:56] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[06/04/2017 20:09:12] Acao: Logar PRINCIPAL 86
+[06/04/2017 20:09:22] Acao: IrPara Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 9
+[06/04/2017 20:09:28] Acao: Informar Contrato Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 10
+[06/04/2017 20:09:35] Acao: Informar CPF Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 11
+[06/04/2017 20:09:35] [UTILITÁRIOS] Gerando CPF
+[06/04/2017 20:09:38] Acao: Informar Nome Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 12
+[06/04/2017 20:09:40] Acao: Informar Nome Cartão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 13
+[06/04/2017 20:09:42] Acao: Informar Sexo Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 14
+[06/04/2017 20:09:45] Acao: Informar Data Inclusão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 15
+[06/04/2017 20:09:47] Acao: Informar Data Nascimento Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 16
+[06/04/2017 20:09:50] Acao: Informar Nacionalidade Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 17
+[06/04/2017 20:09:52] Acao: Informar Mãe Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 18
+[06/04/2017 20:09:54] Acao: Informar Pai Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 19
+[06/04/2017 20:09:57] Acao: Informar Estado Civil Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 20
+[06/04/2017 20:09:59] Acao: Informar Plano Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 21
+[06/04/2017 20:10:01] Acao: Informar Cartão Nacional de Saúde Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 92
+[06/04/2017 20:10:04] Acao: Informar Tipo Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 28
+[06/04/2017 20:10:06] Acao: Informar País Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 29
+[06/04/2017 20:10:09] Acao: Informar CEP Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 30
+[06/04/2017 20:10:11] Acao: Informar Número Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 31
+[06/04/2017 20:10:15] Acao: Informar Matrícula Funcional Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 33
+[06/04/2017 20:10:17] Acao: Informar Data Admissão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 32
+[06/04/2017 20:10:19] Acao: Clicar em 'Incluir' Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 27
+[06/04/2017 20:10:22] Acao: Verificar Sucesso da Inclusão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 35
+[06/04/2017 20:18:09] Acao: Logar PRINCIPAL 86
+[06/04/2017 20:18:19] Acao: Ir Para Autorizações > Pedidos de Autorização > Inclusão 36
+[06/04/2017 20:18:29] Acao: Verificar Subtítulo Autorizações > Pedidos de Autorização > Inclusão 37
+[06/04/2017 20:18:32] Acao: Informar Beneficiário Autorizações > Pedidos de Autorização > Inclusão 39
+[06/04/2017 20:18:37] Acao: Informar Tipo Consulta Autorizações > Pedidos de Autorização > Inclusão 40
+[06/04/2017 20:18:44] Acao: Informar Data Solicitação Consulta Autorizações > Pedidos de Autorização > Inclusão 41
+[06/04/2017 20:18:46] Acao: Clicar no Botão: Alteração / Análise Autorizações > Pedidos de Autorização > Inclusão 42
+[06/04/2017 20:18:49] Acao: Aguardar Inclusão Autorizações > Pedidos de Autorização > Inclusão 43
+[06/04/2017 20:18:56] Acao: Verificar Sucesso Inclusão Autorizações > Pedidos de Autorização > Inclusão 44
+[06/04/2017 20:48:15] Acao: Logar PRINCIPAL 86
+[06/04/2017 20:48:26] Acao: IrPara Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 9
+[06/04/2017 20:48:32] Acao: Informar Contrato Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 10
+[06/04/2017 20:48:39] Acao: Informar CPF Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 11
+[06/04/2017 20:48:39] [UTILITÁRIOS] Gerando CPF
+[06/04/2017 20:48:42] Acao: Informar Nome Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 12
+[06/04/2017 20:48:44] Acao: Informar Nome Cartão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 13
+[06/04/2017 20:48:46] Acao: Informar Sexo Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 14
+[06/04/2017 20:48:49] Acao: Informar Data Inclusão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 15
+[06/04/2017 20:48:51] Acao: Informar Data Nascimento Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 16
+[06/04/2017 20:48:53] Acao: Informar Nacionalidade Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 17
+[06/04/2017 20:48:56] Acao: Informar Mãe Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 18
+[06/04/2017 20:48:58] Acao: Informar Pai Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 19
+[06/04/2017 20:49:00] Acao: Informar Estado Civil Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 20
+[06/04/2017 20:49:02] Acao: Informar Plano Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 21
+[06/04/2017 20:49:05] Acao: Informar Cartão Nacional de Saúde Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 92
+[06/04/2017 20:49:07] Acao: Informar Tipo Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 28
+[06/04/2017 20:49:10] Acao: Informar País Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 29
+[06/04/2017 20:49:12] Acao: Informar CEP Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 30
+[06/04/2017 20:49:14] Acao: Informar Número Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 31
+[06/04/2017 20:49:17] Acao: Informar Matrícula Funcional Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 33
+[06/04/2017 20:49:20] Acao: Informar Data Admissão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 32
+[06/04/2017 20:49:22] Acao: Clicar em 'Incluir' Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 27
+[06/04/2017 20:49:25] Acao: Verificar Sucesso da Inclusão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 35

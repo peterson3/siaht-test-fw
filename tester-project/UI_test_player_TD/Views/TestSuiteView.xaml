@@ -1,0 +1,315 @@
+﻿<UserControl
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:Custom="http://metro.mahapps.com/winfx/xaml/controls" x:Class="UI_test_player_TD.Views.TestSuiteView"
+             MinHeight="576"
+             MinWidth="1024"
+             mc:Ignorable="d" 
+             d:DesignHeight="300" d:DesignWidth="300">
+    <Grid>
+        <Grid>
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="0*" MaxWidth="0"/>
+                <ColumnDefinition Width="169*" MaxWidth="166"/>
+                <ColumnDefinition Width="855*"/>
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="0*"/>
+                <RowDefinition Height="0" MaxHeight="75"/>
+                <RowDefinition/>
+            </Grid.RowDefinitions>
+            <Grid Margin="0" Grid.Row="2" Grid.ColumnSpan="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+
+                <ComboBox x:Name="sistemaComboBox" 
+            	ItemsSource="{Binding sistemas, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+            	SelectedItem="{Binding selectedSistema, Mode=TwoWay, UpdateSourceTrigger=Default}"
+            	DisplayMemberPath="Nome"
+            	SelectionChanged="selectedSistema_Changed" Margin="0,32,0,0" VerticalAlignment="Top" Height="26"/>
+
+                <Button
+        			ToolTip="Adicionar Novo Caso de Teste"
+        			Background="{x:Null}"
+        			Style="{DynamicResource MetroCircleButtonStyle}"
+                    Margin="22,64,94,0" Foreground="Black" BorderBrush="Black"
+                    Width="50" HorizontalAlignment="Center" Click="adicionarTestSuite" Height="50" VerticalAlignment="Top">
+                    <Rectangle Margin="0,0,-2,0" Width="17"
+        				Height="20"
+        				Fill="{Binding Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}" HorizontalAlignment="Right">
+                        <Rectangle.OpacityMask>
+                            <VisualBrush Visual="{StaticResource appbar_page_add}" />
+                        </Rectangle.OpacityMask>
+                    </Rectangle>
+                </Button>
+                <Button
+        			ToolTip="Remover Caso de Teste Selecionado"
+        			Background="{x:Null}"
+        			Style="{DynamicResource MetroCircleButtonStyle}"
+                    Margin="88,63,28,0" Foreground="Black" BorderBrush="Black" Width="50" 
+                    HorizontalAlignment="Center" Click="removerTestSuite" Height="50" VerticalAlignment="Top">
+                    <Rectangle Margin="0,0,-2,0" Width="17"
+        				Height="20"
+        				Fill="{Binding Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}" HorizontalAlignment="Right">
+                        <Rectangle.OpacityMask>
+                            <VisualBrush Visual="{StaticResource appbar_page_delete}" />
+                        </Rectangle.OpacityMask>
+                    </Rectangle>
+                </Button>
+
+                <ListBox  x:Name="testSuiteBox" Margin="5,186,10,60" 
+                          ItemsSource="{Binding TestSuites, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                          SelectedItem="{Binding SelectedSuite, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                          
+                          Background="{x:Null}" SelectionChanged="testSuiteBox_SelectionChanged">
+                    <ListBox.ItemTemplate>
+                        <DataTemplate>
+                            <Grid Margin="0,2" Height="30">
+                                <Grid.ColumnDefinitions>
+                                    <!--<ColumnDefinition Width="30" />-->
+                                    <ColumnDefinition Width="Auto" />
+                                </Grid.ColumnDefinitions>
+                                <!--<Image x:Name="testIcon" RenderOptions.BitmapScalingMode="HighQuality" Source="{Binding testSituationImg, Mode=TwoWay}" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Stretch="Fill"/>-->
+                                <TextBlock Grid.Column="1" Text="{Binding Codigo}" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="5,0,0,0" />
+                            </Grid>
+                        </DataTemplate>
+                    </ListBox.ItemTemplate>
+                </ListBox>
+                <Grid HorizontalAlignment="Center" Margin="0" VerticalAlignment="Top">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition Width="0*"/>
+                    </Grid.ColumnDefinitions>
+                </Grid>
+            </Grid>
+            <Grid  Grid.Column="2" Margin="0" Grid.Row="2">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                    <ColumnDefinition Width="0*"/>
+                </Grid.ColumnDefinitions>
+                <Grid  x:Name="formBox"  DataContext="{Binding selectedCase}" Margin="0,0,232,360" ScrollViewer.HorizontalScrollBarVisibility="Auto" UseLayoutRounding="False">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="100"/>
+                        <ColumnDefinition Width="400*"/>
+                        <ColumnDefinition Width="128*"/>
+                        <ColumnDefinition Width="329*"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="93"/>
+                        <RowDefinition Height="35"/>
+                        <RowDefinition Height="35"/>
+                        <RowDefinition Height="70"/>
+                        <RowDefinition Height="35"/>
+                        <RowDefinition Height="35"/>
+                        <RowDefinition Height="35"/>
+                        <RowDefinition Height="35"/>
+                        <RowDefinition Height="245"/>
+                    </Grid.RowDefinitions>
+                    <Label Content="Roteiro de Teste" VerticalAlignment="Center" FontSize="36" FontFamily="Segoe UI Light" Grid.ColumnSpan="2" HorizontalAlignment="Left" Height="58" Width="461" Margin="0,0,0,35"/>
+                </Grid>
+                <Grid x:Name="formBox2"  Margin="10,386,10,70">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="704"/>
+                    </Grid.ColumnDefinitions>
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="58"/>
+                        <RowDefinition/>
+
+                    </Grid.RowDefinitions>
+                </Grid>
+                <DataGrid x:Name="testSuiteGrid" 
+                          AutoGenerateColumns="False"
+                          CanUserAddRows="False" 
+                          ItemsSource="{Binding SelectedSuite.TestCases, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" 
+                          IsSynchronizedWithCurrentItem="True" 
+                          Margin="0,227,90,100"
+                          
+                          GridLinesVisibility="Horizontal" 
+                    				CanUserDeleteRows="False" CanUserReorderColumns="False"
+                    				CanUserResizeColumns="True" CanUserSortColumns="False"
+                                    Background="#FFC9C6C6"
+                                    FontFamily="Segoe UI Semilight" 
+                                    UseLayoutRounding="False" HorizontalContentAlignment="Stretch"
+                                    MinHeight="350" MinWidth="830" VerticalScrollBarVisibility="Visible">
+                    <DataGrid.Columns>
+                        <DataGridTextColumn Header="Ordem" Binding="{Binding Ordem, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></DataGridTextColumn>
+                        <DataGridTemplateColumn Header="TestCase" >
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <ComboBox x:Name="acoesCombo"
+                                              IsSynchronizedWithCurrentItem="True" 
+                                              DisplayMemberPath="Codigo"
+                                              ItemsSource="{Binding TestCasePossiveis}"
+                                              SelectedValuePath="Codigo"
+                                              SelectedItem="{Binding SelectedCase, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                                              />
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTextColumn Header="Nome" Binding="{Binding SelectedCase.Nome, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></DataGridTextColumn>
+
+                        <DataGridTemplateColumn Header="Arquivo de Parâmetros">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <TextBox IsEnabled="False" Text="{Binding SelectedArq.FullName, Mode=OneWay, UpdateSourceTrigger=PropertyChanged}"></TextBox>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+
+
+                        <DataGridTemplateColumn Width="40">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                    <Button Content="..." Click="Button_Click" Tag="{Binding RelativeSource={RelativeSource AncestorType=DataGridRow}}"></Button>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>
+                        <DataGridTextColumn Header="IE - APR/Total" Binding="{Binding ie_stats, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="FFox - APR/Total" Binding="{Binding ffox_stats, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="GCHROME - APR/Total" Binding="{Binding chrome_stats, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="EDGE - APR/Total" Binding="{Binding edge_stats, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></DataGridTextColumn>
+                        <DataGridTextColumn Header="OBS" Binding="{Binding Obs, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></DataGridTextColumn>
+
+                        <!--<DataGridTemplateColumn Header="Parâmetros">
+                            <DataGridTemplateColumn.CellTemplate>
+                                <DataTemplate>
+                                </DataTemplate>
+                            </DataGridTemplateColumn.CellTemplate>
+                        </DataGridTemplateColumn>-->
+                    </DataGrid.Columns>
+                </DataGrid>
+                <TextBox x:Name="test_desc_txt"
+                        HorizontalAlignment="Left"
+                         Height="84" Margin="12,99,0,0"
+                         TextWrapping="Wrap" 
+                         Text="{Binding Descricao, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" VerticalAlignment="Top" Width="386"/>
+                <Label Content="Descrição" VerticalAlignment="Top" FontFamily="Segoe UI Light" Margin="6,66,0,0" FontSize="16" Height="30" HorizontalAlignment="Left" Width="86"/>
+            </Grid>
+        </Grid>
+        <Grid>
+            <Button
+        		ToolTip="Executar Roteiro de Teste"
+        		Background="{x:Null}"
+        		Style="{DynamicResource MetroCircleButtonStyle}" Margin="484,0,480,12" Foreground="Black" Click="Run_Test" BorderBrush="Black" Height="60" VerticalAlignment="Bottom" HorizontalAlignment="Center" Width="60">
+                <Rectangle Width="16"
+        			Height="20"
+        			Fill="{Binding Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}" Margin="3,0,0,0">
+                    <Rectangle.OpacityMask>
+                        <VisualBrush>
+                            <VisualBrush.Visual>
+                                <Canvas Clip="F1M0,0L76,0 76,76 0,76 0,0" Height="76" UseLayoutRounding="True" Width="76" d:DesignUseLayoutRounding="True">
+                                    <Path Data="F1M30.0833,22.1667L50.6665,37.6043 50.6665,38.7918 30.0833,53.8333 30.0833,22.1667z" Fill="Black" Height="31.6667" Canvas.Left="30.0833" Stretch="Fill" Canvas.Top="22.1667" UseLayoutRounding="True" Width="20.5832" d:DesignUseLayoutRounding="True"/>
+                                </Canvas>
+                            </VisualBrush.Visual>
+                        </VisualBrush>
+                    </Rectangle.OpacityMask>
+                </Rectangle>
+            </Button>
+            <Button
+        				ToolTip="Abrir Planilha do Roteiro"
+        				Height="50"
+        				Background="{x:Null}"
+        				Style="{DynamicResource MetroCircleButtonStyle}" Margin="536,0,370,15" 
+                Foreground="Black" BorderBrush="Black" VerticalAlignment="Bottom"
+                Click="abrirRTF" Width="50" HorizontalAlignment="Center">
+                <Rectangle Width="20"
+        					Height="20"
+        					Fill="{Binding Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}">
+                    <Rectangle.OpacityMask>
+                        <VisualBrush Visual="{StaticResource appbar_office_excel}" />
+                    </Rectangle.OpacityMask>
+                </Rectangle>
+            </Button>
+            <Button
+        				ToolTip="Salvar Roteiro de Testes"
+        				Width="50"
+        				Height="50"
+        				Background="{x:Null}"
+        				Style="{DynamicResource MetroCircleButtonStyle}" Margin="375,0,531,15"
+                Foreground="Black" BorderBrush="Black" VerticalAlignment="Bottom"
+                HorizontalAlignment="Center" Click="salvarRoteirodeTeste">
+                <Rectangle Width="20"
+        					Height="20"
+        					Fill="{Binding Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}" Margin="0">
+                    <Rectangle.OpacityMask>
+
+                        <VisualBrush Visual="{StaticResource appbar_disk}" Stretch="Uniform" />
+
+                    </Rectangle.OpacityMask>
+                </Rectangle>
+            </Button>
+
+            <Button ToolTip="Remover Passo Selecionado"
+            	Background="{x:Null}"
+            	Style="{DynamicResource MetroCircleButtonStyle}" Margin="0,346,22,180" Foreground="Black" BorderBrush="Black" Click="removerPasso" HorizontalAlignment="Right" Width="50" Height="50">
+                <Rectangle Width="21"
+            		Height="5"
+            		Fill="{Binding Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}">
+                    <Rectangle.OpacityMask>
+                        <VisualBrush Visual="{StaticResource appbar_minus}" />
+                    </Rectangle.OpacityMask>
+                </Rectangle>
+            </Button>
+            <Button ToolTip="Adicionar Passo"
+            	Background="{x:Null}"
+            	Style="{DynamicResource MetroCircleButtonStyle}" Margin="0,295,22,231" Foreground="Black" BorderBrush="Black" Click="adicionarPasso" HorizontalAlignment="Right" Width="50" Height="50">
+                <Rectangle Width="20"
+            		Height="20"
+            		Fill="{Binding Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}">
+                    <Rectangle.OpacityMask>
+                        <VisualBrush Visual="{StaticResource appbar_add}" />
+                    </Rectangle.OpacityMask>
+                </Rectangle>
+            </Button>
+            <Grid HorizontalAlignment="Left" Height="147" Margin="641,62,0,0" VerticalAlignment="Top" Width="172">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="32*"/>
+                    <RowDefinition Height="27*"/>
+                    <RowDefinition Height="28*"/>
+                    <RowDefinition Height="75*"/>
+                </Grid.RowDefinitions>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition/>
+                </Grid.ColumnDefinitions>
+                <CheckBox x:Name="ie_check" Content="IE" HorizontalAlignment="Left" Margin="23,9,0,0" VerticalAlignment="Top"/>
+                <CheckBox x:Name="ffox_check" Content="FFOX" HorizontalAlignment="Left" Margin="23,5,0,0" VerticalAlignment="Top" Grid.Row="1"/>
+                <CheckBox x:Name="chrome_check" Content="GCHROME" HorizontalAlignment="Left" Margin="23,6,0,0" VerticalAlignment="Top" Grid.Row="2"/>
+                <CheckBox x:Name="edge_check" Content="EDGE" HorizontalAlignment="Left" Margin="23,7,0,0" VerticalAlignment="Top" Grid.Row="3"/>
+            </Grid>
+            <Button Style="{DynamicResource MetroCircleButtonStyle}" HorizontalAlignment="Left" Margin="284,0,0,54" VerticalAlignment="Bottom" Width="50" Height="45" Click="subirPosPasso" BorderBrush="{x:Null}">
+                <Rectangle Width="20" Height="20">
+                    <Rectangle.Fill>
+                        <VisualBrush Visual="{StaticResource appbar_arrow_up}" />
+                    </Rectangle.Fill>
+                </Rectangle>
+            </Button>
+            <Button Style="{DynamicResource MetroCircleButtonStyle}" HorizontalAlignment="Left" Margin="284,0,0,21" Width="50" Height="45" VerticalAlignment="Bottom" Click="descerPosPasso" BorderBrush="{x:Null}">
+                <Rectangle Width="20" Height="20">
+                    <Rectangle.Fill>
+                        <VisualBrush Visual="{StaticResource appbar_arrow_down}" />
+                    </Rectangle.Fill>
+                </Rectangle>
+            </Button>
+            <Button
+            	ToolTip="Enviar Email com o relatório"
+            	Height="50"
+            	Background="{x:Null}"
+            	Style="{DynamicResource MetroCircleButtonStyle}" Margin="661,0,313,15" 
+            	Foreground="Black" BorderBrush="Black" VerticalAlignment="Bottom"
+            	Click="enviarEmail" Width="50" HorizontalAlignment="Center">
+                <Rectangle Width="20"
+            		Height="15"
+            		Fill="{Binding Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}">
+                    <Rectangle.OpacityMask>
+                        <VisualBrush Visual="{StaticResource appbar_email_minimal}" />
+                    </Rectangle.OpacityMask>
+                </Rectangle>
+            </Button>
+
+
+        </Grid>
+    </Grid>
+</UserControl>

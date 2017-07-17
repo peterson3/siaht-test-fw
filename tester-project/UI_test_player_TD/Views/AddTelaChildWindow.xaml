@@ -1,0 +1,92 @@
+﻿<simpleChildWindow:ChildWindow x:Class="UI_test_player_TD.Views.AddTelaChildWindow"
+							   xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+							   xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+							   xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+							   xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+							   xmlns:simpleChildWindow="clr-namespace:MahApps.Metro.SimpleChildWindow;assembly=MahApps.Metro.SimpleChildWindow"
+                               mc:Ignorable="d"
+							   d:DesignHeight="600"
+                               d:DesignWidth="600"
+                               MinWidth="600"
+                               MinHeight="600"
+							   CloseOnOverlay="True"
+                               ShowTitleBar="False"
+                               GlowBrush="Black"
+							   BorderBrush="{DynamicResource AccentColorBrush}"
+							   BorderThickness="1"
+							   ShowCloseButton="True">
+
+    <simpleChildWindow:ChildWindow.Icon>
+        <Rectangle Width="22"
+				   Height="22"
+				   Fill="{DynamicResource IdealForegroundColorBrush}">
+            <Rectangle.OpacityMask>
+                <VisualBrush Stretch="Uniform"
+							 Visual="{DynamicResource appbar_cog}" />
+            </Rectangle.OpacityMask>
+        </Rectangle>
+    </simpleChildWindow:ChildWindow.Icon>
+
+    <Grid x:Name="mainGrid">
+        <!--<Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <Label Content="Adicionar Novo Sistema" 
+               VerticalAlignment="Center"
+               FontSize="36"
+               FontFamily="Segoe UI Light"
+               HorizontalAlignment="Left"
+               Height="58"
+               Width="461"
+               Grid.Row="0"
+               Margin="0,0,0,0" />
+
+        <Label Content="Nome"
+               VerticalAlignment="Center"
+               HorizontalAlignment="Left"
+               FontFamily="Segoe UI Light"
+               Margin="0,0,0,0"
+               FontSize="16"
+               Grid.Row="1"
+               Height="30" 
+               Width="187"/>
+
+        -->
+        <!--<TextBlock Grid.Row="0"
+				   Margin="5"
+				   FontSize="36"
+				   FontWeight="Thin"
+				   Text="Adicionar Novo Sistema" />-->
+        <!--
+        
+        <TextBox Grid.Row="2"
+                 Width="300"
+                VerticalAlignment="Center"
+                HorizontalAlignment="Left"
+				Margin="0" />
+
+        <Label Content="URL"
+               VerticalAlignment="Center"
+               HorizontalAlignment="Left"
+               FontFamily="Segoe UI Light"
+               Margin="0,0,0,0"
+               FontSize="16"
+               Grid.Row="3"
+               Height="30" 
+               Width="187"/>
+
+        <TextBox Grid.Row="4"
+                 Width="300"
+                VerticalAlignment="Center"
+                HorizontalAlignment="Left"
+				Margin="0" />-->
+
+    </Grid>
+
+</simpleChildWindow:ChildWindow>

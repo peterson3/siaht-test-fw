@@ -1,0 +1,31 @@
+[27/04/2017 15:49:22] Acao: Ir Para Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 26
+[27/04/2017 15:50:25] Timed out after 30 secondsWebDriver.Support
+[27/04/2017 15:52:04] Acao: Logar Principal 121
+[27/04/2017 15:52:15] Acao: Ir Para Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 26
+[27/04/2017 15:52:20] Acao: Informar CPF Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 28
+[27/04/2017 15:52:20] [UTILITÁRIOS] Gerando CPF
+[27/04/2017 15:52:21] JavaScript error (UnexpectedJavaScriptError)WebDriver
+[27/04/2017 15:54:24] Acao: Logar Principal 121
+[27/04/2017 15:54:33] Acao: Ir Para Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 26
+[27/04/2017 15:54:38] Acao: Informar Contrato Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 27
+[27/04/2017 15:54:46] Acao: Informar CPF Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 28
+[27/04/2017 15:54:48] Acao: Informar Nome Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 122
+[27/04/2017 15:54:50] Acao: Informar Nome Cartão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 29
+[27/04/2017 15:54:52] Acao: Informar Sexo Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 30
+[27/04/2017 15:54:55] Acao: Informar Data Inclusão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 31
+[27/04/2017 15:54:57] Acao: Informar Data Nascimento Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 32
+[27/04/2017 15:55:00] Acao: Informar Nacionalidade Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 33
+[27/04/2017 15:55:02] Acao: Informar Mãe Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 34
+[27/04/2017 15:55:04] Acao: Informar Pai Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 35
+[27/04/2017 15:55:07] Acao: Informar Estado Civil Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 36
+[27/04/2017 15:55:09] Acao: Informar Plano Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 37
+[27/04/2017 15:55:13] Acao: Informar Cartão Nacional de Saúde Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 52
+[27/04/2017 15:55:15] Acao: Informar Tipo Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 44
+[27/04/2017 15:55:17] Acao: Informar País Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 45
+[27/04/2017 15:55:20] Acao: Informar CEP Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 46
+[27/04/2017 15:55:22] Acao: Informar Número Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 47
+[27/04/2017 15:55:25] Acao: Informar Matrícula Funcional Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 49
+[27/04/2017 15:55:27] Acao: Informar Data Admissão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 48
+[27/04/2017 15:55:29] Acao: Clicar em 'Incluir' Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 43
+[27/04/2017 15:55:32] Acao: Verificar Sucesso da Inclusão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 51
+[27/04/2017 15:55:32] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD

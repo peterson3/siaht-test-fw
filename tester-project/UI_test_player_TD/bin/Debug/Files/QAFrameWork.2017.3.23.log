@@ -1,0 +1,35 @@
+[23/03/2017 16:18:11] Acao: Ir Para Login 4
+[23/03/2017 16:19:34] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[23/03/2017 16:21:29] Acao: Ir Para Login 4
+[23/03/2017 16:21:35] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[23/03/2017 16:27:44] Acao: Ir Para Login 4
+[23/03/2017 16:43:25] Acao: Ir Para Login 4
+[23/03/2017 16:43:33] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[23/03/2017 16:45:18] Acao: Ir Para Login 4
+[23/03/2017 16:45:20] Acao: Informar Base Login 5
+[23/03/2017 16:45:26] Acao: Informar Usuário Login 6
+[23/03/2017 16:45:31] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[23/03/2017 16:47:42] Acao: Ir Para Login 4
+[23/03/2017 16:47:43] Acao: Informar Base Login 5
+[23/03/2017 16:47:47] Acao: Informar Usuário Login 6
+[23/03/2017 16:47:55] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[23/03/2017 16:50:03] Acao: Ir Para Login 4
+[23/03/2017 16:50:05] Acao: Informar Base Login 5
+[23/03/2017 16:50:09] Acao: Informar Usuário Login 6
+[23/03/2017 16:50:16] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[23/03/2017 16:51:40] Acao: Ir Para Login 4
+[23/03/2017 16:51:42] Acao: Informar Base Login 5
+[23/03/2017 16:51:45] Acao: Informar Usuário Login 6
+[23/03/2017 16:51:48] Acao: Informar Senha Login 7
+[23/03/2017 16:51:49] Acao: Clicar em Logar Login 8
+[23/03/2017 17:15:14] D:\Peterson\Projetos\QADynamicFramework\UI_test_player_TD\bin\Debug\ctf\created
+[23/03/2017 17:53:59] D:\Peterson\Projetos\QADynamicFramework\UI_test_player_TD\bin\Debug\ctf\created
+[23/03/2017 17:54:02] D:\Peterson\Projetos\QADynamicFramework\UI_test_player_TD\bin\Debug\ctf\created
+[23/03/2017 18:40:31] Acao: Ir Para Login 4
+[23/03/2017 18:40:34] Acao: Informar Base Login 5
+[23/03/2017 18:42:27] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[23/03/2017 18:45:35] Acao: Ir Para Login 4
+[23/03/2017 18:45:36] Acao: Informar Base Login 5
+[23/03/2017 18:45:40] Acao: Informar Usuário Login 6
+[23/03/2017 18:45:42] Acao: Informar Senha Login 7
+[23/03/2017 18:45:44] Acao: Clicar em Logar Login 8

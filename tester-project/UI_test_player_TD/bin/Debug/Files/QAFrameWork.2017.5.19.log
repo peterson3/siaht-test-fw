@@ -1,0 +1,47 @@
+[19/05/2017 17:15:51] Acao: Logar (10.10.100.147) Principal 121
+[19/05/2017 17:16:01] Acao: IrParaMenu Principal 261
+[19/05/2017 17:16:05] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[19/05/2017 17:16:39] Acao: Logar (10.10.100.147) Principal 121
+[19/05/2017 17:16:46] Acao: IrParaMenu Principal 261
+[19/05/2017 17:16:47] JavaScript error (UnexpectedJavaScriptError)WebDriver
+[19/05/2017 17:17:48] Acao: Logar (10.10.100.147) Principal 121
+[19/05/2017 17:17:53] Modal dialog presentWebDriver
+[19/05/2017 17:18:33] Acao: Logar (10.10.100.147) Principal 121
+[19/05/2017 17:18:39] Acao: IrParaMenu Principal 261
+[19/05/2017 17:18:43] JavaScript error (UnexpectedJavaScriptError)WebDriver
+[19/05/2017 17:24:17] Acao: Logar (223.223.2.132) Principal 169
+[19/05/2017 17:24:22] Acao: IrParaMenu Principal 261
+[19/05/2017 17:24:25] JavaScript error (UnexpectedJavaScriptError)WebDriver
+[19/05/2017 17:25:11] Acao: Logar (223.223.2.132) Principal 169
+[19/05/2017 17:25:15] Acao: IrParaMenu Principal 261
+[19/05/2017 17:25:18] Unable to get property 'click' of undefined or null reference (UnexpectedJavaScriptError)WebDriver
+[19/05/2017 17:26:33] Acao: Logar (223.223.2.132) Principal 169
+[19/05/2017 17:26:36] Acao: IrParaMenu Principal 261
+[19/05/2017 17:26:39] Unable to get property 'click' of undefined or null reference (UnexpectedJavaScriptError)WebDriver
+[19/05/2017 17:27:09] Acao: Logar (223.223.2.132) Principal 169
+[19/05/2017 17:27:12] Acao: IrParaMenu Principal 261
+[19/05/2017 17:27:20] Acao: Verificar Subtítulo Autorizações > Pedidos de Autorização > Inclusão 54
+[19/05/2017 17:27:22] Acao: Informar Beneficiário Autorizações > Pedidos de Autorização > Inclusão 56
+[19/05/2017 17:27:27] Acao: Informar Tipo Consulta Autorizações > Pedidos de Autorização > Inclusão 57
+[19/05/2017 17:27:27] Unexpected alert openWebDriver
+[19/05/2017 17:29:57] Acao: Logar (10.10.100.147) Principal 121
+[19/05/2017 17:30:04] Acao: IrParaMenu Principal 261
+[19/05/2017 17:30:05] JavaScript error (UnexpectedJavaScriptError)WebDriver
+[19/05/2017 17:30:29] Acao: Logar (10.10.100.147) Principal 121
+[19/05/2017 17:30:32] Acao: IrParaMenu Principal 261
+[19/05/2017 17:30:33] Unable to get property 'click' of undefined or null reference (UnexpectedJavaScriptError)WebDriver
+[19/05/2017 17:30:53] Acao: Logar (223.223.2.132) Principal 169
+[19/05/2017 17:30:58] Acao: IrParaMenu Principal 261
+[19/05/2017 17:31:00] Acao: Verificar Subtítulo Autorizações > Pedidos de Autorização > Inclusão 54
+[19/05/2017 17:31:04] Acao: Informar Beneficiário Autorizações > Pedidos de Autorização > Inclusão 56
+[19/05/2017 17:31:09] Acao: Informar Tipo Consulta Autorizações > Pedidos de Autorização > Inclusão 57
+[19/05/2017 17:31:09] Modal dialog presentWebDriver
+[19/05/2017 17:32:23] Acao: Logar (223.223.2.206) Principal 241
+[19/05/2017 17:32:29] Acao: IrParaMenu Principal 261
+[19/05/2017 17:32:30] JavaScript error (UnexpectedJavaScriptError)WebDriver
+[19/05/2017 18:00:03] Acao: Logar (223.223.2.132) Principal 169
+[19/05/2017 18:00:08] Acao: IrParaMenu Principal 261
+[19/05/2017 18:00:10] Acao: Verificar Subtítulo Autorizações > Pedidos de Autorização > Inclusão 54
+[19/05/2017 18:00:13] Acao: Informar Beneficiário Autorizações > Pedidos de Autorização > Inclusão 56
+[19/05/2017 18:00:18] Acao: Informar Tipo Consulta Autorizações > Pedidos de Autorização > Inclusão 57
+[19/05/2017 18:00:18] Modal dialog presentWebDriver

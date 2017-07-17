@@ -1,0 +1,184 @@
+[27/06/2017 13:49:14] D:\Peterson\Projetos\QADynamicFramework\UI_test_player_TD\bin\Debug\ctf\created
+[27/06/2017 14:40:03] Acao: Logar (223.223.2.102) Login 327
+[27/06/2017 14:40:20] Acao: Ir Para Login 361
+[27/06/2017 14:40:22] Acao: Informar Login Controle de Acesso > Usuário > Cadastro de Usuário 401
+[27/06/2017 14:40:23] Unable to find element with name == cod_usuarioWebDriver
+[27/06/2017 14:42:03] Acao: Logar (223.223.2.102) Login 327
+[27/06/2017 14:42:20] Acao: Ir Para Login 361
+[27/06/2017 14:42:23] Acao: Informar Login Controle de Acesso > Usuário > Cadastro de Usuário 401
+[27/06/2017 14:42:34] Acao: [PRECOND] O login do Usuário deve Existir? Controle de Acesso > Usuário > Cadastro de Usuário 492
+[27/06/2017 14:42:35] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[27/06/2017 14:44:34] Acao: Logar (223.223.2.102) Login 327
+[27/06/2017 14:44:52] Acao: Ir Para Login 361
+[27/06/2017 14:44:54] Acao: Informar Login Controle de Acesso > Usuário > Cadastro de Usuário 401
+[27/06/2017 14:45:05] Acao: [PRECOND] O login do Usuário deve Existir? Controle de Acesso > Usuário > Cadastro de Usuário 492
+[27/06/2017 14:45:06] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[27/06/2017 14:48:18] Acao: Logar (223.223.2.102) Login 327
+[27/06/2017 14:48:33] Acao: Ir Para Login 361
+[27/06/2017 14:48:35] Acao: Informar Login Controle de Acesso > Usuário > Cadastro de Usuário 401
+[27/06/2017 14:48:44] Acao: [PRECOND] O login do Usuário deve Existir? Controle de Acesso > Usuário > Cadastro de Usuário 492
+[27/06/2017 14:48:50] Acao: Limpar: Nome Controle de Acesso > Usuário > Cadastro de Usuário 513
+[27/06/2017 14:48:53] Acao: Informar Nome Controle de Acesso > Usuário > Cadastro de Usuário 403
+[27/06/2017 14:48:56] Acao: Limpar: Email Controle de Acesso > Usuário > Cadastro de Usuário 514
+[27/06/2017 14:49:00] Acao: Informar Email Controle de Acesso > Usuário > Cadastro de Usuário 515
+[27/06/2017 14:49:04] Acao: Clicar Botão: Alterar Controle de Acesso > Usuário > Cadastro de Usuário 516
+[27/06/2017 14:54:43] Acao: Logar (223.223.2.102) Login 327
+[27/06/2017 14:54:58] Acao: Ir Para Login 361
+[27/06/2017 14:55:01] Acao: Informar Login Controle de Acesso > Usuário > Cadastro de Usuário 401
+[27/06/2017 14:55:08] Acao: [PRECOND] O login do Usuário deve Existir? Controle de Acesso > Usuário > Cadastro de Usuário 492
+[27/06/2017 14:55:14] Acao: Limpar: Nome Controle de Acesso > Usuário > Cadastro de Usuário 513
+[27/06/2017 14:55:16] Acao: Informar Nome Controle de Acesso > Usuário > Cadastro de Usuário 403
+[27/06/2017 14:55:18] Acao: Limpar: Email Controle de Acesso > Usuário > Cadastro de Usuário 514
+[27/06/2017 14:55:21] Acao: Informar Email Controle de Acesso > Usuário > Cadastro de Usuário 515
+[27/06/2017 14:55:23] Acao: Clicar Botão: Alterar Controle de Acesso > Usuário > Cadastro de Usuário 516
+[27/06/2017 14:55:26] Acao: [POSCOND] Operação Realizada com Sucesso? Controle de Acesso > Usuário > Cadastro de Usuário 519
+[27/06/2017 14:55:30] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[27/06/2017 14:57:34] D:\Peterson\Projetos\QADynamicFramework\UI_test_player_TD\bin\Debug\ctf\created
+[27/06/2017 14:58:09] Acao: Logar (223.223.2.102) Login 327
+[27/06/2017 14:58:23] Acao: Ir Para Login 361
+[27/06/2017 14:58:25] Acao: Informar Código Controle de Acesso > Tipo de Usuário > Tipo de Usuário 362
+[27/06/2017 14:58:32] Acao: [PRECOND] O Tipo Usuário deve Existir? Controle de Acesso > Tipo de Usuário > Tipo de Usuário 363
+[27/06/2017 14:58:33] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[27/06/2017 14:58:57] Acao: Logar (223.223.2.102) Login 327
+[27/06/2017 14:59:13] Acao: Ir Para Login 361
+[27/06/2017 14:59:15] Acao: Informar Código Controle de Acesso > Tipo de Usuário > Tipo de Usuário 362
+[27/06/2017 14:59:22] Acao: [PRECOND] O Tipo Usuário deve Existir? Controle de Acesso > Tipo de Usuário > Tipo de Usuário 363
+[27/06/2017 14:59:24] Acao: Informar Nome Controle de Acesso > Tipo de Usuário > Tipo de Usuário 365
+[27/06/2017 14:59:26] Acao: Clicar em: Incluir Controle de Acesso > Tipo de Usuário > Tipo de Usuário 368
+[27/06/2017 14:59:30] Acao: [POSCOND] Operação Realizado com Sucesso? Controle de Acesso > Tipo de Usuário > Tipo de Usuário 367
+[27/06/2017 15:08:30] Acao: Logar (223.223.2.102) Login 327
+[27/06/2017 15:08:47] Acao: Ir Para Login 361
+[27/06/2017 15:08:49] Acao: Informar Login Controle de Acesso > Usuário > Cadastro de Usuário 401
+[27/06/2017 15:08:58] Acao: [PRECOND] O login do Usuário deve Existir? Controle de Acesso > Usuário > Cadastro de Usuário 492
+[27/06/2017 15:09:03] Acao: Clicar Botão: Excluir Controle de Acesso > Usuário > Cadastro de Usuário 517
+[27/06/2017 15:09:06] Acao: [POSCOND] Operação Realizada com Sucesso? Controle de Acesso > Usuário > Cadastro de Usuário 519
+[27/06/2017 15:09:11] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[27/06/2017 15:14:24] Acao: Logar (223.223.2.102) Login 327
+[27/06/2017 15:14:40] Acao: Ir Para Login 361
+[27/06/2017 15:14:41] Acao: Informar Login Controle de Acesso > Usuário > Cadastro de Usuário 401
+[27/06/2017 15:14:50] Acao: [PRECOND] O login do Usuário deve Existir? Controle de Acesso > Usuário > Cadastro de Usuário 492
+[27/06/2017 15:14:55] Acao: Informar  Login Workflow Controle de Acesso > Usuário > Cadastro de Usuário 402
+[27/06/2017 15:14:58] Acao: Informar Nome Controle de Acesso > Usuário > Cadastro de Usuário 403
+[27/06/2017 15:15:00] Acao: Selecionar Tipo Usuário Controle de Acesso > Usuário > Cadastro de Usuário 404
+[27/06/2017 15:15:03] Acao: Clicar Botão: Incluir Controle de Acesso > Usuário > Cadastro de Usuário 405
+[27/06/2017 15:15:06] Acao: [POSCOND] Usuário Incluído com Sucesso? Controle de Acesso > Usuário > Cadastro de Usuário 406
+[27/06/2017 15:15:10] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[27/06/2017 15:22:30] Acao: Logar (223.223.2.102) Login 327
+[27/06/2017 15:22:46] Acao: Ir Para Login 361
+[27/06/2017 15:22:48] Acao: Informar Tabela Honorários, Serviços e Tabelas > Taxas e Serviços > Importação Tabela Taxas 468
+[27/06/2017 15:22:50] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Taxas e Serviços > Importação Tabela Taxas 469
+[27/06/2017 15:22:57] Acao: Informar Data Vigência Honorários, Serviços e Tabelas > Taxas e Serviços > Importação Tabela Taxas 470
+[27/06/2017 15:22:59] Acao: Informar Arquivo Honorários, Serviços e Tabelas > Taxas e Serviços > Importação Tabela Taxas 471
+[27/06/2017 15:23:05] Acao: Clicar Botão: Executar Honorários, Serviços e Tabelas > Taxas e Serviços > Importação Tabela Taxas 472
+[27/06/2017 15:35:49] Acao: Logar (223.223.2.102) Login 327
+[27/06/2017 15:36:07] Acao: Ir Para Login 361
+[27/06/2017 15:36:09] Acao: Informar Tabela Honorários, Serviços e Tabelas > Taxas e Serviços > Importação Tabela Taxas 468
+[27/06/2017 15:36:12] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Taxas e Serviços > Importação Tabela Taxas 469
+[27/06/2017 15:36:18] Acao: Informar Data Vigência Honorários, Serviços e Tabelas > Taxas e Serviços > Importação Tabela Taxas 470
+[27/06/2017 15:36:20] Acao: Informar Arquivo Honorários, Serviços e Tabelas > Taxas e Serviços > Importação Tabela Taxas 471
+[27/06/2017 15:36:26] Acao: Clicar Botão: Executar Honorários, Serviços e Tabelas > Taxas e Serviços > Importação Tabela Taxas 472
+[27/06/2017 16:09:22] D:\Peterson\Projetos\QADynamicFramework\UI_test_player_TD\bin\Debug\ctf\created
+[27/06/2017 16:19:29] Acao: Logar (223.223.2.102) Login 327
+[27/06/2017 16:19:48] Acao: Ir Para Login 361
+[27/06/2017 16:19:50] Acao: Informar Tabela Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 456
+[27/06/2017 16:19:51] Unable to find element with name == sigla_tabela_hospitalarWebDriver
+[27/06/2017 16:21:23] Acao: Logar (223.223.2.102) Login 327
+[27/06/2017 16:21:39] Acao: Ir Para Login 361
+[27/06/2017 16:21:42] Acao: Informar Tabela Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 456
+[27/06/2017 16:22:46] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[27/06/2017 16:24:53] Acao: Logar (223.223.2.102) Login 327
+[27/06/2017 16:25:09] Acao: Ir Para Login 361
+[27/06/2017 16:25:11] Acao: Informar Tabela Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 456
+[27/06/2017 16:25:18] Acao: Informar Descrição Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 458
+[27/06/2017 16:25:21] Acao: Informar TISS Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 462
+[27/06/2017 16:25:23] Acao: Clicar em Inserir  Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 463
+[27/06/2017 16:25:26] Acao: Informar Código Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 464
+[27/06/2017 18:05:11] Acao: Logar (223.223.2.102) Login 327
+[27/06/2017 18:05:27] Acao: Ir Para Login 361
+[27/06/2017 18:05:29] Acao: Informar Login Controle de Acesso > Usuário > Cadastro de Usuário 401
+[27/06/2017 18:05:36] Acao: [PRECOND] O login do Usuário deve Existir? Controle de Acesso > Usuário > Cadastro de Usuário 492
+[27/06/2017 18:05:41] Acao: Informar  Login Workflow Controle de Acesso > Usuário > Cadastro de Usuário 402
+[27/06/2017 18:05:44] Acao: Informar Nome Controle de Acesso > Usuário > Cadastro de Usuário 403
+[27/06/2017 18:05:46] Acao: Selecionar Tipo Usuário Controle de Acesso > Usuário > Cadastro de Usuário 404
+[27/06/2017 18:05:49] Acao: Clicar Botão: Incluir Controle de Acesso > Usuário > Cadastro de Usuário 405
+[27/06/2017 18:05:51] Acao: [POSCOND] Usuário Incluído com Sucesso? Controle de Acesso > Usuário > Cadastro de Usuário 406
+[27/06/2017 18:05:56] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[27/06/2017 18:06:16] Acao: Logar (223.223.2.102) Login 327
+[27/06/2017 18:06:31] Acao: Ir Para Login 361
+[27/06/2017 18:06:33] Acao: Informar Login Controle de Acesso > Usuário > Cadastro de Usuário 401
+[27/06/2017 18:06:39] Acao: [PRECOND] O login do Usuário deve Existir? Controle de Acesso > Usuário > Cadastro de Usuário 492
+[27/06/2017 18:06:45] Acao: Limpar: Nome Controle de Acesso > Usuário > Cadastro de Usuário 513
+[27/06/2017 18:06:47] Acao: Informar Nome Controle de Acesso > Usuário > Cadastro de Usuário 403
+[27/06/2017 18:06:50] Acao: Limpar: Email Controle de Acesso > Usuário > Cadastro de Usuário 514
+[27/06/2017 18:06:52] Acao: Informar Email Controle de Acesso > Usuário > Cadastro de Usuário 515
+[27/06/2017 18:06:55] Acao: Clicar Botão: Alterar Controle de Acesso > Usuário > Cadastro de Usuário 516
+[27/06/2017 18:06:58] Acao: [POSCOND] Operação Realizada com Sucesso? Controle de Acesso > Usuário > Cadastro de Usuário 519
+[27/06/2017 18:07:02] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[27/06/2017 18:07:23] Acao: Logar (223.223.2.102) Login 327
+[27/06/2017 18:07:37] Acao: Ir Para Login 361
+[27/06/2017 18:07:39] Acao: Informar Login Controle de Acesso > Usuário > Cadastro de Usuário 401
+[27/06/2017 18:07:49] Acao: [PRECOND] O login do Usuário deve Existir? Controle de Acesso > Usuário > Cadastro de Usuário 492
+[27/06/2017 18:07:54] Acao: Clicar Botão: Excluir Controle de Acesso > Usuário > Cadastro de Usuário 517
+[27/06/2017 18:07:57] Acao: [POSCOND] Operação Realizada com Sucesso? Controle de Acesso > Usuário > Cadastro de Usuário 519
+[27/06/2017 18:08:01] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[27/06/2017 18:08:21] Acao: Logar (223.223.2.102) Login 327
+[27/06/2017 18:08:38] Acao: Ir Para Login 361
+[27/06/2017 18:08:40] Acao: Informar Código Controle de Acesso > Tipo de Usuário > Tipo de Usuário 362
+[27/06/2017 18:08:47] Acao: [PRECOND] O Tipo Usuário deve Existir? Controle de Acesso > Tipo de Usuário > Tipo de Usuário 363
+[27/06/2017 18:08:48] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[27/06/2017 18:09:14] Acao: Logar (223.223.2.102) Login 327
+[27/06/2017 18:09:31] Acao: Ir Para Login 361
+[27/06/2017 18:09:34] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 413
+[27/06/2017 18:09:35] Unable to find element with id == sigla_tabelaWebDriver
+[27/06/2017 18:10:01] Acao: Logar (223.223.2.102) Login 327
+[27/06/2017 18:10:19] Acao: Ir Para Login 361
+[27/06/2017 18:10:21] Acao: Informar Tabela Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 473
+[27/06/2017 18:10:25] Acao: [PRECOND] A Tabela Informada deve Existir? Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 502
+[27/06/2017 18:10:26] Unable to find element with id == nom_tabelaWebDriver
+[27/06/2017 18:10:48] Acao: Logar (223.223.2.102) Login 327
+[27/06/2017 18:11:04] Acao: Ir Para Login 361
+[27/06/2017 18:11:06] Acao: Informar Codigo Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 431
+[27/06/2017 18:11:07] Unable to find element with name == item_medicoWebDriver
+[27/06/2017 18:11:29] Acao: Logar (223.223.2.102) Login 327
+[27/06/2017 18:11:45] Acao: Ir Para Login 361
+[27/06/2017 18:11:47] Acao: Informar Código Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 450
+[27/06/2017 18:11:53] Acao: [PRECOND] O Serviço Deve Existir? Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 505
+[27/06/2017 18:11:54] Unable to find element with name == nome_itemWebDriver
+[27/06/2017 18:12:13] Acao: Logar (223.223.2.102) Login 327
+[27/06/2017 18:12:30] Acao: Ir Para Login 361
+[27/06/2017 18:12:32] Acao: Informar Tabela Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 456
+[27/06/2017 18:12:39] Acao: Informar Descrição Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 458
+[27/06/2017 18:12:42] Acao: Informar TISS Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 462
+[27/06/2017 18:12:44] Acao: Clicar em Inserir  Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 463
+[27/06/2017 18:12:47] Acao: Informar Código Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 464
+[27/06/2017 18:13:18] Timed out after 30 secondsWebDriver.Support
+[27/06/2017 18:13:37] Acao: Logar (223.223.2.102) Login 327
+[27/06/2017 18:13:54] Acao: Ir Para Login 361
+[27/06/2017 18:13:56] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 459
+[27/06/2017 18:13:57] Unable to find element with name == sigla_tabela_hospitalarWebDriver
+[27/06/2017 18:14:17] Acao: Logar (223.223.2.102) Login 327
+[27/06/2017 18:14:37] Acao: Ir Para Login 361
+[27/06/2017 18:14:40] Acao: Informar Tipo Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 475
+[27/06/2017 18:14:49] Acao: Informar Código Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 476
+[27/06/2017 18:14:55] Acao: [PRECOND] Material / Medicamento deve Existir? Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 510
+[27/06/2017 18:14:56] Unable to find element with name == desc_itemWebDriver
+[27/06/2017 18:15:15] Acao: Logar (223.223.2.102) Login 327
+[27/06/2017 18:15:32] Acao: Ir Para Login 361
+[27/06/2017 18:15:34] Acao: Informar Tabela Origem Honorários, Serviços e Tabelas > Honorários > Cópia Tabela 441
+[27/06/2017 18:15:39] Acao: Informar Sigla Tabela Destino  Honorários, Serviços e Tabelas > Honorários > Cópia Tabela 442
+[27/06/2017 18:15:40] Unable to find element with name == sigla_tabelaWebDriver
+[27/06/2017 18:15:59] Acao: Logar (223.223.2.102) Login 327
+[27/06/2017 18:16:15] Acao: Ir Para Login 361
+[27/06/2017 18:16:17] Acao: Informar Tabela Honorários, Serviços e Tabelas > Taxas e Serviços > Importação Tabela Taxas 468
+[27/06/2017 18:16:20] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Taxas e Serviços > Importação Tabela Taxas 469
+[27/06/2017 18:16:26] Acao: Informar Data Vigência Honorários, Serviços e Tabelas > Taxas e Serviços > Importação Tabela Taxas 470
+[27/06/2017 18:16:29] Acao: Informar Arquivo Honorários, Serviços e Tabelas > Taxas e Serviços > Importação Tabela Taxas 471
+[27/06/2017 18:16:35] Acao: Clicar Botão: Executar Honorários, Serviços e Tabelas > Taxas e Serviços > Importação Tabela Taxas 472
+[27/06/2017 18:16:39] Acao: [POSCOND] Operação Realizada com Sucesso? Honorários, Serviços e Tabelas > Taxas e Serviços > Importação Tabela Taxas 520
+[27/06/2017 18:16:43] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[27/06/2017 18:17:02] Acao: Logar (223.223.2.102) Login 327
+[27/06/2017 18:17:19] Acao: Ir Para Login 361
+[27/06/2017 18:17:21] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Honorários > Importação 447
+[27/06/2017 18:17:27] Acao: Informar Arquivo Honorários, Serviços e Tabelas > Honorários > Importação 448
+[27/06/2017 18:17:31] Acao: Clicar Botão: Executar Honorários, Serviços e Tabelas > Honorários > Importação 449
+[27/06/2017 18:17:34] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Honorários > Importação 512

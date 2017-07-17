@@ -1,0 +1,42 @@
+[14/06/2017 15:20:38] Acao: Logar (223.223.2.102) Login 327
+[14/06/2017 15:20:49] Acao: Ir Para Login 361
+[14/06/2017 15:21:08] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[14/06/2017 15:26:52] Acao: Logar (223.223.2.102) Login 327
+[14/06/2017 15:27:01] Acao: Ir Para Login 361
+[14/06/2017 15:27:03] Acao: Informar Código Controle de Acesso > Tipo de Usuário > Tipo de Usuário 362
+[14/06/2017 15:27:11] Acao: [VERIFICADOR] O Tipo Usuário deve Existir? Controle de Acesso > Tipo de Usuário > Tipo de Usuário 363
+[14/06/2017 15:27:12] Unable to find element with id == nom_tipo_usuarioWebDriver
+[14/06/2017 15:27:38] D:\Peterson\Projetos\QADynamicFramework\UI_test_player_TD\bin\Debug\ctf\created
+[14/06/2017 15:27:54] Acao: Logar (223.223.2.102) Login 327
+[14/06/2017 15:28:03] Acao: Ir Para Login 361
+[14/06/2017 15:29:01] Acao: Logar (223.223.2.102) Login 327
+[14/06/2017 15:29:10] Acao: Ir Para Login 361
+[14/06/2017 15:29:12] Acao: Informar Código Controle de Acesso > Tipo de Usuário > Tipo de Usuário 362
+[14/06/2017 15:29:42] Acao: Logar (223.223.2.102) Login 327
+[14/06/2017 15:29:53] Acao: Ir Para Login 361
+[14/06/2017 15:29:55] Acao: Informar Código Controle de Acesso > Tipo de Usuário > Tipo de Usuário 362
+[14/06/2017 15:30:34] Acao: Logar (223.223.2.102) Login 327
+[14/06/2017 15:30:44] Acao: Ir Para Login 361
+[14/06/2017 15:30:46] Acao: Informar Código Controle de Acesso > Tipo de Usuário > Tipo de Usuário 362
+[14/06/2017 15:30:53] Acao: [VERIFICADOR] O Tipo Usuário deve Existir? Controle de Acesso > Tipo de Usuário > Tipo de Usuário 363
+[14/06/2017 15:30:55] Acao: Informar Nome Controle de Acesso > Tipo de Usuário > Tipo de Usuário 365
+[14/06/2017 15:30:58] Acao: Clicar em: Incluir Controle de Acesso > Tipo de Usuário > Tipo de Usuário 368
+[14/06/2017 15:31:01] Acao: [VERIFICADOR] Operação Realizado com Sucesso? Controle de Acesso > Tipo de Usuário > Tipo de Usuário 367
+[14/06/2017 15:38:57] Acao: Logar (223.223.2.102) Login 327
+[14/06/2017 15:39:08] Acao: Ir Para Login 361
+[14/06/2017 15:53:28] D:\Peterson\Projetos\QADynamicFramework\UI_test_player_TD\bin\Debug\ctf\created
+[14/06/2017 15:53:44] Acao: Logar (223.223.2.102) Login 327
+[14/06/2017 15:53:54] Acao: Ir Para Login 361
+[14/06/2017 15:57:49] D:\Peterson\Projetos\QADynamicFramework\UI_test_player_TD\bin\Debug\ctf\created
+[14/06/2017 15:58:16] D:\Peterson\Projetos\QADynamicFramework\UI_test_player_TD\bin\Debug\ctf\created
+[14/06/2017 15:58:30] Acao: Logar (223.223.2.102) Login 327
+[14/06/2017 15:58:41] Acao: Ir Para Login 361
+[14/06/2017 15:58:43] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 381
+[14/06/2017 15:58:45] Unable to find element with id == sigla_tabelaWebDriver
+[14/06/2017 16:02:55] Acao: Logar (223.223.2.102) Login 327
+[14/06/2017 16:03:05] Acao: Ir Para Login 361
+[14/06/2017 16:03:07] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 381
+[14/06/2017 16:42:37] Acao: Logar (223.223.2.102) Login 327
+[14/06/2017 16:43:11] Timed out after 30 secondsWebDriver.Support
+[14/06/2017 17:05:31] Acao: Logar (223.223.2.102) Login 327
+[14/06/2017 17:06:04] Timed out after 30 secondsWebDriver.Support

@@ -1,0 +1,417 @@
+﻿<UserControl x:Class="UI_test_player_TD.Views.TestCaseView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:Custom="http://metro.mahapps.com/winfx/xaml/controls"
+             mc:Ignorable="d"
+             MinHeight="576"
+             MinWidth="1024">
+
+    <UserControl.Resources>
+        <ResourceDictionary>
+            <ResourceDictionary.MergedDictionaries>
+                <!-- MahApps.Metro resource dictionaries. Make sure that all file names are Case Sensitive! -->
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Fonts.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Colors.xaml" />
+                <!-- Accent and AppTheme setting -->
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/Blue.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Accents/BaseLight.xaml" />
+                <!-- Icons -->
+                <ResourceDictionary Source="/Resources/Icons.xaml" />
+                <!-- Animated Single Row Tab Control -->
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.AnimatedSingleRowTabControl.xaml" />
+                <!-- Flat Button -->
+                <!-- <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/FlatButton.xaml" /> -->
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </UserControl.Resources>
+
+    <Grid x:Name="mainGrid">
+        <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Visible" Margin="0">
+            <Grid>
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="0*" MaxWidth="0"/>
+                    <ColumnDefinition Width="*" MaxWidth="166"/>
+                    <ColumnDefinition Width="*"/>
+                </Grid.ColumnDefinitions>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="0*"/>
+                    <RowDefinition Height="0" MaxHeight="75"/>
+                    <RowDefinition/>
+                </Grid.RowDefinitions>
+                <Grid Margin="0" Grid.Row="2" Grid.ColumnSpan="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <ListBox  x:Name="ctfBox" Margin="5,180,10,60"
+        				SelectionChanged="ctfBox_SelectionChanged" 
+        				ItemsSource="{Binding testCases, Mode=TwoWay, UpdateSourceTrigger=Default}"
+        				Background="{x:Null}">
+                        <ListBox.ContextMenu>
+                            <ContextMenu>
+                                <MenuItem Header="Executar" Click="Run_Test"/>
+                                <MenuItem Header="Executar Todos" Click="Run_All_Test"/>
+                                <MenuItem Header="Inserir Novo" Click="adicionarTestCase"/>
+                                <MenuItem Header="Copiar" Click="copiarTeste"/>
+                                <MenuItem Header="Deletar" Click="removerTestCase"/>
+                                <MenuItem Header="Ordenar Por Código" Click="ordernarCTFporNome"/>
+                            </ContextMenu>
+                        </ListBox.ContextMenu>
+                        <ListBox.ItemTemplate>
+                            <DataTemplate>
+                                <Grid Margin="0,2" Height="30">
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="30" />
+                                        <ColumnDefinition Width="Auto" />
+                                    </Grid.ColumnDefinitions>
+                                    <Image x:Name="testIcon" RenderOptions.BitmapScalingMode="HighQuality" Source="{Binding testSituationImg, Mode=TwoWay}" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Stretch="Fill"/>
+                                    <TextBlock Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="5,0,0,0" >
+                                    <Run Text ="{Binding Codigo}"/>
+                                    <Run Text= " - " /> <!-- space -->
+                                    <Run Text ="{Binding Nome}"/>
+                                    </TextBlock>
+                                </Grid>
+                            </DataTemplate>
+                        </ListBox.ItemTemplate>
+                    </ListBox>
+                    <ComboBox x:Name="sistemaComboBox" 
+                    	ItemsSource="{Binding sistemas, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                    	SelectedItem="{Binding selectedSistema, Mode=TwoWay, UpdateSourceTrigger=Default}"
+                    	DisplayMemberPath="Nome"
+                    	SelectionChanged="selectedSistema_Changed" Margin="5,10,10,0" VerticalAlignment="Top" Height="30"/>
+                </Grid>
+                <Grid  Grid.Column="2" Margin="0" Grid.Row="2">
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+
+                    <Custom:SplitButton
+                        x:Name="navegadorSelectBtn"
+                    HorizontalContentAlignment="Left"
+                    VerticalContentAlignment="Center"
+                    ItemsSource="{Binding Navegadores}"
+                        SelectedIndex="0"
+                    DisplayMemberPath="nome"
+                    VerticalAlignment="Bottom" Margin="682,0,154,24" Background="{x:Null}" HorizontalAlignment="Center" MinWidth="150" />
+
+                    <Button
+        				ToolTip="Executar Caso de Teste"
+        				Width="60"
+        				Height="60"
+        				Background="{x:Null}"
+        				Style="{DynamicResource MetroCircleButtonStyle}" Margin="454,0,442,10" Foreground="Black" VerticalAlignment="Bottom" HorizontalAlignment="Center" Click="Run_Test" BorderBrush="Black">
+                        <Rectangle Width="16"
+        					Height="20"
+        					Fill="{Binding Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}" Margin="3,0,0,0">
+                            <Rectangle.OpacityMask>
+                                <VisualBrush>
+                                    <VisualBrush.Visual>
+                                        <Canvas Clip="F1M0,0L76,0 76,76 0,76 0,0" Height="76" UseLayoutRounding="True" Width="76" d:DesignUseLayoutRounding="True">
+                                            <Path Data="F1M30.0833,22.1667L50.6665,37.6043 50.6665,38.7918 30.0833,53.8333 30.0833,22.1667z" Fill="Black" Height="31.6667" Canvas.Left="30.0833" Stretch="Fill" Canvas.Top="22.1667" UseLayoutRounding="True" Width="20.5832" d:DesignUseLayoutRounding="True"/>
+                                        </Canvas>
+                                    </VisualBrush.Visual>
+                                </VisualBrush>
+                            </Rectangle.OpacityMask>
+                        </Rectangle>
+                    </Button>
+                    <Button
+        				ToolTip="Abrir Planilha com Caso de Teste"
+        				Height="50"
+        				Background="{x:Null}"
+        				Style="{DynamicResource MetroCircleButtonStyle}" Margin="536,0,370,15" Foreground="Black" BorderBrush="Black" VerticalAlignment="Bottom" Click="abrirCTF" Width="50" HorizontalAlignment="Center">
+                        <Rectangle Width="20"
+        					Height="20"
+        					Fill="{Binding Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}">
+                            <Rectangle.OpacityMask>
+                                <VisualBrush Visual="{StaticResource appbar_office_excel}" />
+                            </Rectangle.OpacityMask>
+                        </Rectangle>
+                    </Button>
+                    <Button
+        				ToolTip="Salvar Caso de Teste"
+        				Width="50"
+        				Height="50"
+        				Background="{x:Null}"
+        				Style="{DynamicResource MetroCircleButtonStyle}" Margin="375,0,531,15" Foreground="Black" BorderBrush="Black" VerticalAlignment="Bottom" HorizontalAlignment="Center" Click="salvarCasodeTeste">
+                        <Rectangle Width="20"
+        					Height="20"
+        					Fill="{Binding Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}" Margin="0">
+                            <Rectangle.OpacityMask>
+
+                                <VisualBrush Visual="{StaticResource appbar_disk}" Stretch="Uniform" />
+
+                            </Rectangle.OpacityMask>
+                        </Rectangle>
+                    </Button>
+                    <Button 
+        				ToolTip="Abrir Log de Execução"
+        				Width="50"
+        				Height="50"
+        				Background="{x:Null}"
+        				Style="{DynamicResource MetroCircleButtonStyle}" Margin="604,0,0,13" Foreground="Black" BorderBrush="Black" VerticalAlignment="Bottom" HorizontalAlignment="Left" Click="abrirLog" Visibility="Hidden">
+                        <Rectangle Width="20"
+        					Height="20"
+        					Fill="{Binding Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}" Margin="0">
+                            <Rectangle.OpacityMask>
+
+                                <VisualBrush Visual="{StaticResource appbar_paper}" Stretch="Uniform" />
+
+                            </Rectangle.OpacityMask>
+                        </Rectangle>
+                    </Button>
+                    <TabControl Margin="0,0,0,10" FontSize="10" FontFamily="Segoe UI Light">
+                        <TabItem Header="Informações Gerais" >
+                            <Grid  x:Name="formBox"  DataContext="{Binding selectedCase}" ScrollViewer.HorizontalScrollBarVisibility="Auto" UseLayoutRounding="False" VerticalAlignment="Top" HorizontalAlignment="Left" Height="401.5" Width="873">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="114"/>
+                                    <ColumnDefinition Width="412*"/>
+                                    <ColumnDefinition Width="117*"/>
+                                    <ColumnDefinition Width="200*"/>
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition Height="93"/>
+                                    <RowDefinition Height="35"/>
+                                    <RowDefinition Height="35"/>
+                                    <RowDefinition Height="70"/>
+                                    <RowDefinition Height="35"/>
+                                    <RowDefinition Height="35"/>
+                                    <RowDefinition Height="35"/>
+                                    <RowDefinition Height="35"/>
+                                    <RowDefinition Height="245"/>
+                                </Grid.RowDefinitions>
+                                <Label Content="Código" HorizontalAlignment="Right" VerticalAlignment="Center" FontFamily="Segoe UI Light" Margin="0,2" FontSize="16" Grid.Row="1" Height="31" Width="59"/>
+                                <Label Content="Nome" HorizontalAlignment="Right" VerticalAlignment="Center" FontFamily="Segoe UI Light" Margin="0,2" FontSize="16" Grid.Row="2" Height="31" Width="52"/>
+                                <Label Content="Descrição" HorizontalAlignment="Right" VerticalAlignment="Center" FontFamily="Segoe UI Light" Margin="0,17,0,21" FontSize="16" Grid.Row="3" Height="32" Width="75"/>
+                                <Label Content="Executado" HorizontalAlignment="Right" VerticalAlignment="Center" FontFamily="Segoe UI Light" Margin="0,2,22,3" FontSize="16" Grid.Row="1" Height="30" Width="78" Grid.Column="2"/>
+                                <TextBox x:Name="codBlock" Text="{Binding Codigo}" Grid.Column="1" HorizontalAlignment="Left" Height="26" Margin="10,5,0,4" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Center" Width="160" IsEnabled="False"/>
+                                <TextBox x:Name="nomeBlock" Text="{Binding Nome}" Grid.Column="1" HorizontalAlignment="Left" Height="26" Margin="10,4,0,5" Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Center" Width="160" IsEnabled="True"/>
+                                <TextBox x:Name="descBlock" Text="{Binding Descricao}" Grid.Column="1" HorizontalAlignment="Left" Height="62" Margin="10,4,0,4" Grid.Row="3" TextWrapping="Wrap" VerticalAlignment="Center" Width="285" IsEnabled="True"/>
+                                <TextBlock x:Name="lastExecBlock" Text="{Binding UltimaVezExecutado, Mode=TwoWay, StringFormat=dd/MM/yyyy hh:mm:ss}" Grid.Column="3" HorizontalAlignment="Left" Height="26" Margin="10,2,-27,7" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Center" IsEnabled="False" FontSize="14" Padding="5" MinWidth="120" FontFamily="Segoe UI Semibold" Width="274"/>
+                                <TextBlock x:Name="lastSitBlock" Text="{Binding UltimaSituacaoString, Mode=TwoWay}" Grid.Column="3" HorizontalAlignment="Left" Height="26" Margin="10,4,0,5" Grid.Row="2" TextWrapping="Wrap" VerticalAlignment="Center" IsEnabled="False" FontSize="14" Padding="5" MinWidth="120" FontFamily="Segoe UI Semibold" Width="170"/>
+                                <Label Content="Execuções" HorizontalAlignment="Right" VerticalAlignment="Center" FontFamily="Segoe UI Light" Margin="0,9,10,31" FontSize="16" Grid.Row="3" Height="30" Width="79" Grid.Column="2"/>
+                                <TextBlock x:Name="qtdExec" Text="{Binding TotalExecutado, Mode=TwoWay}" Grid.Column="3" HorizontalAlignment="Left" Height="26" Margin="10,9,0,35" Grid.Row="3" TextWrapping="Wrap" VerticalAlignment="Center" IsEnabled="False" FontSize="14" Padding="5" FontFamily="Segoe UI Semibold" Width="50"/>
+                                <TextBlock x:Name="qtdApr" Text="{Binding TotalApr, Mode=TwoWay}" Grid.Column="3" HorizontalAlignment="Left" Height="26" Margin="10,40,0,4" Grid.Row="3" TextWrapping="Wrap" VerticalAlignment="Center" IsEnabled="False" FontSize="14" Padding="5" MinWidth="120" FontFamily="Segoe UI Semibold" Foreground="#FF08AE00" Width="120"/>
+                                <TextBlock x:Name="qtdErr" Text="{Binding TotalErr, Mode=TwoWay}" Grid.Column="3" HorizontalAlignment="Left" Height="26" Margin="10,5,0,4" Grid.Row="4" TextWrapping="Wrap" VerticalAlignment="Center" IsEnabled="False" FontSize="14" Padding="5" MinWidth="120" FontFamily="Segoe UI Semibold" Foreground="#FFCB2110" Width="120"/>
+                                <Label Content="Módulo" HorizontalAlignment="Right" VerticalAlignment="Center" FontFamily="Segoe UI Light" Margin="0,1,0,2" FontSize="16" Grid.Row="4" Height="32" Width="75"/>
+                                <Label Content="Função" HorizontalAlignment="Right" VerticalAlignment="Center" FontFamily="Segoe UI Light" Margin="0,2,0,1" FontSize="16" Grid.Row="5" Height="32" Width="75"/>
+                                <TextBox x:Name="moduloBlock" Text="{Binding Modulo}" Grid.Column="1" HorizontalAlignment="Left" Height="26" Margin="10,5,0,4" Grid.Row="4" TextWrapping="Wrap" VerticalAlignment="Center" Width="160" IsEnabled="True"/>
+                                <TextBox x:Name="funcaoBlock" Text="{Binding Funcao}" Grid.Column="1" HorizontalAlignment="Left" Height="26" Margin="10,5,0,4" Grid.Row="5" TextWrapping="Wrap" VerticalAlignment="Center" Width="348" IsEnabled="True"/>
+                                <Label Content="Pré-Cond" HorizontalAlignment="Right" VerticalAlignment="Center" FontFamily="Segoe UI Light" Margin="0,1,0,2" FontSize="16" Grid.Row="6" Height="32" Width="75"/>
+                                <Label Content="Pós-Cond" HorizontalAlignment="Right" VerticalAlignment="Center" FontFamily="Segoe UI Light" Margin="0,2,0,1" FontSize="16" Grid.Row="7" Height="32" Width="75"/>
+                                <TextBox x:Name="preCondBlock" Text="{Binding PreCondicao}" Grid.Column="1" HorizontalAlignment="Left" Height="26" Margin="10,5,0,4" Grid.Row="6" TextWrapping="Wrap" VerticalAlignment="Center" Width="350" IsEnabled="True"/>
+                                <TextBox x:Name="posCondBlock" Text="{Binding PosCondicao}" Grid.Column="1" HorizontalAlignment="Left" Height="26" Margin="10,5,0,4" Grid.Row="7" TextWrapping="Wrap" VerticalAlignment="Center" Width="350" IsEnabled="True"/>
+                                <TextBlock x:Name="tempoEstimadoBox" Text="{Binding tempoEstimado, Mode=TwoWay}" HorizontalAlignment="Left" Height="26" Margin="10,9,0,0" Grid.Row="6" TextWrapping="Wrap" VerticalAlignment="Center" IsEnabled="False" FontSize="14" Padding="5" MinWidth="120" FontFamily="Segoe UI Semibold" Width="120" Grid.Column="3"/>
+                                <Label Content="Estimado" HorizontalAlignment="Right" VerticalAlignment="Center" FontFamily="Segoe UI Light" Margin="0,1,10,4" FontSize="16" Grid.Row="6" Height="30" Width="79" Grid.Column="2"/>
+                            </Grid>
+                        </TabItem>
+                        <TabItem Header="Passos">
+                            <Grid x:Name="formBox2">
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="*"/>
+                                </Grid.ColumnDefinitions>
+                                <Grid.RowDefinitions>
+                                    <RowDefinition/>
+
+                                </Grid.RowDefinitions>
+                                <DataGrid x:Name="gridBox" SelectionMode="Single"
+                    				IsSynchronizedWithCurrentItem="True"
+                    				SelectedItem="{Binding selectedCase.PassoSelecionado, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                    				ItemsSource="{Binding selectedCase.Passos, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                    				GridLinesVisibility="Horizontal" CanUserAddRows="False"
+                    				CanUserDeleteRows="False" CanUserReorderColumns="False"
+                    				CanUserResizeColumns="True" CanUserSortColumns="False"
+                                    AutoGenerateColumns="False" Background="#FFC9C6C6"
+                                    FontFamily="Segoe UI Semilight" Margin="55,65,55,60"
+                                    UseLayoutRounding="False" HorizontalContentAlignment="Stretch"
+                                    MinHeight="350" MinWidth="830" VerticalScrollBarVisibility="Visible" >
+                                    <DataGrid.ContextMenu>
+                                        <ContextMenu >
+                                            <!--<MenuItem Header="Copiar"/>-->
+                                            <MenuItem Header="Editar Ação" Click="editarAcao"/>
+                                            <MenuItem Header="Excluir Passo" Click="removerPasso"/>
+                                            <MenuItem Header="Adicionar Passo Abaixo" Click="adicionarPassoAbaixo"/>
+                                            <MenuItem Header="Detalhes do Passo" Click="abrirDetalhesPasso"/>
+                                            <MenuItem Header= "Adicionar Nova Ação Na Tela ..." Click="novaAcao"/>
+
+                                        </ContextMenu>
+                                    </DataGrid.ContextMenu>
+                                    <DataGrid.RowStyle>
+                                        <Style TargetType="{x:Type DataGridRow}"
+                    						BasedOn="{StaticResource AzureDataGridRow}">
+                                            <Setter Property="ToolTip">
+                                                <Setter.Value>
+                                                    <TextBlock Text="{Binding acaoSelecionada.Tooltip, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" />
+                                                </Setter.Value>
+                                            </Setter>
+
+                                        </Style>
+                                    </DataGrid.RowStyle>
+                                    <DataGrid.Columns>
+                                        <DataGridCheckBoxColumn Binding="{Binding deveExecutar, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                                        <DataGridTextColumn Binding="{Binding OrdemSeq, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                                        <DataGridTemplateColumn Header="Tela">
+                                            <DataGridTemplateColumn.CellTemplate>
+                                                <DataTemplate x:Name="dataTemp1">
+                                                    <ComboBox x:Name="telasCombo" x:Uid="telasCombo"
+                    									ItemsSource="{Binding telasPossiveis, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                    									IsSynchronizedWithCurrentItem="True"
+                    									DisplayMemberPath="Nome"
+                    									SelectedItem="{Binding telaSelecionada, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                                              />
+                                                </DataTemplate>
+                                            </DataGridTemplateColumn.CellTemplate>
+                                        </DataGridTemplateColumn>
+
+                                        <DataGridTemplateColumn Header="Ação">
+                                            <DataGridTemplateColumn.CellTemplate>
+                                                <DataTemplate>
+                                                    <ComboBox x:Name="acoesCombo"
+                    									IsSynchronizedWithCurrentItem="True" 
+                    									DisplayMemberPath="Nome"
+                    									ItemsSource="{Binding telaSelecionada.acoesPossiveis}"
+                    									SelectedValuePath="Id"
+                    									SelectedValue="{Binding acaoSelecionada.Id, Mode=TwoWay, UpdateSourceTrigger=Default}"
+                    									SelectedItem="{Binding acaoSelecionada, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
+                                              />
+                                                </DataTemplate>
+                                            </DataGridTemplateColumn.CellTemplate>
+                                        </DataGridTemplateColumn>
+
+                                        <!--<DataGridCheckBoxColumn Header="Dados Auto" Binding="{Binding acao.MustAutoGenerateData, Mode=TwoWay, UpdateSourceTrigger=Default}"/>-->
+                                        <DataGridTemplateColumn Header="Parâmetro">
+                                            <DataGridTemplateColumn.CellTemplate >
+                                                <DataTemplate>
+                                                    <TextBlock Text="{Binding Parametro, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"  />
+                                                </DataTemplate>
+                                            </DataGridTemplateColumn.CellTemplate>
+                                            <DataGridTemplateColumn.CellEditingTemplate>
+                                                <DataTemplate>
+                                                    <TextBox IsEnabled="{Binding acaoSelecionada.requerParametro}" Text="{Binding Parametro, Mode=TwoWay}" />
+                                                </DataTemplate>
+                                            </DataGridTemplateColumn.CellEditingTemplate>
+                                        </DataGridTemplateColumn>
+
+
+                                        <!--<DataGridTextColumn Header="Parâmetro"
+                                            Binding="{Binding Parametro, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}">
+
+                        </DataGridTextColumn>-->
+
+                                        <DataGridCheckBoxColumn Header="Fotografar?" Width="30" Binding="{Binding deveFotografar, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}">
+
+                                        </DataGridCheckBoxColumn>
+
+                                        <DataGridTextColumn Header="Retorno" Binding="{Binding Retorno, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                                        <!--<DataGridTextColumn Header="Obs" MaxWidth="100" Binding="{Binding Obs, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>-->
+
+                                        <DataGridTemplateColumn>
+                                            <DataGridTemplateColumn.CellTemplate>
+                                                <DataTemplate x:Name="dataTemp3">
+                                                    <Image x:Name="passoIconSituation" RenderOptions.BitmapScalingMode="HighQuality"  Source="{Binding SituationImg, Mode=TwoWay, UpdateSourceTrigger=Default}" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Stretch="Fill"/>
+                                                </DataTemplate>
+                                            </DataGridTemplateColumn.CellTemplate>
+                                        </DataGridTemplateColumn>
+                                    </DataGrid.Columns>
+
+                                </DataGrid>
+                                <Button ToolTip="Remover Passo Selecionado"
+                    				Height="50"
+                    				Background="{x:Null}"
+                    				Style="{DynamicResource MetroCircleButtonStyle}" Margin="736,6,0,0" Foreground="Black" BorderBrush="Black" VerticalAlignment="Top" Width="50" HorizontalAlignment="Left" Click="removerPasso">
+                                    <Rectangle Width="21"
+                    					Height="5"
+                    					Fill="{Binding Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}">
+                                        <Rectangle.OpacityMask>
+                                            <VisualBrush Visual="{StaticResource appbar_minus}" />
+                                        </Rectangle.OpacityMask>
+                                    </Rectangle>
+                                </Button>
+                                <Button ToolTip="Adicionar Passo"
+                    				Background="{x:Null}"
+                    				Style="{DynamicResource MetroCircleButtonStyle}" Margin="686,6,0,0" Foreground="Black" BorderBrush="Black" Width="50" HorizontalAlignment="Left" Click="adicionarPasso" VerticalAlignment="Top" Height="50">
+                                    <Rectangle Width="20"
+                    					Height="20"
+                    					Fill="{Binding Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}">
+                                        <Rectangle.OpacityMask>
+                                            <VisualBrush Visual="{StaticResource appbar_add}" />
+                                        </Rectangle.OpacityMask>
+                                    </Rectangle>
+                                </Button>
+                                <Button ToolTip="Executar Arquivo de Lote"
+                    				Background="{x:Null}"
+                    				Style="{DynamicResource MetroCircleButtonStyle}" Margin="586,6,0,0" Foreground="Black" BorderBrush="Black" Width="50" HorizontalAlignment="Left" Click="lerLoteDeTestes" Height="50" VerticalAlignment="Top">
+                                    <Rectangle Width="17" Margin="0,0,-2,0"
+                    					Height="20"
+                    					Fill="{Binding Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}">
+                                        <Rectangle.OpacityMask>
+                                            <VisualBrush Visual="{StaticResource appbar_page_upload}" />
+                                        </Rectangle.OpacityMask>
+                                    </Rectangle>
+                                </Button>
+                                <Button ToolTip="Salvar Parâmetros em Arquivo de Lote"
+                    				Height="50"
+                    				Background="{x:Null}"
+                    				Style="{DynamicResource MetroCircleButtonStyle}" Margin="536,6,0,0" Foreground="Black" BorderBrush="Black" VerticalAlignment="Top" Width="50" HorizontalAlignment="Left" Click="salvarEmArqLote">
+                                    <StackPanel>
+                                        <Rectangle Width="17" Margin="0,0,-2,0"
+                    						Height="20"
+                    						Fill="{Binding Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}">
+                                            <Rectangle.OpacityMask>
+                                                <VisualBrush Visual="{StaticResource appbar_page_download}" />
+                                            </Rectangle.OpacityMask>
+                                        </Rectangle>
+                                    </StackPanel>
+                                </Button>
+                                <Button Style="{DynamicResource MetroCircleButtonStyle}" HorizontalAlignment="Left" Margin="-9,0,0,199" VerticalAlignment="Bottom" Width="50" Height="45" Click="subirPosPasso" BorderBrush="{x:Null}">
+                                    <Rectangle Width="20" Height="20">
+                                        <Rectangle.Fill>
+                                            <VisualBrush Visual="{StaticResource appbar_arrow_up}" />
+                                        </Rectangle.Fill>
+                                    </Rectangle>
+                                </Button>
+                                <Button Style="{DynamicResource MetroCircleButtonStyle}" HorizontalAlignment="Left" Margin="-9,0,0,166" Width="50" Height="45" VerticalAlignment="Bottom" Click="descerPosPasso" BorderBrush="{x:Null}">
+                                    <Rectangle Width="20" Height="20">
+                                        <Rectangle.Fill>
+                                            <VisualBrush Visual="{StaticResource appbar_arrow_down}" />
+                                        </Rectangle.Fill>
+                                    </Rectangle>
+                                </Button>
+                                <Slider x:Name="velocSlider" HorizontalAlignment="Left" Margin="100,10,0,0" VerticalAlignment="Top" Width="86" Minimum="1" Maximum="5" Value="0" Height="16"/>
+                                <Label Content="Rápido" HorizontalAlignment="Left" VerticalAlignment="Top" FontFamily="Segoe UI Semilight" Margin="55,6,0,0" FontSize="11" Height="31" Width="51" Padding="5"/>
+                                <Label Content="Lento" HorizontalAlignment="Left" VerticalAlignment="Top" FontFamily="Segoe UI Semilight" Margin="190,6,0,0" Height="31" Width="49" Padding="5" FontSize="11" RenderTransformOrigin="0.898,-0.774"/>
+                                <Custom:NumericUpDown x:Name="timesToExecute"  Minimum="1" Width="100" Height="26" Margin="250,10,0,0" Value="1" VerticalAlignment="Top" HorizontalAlignment="Left" BorderThickness="0,0,0,1" />
+                            </Grid>
+                        </TabItem>
+                    </TabControl>
+                </Grid>
+                <Button
+        			ToolTip="Adicionar Novo Caso de Teste"
+        			Background="{x:Null}"
+        			Style="{DynamicResource MetroCircleButtonStyle}" Margin="16,50,100,0" Foreground="Black" BorderBrush="Black" Width="50" HorizontalAlignment="Center" Grid.Row="2" Click="adicionarTestCase" Grid.Column="1" Height="50" VerticalAlignment="Top">
+                    <Rectangle Margin="0,0,-2,0" Width="17"
+        				Height="20"
+        				Fill="{Binding Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}" HorizontalAlignment="Right">
+                        <Rectangle.OpacityMask>
+                            <VisualBrush Visual="{StaticResource appbar_page_add}" />
+                        </Rectangle.OpacityMask>
+                    </Rectangle>
+                </Button>
+                <Button
+        			ToolTip="Remover Caso de Teste Selecionado"
+        			Background="{x:Null}"
+        			Style="{DynamicResource MetroCircleButtonStyle}" Margin="77,50,39,0" Foreground="Black" BorderBrush="Black" Width="50" HorizontalAlignment="Center" Grid.Row="2" Click="removerTestCase" Grid.Column="1" Height="50" VerticalAlignment="Top">
+                    <Rectangle Margin="0,0,-2,0" Width="17"
+        				Height="20"
+        				Fill="{Binding Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}" HorizontalAlignment="Right">
+                        <Rectangle.OpacityMask>
+                            <VisualBrush Visual="{StaticResource appbar_page_delete}" />
+                        </Rectangle.OpacityMask>
+                    </Rectangle>
+                </Button>
+            </Grid>
+        </ScrollViewer>
+
+    </Grid>
+</UserControl>

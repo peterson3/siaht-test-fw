@@ -1,0 +1,735 @@
+[11/07/2017 12:10:00] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 12:10:31] Acao: Ir Para Login 361
+[11/07/2017 12:10:47] Acao: Informar Índice Honorários, Serviços e Tabelas > Cotações > Índices 641
+[11/07/2017 12:10:49] Acao: Informar Nome Honorários, Serviços e Tabelas > Cotações > Índices 643
+[11/07/2017 12:10:53] Acao: Informar Data Cotação Honorários, Serviços e Tabelas > Cotações > Índices 647
+[11/07/2017 12:10:55] Acao: Informar Valor Cotação Honorários, Serviços e Tabelas > Cotações > Índices 648
+[11/07/2017 12:10:58] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Cotações > Índices 646
+[11/07/2017 12:11:01] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Cotações > Índices 650
+[11/07/2017 12:14:19] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 12:14:42] Acao: Ir Para Login 361
+[11/07/2017 12:14:46] Acao: Informar Índice Honorários, Serviços e Tabelas > Cotações > Índices 641
+[11/07/2017 12:14:48] Acao: Informar Nome Honorários, Serviços e Tabelas > Cotações > Índices 643
+[11/07/2017 12:14:51] Acao: Informar Data Cotação Honorários, Serviços e Tabelas > Cotações > Índices 647
+[11/07/2017 12:14:53] Acao: Informar Valor Cotação Honorários, Serviços e Tabelas > Cotações > Índices 648
+[11/07/2017 12:14:55] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Cotações > Índices 646
+[11/07/2017 12:14:58] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Cotações > Índices 650
+[11/07/2017 12:15:02] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[11/07/2017 12:16:43] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 12:17:06] Acao: Ir Para Login 361
+[11/07/2017 12:17:11] Acao: Informar Índice Honorários, Serviços e Tabelas > Cotações > Índices 641
+[11/07/2017 12:17:13] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Índices 642
+[11/07/2017 12:17:16] Acao: Informar Nome Honorários, Serviços e Tabelas > Cotações > Índices 643
+[11/07/2017 12:17:19] Acao: Informar Data Cotação Honorários, Serviços e Tabelas > Cotações > Índices 647
+[11/07/2017 12:17:21] Acao: Informar Valor Cotação Honorários, Serviços e Tabelas > Cotações > Índices 648
+[11/07/2017 12:17:23] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Cotações > Índices 646
+[11/07/2017 12:17:25] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Cotações > Índices 650
+[11/07/2017 14:11:51] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 14:13:07] Acao: Ir Para Login 361
+[11/07/2017 14:13:11] Acao: Informar Índice Honorários, Serviços e Tabelas > Cotações > Índices 641
+[11/07/2017 14:13:13] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Índices 642
+[11/07/2017 14:13:15] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Cotações > Índices 645
+[11/07/2017 14:13:17] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Cotações > Índices 650
+[11/07/2017 14:13:18] unexpected alert open: {Alert text : Deseja realmente excluir?}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.10586 x86_64)WebDriver
+[11/07/2017 14:14:21] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 14:14:38] Acao: Ir Para Login 361
+[11/07/2017 14:14:42] Acao: Informar Índice Honorários, Serviços e Tabelas > Cotações > Índices 641
+[11/07/2017 14:14:44] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Índices 642
+[11/07/2017 14:14:46] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Cotações > Índices 645
+[11/07/2017 14:14:48] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Cotações > Índices 650
+[11/07/2017 14:17:30] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 14:17:48] Acao: Ir Para Login 361
+[11/07/2017 14:17:51] Acao: Informar Índice Honorários, Serviços e Tabelas > Cotações > Índices 641
+[11/07/2017 14:17:53] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Índices 642
+[11/07/2017 14:17:54] Acao: Informar Nome Honorários, Serviços e Tabelas > Cotações > Índices 643
+[11/07/2017 14:17:57] Acao: Informar Data Cotação Honorários, Serviços e Tabelas > Cotações > Índices 647
+[11/07/2017 14:17:59] Acao: Informar Valor Cotação Honorários, Serviços e Tabelas > Cotações > Índices 648
+[11/07/2017 14:18:01] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Cotações > Índices 646
+[11/07/2017 14:18:03] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Cotações > Índices 650
+[11/07/2017 14:18:21] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 14:18:37] Acao: Ir Para Login 361
+[11/07/2017 14:18:40] Acao: Informar Índice Honorários, Serviços e Tabelas > Cotações > Índices 641
+[11/07/2017 14:18:42] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Índices 642
+[11/07/2017 14:18:44] Acao: Informar Nome Honorários, Serviços e Tabelas > Cotações > Índices 643
+[11/07/2017 14:18:46] Acao: Informar Data Cotação Honorários, Serviços e Tabelas > Cotações > Índices 647
+[11/07/2017 14:18:46] element not visible
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.10586 x86_64)WebDriver
+[11/07/2017 14:20:35] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 14:20:53] Acao: Ir Para Login 361
+[11/07/2017 14:20:57] Acao: Informar Índice Honorários, Serviços e Tabelas > Cotações > Índices 641
+[11/07/2017 14:20:59] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Índices 642
+[11/07/2017 14:21:01] Acao: Informar Nome Honorários, Serviços e Tabelas > Cotações > Índices 643
+[11/07/2017 14:21:03] Acao: Informar Valor Cotação Honorários, Serviços e Tabelas > Cotações > Índices 648
+[11/07/2017 14:21:03] element not visible
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.10586 x86_64)WebDriver
+[11/07/2017 14:22:08] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 14:22:28] Acao: Ir Para Login 361
+[11/07/2017 14:22:31] Acao: Informar Índice Honorários, Serviços e Tabelas > Cotações > Índices 641
+[11/07/2017 14:22:33] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Índices 642
+[11/07/2017 14:22:35] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Cotações > Índices 645
+[11/07/2017 14:22:37] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Cotações > Índices 650
+[11/07/2017 14:40:34] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 14:40:52] Acao: Ir Para Login 361
+[11/07/2017 14:41:01] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 413
+[11/07/2017 14:41:14] Acao: [PRECOND] A Tabela deve Existir? Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 501
+[11/07/2017 14:41:22] Acao: Informar Nome Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 407
+[11/07/2017 14:41:23] Acao: Informar Tipo Tabela Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 409
+[11/07/2017 14:41:25] Acao: Selecionar Padrão Codificação Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 410
+[11/07/2017 14:41:27] Acao: Selecionar Padrão Valoração Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 411
+[11/07/2017 14:41:29] Acao: Selecionar TISS Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 412
+[11/07/2017 14:41:30] Acao: Selecionar Sigla Moeda Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 381
+[11/07/2017 14:41:32] Acao: Ir Para ABA Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 415
+[11/07/2017 14:41:34] Acao: Horário Especial Benef. Local - D.Util - DE Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 417
+[11/07/2017 14:41:35] Acao: Horário Especial Benef. Local - D.Util - ATÉ Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 418
+[11/07/2017 14:41:38] Acao: Horário Especial Benef. Local - Sabado - DE Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 419
+[11/07/2017 14:41:39] Acao: Horário Especial Benef. Local - Sabado - ATÉ Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 420
+[11/07/2017 14:41:41] Acao: Horário Especial Benef. IF - D.Util - DE Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 421
+[11/07/2017 14:41:43] Acao: Horário Especial Benef. I.Fed - D.Util - ATÉ Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 422
+[11/07/2017 14:41:44] Acao: Horário Especial Benef. I.Fed -Sabado- DE Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 423
+[11/07/2017 14:41:46] Acao: Horário Especial Benef. I.Fed -Sabado- ATÉ Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 424
+[11/07/2017 14:41:47] Acao: Horário Especial Benef. I.Nac - D.Util - DE Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 425
+[11/07/2017 14:41:49] Acao: Horário Especial Benef. I.Nac - D.Util - ATÉ Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 426
+[11/07/2017 14:41:50] Acao: Horário Especial Benef. I.Nac -Sabado- DE Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 427
+[11/07/2017 14:41:52] Acao: Horário Especial Benef. I.Nac -Sabado- ATÉ Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 428
+[11/07/2017 14:41:53] Acao: Ir Para ABA Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 415
+[11/07/2017 14:41:55] Acao: Informar Porte Anestésico Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 615
+[11/07/2017 14:41:56] Acao: Preencher Portes Anestésicos Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 616
+[11/07/2017 14:42:02] Acao: Informar % Auxiliar Anestesista Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 617
+[11/07/2017 14:42:03] Acao: Clicar no Botão: Incluir Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 429
+[11/07/2017 14:42:05] Acao: [POSCOND] Operação realizada com Sucesso? Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 430
+[11/07/2017 14:42:17] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 14:42:32] Acao: Ir Para Login 361
+[11/07/2017 14:42:42] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 413
+[11/07/2017 14:43:01] Acao: [PRECOND] A Tabela deve Existir? Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 501
+[11/07/2017 14:43:07] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 522
+[11/07/2017 14:43:08] Acao: [POSCOND] Operação realizada com Sucesso? Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 430
+[11/07/2017 14:43:20] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 14:43:36] Acao: Ir Para Login 361
+[11/07/2017 14:43:39] Acao: Informar Tabela Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 473
+[11/07/2017 14:43:44] Acao: [PRECOND] A Tabela Informada deve Existir? Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 502
+[11/07/2017 14:43:45] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[11/07/2017 14:43:52] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 14:44:08] Acao: Ir Para Login 361
+[11/07/2017 14:44:12] Acao: Informar Tabela Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 473
+[11/07/2017 14:44:15] Acao: [PRECOND] A Tabela Informada deve Existir? Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 502
+[11/07/2017 14:44:17] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 523
+[11/07/2017 14:44:18] Acao: [POSCOND] Operação Realizada com Sucesso? Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 491
+[11/07/2017 14:44:18] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[11/07/2017 14:44:25] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 14:44:42] Acao: Ir Para Login 361
+[11/07/2017 14:44:53] Acao: Informar Codigo Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 431
+[11/07/2017 14:44:54] Acao: Clicar no botão: Continuar Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 432
+[11/07/2017 14:44:55] Acao: [PRECOND] O Procedimento deve Existir no Sistema? Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 503
+[11/07/2017 14:44:59] Acao: Informar Descrição Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 433
+[11/07/2017 14:45:01] Acao: Selecionar Padrão Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 435
+[11/07/2017 14:45:19] Acao: Selecionar Sexo Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 436
+[11/07/2017 14:45:20] Acao: Selecionar Grupo Estatístico Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 437
+[11/07/2017 14:45:25] Acao: Selecionar Capítulo AMB Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 493
+[11/07/2017 14:45:26] Acao: Selecionar Especialidade AMB Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 494
+[11/07/2017 14:45:27] Acao: Informar Habilitação de Especialidade Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 530
+[11/07/2017 14:45:31] Acao: Clicar no botão: Incluir Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 438
+[11/07/2017 14:45:33] Acao: [POSCOND] Operação Realizada com Sucesso? Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 504
+[11/07/2017 14:45:55] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 14:46:10] Acao: Ir Para Login 361
+[11/07/2017 14:46:16] Acao: Informar Codigo Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 431
+[11/07/2017 14:46:17] Acao: Clicar no botão: Continuar Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 432
+[11/07/2017 14:46:18] Acao: [PRECOND] O Procedimento deve Existir no Sistema? Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 503
+[11/07/2017 14:46:38] Acao: Clicar botão: Excluir Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 531
+[11/07/2017 14:46:40] Acao: [POSCOND] Operação Realizada com Sucesso? Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 504
+[11/07/2017 14:46:51] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 14:47:05] Acao: Ir Para Login 361
+[11/07/2017 14:47:07] Acao: Informar Código Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 450
+[11/07/2017 14:47:15] Acao: [PRECOND] O Serviço Deve Existir? Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 505
+[11/07/2017 14:47:16] Acao: Informar Descrição Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 452
+[11/07/2017 14:47:17] Acao: Informar Regime Atendimento Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 453
+[11/07/2017 14:47:18] Acao: Informar Regime Atendimento Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 453
+[11/07/2017 14:47:19] Acao: Selecionar Grupo Estatístico Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 454
+[11/07/2017 14:47:22] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 455
+[11/07/2017 14:47:23] Acao: [POSCOND] Operação Realizada com Sucesso? Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 457
+[11/07/2017 14:47:33] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 14:47:47] Acao: Ir Para Login 361
+[11/07/2017 14:47:49] Acao: Informar Código Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 450
+[11/07/2017 14:47:56] Acao: [PRECOND] O Serviço Deve Existir? Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 505
+[11/07/2017 14:47:56] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 524
+[11/07/2017 14:47:57] Acao: [POSCOND] Operação Realizada com Sucesso? Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 457
+[11/07/2017 14:48:07] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 14:48:22] Acao: Ir Para Login 361
+[11/07/2017 14:48:27] Acao: Informar Código Tabela Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 456
+[11/07/2017 14:48:33] Acao: [PRECOND] O Tipo Tabela deve Existir? Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 546
+[11/07/2017 14:48:34] Acao: Informar Descrição Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 458
+[11/07/2017 14:48:35] Acao: Informar TISS Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 462
+[11/07/2017 14:48:36] Acao: Informar Moeda Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 541
+[11/07/2017 14:48:37] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 542
+[11/07/2017 14:48:38] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 545
+[11/07/2017 14:48:48] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 14:49:02] Acao: Ir Para Login 361
+[11/07/2017 14:49:06] Acao: Informar Código Tabela Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 456
+[11/07/2017 14:49:12] Acao: [PRECOND] O Tipo Tabela deve Existir? Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 546
+[11/07/2017 14:49:13] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 544
+[11/07/2017 14:49:13] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 545
+[11/07/2017 14:49:24] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 14:49:38] Acao: Ir Para Login 361
+[11/07/2017 14:49:43] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 459
+[11/07/2017 14:49:48] Acao: Informar Data Vigência Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 460
+[11/07/2017 14:49:49] Acao: [PRECOND] Valorização pra Data NÃO Deve Existir Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 509
+[11/07/2017 14:49:52] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 461
+[11/07/2017 14:49:53] Acao: Informar Opção de Ação Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 466
+[11/07/2017 14:49:54] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 467
+[11/07/2017 14:49:55] Acao: [POSCOND] Operação Relizada com Sucesso? Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 506
+[11/07/2017 14:50:05] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 14:50:19] Acao: Ir Para Login 361
+[11/07/2017 14:50:24] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 459
+[11/07/2017 14:50:30] Acao: [PRECOND] Valorização para Data DEVE Existir Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 525
+[11/07/2017 14:50:33] Acao: Clicar na Data da Valorização Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 526
+[11/07/2017 14:50:37] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 528
+[11/07/2017 14:50:39] Acao: [POSCOND] Operação Relizada com Sucesso? Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 506
+[11/07/2017 14:50:52] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 14:51:07] Acao: Ir Para Login 361
+[11/07/2017 14:51:10] Acao: Informar Tipo Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 475
+[11/07/2017 14:51:12] Acao: Informar Código Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 476
+[11/07/2017 14:51:20] Acao: [PRECOND] Material / Medicamento deve Existir? Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 510
+[11/07/2017 14:51:20] Acao: Informar Descrição Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 477
+[11/07/2017 14:51:22] Acao: Selecionar Classificação (Por Nome) Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 478
+[11/07/2017 14:51:26] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 479
+[11/07/2017 14:51:27] Acao: [POSCOND] Operação Relizada com Sucesso? Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 480
+[11/07/2017 14:51:34] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 14:51:48] Acao: Ir Para Login 361
+[11/07/2017 14:51:51] Acao: Informar Tipo Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 475
+[11/07/2017 14:51:54] Acao: Informar Código Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 476
+[11/07/2017 14:52:02] Acao: [PRECOND] Material / Medicamento deve Existir? Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 510
+[11/07/2017 14:52:02] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 529
+[11/07/2017 14:52:04] Acao: [POSCOND] Operação Relizada com Sucesso? Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 480
+[11/07/2017 14:52:11] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 14:52:26] Acao: Ir Para Login 361
+[11/07/2017 14:52:32] Acao: Informar Tabela Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 581
+[11/07/2017 14:52:35] Acao: Informar Vigência Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 582
+[11/07/2017 14:52:37] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 583
+[11/07/2017 14:52:38] Acao: Informar Opção Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 584
+[11/07/2017 14:52:40] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 585
+[11/07/2017 14:52:41] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 586
+[11/07/2017 14:52:49] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 14:53:03] Acao: Ir Para Login 361
+[11/07/2017 14:53:08] Acao: Informar Tabela Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 581
+[11/07/2017 14:53:11] Acao: Informar Vigência Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 582
+[11/07/2017 14:53:12] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 583
+[11/07/2017 14:53:13] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 587
+[11/07/2017 14:53:15] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 586
+[11/07/2017 14:54:03] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 14:54:18] Acao: Ir Para Login 361
+[11/07/2017 14:54:19] Acao: Informar Data Cotação Porte Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 621
+[11/07/2017 14:54:20] Acao: [PRECOND] Porte para data NÃO deve existir Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 622
+[11/07/2017 14:54:22] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 623
+[11/07/2017 14:54:23] Acao: Informar Valores dos Portes Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 624
+[11/07/2017 14:54:35] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 625
+[11/07/2017 14:54:37] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 626
+[11/07/2017 14:54:43] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 14:54:59] Acao: Ir Para Login 361
+[11/07/2017 14:55:00] Acao: Informar Data Cotação Porte Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 621
+[11/07/2017 14:55:01] Acao: [PRECOND] Porte para a data DEVE existir Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 627
+[11/07/2017 14:55:04] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 623
+[11/07/2017 14:55:04] Acao: Limpar Valores dos Portes Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 629
+[11/07/2017 14:55:10] Acao: Informar Valores dos Portes Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 624
+[11/07/2017 14:55:20] Acao: Clicar Botão: Alterar Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 628
+[11/07/2017 14:55:21] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 626
+[11/07/2017 14:55:27] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 14:55:43] Acao: Ir Para Login 361
+[11/07/2017 14:55:44] Acao: Informar Data Cotação Porte Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 621
+[11/07/2017 14:55:45] Acao: [PRECOND] Porte para a data DEVE existir Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 627
+[11/07/2017 14:55:47] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 623
+[11/07/2017 14:55:48] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 630
+[11/07/2017 14:55:51] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 626
+[11/07/2017 14:55:58] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 14:56:13] Acao: Ir Para Login 361
+[11/07/2017 14:56:15] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 631
+[11/07/2017 14:56:17] Acao: Informar Data Cotação Porte Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 637
+[11/07/2017 14:56:18] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 633
+[11/07/2017 14:56:19] Acao: Informar Valores do Porte Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 638
+[11/07/2017 14:56:29] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 634
+[11/07/2017 14:56:30] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 639
+[11/07/2017 14:56:37] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 14:56:53] Acao: Ir Para Login 361
+[11/07/2017 14:56:55] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 631
+[11/07/2017 14:57:26] Timed out after 30 secondsWebDriver.Support
+[11/07/2017 14:57:32] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 14:57:51] Acao: Ir Para Login 361
+[11/07/2017 14:57:52] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 631
+[11/07/2017 14:57:54] Acao: Informar Data Cotação Porte Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 637
+[11/07/2017 14:57:55] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 633
+[11/07/2017 14:57:57] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 636
+[11/07/2017 14:57:59] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 639
+[11/07/2017 14:58:07] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 14:58:23] Acao: Ir Para Login 361
+[11/07/2017 14:58:25] Acao: Informar Índice Honorários, Serviços e Tabelas > Cotações > Índices 641
+[11/07/2017 14:58:26] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Índices 642
+[11/07/2017 14:58:27] Acao: Informar Nome Honorários, Serviços e Tabelas > Cotações > Índices 643
+[11/07/2017 14:58:28] Acao: Informar Data Cotação Honorários, Serviços e Tabelas > Cotações > Índices 647
+[11/07/2017 14:58:29] Acao: Informar Valor Cotação Honorários, Serviços e Tabelas > Cotações > Índices 648
+[11/07/2017 14:58:30] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Cotações > Índices 646
+[11/07/2017 14:58:32] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Cotações > Índices 650
+[11/07/2017 14:58:42] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 14:58:57] Acao: Ir Para Login 361
+[11/07/2017 14:58:59] Acao: Informar Índice Honorários, Serviços e Tabelas > Cotações > Índices 641
+[11/07/2017 14:59:00] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Índices 642
+[11/07/2017 14:59:01] Acao: Informar Nome Honorários, Serviços e Tabelas > Cotações > Índices 643
+[11/07/2017 14:59:02] Acao: Informar Valor Cotação Honorários, Serviços e Tabelas > Cotações > Índices 648
+[11/07/2017 14:59:02] element not visible
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.10586 x86_64)WebDriver
+[11/07/2017 14:59:08] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 14:59:22] Acao: Ir Para Login 361
+[11/07/2017 14:59:23] Acao: Informar Índice Honorários, Serviços e Tabelas > Cotações > Índices 641
+[11/07/2017 14:59:25] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Índices 642
+[11/07/2017 14:59:26] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Cotações > Índices 645
+[11/07/2017 14:59:27] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Cotações > Índices 650
+[11/07/2017 15:11:21] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 15:11:39] Acao: Ir Para Login 361
+[11/07/2017 15:11:41] Acao: Informar Código Controle de Acesso > Tipo de Usuário > Tipo de Usuário 362
+[11/07/2017 15:11:49] Acao: [PRECOND] O Tipo Usuário deve Existir? Controle de Acesso > Tipo de Usuário > Tipo de Usuário 363
+[11/07/2017 15:11:50] Acao: Informar Nome Controle de Acesso > Tipo de Usuário > Tipo de Usuário 365
+[11/07/2017 15:11:51] Acao: Clicar em: Incluir Controle de Acesso > Tipo de Usuário > Tipo de Usuário 368
+[11/07/2017 15:11:52] Acao: [POSCOND] Operação Realizado com Sucesso? Controle de Acesso > Tipo de Usuário > Tipo de Usuário 367
+[11/07/2017 15:12:01] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 15:12:21] Acao: Ir Para Login 361
+[11/07/2017 15:12:24] Acao: Informar Código Controle de Acesso > Tipo de Usuário > Tipo de Usuário 362
+[11/07/2017 15:12:31] Acao: [PRECOND] O Tipo Usuário deve Existir? Controle de Acesso > Tipo de Usuário > Tipo de Usuário 363
+[11/07/2017 15:12:32] Acao: Clicar em: Excluir Controle de Acesso > Tipo de Usuário > Tipo de Usuário 521
+[11/07/2017 15:12:33] Acao: [POSCOND] Operação Realizado com Sucesso? Controle de Acesso > Tipo de Usuário > Tipo de Usuário 367
+[11/07/2017 15:44:48] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 15:45:27] no such element: Unable to locate element: {"method":"id","selector":"senha"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.10586 x86_64)WebDriver
+[11/07/2017 15:45:35] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 15:46:07] no such element: Unable to locate element: {"method":"id","selector":"senha"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.10586 x86_64)WebDriver
+[11/07/2017 16:15:29] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 16:15:49] Acao: Ir Para Login 361
+[11/07/2017 16:15:58] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 413
+[11/07/2017 16:16:11] Acao: [PRECOND] A Tabela deve Existir? Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 501
+[11/07/2017 16:16:18] Acao: Informar Nome Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 407
+[11/07/2017 16:16:20] Acao: Informar Tipo Tabela Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 409
+[11/07/2017 16:16:22] Acao: Selecionar Padrão Codificação Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 410
+[11/07/2017 16:16:24] Acao: Selecionar Padrão Valoração Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 411
+[11/07/2017 16:16:25] Acao: Selecionar TISS Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 412
+[11/07/2017 16:16:27] Acao: Selecionar Sigla Moeda Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 381
+[11/07/2017 16:16:28] Acao: Ir Para ABA Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 415
+[11/07/2017 16:16:30] Acao: Horário Especial Benef. Local - D.Util - DE Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 417
+[11/07/2017 16:16:31] Acao: Horário Especial Benef. Local - D.Util - ATÉ Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 418
+[11/07/2017 16:16:33] Acao: Horário Especial Benef. Local - Sabado - DE Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 419
+[11/07/2017 16:16:34] Acao: Horário Especial Benef. Local - Sabado - ATÉ Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 420
+[11/07/2017 16:16:35] Acao: Horário Especial Benef. IF - D.Util - DE Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 421
+[11/07/2017 16:16:37] Acao: Horário Especial Benef. I.Fed - D.Util - ATÉ Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 422
+[11/07/2017 16:16:39] Acao: Horário Especial Benef. I.Fed -Sabado- DE Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 423
+[11/07/2017 16:16:40] Acao: Horário Especial Benef. I.Fed -Sabado- ATÉ Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 424
+[11/07/2017 16:16:42] Acao: Horário Especial Benef. I.Nac - D.Util - DE Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 425
+[11/07/2017 16:16:44] Acao: Horário Especial Benef. I.Nac - D.Util - ATÉ Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 426
+[11/07/2017 16:16:45] Acao: Horário Especial Benef. I.Nac -Sabado- DE Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 427
+[11/07/2017 16:16:47] Acao: Horário Especial Benef. I.Nac -Sabado- ATÉ Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 428
+[11/07/2017 16:16:48] Acao: Ir Para ABA Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 415
+[11/07/2017 16:16:50] Acao: Informar Porte Anestésico Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 615
+[11/07/2017 16:16:52] Acao: Preencher Portes Anestésicos Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 616
+[11/07/2017 16:16:57] Acao: Informar % Auxiliar Anestesista Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 617
+[11/07/2017 16:16:59] Acao: Clicar no Botão: Incluir Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 429
+[11/07/2017 16:17:00] Acao: [POSCOND] Operação realizada com Sucesso? Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 430
+[11/07/2017 16:17:11] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 16:17:26] Acao: Ir Para Login 361
+[11/07/2017 16:17:33] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 413
+[11/07/2017 16:17:49] Acao: [PRECOND] A Tabela deve Existir? Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 501
+[11/07/2017 16:17:55] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 522
+[11/07/2017 16:17:56] Acao: [POSCOND] Operação realizada com Sucesso? Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 430
+[11/07/2017 16:18:04] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 16:18:19] Acao: Ir Para Login 361
+[11/07/2017 16:18:21] Acao: Informar Tabela Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 473
+[11/07/2017 16:18:24] Acao: [PRECOND] A Tabela Informada deve Existir? Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 502
+[11/07/2017 16:18:25] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[11/07/2017 16:18:32] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 16:18:46] Acao: Ir Para Login 361
+[11/07/2017 16:18:48] Acao: Informar Tabela Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 473
+[11/07/2017 16:18:51] Acao: [PRECOND] A Tabela Informada deve Existir? Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 502
+[11/07/2017 16:18:52] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 523
+[11/07/2017 16:18:52] Acao: [POSCOND] Operação Realizada com Sucesso? Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 491
+[11/07/2017 16:18:53] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[11/07/2017 16:18:59] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 16:19:14] Acao: Ir Para Login 361
+[11/07/2017 16:19:19] Acao: Informar Codigo Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 431
+[11/07/2017 16:19:20] Acao: Clicar no botão: Continuar Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 432
+[11/07/2017 16:19:21] Acao: [PRECOND] O Procedimento deve Existir no Sistema? Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 503
+[11/07/2017 16:19:24] Acao: Informar Descrição Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 433
+[11/07/2017 16:19:25] Acao: Selecionar Padrão Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 435
+[11/07/2017 16:19:38] Acao: Selecionar Sexo Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 436
+[11/07/2017 16:19:39] Acao: Selecionar Grupo Estatístico Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 437
+[11/07/2017 16:19:43] Acao: Selecionar Capítulo AMB Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 493
+[11/07/2017 16:19:44] Acao: Selecionar Especialidade AMB Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 494
+[11/07/2017 16:19:45] Acao: Informar Habilitação de Especialidade Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 530
+[11/07/2017 16:19:49] Acao: Clicar no botão: Incluir Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 438
+[11/07/2017 16:19:50] Acao: [POSCOND] Operação Realizada com Sucesso? Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 504
+[11/07/2017 16:20:09] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 16:20:24] Acao: Ir Para Login 361
+[11/07/2017 16:20:29] Acao: Informar Codigo Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 431
+[11/07/2017 16:20:30] Acao: Clicar no botão: Continuar Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 432
+[11/07/2017 16:20:31] Acao: [PRECOND] O Procedimento deve Existir no Sistema? Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 503
+[11/07/2017 16:20:50] Acao: Clicar botão: Excluir Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 531
+[11/07/2017 16:20:50] Acao: [POSCOND] Operação Realizada com Sucesso? Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 504
+[11/07/2017 16:21:02] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 16:21:17] Acao: Ir Para Login 361
+[11/07/2017 16:21:19] Acao: Informar Código Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 450
+[11/07/2017 16:21:25] Acao: [PRECOND] O Serviço Deve Existir? Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 505
+[11/07/2017 16:21:26] Acao: Informar Descrição Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 452
+[11/07/2017 16:21:27] Acao: Informar Regime Atendimento Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 453
+[11/07/2017 16:21:28] Acao: Informar Regime Atendimento Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 453
+[11/07/2017 16:21:28] Acao: Selecionar Grupo Estatístico Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 454
+[11/07/2017 16:21:31] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 455
+[11/07/2017 16:21:32] Acao: [POSCOND] Operação Realizada com Sucesso? Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 457
+[11/07/2017 16:21:42] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 16:21:57] Acao: Ir Para Login 361
+[11/07/2017 16:21:58] Acao: Informar Código Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 450
+[11/07/2017 16:22:05] Acao: [PRECOND] O Serviço Deve Existir? Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 505
+[11/07/2017 16:22:06] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 524
+[11/07/2017 16:22:07] Acao: [POSCOND] Operação Realizada com Sucesso? Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 457
+[11/07/2017 16:22:16] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 16:22:30] Acao: Ir Para Login 361
+[11/07/2017 16:22:35] Acao: Informar Código Tabela Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 456
+[11/07/2017 16:22:40] Acao: [PRECOND] O Tipo Tabela deve Existir? Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 546
+[11/07/2017 16:22:41] Acao: Informar Descrição Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 458
+[11/07/2017 16:22:42] Acao: Informar TISS Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 462
+[11/07/2017 16:22:43] Acao: Informar Moeda Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 541
+[11/07/2017 16:22:43] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 542
+[11/07/2017 16:22:44] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 545
+[11/07/2017 16:22:54] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 16:23:08] Acao: Ir Para Login 361
+[11/07/2017 16:23:12] Acao: Informar Código Tabela Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 456
+[11/07/2017 16:23:19] Acao: [PRECOND] O Tipo Tabela deve Existir? Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 546
+[11/07/2017 16:23:20] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 544
+[11/07/2017 16:23:21] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 545
+[11/07/2017 16:23:31] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 16:23:46] Acao: Ir Para Login 361
+[11/07/2017 16:23:51] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 459
+[11/07/2017 16:23:56] Acao: Informar Data Vigência Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 460
+[11/07/2017 16:23:57] Acao: [PRECOND] Valorização pra Data NÃO Deve Existir Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 509
+[11/07/2017 16:23:59] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 461
+[11/07/2017 16:24:00] Acao: Informar Opção de Ação Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 466
+[11/07/2017 16:24:01] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 467
+[11/07/2017 16:24:01] Acao: [POSCOND] Operação Relizada com Sucesso? Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 506
+[11/07/2017 16:24:11] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 16:24:26] Acao: Ir Para Login 361
+[11/07/2017 16:24:30] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 459
+[11/07/2017 16:24:35] Acao: [PRECOND] Valorização para Data DEVE Existir Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 525
+[11/07/2017 16:24:37] Acao: Clicar na Data da Valorização Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 526
+[11/07/2017 16:24:39] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 528
+[11/07/2017 16:24:41] Acao: [POSCOND] Operação Relizada com Sucesso? Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 506
+[11/07/2017 16:24:50] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 16:25:05] Acao: Ir Para Login 361
+[11/07/2017 16:25:08] Acao: Informar Tipo Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 475
+[11/07/2017 16:25:11] Acao: Informar Código Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 476
+[11/07/2017 16:25:18] Acao: [PRECOND] Material / Medicamento deve Existir? Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 510
+[11/07/2017 16:25:20] Acao: Informar Descrição Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 477
+[11/07/2017 16:25:21] Acao: Selecionar Classificação (Por Nome) Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 478
+[11/07/2017 16:25:25] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 479
+[11/07/2017 16:25:27] Acao: [POSCOND] Operação Relizada com Sucesso? Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 480
+[11/07/2017 16:25:34] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 16:25:49] Acao: Ir Para Login 361
+[11/07/2017 16:25:52] Acao: Informar Tipo Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 475
+[11/07/2017 16:25:54] Acao: Informar Código Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 476
+[11/07/2017 16:26:01] Acao: [PRECOND] Material / Medicamento deve Existir? Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 510
+[11/07/2017 16:26:02] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 529
+[11/07/2017 16:26:03] Acao: [POSCOND] Operação Relizada com Sucesso? Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 480
+[11/07/2017 16:26:10] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 16:26:24] Acao: Ir Para Login 361
+[11/07/2017 16:26:29] Acao: Informar Tabela Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 581
+[11/07/2017 16:26:32] Acao: Informar Vigência Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 582
+[11/07/2017 16:26:33] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 583
+[11/07/2017 16:26:34] Acao: Informar Opção Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 584
+[11/07/2017 16:26:36] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 585
+[11/07/2017 16:26:37] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 586
+[11/07/2017 16:26:45] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 16:26:59] Acao: Ir Para Login 361
+[11/07/2017 16:27:04] Acao: Informar Tabela Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 581
+[11/07/2017 16:27:07] Acao: Informar Vigência Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 582
+[11/07/2017 16:27:08] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 583
+[11/07/2017 16:27:09] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 587
+[11/07/2017 16:27:11] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 586
+[11/07/2017 16:27:49] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 16:28:03] Acao: Ir Para Login 361
+[11/07/2017 16:28:05] Acao: Informar Data Cotação Porte Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 621
+[11/07/2017 16:28:05] Acao: [PRECOND] Porte para data NÃO deve existir Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 622
+[11/07/2017 16:28:07] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 623
+[11/07/2017 16:28:08] Acao: Informar Valores dos Portes Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 624
+[11/07/2017 16:28:19] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 625
+[11/07/2017 16:28:20] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 626
+[11/07/2017 16:28:26] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 16:28:40] Acao: Ir Para Login 361
+[11/07/2017 16:28:41] Acao: Informar Data Cotação Porte Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 621
+[11/07/2017 16:28:42] Acao: [PRECOND] Porte para a data DEVE existir Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 627
+[11/07/2017 16:28:44] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 623
+[11/07/2017 16:28:45] Acao: Limpar Valores dos Portes Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 629
+[11/07/2017 16:28:49] Acao: Informar Valores dos Portes Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 624
+[11/07/2017 16:28:58] Acao: Clicar Botão: Alterar Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 628
+[11/07/2017 16:28:59] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 626
+[11/07/2017 16:29:05] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 16:29:20] Acao: Ir Para Login 361
+[11/07/2017 16:29:21] Acao: Informar Data Cotação Porte Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 621
+[11/07/2017 16:29:22] Acao: [PRECOND] Porte para a data DEVE existir Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 627
+[11/07/2017 16:29:24] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 623
+[11/07/2017 16:29:25] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 630
+[11/07/2017 16:29:27] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 626
+[11/07/2017 16:29:33] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 16:29:50] Acao: Ir Para Login 361
+[11/07/2017 16:29:51] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 631
+[11/07/2017 16:29:53] Acao: Informar Data Cotação Porte Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 637
+[11/07/2017 16:29:54] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 633
+[11/07/2017 16:29:54] Acao: Informar Valores do Porte Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 638
+[11/07/2017 16:30:04] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 634
+[11/07/2017 16:30:05] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 639
+[11/07/2017 16:30:11] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 16:30:26] Acao: Ir Para Login 361
+[11/07/2017 16:30:28] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 631
+[11/07/2017 16:30:58] Timed out after 30 secondsWebDriver.Support
+[11/07/2017 16:31:03] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 16:31:17] Acao: Ir Para Login 361
+[11/07/2017 16:31:19] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 631
+[11/07/2017 16:31:20] Acao: Informar Data Cotação Porte Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 637
+[11/07/2017 16:31:21] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 633
+[11/07/2017 16:31:22] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 636
+[11/07/2017 16:31:24] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 639
+[11/07/2017 16:31:30] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 16:31:45] Acao: Ir Para Login 361
+[11/07/2017 16:31:47] Acao: Informar Índice Honorários, Serviços e Tabelas > Cotações > Índices 641
+[11/07/2017 16:31:47] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Índices 642
+[11/07/2017 16:31:48] Acao: Informar Nome Honorários, Serviços e Tabelas > Cotações > Índices 643
+[11/07/2017 16:31:49] Acao: Informar Data Cotação Honorários, Serviços e Tabelas > Cotações > Índices 647
+[11/07/2017 16:31:50] Acao: Informar Valor Cotação Honorários, Serviços e Tabelas > Cotações > Índices 648
+[11/07/2017 16:31:51] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Cotações > Índices 646
+[11/07/2017 16:31:52] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Cotações > Índices 650
+[11/07/2017 16:32:01] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 16:32:16] Acao: Ir Para Login 361
+[11/07/2017 16:32:18] Acao: Informar Índice Honorários, Serviços e Tabelas > Cotações > Índices 641
+[11/07/2017 16:32:18] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Índices 642
+[11/07/2017 16:32:19] Acao: Informar Nome Honorários, Serviços e Tabelas > Cotações > Índices 643
+[11/07/2017 16:32:20] Acao: Informar Valor Cotação Honorários, Serviços e Tabelas > Cotações > Índices 648
+[11/07/2017 16:32:21] element not visible
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.10586 x86_64)WebDriver
+[11/07/2017 16:32:26] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 16:32:46] Acao: Ir Para Login 361
+[11/07/2017 16:32:47] Acao: Informar Índice Honorários, Serviços e Tabelas > Cotações > Índices 641
+[11/07/2017 16:32:48] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Índices 642
+[11/07/2017 16:32:48] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Cotações > Índices 645
+[11/07/2017 16:32:49] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Cotações > Índices 650
+[11/07/2017 20:24:49] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 20:25:07] Acao: Ir Para Login 361
+[11/07/2017 20:25:18] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 413
+[11/07/2017 20:25:40] Acao: [PRECOND] A Tabela deve Existir? Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 501
+[11/07/2017 20:25:47] Acao: Informar Nome Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 407
+[11/07/2017 20:25:49] Acao: Informar Tipo Tabela Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 409
+[11/07/2017 20:25:50] Acao: Selecionar Padrão Codificação Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 410
+[11/07/2017 20:25:51] Acao: Selecionar Padrão Valoração Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 411
+[11/07/2017 20:25:53] Acao: Selecionar TISS Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 412
+[11/07/2017 20:25:54] Acao: Selecionar Sigla Moeda Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 381
+[11/07/2017 20:25:56] Acao: Ir Para ABA Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 415
+[11/07/2017 20:25:57] Acao: Horário Especial Benef. Local - D.Util - DE Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 417
+[11/07/2017 20:25:59] Acao: Horário Especial Benef. Local - D.Util - ATÉ Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 418
+[11/07/2017 20:26:00] Acao: Horário Especial Benef. Local - Sabado - DE Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 419
+[11/07/2017 20:26:01] Acao: Horário Especial Benef. Local - Sabado - ATÉ Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 420
+[11/07/2017 20:26:03] Acao: Horário Especial Benef. IF - D.Util - DE Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 421
+[11/07/2017 20:26:04] Acao: Horário Especial Benef. I.Fed - D.Util - ATÉ Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 422
+[11/07/2017 20:26:05] Acao: Horário Especial Benef. I.Fed -Sabado- DE Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 423
+[11/07/2017 20:26:07] Acao: Horário Especial Benef. I.Fed -Sabado- ATÉ Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 424
+[11/07/2017 20:26:08] Acao: Horário Especial Benef. I.Nac - D.Util - DE Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 425
+[11/07/2017 20:26:10] Acao: Horário Especial Benef. I.Nac - D.Util - ATÉ Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 426
+[11/07/2017 20:26:11] Acao: Horário Especial Benef. I.Nac -Sabado- DE Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 427
+[11/07/2017 20:26:14] Acao: Horário Especial Benef. I.Nac -Sabado- ATÉ Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 428
+[11/07/2017 20:26:15] Acao: Ir Para ABA Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 415
+[11/07/2017 20:26:17] Acao: Informar Porte Anestésico Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 615
+[11/07/2017 20:26:18] Acao: Preencher Portes Anestésicos Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 616
+[11/07/2017 20:26:23] Acao: Informar % Auxiliar Anestesista Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 617
+[11/07/2017 20:26:25] Acao: Clicar no Botão: Incluir Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 429
+[11/07/2017 20:26:26] Acao: [POSCOND] Operação realizada com Sucesso? Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 430
+[11/07/2017 20:26:41] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 20:26:57] Acao: Ir Para Login 361
+[11/07/2017 20:27:06] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 413
+[11/07/2017 20:27:28] Acao: [PRECOND] A Tabela deve Existir? Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 501
+[11/07/2017 20:27:34] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 522
+[11/07/2017 20:27:35] Acao: [POSCOND] Operação realizada com Sucesso? Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 430
+[11/07/2017 20:27:47] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 20:28:03] Acao: Ir Para Login 361
+[11/07/2017 20:28:06] Acao: Informar Tabela Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 473
+[11/07/2017 20:28:11] Acao: [PRECOND] A Tabela Informada deve Existir? Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 502
+[11/07/2017 20:28:11] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[11/07/2017 20:28:17] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 20:28:34] Acao: Ir Para Login 361
+[11/07/2017 20:28:37] Acao: Informar Tabela Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 473
+[11/07/2017 20:28:41] Acao: [PRECOND] A Tabela Informada deve Existir? Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 502
+[11/07/2017 20:28:42] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 523
+[11/07/2017 20:28:43] Acao: [POSCOND] Operação Realizada com Sucesso? Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 491
+[11/07/2017 20:28:43] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[11/07/2017 20:28:49] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 20:29:06] Acao: Ir Para Login 361
+[11/07/2017 20:29:11] Acao: Informar Codigo Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 431
+[11/07/2017 20:29:12] Acao: Clicar no botão: Continuar Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 432
+[11/07/2017 20:29:13] Acao: [PRECOND] O Procedimento deve Existir no Sistema? Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 503
+[11/07/2017 20:29:20] Acao: Informar Descrição Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 433
+[11/07/2017 20:29:21] Acao: Selecionar Padrão Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 435
+[11/07/2017 20:29:45] Acao: Selecionar Sexo Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 436
+[11/07/2017 20:29:45] Acao: Selecionar Grupo Estatístico Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 437
+[11/07/2017 20:29:49] Acao: Selecionar Capítulo AMB Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 493
+[11/07/2017 20:29:50] Acao: Selecionar Especialidade AMB Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 494
+[11/07/2017 20:29:51] Acao: Informar Habilitação de Especialidade Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 530
+[11/07/2017 20:29:55] Acao: Clicar no botão: Incluir Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 438
+[11/07/2017 20:29:56] Acao: [POSCOND] Operação Realizada com Sucesso? Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 504
+[11/07/2017 20:30:26] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 20:30:43] Acao: Ir Para Login 361
+[11/07/2017 20:30:48] Acao: Informar Codigo Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 431
+[11/07/2017 20:30:49] Acao: Clicar no botão: Continuar Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 432
+[11/07/2017 20:30:50] Acao: [PRECOND] O Procedimento deve Existir no Sistema? Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 503
+[11/07/2017 20:31:28] Acao: Clicar botão: Excluir Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 531
+[11/07/2017 20:31:29] Acao: [POSCOND] Operação Realizada com Sucesso? Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 504
+[11/07/2017 20:31:41] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 20:31:57] Acao: Ir Para Login 361
+[11/07/2017 20:31:59] Acao: Informar Código Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 450
+[11/07/2017 20:32:08] Acao: [PRECOND] O Serviço Deve Existir? Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 505
+[11/07/2017 20:32:09] Acao: Informar Descrição Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 452
+[11/07/2017 20:32:10] Acao: Informar Regime Atendimento Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 453
+[11/07/2017 20:32:10] Acao: Informar Regime Atendimento Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 453
+[11/07/2017 20:32:11] Acao: Selecionar Grupo Estatístico Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 454
+[11/07/2017 20:32:14] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 455
+[11/07/2017 20:32:15] Acao: [POSCOND] Operação Realizada com Sucesso? Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 457
+[11/07/2017 20:32:25] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 20:32:41] Acao: Ir Para Login 361
+[11/07/2017 20:32:43] Acao: Informar Código Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 450
+[11/07/2017 20:32:51] Acao: [PRECOND] O Serviço Deve Existir? Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 505
+[11/07/2017 20:32:52] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 524
+[11/07/2017 20:32:53] Acao: [POSCOND] Operação Realizada com Sucesso? Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 457
+[11/07/2017 20:33:03] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 20:33:19] Acao: Ir Para Login 361
+[11/07/2017 20:33:23] Acao: Informar Código Tabela Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 456
+[11/07/2017 20:33:29] Acao: [PRECOND] O Tipo Tabela deve Existir? Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 546
+[11/07/2017 20:33:30] Acao: Informar Descrição Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 458
+[11/07/2017 20:33:30] Acao: Informar TISS Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 462
+[11/07/2017 20:33:31] Acao: Informar Moeda Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 541
+[11/07/2017 20:33:32] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 542
+[11/07/2017 20:33:33] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 545
+[11/07/2017 20:33:42] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 20:34:00] Acao: Ir Para Login 361
+[11/07/2017 20:34:04] Acao: Informar Código Tabela Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 456
+[11/07/2017 20:34:10] Acao: [PRECOND] O Tipo Tabela deve Existir? Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 546
+[11/07/2017 20:34:10] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 544
+[11/07/2017 20:34:11] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 545
+[11/07/2017 20:34:21] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 20:34:39] Acao: Ir Para Login 361
+[11/07/2017 20:34:45] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 459
+[11/07/2017 20:34:50] Acao: Informar Data Vigência Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 460
+[11/07/2017 20:34:51] Acao: [PRECOND] Valorização pra Data NÃO Deve Existir Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 509
+[11/07/2017 20:34:53] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 461
+[11/07/2017 20:34:54] Acao: Informar Opção de Ação Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 466
+[11/07/2017 20:34:55] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 467
+[11/07/2017 20:34:56] Acao: [POSCOND] Operação Relizada com Sucesso? Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 506
+[11/07/2017 20:35:04] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 20:35:22] Acao: Ir Para Login 361
+[11/07/2017 20:35:26] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 459
+[11/07/2017 20:35:31] Acao: [PRECOND] Valorização para Data DEVE Existir Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 525
+[11/07/2017 20:35:34] Acao: Clicar na Data da Valorização Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 526
+[11/07/2017 20:35:36] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 528
+[11/07/2017 20:35:38] Acao: [POSCOND] Operação Relizada com Sucesso? Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 506
+[11/07/2017 20:35:47] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 20:36:04] Acao: Ir Para Login 361
+[11/07/2017 20:36:08] Acao: Informar Tipo Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 475
+[11/07/2017 20:36:12] Acao: Informar Código Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 476
+[11/07/2017 20:36:22] Acao: [PRECOND] Material / Medicamento deve Existir? Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 510
+[11/07/2017 20:36:23] Acao: Informar Descrição Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 477
+[11/07/2017 20:36:24] Acao: Selecionar Classificação (Por Nome) Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 478
+[11/07/2017 20:36:27] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 479
+[11/07/2017 20:36:28] Acao: [POSCOND] Operação Relizada com Sucesso? Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 480
+[11/07/2017 20:36:37] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 20:36:55] Acao: Ir Para Login 361
+[11/07/2017 20:37:05] Acao: Informar Tipo Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 475
+[11/07/2017 20:37:11] Acao: Informar Código Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 476
+[11/07/2017 20:37:21] Acao: [PRECOND] Material / Medicamento deve Existir? Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 510
+[11/07/2017 20:37:22] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 529
+[11/07/2017 20:37:23] Acao: [POSCOND] Operação Relizada com Sucesso? Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 480
+[11/07/2017 20:37:30] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 20:37:50] Acao: Ir Para Login 361
+[11/07/2017 20:37:58] Acao: Informar Tabela Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 581
+[11/07/2017 20:38:02] Acao: Informar Vigência Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 582
+[11/07/2017 20:38:02] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 583
+[11/07/2017 20:38:03] Acao: Informar Opção Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 584
+[11/07/2017 20:38:07] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 585
+[11/07/2017 20:38:08] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 586
+[11/07/2017 20:38:19] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 20:38:36] Acao: Ir Para Login 361
+[11/07/2017 20:38:43] Acao: Informar Tabela Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 581
+[11/07/2017 20:38:48] Acao: Informar Vigência Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 582
+[11/07/2017 20:38:48] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 583
+[11/07/2017 20:38:49] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 587
+[11/07/2017 20:38:54] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 586
+[11/07/2017 20:39:54] The HTTP request to the remote WebDriver server for URL http://localhost:53280/session/9152890181b82897d0ea86acd45b6d37/frame timed out after 60 seconds.WebDriver
+[11/07/2017 20:40:03] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 20:40:23] Acao: Ir Para Login 361
+[11/07/2017 20:40:24] Acao: Informar Data Cotação Porte Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 621
+[11/07/2017 20:40:25] Acao: [PRECOND] Porte para data NÃO deve existir Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 622
+[11/07/2017 20:40:27] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 623
+[11/07/2017 20:40:28] Acao: Informar Valores dos Portes Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 624
+[11/07/2017 20:40:39] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 625
+[11/07/2017 20:40:40] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 626
+[11/07/2017 20:40:47] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 20:41:06] Acao: Ir Para Login 361
+[11/07/2017 20:41:07] Acao: Informar Data Cotação Porte Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 621
+[11/07/2017 20:41:08] Acao: [PRECOND] Porte para a data DEVE existir Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 627
+[11/07/2017 20:41:10] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 623
+[11/07/2017 20:41:11] Acao: Limpar Valores dos Portes Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 629
+[11/07/2017 20:41:16] Acao: Informar Valores dos Portes Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 624
+[11/07/2017 20:41:26] Acao: Clicar Botão: Alterar Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 628
+[11/07/2017 20:41:26] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 626
+[11/07/2017 20:41:33] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 20:41:51] Acao: Ir Para Login 361
+[11/07/2017 20:41:52] Acao: Informar Data Cotação Porte Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 621
+[11/07/2017 20:41:52] Acao: [PRECOND] Porte para a data DEVE existir Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 627
+[11/07/2017 20:41:54] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 623
+[11/07/2017 20:41:55] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 630
+[11/07/2017 20:41:58] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 626
+[11/07/2017 20:42:04] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 20:42:22] Acao: Ir Para Login 361
+[11/07/2017 20:42:24] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 631
+[11/07/2017 20:42:25] Acao: Informar Data Cotação Porte Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 637
+[11/07/2017 20:42:26] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 633
+[11/07/2017 20:42:27] Acao: Informar Valores do Porte Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 638
+[11/07/2017 20:42:37] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 634
+[11/07/2017 20:42:37] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 639
+[11/07/2017 20:42:44] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 20:43:03] Acao: Ir Para Login 361
+[11/07/2017 20:43:04] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 631
+[11/07/2017 20:43:35] Timed out after 30 secondsWebDriver.Support
+[11/07/2017 20:43:41] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 20:44:01] Acao: Ir Para Login 361
+[11/07/2017 20:44:03] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 631
+[11/07/2017 20:44:05] Acao: Informar Data Cotação Porte Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 637
+[11/07/2017 20:44:06] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 633
+[11/07/2017 20:44:06] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 636
+[11/07/2017 20:44:10] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 639
+[11/07/2017 20:44:17] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 20:44:35] Acao: Ir Para Login 361
+[11/07/2017 20:44:36] Acao: Informar Índice Honorários, Serviços e Tabelas > Cotações > Índices 641
+[11/07/2017 20:44:37] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Índices 642
+[11/07/2017 20:44:37] Acao: Informar Nome Honorários, Serviços e Tabelas > Cotações > Índices 643
+[11/07/2017 20:44:39] Acao: Informar Data Cotação Honorários, Serviços e Tabelas > Cotações > Índices 647
+[11/07/2017 20:44:40] Acao: Informar Valor Cotação Honorários, Serviços e Tabelas > Cotações > Índices 648
+[11/07/2017 20:44:40] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Cotações > Índices 646
+[11/07/2017 20:44:41] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Cotações > Índices 650
+[11/07/2017 20:44:51] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 20:45:08] Acao: Ir Para Login 361
+[11/07/2017 20:45:10] Acao: Informar Índice Honorários, Serviços e Tabelas > Cotações > Índices 641
+[11/07/2017 20:45:11] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Índices 642
+[11/07/2017 20:45:12] Acao: Informar Nome Honorários, Serviços e Tabelas > Cotações > Índices 643
+[11/07/2017 20:45:14] Acao: Informar Valor Cotação Honorários, Serviços e Tabelas > Cotações > Índices 648
+[11/07/2017 20:45:14] element not visible
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.10586 x86_64)WebDriver
+[11/07/2017 20:45:21] Acao: Logar (223.223.2.102) Login 327
+[11/07/2017 20:45:39] Acao: Ir Para Login 361
+[11/07/2017 20:45:41] Acao: Informar Índice Honorários, Serviços e Tabelas > Cotações > Índices 641
+[11/07/2017 20:45:41] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Índices 642
+[11/07/2017 20:45:42] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Cotações > Índices 645
+[11/07/2017 20:45:45] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Cotações > Índices 650

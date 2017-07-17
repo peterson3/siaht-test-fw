@@ -1,0 +1,231 @@
+[23/05/2017 15:26:41] Acao: Logar (223.223.2.160) Login 283
+[23/05/2017 15:28:05] D:\Peterson\Projetos\QADynamicFramework\UI_test_player_TD\bin\Debug\ctf\created
+[23/05/2017 15:31:33] D:\Peterson\Projetos\QADynamicFramework\UI_test_player_TD\bin\Debug\ctf\created
+[23/05/2017 15:32:01] Acao: Logar (223.223.2.160) Login 283
+[23/05/2017 15:41:02] Acao: Logar (223.223.2.160) Login 283
+[23/05/2017 15:41:21] Acao: Logout Login 284
+[23/05/2017 15:41:21] JavaScript error (UnexpectedJavaScriptError)WebDriver
+[23/05/2017 15:42:18] Acao: Logar (223.223.2.160) Login 283
+[23/05/2017 15:42:22] Acao: Logout Login 284
+[23/05/2017 15:45:55] Acao: Logar (223.223.2.160) Login 283
+[23/05/2017 15:45:59] Acao: Logout Login 284
+[23/05/2017 15:48:24] Acao: Logar (223.223.2.160) Login 283
+[23/05/2017 15:53:20] Acao: Logar (223.223.2.160) Login 283
+[23/05/2017 15:53:24] Acao: Ir Para Controle de Acesso > Usuário > Cadastro de Usuário 285
+[23/05/2017 16:40:35] D:\Peterson\Projetos\QADynamicFramework\UI_test_player_TD\bin\Debug\ctf\created
+[23/05/2017 16:45:11] D:\Peterson\Projetos\QADynamicFramework\UI_test_player_TD\bin\Debug\ctf\created
+[23/05/2017 16:45:40] Acao: Logar (223.223.2.160) Login 283
+[23/05/2017 16:45:47] Acao: Ir Para Controle de Acesso > Usuário > Cadastro de Usuário 285
+[23/05/2017 16:45:54] Acao: Logout Login 284
+[23/05/2017 16:47:54] Acao: Logar (223.223.2.160) Login 283
+[23/05/2017 16:47:58] Acao: IrParaMenu Principal 282
+[23/05/2017 16:48:00] Acao: Logout Login 284
+[23/05/2017 19:14:29] D:\Peterson\Projetos\QADynamicFramework\UI_test_player_TD\bin\Debug\ctf\created
+[23/05/2017 19:14:44] D:\Peterson\Projetos\QADynamicFramework\UI_test_player_TD\bin\Debug\ctf\created
+[23/05/2017 19:14:54] D:\Peterson\Projetos\QADynamicFramework\UI_test_player_TD\bin\Debug\ctf\created
+[23/05/2017 19:19:50] Acao: Logar (223.223.2.160) Login 283
+[23/05/2017 19:19:56] Acao: IrParaMenu Principal 282
+[23/05/2017 19:19:59] Acao: Informar Login Controle de Acesso > Usuário > Cadastro de Usuário 286
+[23/05/2017 19:20:04] Acao: Informar Login Workflow Controle de Acesso > Usuário > Cadastro de Usuário 288
+[23/05/2017 19:20:07] Acao: Informar Nome Controle de Acesso > Usuário > Cadastro de Usuário 289
+[23/05/2017 19:20:09] Acao: Informar Telefone Controle de Acesso > Usuário > Cadastro de Usuário 290
+[23/05/2017 19:20:11] Acao: Informar E-mail Controle de Acesso > Usuário > Cadastro de Usuário 291
+[23/05/2017 19:20:13] Acao: Iformar Tipo de Usuário Controle de Acesso > Usuário > Cadastro de Usuário 292
+[23/05/2017 19:20:15] Acao: Informar Local Usuário Controle de Acesso > Usuário > Cadastro de Usuário 293
+[23/05/2017 19:24:56] Acao: Logar (223.223.2.160) Login 283
+[23/05/2017 19:25:02] Acao: IrParaMenu Principal 282
+[23/05/2017 19:25:04] Acao: Informar Login Controle de Acesso > Usuário > Cadastro de Usuário 286
+[23/05/2017 19:25:09] Acao: Informar Login Workflow Controle de Acesso > Usuário > Cadastro de Usuário 288
+[23/05/2017 19:25:11] Acao: Informar Nome Controle de Acesso > Usuário > Cadastro de Usuário 289
+[23/05/2017 19:25:13] Acao: Informar Telefone Controle de Acesso > Usuário > Cadastro de Usuário 290
+[23/05/2017 19:25:15] Acao: Informar E-mail Controle de Acesso > Usuário > Cadastro de Usuário 291
+[23/05/2017 19:25:16] Acao: Iformar Tipo de Usuário Controle de Acesso > Usuário > Cadastro de Usuário 292
+[23/05/2017 19:25:18] Acao: Informar Local Usuário Controle de Acesso > Usuário > Cadastro de Usuário 293
+[23/05/2017 19:25:20] Acao: Clicar em: Incluir Controle de Acesso > Usuário > Cadastro de Usuário 295
+[23/05/2017 19:25:21] Modal dialog presentWebDriver
+[23/05/2017 19:25:54] Acao: Logar (223.223.2.160) Login 283
+[23/05/2017 19:25:58] Acao: IrParaMenu Principal 282
+[23/05/2017 19:26:00] Acao: Informar Login Controle de Acesso > Usuário > Cadastro de Usuário 286
+[23/05/2017 19:26:05] Acao: Informar Login Workflow Controle de Acesso > Usuário > Cadastro de Usuário 288
+[23/05/2017 19:26:07] Acao: Informar Nome Controle de Acesso > Usuário > Cadastro de Usuário 289
+[23/05/2017 19:26:09] Acao: Informar Telefone Controle de Acesso > Usuário > Cadastro de Usuário 290
+[23/05/2017 19:26:11] Acao: Informar E-mail Controle de Acesso > Usuário > Cadastro de Usuário 291
+[23/05/2017 19:26:13] Acao: Iformar Tipo de Usuário Controle de Acesso > Usuário > Cadastro de Usuário 292
+[23/05/2017 19:26:15] Acao: Informar Local Usuário Controle de Acesso > Usuário > Cadastro de Usuário 293
+[23/05/2017 19:26:17] Acao: Clicar em: Incluir Controle de Acesso > Usuário > Cadastro de Usuário 295
+[23/05/2017 19:36:12] Acao: Logar (223.223.2.160) Login 283
+[23/05/2017 19:36:33] Unable to find element with name == txt_dsnWebDriver
+[23/05/2017 19:37:48] Acao: Logar (223.223.2.160) Login 283
+[23/05/2017 19:38:09] Unable to find element with name == txt_dsnWebDriver
+[23/05/2017 19:40:31] Acao: Logar (223.223.2.160) Login 283
+[23/05/2017 19:40:36] Acao: IrParaMenu Principal 282
+[23/05/2017 19:40:38] Acao: Informar Login Controle de Acesso > Usuário > Cadastro de Usuário 286
+[23/05/2017 19:40:43] Acao: Informar Login Workflow Controle de Acesso > Usuário > Cadastro de Usuário 288
+[23/05/2017 19:40:45] Acao: Informar Nome Controle de Acesso > Usuário > Cadastro de Usuário 289
+[23/05/2017 19:40:46] Acao: Informar Telefone Controle de Acesso > Usuário > Cadastro de Usuário 290
+[23/05/2017 19:40:48] Acao: Informar E-mail Controle de Acesso > Usuário > Cadastro de Usuário 291
+[23/05/2017 19:40:50] Acao: Iformar Tipo de Usuário Controle de Acesso > Usuário > Cadastro de Usuário 292
+[23/05/2017 19:40:52] Acao: Informar Local Usuário Controle de Acesso > Usuário > Cadastro de Usuário 293
+[23/05/2017 19:40:54] Acao: Clicar em: Incluir Controle de Acesso > Usuário > Cadastro de Usuário 295
+[23/05/2017 19:41:25] Timed out after 30 secondsWebDriver.Support
+[23/05/2017 19:42:08] Acao: Logar (223.223.2.160) Login 283
+[23/05/2017 19:42:13] Acao: IrParaMenu Principal 282
+[23/05/2017 19:42:15] Acao: Informar Login Controle de Acesso > Usuário > Cadastro de Usuário 286
+[23/05/2017 19:42:20] Acao: Informar Login Workflow Controle de Acesso > Usuário > Cadastro de Usuário 288
+[23/05/2017 19:42:21] Acao: Informar Nome Controle de Acesso > Usuário > Cadastro de Usuário 289
+[23/05/2017 19:42:23] Acao: Informar Telefone Controle de Acesso > Usuário > Cadastro de Usuário 290
+[23/05/2017 19:42:25] Acao: Informar E-mail Controle de Acesso > Usuário > Cadastro de Usuário 291
+[23/05/2017 19:42:27] Acao: Iformar Tipo de Usuário Controle de Acesso > Usuário > Cadastro de Usuário 292
+[23/05/2017 19:42:29] Acao: Informar Local Usuário Controle de Acesso > Usuário > Cadastro de Usuário 293
+[23/05/2017 19:42:31] Acao: Clicar em: Incluir Controle de Acesso > Usuário > Cadastro de Usuário 295
+[23/05/2017 19:43:01] Timed out after 30 secondsWebDriver.Support
+[23/05/2017 19:43:19] Acao: Logar (223.223.2.160) Login 283
+[23/05/2017 19:43:25] Acao: IrParaMenu Principal 282
+[23/05/2017 19:43:27] Acao: Informar Login Controle de Acesso > Usuário > Cadastro de Usuário 286
+[23/05/2017 19:43:32] Acao: Informar Login Workflow Controle de Acesso > Usuário > Cadastro de Usuário 288
+[23/05/2017 19:43:34] Acao: Informar Nome Controle de Acesso > Usuário > Cadastro de Usuário 289
+[23/05/2017 19:43:36] Acao: Informar Telefone Controle de Acesso > Usuário > Cadastro de Usuário 290
+[23/05/2017 19:43:38] Acao: Informar E-mail Controle de Acesso > Usuário > Cadastro de Usuário 291
+[23/05/2017 19:43:40] Acao: Iformar Tipo de Usuário Controle de Acesso > Usuário > Cadastro de Usuário 292
+[23/05/2017 19:43:42] Acao: Informar Local Usuário Controle de Acesso > Usuário > Cadastro de Usuário 293
+[23/05/2017 19:43:43] Acao: Clicar em: Incluir Controle de Acesso > Usuário > Cadastro de Usuário 295
+[23/05/2017 19:43:46] Acao: [VERIFICADOR] Deve aparecer mensagem de inclusão Controle de Acesso > Usuário > Cadastro de Usuário 296
+[23/05/2017 19:44:16] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[23/05/2017 19:45:20] Acao: Logar (223.223.2.160) Login 283
+[23/05/2017 19:45:25] Acao: IrParaMenu Principal 282
+[23/05/2017 19:45:26] Acao: Informar Login Controle de Acesso > Usuário > Cadastro de Usuário 286
+[23/05/2017 19:45:31] Acao: Informar Login Workflow Controle de Acesso > Usuário > Cadastro de Usuário 288
+[23/05/2017 19:45:33] Acao: Informar Nome Controle de Acesso > Usuário > Cadastro de Usuário 289
+[23/05/2017 19:45:35] Acao: Informar Telefone Controle de Acesso > Usuário > Cadastro de Usuário 290
+[23/05/2017 19:45:37] Acao: Informar E-mail Controle de Acesso > Usuário > Cadastro de Usuário 291
+[23/05/2017 19:45:39] Acao: Iformar Tipo de Usuário Controle de Acesso > Usuário > Cadastro de Usuário 292
+[23/05/2017 19:45:40] Acao: Informar Local Usuário Controle de Acesso > Usuário > Cadastro de Usuário 293
+[23/05/2017 19:45:42] Acao: Clicar em: Incluir Controle de Acesso > Usuário > Cadastro de Usuário 295
+[23/05/2017 19:46:13] Timed out after 30 secondsWebDriver.Support
+[23/05/2017 19:46:24] Acao: Logar (223.223.2.160) Login 283
+[23/05/2017 19:46:29] Acao: IrParaMenu Principal 282
+[23/05/2017 19:46:31] Acao: Informar Login Controle de Acesso > Usuário > Cadastro de Usuário 286
+[23/05/2017 19:46:36] Acao: Informar Login Workflow Controle de Acesso > Usuário > Cadastro de Usuário 288
+[23/05/2017 19:46:38] Acao: Informar Nome Controle de Acesso > Usuário > Cadastro de Usuário 289
+[23/05/2017 19:46:40] Acao: Informar Telefone Controle de Acesso > Usuário > Cadastro de Usuário 290
+[23/05/2017 19:46:41] Acao: Informar E-mail Controle de Acesso > Usuário > Cadastro de Usuário 291
+[23/05/2017 19:46:43] Acao: Iformar Tipo de Usuário Controle de Acesso > Usuário > Cadastro de Usuário 292
+[23/05/2017 19:46:45] Acao: Informar Local Usuário Controle de Acesso > Usuário > Cadastro de Usuário 293
+[23/05/2017 19:46:47] Acao: Clicar em: Incluir Controle de Acesso > Usuário > Cadastro de Usuário 295
+[23/05/2017 19:46:49] Acao: [VERIFICADOR] Deve aparecer mensagem de inclusão Controle de Acesso > Usuário > Cadastro de Usuário 296
+[23/05/2017 19:47:10] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[23/05/2017 20:07:01] Acao: Logar (223.223.2.160) Login 283
+[23/05/2017 20:07:05] Acao: IrParaMenu Principal 282
+[23/05/2017 20:07:08] Acao: Informar Login Controle de Acesso > Usuário > Cadastro de Usuário 286
+[23/05/2017 20:07:13] Acao: Informar Login Workflow Controle de Acesso > Usuário > Cadastro de Usuário 288
+[23/05/2017 20:07:14] Acao: Informar Nome Controle de Acesso > Usuário > Cadastro de Usuário 289
+[23/05/2017 20:07:16] Acao: Informar Telefone Controle de Acesso > Usuário > Cadastro de Usuário 290
+[23/05/2017 20:07:18] Acao: Informar E-mail Controle de Acesso > Usuário > Cadastro de Usuário 291
+[23/05/2017 20:07:20] Acao: Iformar Tipo de Usuário Controle de Acesso > Usuário > Cadastro de Usuário 292
+[23/05/2017 20:07:22] Acao: Informar Local Usuário Controle de Acesso > Usuário > Cadastro de Usuário 293
+[23/05/2017 20:07:24] Acao: Clicar em: Incluir Controle de Acesso > Usuário > Cadastro de Usuário 295
+[23/05/2017 20:07:26] Acao: [VERIFICADOR] Deve aparecer mensagem de inclusão Controle de Acesso > Usuário > Cadastro de Usuário 296
+[23/05/2017 20:07:39] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[23/05/2017 20:11:54] Acao: Logar (223.223.2.160) Login 283
+[23/05/2017 20:11:59] Acao: IrParaMenu Principal 282
+[23/05/2017 20:12:01] Acao: Informar Login Controle de Acesso > Usuário > Cadastro de Usuário 286
+[23/05/2017 20:12:06] Acao: Informar Login Workflow Controle de Acesso > Usuário > Cadastro de Usuário 288
+[23/05/2017 20:12:08] Acao: Informar Nome Controle de Acesso > Usuário > Cadastro de Usuário 289
+[23/05/2017 20:12:10] Acao: Informar Telefone Controle de Acesso > Usuário > Cadastro de Usuário 290
+[23/05/2017 20:12:12] Acao: Informar E-mail Controle de Acesso > Usuário > Cadastro de Usuário 291
+[23/05/2017 20:12:14] Acao: Iformar Tipo de Usuário Controle de Acesso > Usuário > Cadastro de Usuário 292
+[23/05/2017 20:12:15] Acao: Informar Local Usuário Controle de Acesso > Usuário > Cadastro de Usuário 293
+[23/05/2017 20:12:17] Acao: Clicar em: Incluir Controle de Acesso > Usuário > Cadastro de Usuário 295
+[23/05/2017 20:12:19] Modal dialog presentWebDriver
+[23/05/2017 20:12:29] Acao: Logar (223.223.2.160) Login 283
+[23/05/2017 20:12:34] Acao: IrParaMenu Principal 282
+[23/05/2017 20:12:36] Acao: Informar Login Controle de Acesso > Usuário > Cadastro de Usuário 286
+[23/05/2017 20:12:41] Acao: Informar Login Workflow Controle de Acesso > Usuário > Cadastro de Usuário 288
+[23/05/2017 20:12:43] Acao: Informar Nome Controle de Acesso > Usuário > Cadastro de Usuário 289
+[23/05/2017 20:12:45] Acao: Informar Telefone Controle de Acesso > Usuário > Cadastro de Usuário 290
+[23/05/2017 20:12:47] Acao: Informar E-mail Controle de Acesso > Usuário > Cadastro de Usuário 291
+[23/05/2017 20:12:50] Acao: Iformar Tipo de Usuário Controle de Acesso > Usuário > Cadastro de Usuário 292
+[23/05/2017 20:12:51] Acao: Informar Local Usuário Controle de Acesso > Usuário > Cadastro de Usuário 293
+[23/05/2017 20:12:53] Acao: Clicar em: Incluir Controle de Acesso > Usuário > Cadastro de Usuário 295
+[23/05/2017 20:12:55] Acao: [VERIFICADOR] Deve aparecer mensagem de inclusão Controle de Acesso > Usuário > Cadastro de Usuário 296
+[23/05/2017 20:16:33] Acao: Logar (223.223.2.160) Login 283
+[23/05/2017 20:16:36] Acao: IrParaMenu Principal 282
+[23/05/2017 20:16:38] Acao: Informar Login Controle de Acesso > Usuário > Cadastro de Usuário 286
+[23/05/2017 20:16:43] Acao: Informar Login Workflow Controle de Acesso > Usuário > Cadastro de Usuário 288
+[23/05/2017 20:16:45] Acao: Informar Nome Controle de Acesso > Usuário > Cadastro de Usuário 289
+[23/05/2017 20:16:46] Acao: Informar Telefone Controle de Acesso > Usuário > Cadastro de Usuário 290
+[23/05/2017 20:16:48] Acao: Informar E-mail Controle de Acesso > Usuário > Cadastro de Usuário 291
+[23/05/2017 20:16:50] Acao: Iformar Tipo de Usuário Controle de Acesso > Usuário > Cadastro de Usuário 292
+[23/05/2017 20:16:52] Acao: Informar Local Usuário Controle de Acesso > Usuário > Cadastro de Usuário 293
+[23/05/2017 20:16:53] Acao: Clicar em: Incluir Controle de Acesso > Usuário > Cadastro de Usuário 295
+[23/05/2017 20:16:55] Acao: [VERIFICADOR] Deve aparecer mensagem de inclusão Controle de Acesso > Usuário > Cadastro de Usuário 296
+[23/05/2017 20:16:58] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[23/05/2017 20:18:02] Acao: Logar (223.223.2.160) Login 283
+[23/05/2017 20:18:06] Acao: IrParaMenu Principal 282
+[23/05/2017 20:18:08] Acao: Informar Login Controle de Acesso > Usuário > Cadastro de Usuário 286
+[23/05/2017 20:18:12] Acao: Informar Login Workflow Controle de Acesso > Usuário > Cadastro de Usuário 288
+[23/05/2017 20:18:14] Acao: Informar Nome Controle de Acesso > Usuário > Cadastro de Usuário 289
+[23/05/2017 20:18:16] Acao: Informar Telefone Controle de Acesso > Usuário > Cadastro de Usuário 290
+[23/05/2017 20:18:17] Acao: Informar E-mail Controle de Acesso > Usuário > Cadastro de Usuário 291
+[23/05/2017 20:18:19] Acao: Iformar Tipo de Usuário Controle de Acesso > Usuário > Cadastro de Usuário 292
+[23/05/2017 20:18:21] Acao: Informar Local Usuário Controle de Acesso > Usuário > Cadastro de Usuário 293
+[23/05/2017 20:18:22] Acao: Clicar em: Incluir Controle de Acesso > Usuário > Cadastro de Usuário 295
+[23/05/2017 20:18:24] Acao: [VERIFICADOR] Deve aparecer mensagem de inclusão Controle de Acesso > Usuário > Cadastro de Usuário 296
+[23/05/2017 20:18:27] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[23/05/2017 20:19:12] Acao: Logar (223.223.2.160) Login 283
+[23/05/2017 20:19:18] Acao: IrParaMenu Principal 282
+[23/05/2017 20:19:20] Acao: Informar Login Controle de Acesso > Usuário > Cadastro de Usuário 286
+[23/05/2017 20:19:26] Acao: Informar Login Workflow Controle de Acesso > Usuário > Cadastro de Usuário 288
+[23/05/2017 20:19:27] Acao: Informar Nome Controle de Acesso > Usuário > Cadastro de Usuário 289
+[23/05/2017 20:19:30] Acao: Informar Telefone Controle de Acesso > Usuário > Cadastro de Usuário 290
+[23/05/2017 20:19:31] Acao: Informar E-mail Controle de Acesso > Usuário > Cadastro de Usuário 291
+[23/05/2017 20:19:33] Acao: Iformar Tipo de Usuário Controle de Acesso > Usuário > Cadastro de Usuário 292
+[23/05/2017 20:19:35] Acao: Informar Local Usuário Controle de Acesso > Usuário > Cadastro de Usuário 293
+[23/05/2017 20:19:36] Acao: Clicar em: Incluir Controle de Acesso > Usuário > Cadastro de Usuário 295
+[23/05/2017 20:19:38] Acao: [VERIFICADOR] Deve aparecer mensagem de inclusão Controle de Acesso > Usuário > Cadastro de Usuário 296
+[23/05/2017 20:20:03] Acao: Logar (223.223.2.160) Login 283
+[23/05/2017 20:20:07] Acao: IrParaMenu Principal 282
+[23/05/2017 20:20:09] Acao: Informar Login Controle de Acesso > Usuário > Cadastro de Usuário 286
+[23/05/2017 20:20:14] Acao: Informar Login Workflow Controle de Acesso > Usuário > Cadastro de Usuário 288
+[23/05/2017 20:20:16] Acao: Informar Nome Controle de Acesso > Usuário > Cadastro de Usuário 289
+[23/05/2017 20:20:17] Acao: Informar Telefone Controle de Acesso > Usuário > Cadastro de Usuário 290
+[23/05/2017 20:20:19] Acao: Informar E-mail Controle de Acesso > Usuário > Cadastro de Usuário 291
+[23/05/2017 20:20:21] Acao: Iformar Tipo de Usuário Controle de Acesso > Usuário > Cadastro de Usuário 292
+[23/05/2017 20:20:22] Acao: Informar Local Usuário Controle de Acesso > Usuário > Cadastro de Usuário 293
+[23/05/2017 20:20:24] Acao: Clicar em: Incluir Controle de Acesso > Usuário > Cadastro de Usuário 295
+[23/05/2017 20:20:26] Acao: [VERIFICADOR] Deve aparecer mensagem de inclusão Controle de Acesso > Usuário > Cadastro de Usuário 296
+[23/05/2017 20:20:29] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[23/05/2017 20:22:57] Acao: Logar (223.223.2.160) Login 283
+[23/05/2017 20:23:01] Acao: IrParaMenu Principal 282
+[23/05/2017 20:23:03] Acao: Informar Login Controle de Acesso > Usuário > Cadastro de Usuário 286
+[23/05/2017 20:23:08] Acao: Informar Login Workflow Controle de Acesso > Usuário > Cadastro de Usuário 288
+[23/05/2017 20:23:10] Acao: Informar Nome Controle de Acesso > Usuário > Cadastro de Usuário 289
+[23/05/2017 20:23:12] Acao: Informar Telefone Controle de Acesso > Usuário > Cadastro de Usuário 290
+[23/05/2017 20:23:14] Acao: Informar E-mail Controle de Acesso > Usuário > Cadastro de Usuário 291
+[23/05/2017 20:23:15] Acao: Iformar Tipo de Usuário Controle de Acesso > Usuário > Cadastro de Usuário 292
+[23/05/2017 20:23:17] Acao: Informar Local Usuário Controle de Acesso > Usuário > Cadastro de Usuário 293
+[23/05/2017 20:23:19] Acao: Clicar em: Incluir Controle de Acesso > Usuário > Cadastro de Usuário 295
+[23/05/2017 20:23:20] Acao: [VERIFICADOR] Deve aparecer mensagem de inclusão Controle de Acesso > Usuário > Cadastro de Usuário 296
+[23/05/2017 20:23:24] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[23/05/2017 20:28:08] Acao: Logar (223.223.2.160) Login 283
+[23/05/2017 20:28:12] Acao: IrParaMenu Principal 282
+[23/05/2017 20:28:13] Acao: Informar Login Controle de Acesso > Usuário > Cadastro de Usuário 286
+[23/05/2017 20:28:18] Acao: Informar Login Workflow Controle de Acesso > Usuário > Cadastro de Usuário 288
+[23/05/2017 20:28:20] Acao: Informar Nome Controle de Acesso > Usuário > Cadastro de Usuário 289
+[23/05/2017 20:28:22] Acao: Informar Telefone Controle de Acesso > Usuário > Cadastro de Usuário 290
+[23/05/2017 20:28:23] Acao: Informar E-mail Controle de Acesso > Usuário > Cadastro de Usuário 291
+[23/05/2017 20:28:25] Acao: Iformar Tipo de Usuário Controle de Acesso > Usuário > Cadastro de Usuário 292
+[23/05/2017 20:28:27] Acao: Informar Local Usuário Controle de Acesso > Usuário > Cadastro de Usuário 293
+[23/05/2017 20:28:28] Acao: Clicar em: Incluir Controle de Acesso > Usuário > Cadastro de Usuário 295
+[23/05/2017 20:28:41] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[23/05/2017 20:29:43] Acao: Logar (223.223.2.160) Login 283
+[23/05/2017 20:29:47] Acao: IrParaMenu Principal 282
+[23/05/2017 20:29:49] Acao: Informar Login Controle de Acesso > Usuário > Cadastro de Usuário 286
+[23/05/2017 20:29:53] Acao: Informar Login Workflow Controle de Acesso > Usuário > Cadastro de Usuário 288
+[23/05/2017 20:29:55] Acao: Informar Nome Controle de Acesso > Usuário > Cadastro de Usuário 289
+[23/05/2017 20:29:57] Acao: Informar Telefone Controle de Acesso > Usuário > Cadastro de Usuário 290
+[23/05/2017 20:29:59] Acao: Informar E-mail Controle de Acesso > Usuário > Cadastro de Usuário 291
+[23/05/2017 20:30:00] Acao: Iformar Tipo de Usuário Controle de Acesso > Usuário > Cadastro de Usuário 292
+[23/05/2017 20:30:02] Acao: Informar Local Usuário Controle de Acesso > Usuário > Cadastro de Usuário 293
+[23/05/2017 20:30:04] Acao: Clicar em: Incluir Controle de Acesso > Usuário > Cadastro de Usuário 295
+[23/05/2017 20:30:06] Acao: [VERIFICADOR] Deve aparecer mensagem de inclusão Controle de Acesso > Usuário > Cadastro de Usuário 296

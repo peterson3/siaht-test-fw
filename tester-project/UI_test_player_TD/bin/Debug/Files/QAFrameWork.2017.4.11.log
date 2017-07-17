@@ -1,0 +1,46 @@
+[11/04/2017 16:33:07] Acao: Ir Para Login 4
+[11/04/2017 16:33:11] Acao: Informar Usuário Login 6
+[11/04/2017 16:33:13] Acao: Informar Base Login 5
+[11/04/2017 16:33:15] Acao: Informar Senha Login 7
+[11/04/2017 16:33:17] Acao: Clicar em Logar Login 8
+[11/04/2017 16:33:50] Acao: Ir Para Login 4
+[11/04/2017 16:33:53] Acao: Informar Usuário Login 6
+[11/04/2017 16:33:55] Acao: Informar Base Login 5
+[11/04/2017 16:33:56] Acao: Informar Senha Login 7
+[11/04/2017 16:33:58] Acao: Clicar em Logar Login 8
+[11/04/2017 16:57:03] Acao: Ir Para Login 4
+[11/04/2017 16:57:07] Acao: Informar Usuário Login 6
+[11/04/2017 16:57:09] Acao: Informar Base Login 5
+[11/04/2017 16:57:10] Acao: Informar Senha Login 7
+[11/04/2017 16:57:12] Acao: Clicar em Logar Login 8
+[11/04/2017 16:57:32] Acao: Logar PRINCIPAL 86
+[11/04/2017 16:57:38] Acao: Ir Para Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 9
+[11/04/2017 16:57:48] Acao: Informar Contrato Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 10
+[11/04/2017 16:58:01] Acao: Informar CPF Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 11
+[11/04/2017 16:58:01] [UTILITÁRIOS] Gerando CPF
+[11/04/2017 16:58:04] Acao: Informar Nome Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 12
+[11/04/2017 16:58:06] Acao: Informar Nome Cartão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 13
+[11/04/2017 16:58:08] Acao: Informar Sexo Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 14
+[11/04/2017 16:58:11] Acao: Informar Data Inclusão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 15
+[11/04/2017 16:58:13] Acao: Informar Data Nascimento Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 16
+[11/04/2017 16:58:17] Acao: Informar Nacionalidade Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 17
+[11/04/2017 16:58:20] Acao: Informar Mãe Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 18
+[11/04/2017 16:58:22] Acao: Informar Pai Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 19
+[11/04/2017 16:58:25] Acao: Informar Estado Civil Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 20
+[11/04/2017 16:58:28] Acao: Informar Plano Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 21
+[11/04/2017 16:58:30] Acao: Informar Cartão Nacional de Saúde Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 92
+[11/04/2017 16:58:33] Acao: Informar Tipo Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 28
+[11/04/2017 16:58:36] Acao: Informar País Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 29
+[11/04/2017 16:58:38] Acao: Informar CEP Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 30
+[11/04/2017 16:58:41] Acao: Informar Número Endereço Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 31
+[11/04/2017 16:58:43] Acao: Informar Matrícula Funcional Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 33
+[11/04/2017 16:58:46] Acao: Informar Data Admissão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 32
+[11/04/2017 16:58:48] Acao: Clicar em 'Incluir' Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 27
+[11/04/2017 16:58:51] Acao: Verificar Sucesso da Inclusão Contratos e Beneficiários > Movimentação Operadora > Inclusão de Titular 35
+[11/04/2017 16:58:51] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[11/04/2017 17:01:06] Acao: Logar PRINCIPAL 86
+[11/04/2017 17:01:11] Acao: Ir Para Autorizações > Pedidos de Autorização > Inclusão 36
+[11/04/2017 17:01:42] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[11/04/2017 17:22:05] Acao: Ir Para Login 4
+[11/04/2017 17:22:10] Acao: Informar Usuário Login 6
+[11/04/2017 17:22:41] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD

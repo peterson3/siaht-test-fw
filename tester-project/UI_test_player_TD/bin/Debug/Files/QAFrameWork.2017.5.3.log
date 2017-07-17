@@ -1,0 +1,302 @@
+[03/05/2017 12:04:46] D:\Peterson\Projetos\QADynamicFramework\UI_test_player_TD\bin\Debug\ctf\created
+[03/05/2017 12:07:35] Acao: Ir para  (223.223.2.132) Login 141
+[03/05/2017 12:07:38] Acao: Informar Base Login 21
+[03/05/2017 12:07:40] Acao: Informar Usuário Login 22
+[03/05/2017 12:07:42] Acao: Informar Senha Login 23
+[03/05/2017 12:07:43] Acao: Clicar em Logar Login 24
+[03/05/2017 12:07:47] Acao: Ir Para ANS > Dados Atenção Saúde TISS >  Importar Guias de Fornecimento Direto 142
+[03/05/2017 12:07:55] Acao: Informar Arquivo ANS > Dados Atenção Saúde TISS >  Importar Guias de Fornecimento Direto 143
+[03/05/2017 12:07:57] Acao: Selecionar Tipo Arquivo ANS > Dados Atenção Saúde TISS >  Importar Guias de Fornecimento Direto 144
+[03/05/2017 12:07:59] Acao: Clicar em Continuar  ANS > Dados Atenção Saúde TISS >  Importar Guias de Fornecimento Direto 145
+[03/05/2017 12:08:29] Timed out after 30 secondsWebDriver.Support
+[03/05/2017 12:09:27] Acao: Ir para  (223.223.2.132) Login 141
+[03/05/2017 12:09:28] Acao: Informar Base Login 21
+[03/05/2017 12:09:30] Acao: Informar Usuário Login 22
+[03/05/2017 12:09:32] Acao: Informar Senha Login 23
+[03/05/2017 12:09:34] Acao: Clicar em Logar Login 24
+[03/05/2017 12:09:40] Acao: Ir Para ANS > Dados Atenção Saúde TISS >  Importar Guias de Fornecimento Direto 142
+[03/05/2017 12:09:48] Acao: Informar Arquivo ANS > Dados Atenção Saúde TISS >  Importar Guias de Fornecimento Direto 143
+[03/05/2017 12:09:53] Acao: Selecionar Tipo Arquivo ANS > Dados Atenção Saúde TISS >  Importar Guias de Fornecimento Direto 144
+[03/05/2017 12:09:55] Acao: Clicar em Continuar  ANS > Dados Atenção Saúde TISS >  Importar Guias de Fornecimento Direto 145
+[03/05/2017 12:10:10] Acao: Ir para  (223.223.2.132) Login 141
+[03/05/2017 12:10:13] Acao: Informar Base Login 21
+[03/05/2017 12:10:14] Acao: Informar Usuário Login 22
+[03/05/2017 12:10:16] Acao: Informar Senha Login 23
+[03/05/2017 12:10:18] Acao: Clicar em Logar Login 24
+[03/05/2017 12:10:21] Acao: Ir Para ANS > Dados Atenção Saúde TISS >  Importar Guias de Fornecimento Direto 142
+[03/05/2017 12:10:29] Acao: Informar Arquivo ANS > Dados Atenção Saúde TISS >  Importar Guias de Fornecimento Direto 143
+[03/05/2017 12:10:31] Acao: Selecionar Tipo Arquivo ANS > Dados Atenção Saúde TISS >  Importar Guias de Fornecimento Direto 144
+[03/05/2017 12:10:33] Acao: Clicar em Continuar  ANS > Dados Atenção Saúde TISS >  Importar Guias de Fornecimento Direto 145
+[03/05/2017 12:10:48] Acao: Ir para  (223.223.2.132) Login 141
+[03/05/2017 12:10:50] Acao: Informar Base Login 21
+[03/05/2017 12:10:52] Acao: Informar Usuário Login 22
+[03/05/2017 12:10:54] Acao: Informar Senha Login 23
+[03/05/2017 12:10:55] Acao: Clicar em Logar Login 24
+[03/05/2017 12:10:57] Acao: Ir Para ANS > Dados Atenção Saúde TISS >  Importar Guias de Fornecimento Direto 142
+[03/05/2017 12:11:57] Timed out after 30 secondsWebDriver.Support
+[03/05/2017 12:18:57] Acao: Ir para  (223.223.2.132) Login 141
+[03/05/2017 12:18:59] Acao: Informar Base Login 21
+[03/05/2017 12:19:01] Acao: Informar Usuário Login 22
+[03/05/2017 12:19:03] Acao: Informar Senha Login 23
+[03/05/2017 12:19:04] Acao: Clicar em Logar Login 24
+[03/05/2017 12:19:08] Acao: Ir Para ANS > Dados Atenção Saúde TISS >  Importar Guias de Fornecimento Direto 142
+[03/05/2017 12:19:16] Acao: Informar Arquivo ANS > Dados Atenção Saúde TISS >  Importar Guias de Fornecimento Direto 143
+[03/05/2017 12:19:18] Acao: Selecionar Tipo Arquivo ANS > Dados Atenção Saúde TISS >  Importar Guias de Fornecimento Direto 144
+[03/05/2017 12:19:20] Acao: Clicar em Continuar  ANS > Dados Atenção Saúde TISS >  Importar Guias de Fornecimento Direto 145
+[03/05/2017 12:20:08] Acao: Logar Principal 121
+[03/05/2017 12:20:16] Acao: Ir Para Gestão Prestador > Cadastro Prestador > Inclusão 81
+[03/05/2017 12:20:19] Acao: Informar Vinculação Gestão Prestador > Cadastro Prestador > Inclusão 82
+[03/05/2017 12:20:19] TypeError: document.getElementById(...) is null (UnexpectedJavaScriptError)WebDriver
+[03/05/2017 14:39:19] Acao: Logar Principal 121
+[03/05/2017 14:39:28] Acao: Ir Para Gestão Prestador > Cadastro Prestador > Inclusão 81
+[03/05/2017 14:39:31] Acao: Informar Vinculação Gestão Prestador > Cadastro Prestador > Inclusão 82
+[03/05/2017 14:39:31] Unable to get property 'value' of undefined or null reference (UnexpectedJavaScriptError)WebDriver
+[03/05/2017 14:40:01] Acao: Logar Principal 121
+[03/05/2017 14:40:04] Acao: Ir Para Gestão Prestador > Cadastro Prestador > Inclusão 81
+[03/05/2017 14:40:07] Acao: Informar Vinculação Gestão Prestador > Cadastro Prestador > Inclusão 82
+[03/05/2017 14:40:07] Unable to get property 'value' of undefined or null reference (UnexpectedJavaScriptError)WebDriver
+[03/05/2017 14:40:35] Acao: Logar Principal 121
+[03/05/2017 14:40:41] Acao: Ir Para Gestão Prestador > Cadastro Prestador > Inclusão 81
+[03/05/2017 14:41:11] Timed out after 30 secondsWebDriver.Support
+[03/05/2017 14:58:25] Acao: Ir para  (223.223.2.132) Login 141
+[03/05/2017 14:58:28] Acao: Informar Base Login 21
+[03/05/2017 14:58:30] Acao: Informar Usuário Login 22
+[03/05/2017 14:58:32] Acao: Informar Senha Login 23
+[03/05/2017 14:58:34] Acao: Clicar em Logar Login 24
+[03/05/2017 14:58:40] Acao: Selecionar Operadora ANS  > Dados Atenção Saúde TISS > Importar Retorno ANS 150
+[03/05/2017 14:58:52] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[03/05/2017 15:01:03] Acao: Ir para  (223.223.2.132) Login 141
+[03/05/2017 15:01:05] Acao: Informar Base Login 21
+[03/05/2017 15:01:06] Acao: Informar Usuário Login 22
+[03/05/2017 15:01:08] Acao: Informar Senha Login 23
+[03/05/2017 15:01:10] Acao: Clicar em Logar Login 24
+[03/05/2017 15:01:16] Acao: Ir Para ANS  > Dados Atenção Saúde TISS > Importar Retorno ANS 168
+[03/05/2017 15:01:20] JavaScript error (UnexpectedJavaScriptError)WebDriver
+[03/05/2017 15:02:15] Acao: Ir para  (223.223.2.132) Login 141
+[03/05/2017 15:02:16] Acao: Informar Base Login 21
+[03/05/2017 15:02:18] Acao: Informar Usuário Login 22
+[03/05/2017 15:02:20] Acao: Informar Senha Login 23
+[03/05/2017 15:02:22] Acao: Clicar em Logar Login 24
+[03/05/2017 15:02:29] Acao: Ir Para ANS  > Dados Atenção Saúde TISS > Importar Retorno ANS 168
+[03/05/2017 15:02:36] Acao: Selecionar Operadora ANS  > Dados Atenção Saúde TISS > Importar Retorno ANS 150
+[03/05/2017 15:02:39] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[03/05/2017 15:03:22] Acao: Ir para  (223.223.2.132) Login 141
+[03/05/2017 15:03:23] Acao: Informar Base Login 21
+[03/05/2017 15:03:25] Acao: Informar Usuário Login 22
+[03/05/2017 15:03:27] Acao: Informar Senha Login 23
+[03/05/2017 15:03:29] Acao: Clicar em Logar Login 24
+[03/05/2017 15:03:35] Acao: Ir Para ANS  > Dados Atenção Saúde TISS > Importar Retorno ANS 168
+[03/05/2017 15:03:43] Acao: Selecionar Operadora ANS  > Dados Atenção Saúde TISS > Importar Retorno ANS 150
+[03/05/2017 15:03:45] Acao: Informar Referência ANS  > Dados Atenção Saúde TISS > Importar Retorno ANS 151
+[03/05/2017 15:04:15] Unable to find element with id == inner-editorWebDriver
+[03/05/2017 15:05:23] Acao: Ir para  (223.223.2.132) Login 141
+[03/05/2017 15:05:25] Acao: Informar Base Login 21
+[03/05/2017 15:05:27] Acao: Informar Usuário Login 22
+[03/05/2017 15:05:29] Acao: Informar Senha Login 23
+[03/05/2017 15:05:31] Acao: Clicar em Logar Login 24
+[03/05/2017 15:05:37] Acao: Ir Para ANS  > Dados Atenção Saúde TISS > Importar Retorno ANS 168
+[03/05/2017 15:05:45] Acao: Selecionar Operadora ANS  > Dados Atenção Saúde TISS > Importar Retorno ANS 150
+[03/05/2017 15:05:46] Acao: Informar Referência ANS  > Dados Atenção Saúde TISS > Importar Retorno ANS 151
+[03/05/2017 15:05:49] Acao: Selecionar Tipo Arquivo ANS  > Dados Atenção Saúde TISS > Importar Retorno ANS 152
+[03/05/2017 15:05:50] Acao: Clicar em Continuar  ANS  > Dados Atenção Saúde TISS > Importar Retorno ANS 153
+[03/05/2017 15:38:40] Acao: Ir para  (223.223.2.132) Login 141
+[03/05/2017 15:38:44] Acao: Informar Base Login 21
+[03/05/2017 15:38:46] Acao: Informar Usuário Login 22
+[03/05/2017 15:38:48] Acao: Informar Senha Login 23
+[03/05/2017 15:38:49] Acao: Clicar em Logar Login 24
+[03/05/2017 15:38:51] Acao: Ir Para ANS > Dados Atenção Saúde TISS >  Importar Guias de Fornecimento Direto 142
+[03/05/2017 15:39:00] Acao: Informar Arquivo ANS > Dados Atenção Saúde TISS >  Importar Guias de Fornecimento Direto 143
+[03/05/2017 15:39:02] Acao: Selecionar Tipo Arquivo ANS > Dados Atenção Saúde TISS >  Importar Guias de Fornecimento Direto 144
+[03/05/2017 15:39:04] Acao: Clicar em Continuar  ANS > Dados Atenção Saúde TISS >  Importar Guias de Fornecimento Direto 145
+[03/05/2017 16:29:27] Acao: Logar (223.223.2.132) Principal 169
+[03/05/2017 16:29:34] Acao: Ir Para ANS  > Dados Atenção Saúde TISS > Importar Retorno ANS 168
+[03/05/2017 16:29:43] Acao: Selecionar Operadora ANS  > Dados Atenção Saúde TISS > Importar Retorno ANS 150
+[03/05/2017 16:29:45] Acao: Informar Referência ANS  > Dados Atenção Saúde TISS > Importar Retorno ANS 151
+[03/05/2017 16:29:47] Acao: Selecionar Tipo Arquivo ANS  > Dados Atenção Saúde TISS > Importar Retorno ANS 152
+[03/05/2017 16:29:49] Acao: Clicar em Continuar  ANS  > Dados Atenção Saúde TISS > Importar Retorno ANS 153
+[03/05/2017 16:30:49] D:\Peterson\Projetos\QADynamicFramework\UI_test_player_TD\bin\Debug\ctf\created
+[03/05/2017 16:31:09] Acao: Logar (223.223.2.132) Principal 169
+[03/05/2017 16:31:14] Acao: Ir Para ANS  > Dados Atenção Saúde TISS > Importar Retorno ANS 168
+[03/05/2017 16:31:22] Acao: Selecionar Operadora ANS  > Dados Atenção Saúde TISS > Importar Retorno ANS 150
+[03/05/2017 16:31:24] Acao: Informar Referência ANS  > Dados Atenção Saúde TISS > Importar Retorno ANS 151
+[03/05/2017 16:31:26] Acao: Selecionar Tipo Arquivo ANS  > Dados Atenção Saúde TISS > Importar Retorno ANS 152
+[03/05/2017 16:31:28] Acao: Clicar em Continuar  ANS  > Dados Atenção Saúde TISS > Importar Retorno ANS 153
+[03/05/2017 16:33:30] D:\Peterson\Projetos\QADynamicFramework\UI_test_player_TD\bin\Debug\ctf\created
+[03/05/2017 16:33:57] Acao: Logar (223.223.2.132) Principal 169
+[03/05/2017 16:34:02] Acao: Ir Para ANS  > Dados Atenção Saúde TISS > Importar Retorno ANS 168
+[03/05/2017 16:34:09] Acao: Selecionar Operadora ANS  > Dados Atenção Saúde TISS > Importar Retorno ANS 150
+[03/05/2017 16:34:11] Acao: Informar Referência ANS  > Dados Atenção Saúde TISS > Importar Retorno ANS 151
+[03/05/2017 16:34:13] Acao: Selecionar Tipo Arquivo ANS  > Dados Atenção Saúde TISS > Importar Retorno ANS 152
+[03/05/2017 16:34:15] Acao: Clicar em Continuar  ANS  > Dados Atenção Saúde TISS > Importar Retorno ANS 153
+[03/05/2017 16:49:18] Acao: Logar (223.223.2.132) Principal 169
+[03/05/2017 16:49:27] Acao: Selecionar Operadora ANS > Dados Atenção Saúde TISS >  Processar 146
+[03/05/2017 16:49:57] Unable to find element with name == cod_operadoraWebDriver
+[03/05/2017 16:50:31] Acao: Logar (223.223.2.132) Principal 169
+[03/05/2017 16:50:39] Acao: Ir Para ANS > Dados Atenção Saúde TISS >  Processar 172
+[03/05/2017 16:50:47] Acao: Selecionar Operadora ANS > Dados Atenção Saúde TISS >  Processar 146
+[03/05/2017 16:50:49] Acao: Informar Referência ANS > Dados Atenção Saúde TISS >  Processar 147
+[03/05/2017 16:51:20] Unable to find element with name == p_mes_ano_refWebDriver
+[03/05/2017 16:52:21] Acao: Logar (223.223.2.132) Principal 169
+[03/05/2017 16:52:29] Acao: Ir Para ANS > Dados Atenção Saúde TISS >  Processar 172
+[03/05/2017 16:52:37] Acao: Selecionar Operadora ANS > Dados Atenção Saúde TISS >  Processar 146
+[03/05/2017 16:52:39] Acao: Informar Referência ANS > Dados Atenção Saúde TISS >  Processar 147
+[03/05/2017 16:52:41] Acao: Informar Tipo Arquivo ANS > Dados Atenção Saúde TISS >  Processar 148
+[03/05/2017 16:52:43] Acao: Clicar em Processar  ANS > Dados Atenção Saúde TISS >  Processar 149
+[03/05/2017 17:05:01] Acao: Logar (223.223.2.132) Principal 169
+[03/05/2017 17:05:09] Acao: Ir Para ANS > Dados Atenção Saúde TISS > Finalizar Referência 170
+[03/05/2017 17:05:17] Acao: Selecionar Operadora ANS > Dados Atenção Saúde TISS > Finalizar Referência 154
+[03/05/2017 17:05:19] Acao: Informar Referência ANS > Dados Atenção Saúde TISS > Finalizar Referência 155
+[03/05/2017 17:05:21] Acao: Selecionar Tipo Arquivo ANS > Dados Atenção Saúde TISS > Finalizar Referência 156
+[03/05/2017 17:05:24] Acao: Clicar em Executar  ANS > Dados Atenção Saúde TISS > Finalizar Referência 157
+[03/05/2017 17:20:34] Acao: Logar (223.223.2.132) Principal 169
+[03/05/2017 17:20:42] Acao: Ir Para ANS > Dados Atenção Saúde TISS > Consultas > Monitoramento 171
+[03/05/2017 17:20:50] Acao: Selecionar Operadora ANS > Dados Atenção Saúde TISS > Consultas > Monitoramento 161
+[03/05/2017 17:20:52] Acao: Infromar Período Processamento de  ANS > Dados Atenção Saúde TISS > Consultas > Monitoramento 162
+[03/05/2017 17:20:52] Element should have been select but was inputWebDriver.Support
+[03/05/2017 17:24:38] Acao: Logar (223.223.2.132) Principal 169
+[03/05/2017 17:24:46] Acao: Ir Para ANS > Dados Atenção Saúde TISS > Consultas > Monitoramento 171
+[03/05/2017 17:24:54] Acao: Selecionar Operadora ANS > Dados Atenção Saúde TISS > Consultas > Monitoramento 161
+[03/05/2017 17:24:56] Acao: Informar Período Processamento de  ANS > Dados Atenção Saúde TISS > Consultas > Monitoramento 162
+[03/05/2017 17:24:58] Acao: Informar Período Processamento até  ANS > Dados Atenção Saúde TISS > Consultas > Monitoramento 163
+[03/05/2017 17:25:00] Acao: Selecionar Situação ANS > Dados Atenção Saúde TISS > Consultas > Monitoramento 164
+[03/05/2017 17:25:02] Acao: Selecionar Tipo Arquivo ANS > Dados Atenção Saúde TISS > Consultas > Monitoramento 165
+[03/05/2017 17:25:04] Acao: Clicar em Executar  ANS > Dados Atenção Saúde TISS > Consultas > Monitoramento 166
+[03/05/2017 17:42:38] D:\Peterson\Projetos\QADynamicFramework\UI_test_player_TD\bin\Debug\ctf\created
+[03/05/2017 17:48:23] Acao: Ir Para (10.10.100.147) Login 5
+[03/05/2017 17:48:27] Acao: Informar Base Login 21
+[03/05/2017 17:48:29] Acao: Informar Usuário Login 22
+[03/05/2017 17:48:31] Acao: Informar Senha Login 23
+[03/05/2017 17:49:18] D:\Peterson\Projetos\QADynamicFramework\UI_test_player_TD\bin\Debug\ctf\created
+[03/05/2017 17:50:03] Acao: Logar (10.10.100.147) Principal 121
+[03/05/2017 17:50:15] Acao: Ir Para Gestão Prestador > Cadastro Prestador > Inclusão 81
+[03/05/2017 17:50:27] Acao: Informar Vinculação Gestão Prestador > Cadastro Prestador > Inclusão 82
+[03/05/2017 17:50:27] JavaScript error (UnexpectedJavaScriptError)WebDriver
+[03/05/2017 17:52:15] Acao: Logar (10.10.100.147) Principal 121
+[03/05/2017 17:52:24] Acao: Ir Para Gestão Prestador > Cadastro Prestador > Inclusão 81
+[03/05/2017 17:52:35] Acao: Informar Vinculação Gestão Prestador > Cadastro Prestador > Inclusão 82
+[03/05/2017 17:52:35] JavaScript error (UnexpectedJavaScriptError)WebDriver
+[03/05/2017 17:58:00] Acao: Logar (10.10.100.147) Principal 121
+[03/05/2017 17:58:08] Acao: Ir Para Gestão Prestador > Cadastro Prestador > Inclusão 81
+[03/05/2017 17:58:19] Acao: Informar Vinculação Gestão Prestador > Cadastro Prestador > Inclusão 82
+[03/05/2017 17:58:24] Acao: Informar Tipo Pessoa Gestão Prestador > Cadastro Prestador > Inclusão 83
+[03/05/2017 17:58:26] Acao: Clicar Link: Incluir Pessoa Física Gestão Prestador > Cadastro Prestador > Inclusão 84
+[03/05/2017 17:58:33] JavaScript error (UnexpectedJavaScriptError)WebDriver
+[03/05/2017 17:59:30] Acao: Logar (10.10.100.147) Principal 121
+[03/05/2017 17:59:39] Acao: Ir Para Gestão Prestador > Cadastro Prestador > Inclusão 81
+[03/05/2017 17:59:50] Acao: Informar Vinculação Gestão Prestador > Cadastro Prestador > Inclusão 82
+[03/05/2017 17:59:55] Acao: Informar Tipo Pessoa Gestão Prestador > Cadastro Prestador > Inclusão 83
+[03/05/2017 17:59:57] Acao: Clicar Link: Incluir Pessoa Física Gestão Prestador > Cadastro Prestador > Inclusão 84
+[03/05/2017 18:00:03] JavaScript error (UnexpectedJavaScriptError)WebDriver
+[03/05/2017 18:01:49] Acao: Logar (10.10.100.147) Principal 121
+[03/05/2017 18:01:59] Acao: Ir Para Gestão Prestador > Cadastro Prestador > Inclusão 81
+[03/05/2017 18:02:09] Acao: Informar Vinculação Gestão Prestador > Cadastro Prestador > Inclusão 82
+[03/05/2017 18:02:10] JavaScript error (UnexpectedJavaScriptError)WebDriver
+[03/05/2017 18:06:58] Acao: Logar (10.10.100.147) Principal 121
+[03/05/2017 18:07:07] Acao: Ir Para Gestão Prestador > Cadastro Prestador > Inclusão 81
+[03/05/2017 18:07:18] Acao: Informar Vinculação Gestão Prestador > Cadastro Prestador > Inclusão 82
+[03/05/2017 18:07:23] Acao: Informar Tipo Pessoa Gestão Prestador > Cadastro Prestador > Inclusão 83
+[03/05/2017 18:07:25] Acao: Clicar Link: Incluir Pessoa Física Gestão Prestador > Cadastro Prestador > Inclusão 84
+[03/05/2017 18:07:28] JavaScript errorWebDriver
+[03/05/2017 18:10:49] Acao: Logar (10.10.100.147) Principal 121
+[03/05/2017 18:10:59] Acao: Ir Para Gestão Prestador > Cadastro Prestador > Inclusão 81
+[03/05/2017 18:11:09] Acao: Informar Vinculação Gestão Prestador > Cadastro Prestador > Inclusão 82
+[03/05/2017 18:11:10] JavaScript error (UnexpectedJavaScriptError)WebDriver
+[03/05/2017 18:13:14] Acao: Logar (10.10.100.147) Principal 121
+[03/05/2017 18:13:23] Acao: Ir Para Gestão Prestador > Cadastro Prestador > Inclusão 81
+[03/05/2017 18:13:34] Acao: Informar Vinculação Gestão Prestador > Cadastro Prestador > Inclusão 82
+[03/05/2017 18:13:34] JavaScript error (UnexpectedJavaScriptError)WebDriver
+[03/05/2017 18:14:39] Acao: Logar (10.10.100.147) Principal 121
+[03/05/2017 18:14:47] Acao: Ir Para Gestão Prestador > Cadastro Prestador > Inclusão 81
+[03/05/2017 18:14:59] Acao: Informar Vinculação Gestão Prestador > Cadastro Prestador > Inclusão 82
+[03/05/2017 18:14:59] JavaScript error (UnexpectedJavaScriptError)WebDriver
+[03/05/2017 18:15:44] Acao: Logar (10.10.100.147) Principal 121
+[03/05/2017 18:15:53] Acao: Ir Para Gestão Prestador > Cadastro Prestador > Inclusão 81
+[03/05/2017 18:16:04] Acao: Informar Vinculação Gestão Prestador > Cadastro Prestador > Inclusão 82
+[03/05/2017 18:16:04] JavaScript error (UnexpectedJavaScriptError)WebDriver
+[03/05/2017 18:17:57] Acao: Logar (10.10.100.147) Principal 121
+[03/05/2017 18:18:05] Acao: Ir Para Gestão Prestador > Cadastro Prestador > Inclusão 81
+[03/05/2017 18:18:37] Timed out after 30 secondsWebDriver.Support
+[03/05/2017 18:19:42] Acao: Logar (10.10.100.147) Principal 121
+[03/05/2017 18:19:50] Acao: Ir Para Gestão Prestador > Cadastro Prestador > Inclusão 81
+[03/05/2017 18:19:53] Acao: Informar Vinculação Gestão Prestador > Cadastro Prestador > Inclusão 82
+[03/05/2017 18:19:58] Acao: Informar Tipo Pessoa Gestão Prestador > Cadastro Prestador > Inclusão 83
+[03/05/2017 18:20:00] Acao: Clicar Link: Incluir Pessoa Física Gestão Prestador > Cadastro Prestador > Inclusão 84
+[03/05/2017 18:20:11] Acao: Informar Nome Gestão Prestador > Cadastro Prestador > Inclusão 85
+[03/05/2017 18:20:14] Acao: Informar Naturalidade Gestão Prestador > Cadastro Prestador > Inclusão 86
+[03/05/2017 18:20:17] Acao: Informar Sexo Gestão Prestador > Cadastro Prestador > Inclusão 87
+[03/05/2017 18:20:19] Acao: Informar Nascimento Gestão Prestador > Cadastro Prestador > Inclusão 88
+[03/05/2017 18:20:22] Acao: Informar CPF Gestão Prestador > Cadastro Prestador > Inclusão 89
+[03/05/2017 18:20:22] [UTILITÁRIOS] Gerando CPF
+[03/05/2017 18:20:24] Modal dialog presentWebDriver
+[03/05/2017 18:21:20] Acao: Logar (10.10.100.147) Principal 121
+[03/05/2017 18:21:27] Acao: Ir Para Gestão Prestador > Cadastro Prestador > Inclusão 81
+[03/05/2017 18:21:30] Acao: Informar Vinculação Gestão Prestador > Cadastro Prestador > Inclusão 82
+[03/05/2017 18:21:35] Acao: Informar Tipo Pessoa Gestão Prestador > Cadastro Prestador > Inclusão 83
+[03/05/2017 18:21:37] Acao: Clicar Link: Incluir Pessoa Física Gestão Prestador > Cadastro Prestador > Inclusão 84
+[03/05/2017 18:21:48] Acao: Informar Nome Gestão Prestador > Cadastro Prestador > Inclusão 85
+[03/05/2017 18:21:50] Acao: Informar Naturalidade Gestão Prestador > Cadastro Prestador > Inclusão 86
+[03/05/2017 18:21:53] Acao: Informar Sexo Gestão Prestador > Cadastro Prestador > Inclusão 87
+[03/05/2017 18:21:55] Acao: Informar Nascimento Gestão Prestador > Cadastro Prestador > Inclusão 88
+[03/05/2017 18:21:58] Acao: Informar CPF Gestão Prestador > Cadastro Prestador > Inclusão 89
+[03/05/2017 18:21:59] Modal dialog presentWebDriver
+[03/05/2017 18:23:19] Acao: Logar (10.10.100.147) Principal 121
+[03/05/2017 18:23:26] Acao: Ir Para Gestão Prestador > Cadastro Prestador > Inclusão 81
+[03/05/2017 18:23:28] Acao: Informar Vinculação Gestão Prestador > Cadastro Prestador > Inclusão 82
+[03/05/2017 18:23:33] Acao: Informar Tipo Pessoa Gestão Prestador > Cadastro Prestador > Inclusão 83
+[03/05/2017 18:23:35] Acao: Clicar Link: Incluir Pessoa Física Gestão Prestador > Cadastro Prestador > Inclusão 84
+[03/05/2017 18:23:46] Acao: Informar Nome Gestão Prestador > Cadastro Prestador > Inclusão 85
+[03/05/2017 18:23:49] Acao: Informar Naturalidade Gestão Prestador > Cadastro Prestador > Inclusão 86
+[03/05/2017 18:23:52] Acao: Informar Sexo Gestão Prestador > Cadastro Prestador > Inclusão 87
+[03/05/2017 18:23:54] Acao: Informar Nascimento Gestão Prestador > Cadastro Prestador > Inclusão 88
+[03/05/2017 18:23:57] Acao: Informar CPF Gestão Prestador > Cadastro Prestador > Inclusão 89
+[03/05/2017 18:24:01] Acao: Acessar Menu Gestão Prestador > Cadastro Prestador > Inclusão 90
+[03/05/2017 18:24:10] Acao: Informar CEP Gestão Prestador > Cadastro Prestador > Inclusão 91
+[03/05/2017 18:24:16] Acao: Informar Número Endereço Gestão Prestador > Cadastro Prestador > Inclusão 92
+[03/05/2017 18:24:19] Acao: Clicar no ícone 'Incluir' Gestão Prestador > Cadastro Prestador > Inclusão 93
+[03/05/2017 18:24:35] Acao: Verificar Sucesso na Inclusão Gestão Prestador > Cadastro Prestador > Inclusão 108
+[03/05/2017 18:24:42] Acao: Logar (10.10.100.147) Principal 121
+[03/05/2017 18:24:50] Acao: Ir Para Gestão Prestador > Cadastro Prestador > Alteração 111
+[03/05/2017 18:25:13] Acao: Informar Prestador Gestão Prestador > Cadastro Prestador > Alteração 112
+[03/05/2017 18:25:19] Acao: Acessar Menu Gestão Prestador > Cadastro Prestador > Inclusão 90
+[03/05/2017 18:25:27] Acao: Informar Sigla Conselho Gestão Prestador > Cadastro Prestador > Inclusão 94
+[03/05/2017 18:25:29] Acao: Informar Número Conselho Gestão Prestador > Cadastro Prestador > Inclusão 95
+[03/05/2017 18:25:32] Acao: Informar UF Conselho Gestão Prestador > Cadastro Prestador > Inclusão 96
+[03/05/2017 18:25:34] Acao: Clicar Botão Alterar Gestão Prestador > Cadastro Prestador > Alteração 113
+[03/05/2017 18:25:39] Acao: Logar (10.10.100.147) Principal 121
+[03/05/2017 18:35:06] Acao: Logar (10.10.100.147) Principal 121
+[03/05/2017 18:38:32] Acao: Logar (10.10.100.147) Principal 121
+[03/05/2017 18:38:42] Acao: Ir Para Gestão Prestador > Cadastro Prestador > Inclusão 81
+[03/05/2017 18:39:15] Timed out after 30 secondsWebDriver.Support
+[03/05/2017 18:40:26] Acao: Logar (10.10.100.147) Principal 121
+[03/05/2017 18:40:33] Acao: Ir Para Gestão Prestador > Cadastro Prestador > Inclusão 81
+[03/05/2017 18:40:36] Acao: Informar Vinculação Gestão Prestador > Cadastro Prestador > Inclusão 82
+[03/05/2017 18:40:42] Acao: Informar Tipo Pessoa Gestão Prestador > Cadastro Prestador > Inclusão 83
+[03/05/2017 18:40:44] Acao: Clicar Link: Incluir Pessoa Física Gestão Prestador > Cadastro Prestador > Inclusão 84
+[03/05/2017 18:40:55] Acao: Informar Nome Gestão Prestador > Cadastro Prestador > Inclusão 85
+[03/05/2017 18:40:58] Acao: Informar Naturalidade Gestão Prestador > Cadastro Prestador > Inclusão 86
+[03/05/2017 18:41:00] Acao: Informar Sexo Gestão Prestador > Cadastro Prestador > Inclusão 87
+[03/05/2017 18:41:02] Acao: Informar Nascimento Gestão Prestador > Cadastro Prestador > Inclusão 88
+[03/05/2017 18:41:05] Acao: Informar CPF Gestão Prestador > Cadastro Prestador > Inclusão 89
+[03/05/2017 18:41:09] Acao: Acessar Menu Gestão Prestador > Cadastro Prestador > Inclusão 90
+[03/05/2017 18:41:17] Acao: Informar CEP Gestão Prestador > Cadastro Prestador > Inclusão 91
+[03/05/2017 18:41:24] Acao: Informar Número Endereço Gestão Prestador > Cadastro Prestador > Inclusão 92
+[03/05/2017 18:41:27] Acao: Clicar no ícone 'Incluir' Gestão Prestador > Cadastro Prestador > Inclusão 93
+[03/05/2017 18:41:34] Acao: Verificar Sucesso na Inclusão Gestão Prestador > Cadastro Prestador > Inclusão 108
+[03/05/2017 18:42:10] Timed out after 30 secondsWebDriver.Support
+[03/05/2017 18:43:07] Acao: Logar (10.10.100.147) Principal 121
+[03/05/2017 18:43:15] Acao: Ir Para Gestão Prestador > Cadastro Prestador > Inclusão 81
+[03/05/2017 18:43:17] Acao: Informar Vinculação Gestão Prestador > Cadastro Prestador > Inclusão 82
+[03/05/2017 18:43:22] Acao: Informar Tipo Pessoa Gestão Prestador > Cadastro Prestador > Inclusão 83
+[03/05/2017 18:43:24] Acao: Clicar Link: Incluir Pessoa Física Gestão Prestador > Cadastro Prestador > Inclusão 84
+[03/05/2017 18:43:35] Acao: Informar Nome Gestão Prestador > Cadastro Prestador > Inclusão 85
+[03/05/2017 18:43:38] Acao: Informar Naturalidade Gestão Prestador > Cadastro Prestador > Inclusão 86
+[03/05/2017 18:43:40] Acao: Informar Sexo Gestão Prestador > Cadastro Prestador > Inclusão 87
+[03/05/2017 18:43:42] Acao: Informar Nascimento Gestão Prestador > Cadastro Prestador > Inclusão 88
+[03/05/2017 18:43:45] Acao: Informar CPF Gestão Prestador > Cadastro Prestador > Inclusão 89
+[03/05/2017 18:43:47] Acao: Acessar Menu Gestão Prestador > Cadastro Prestador > Inclusão 90
+[03/05/2017 18:43:56] Acao: Informar CEP Gestão Prestador > Cadastro Prestador > Inclusão 91
+[03/05/2017 18:44:02] Acao: Informar Número Endereço Gestão Prestador > Cadastro Prestador > Inclusão 92
+[03/05/2017 18:44:05] Acao: Clicar no ícone 'Incluir' Gestão Prestador > Cadastro Prestador > Inclusão 93
+[03/05/2017 18:44:12] Acao: Verificar Sucesso na Inclusão Gestão Prestador > Cadastro Prestador > Inclusão 108
+[03/05/2017 20:37:17] Acao: Logar (10.10.100.147) Principal 121
+[03/05/2017 20:37:22] Unable to find element on closed windowWebDriver

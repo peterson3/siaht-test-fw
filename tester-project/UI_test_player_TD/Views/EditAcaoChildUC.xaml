@@ -1,0 +1,36 @@
+﻿<UserControl x:Class="UI_test_player_TD.Views.EditAcaoChildUC"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:scintilla="clr-namespace:ScintillaNET;assembly=ScintillaNET"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="800"
+             d:DesignWidth="900"
+             MinWidth="900"
+             MinHeight="800">
+    <Grid Margin="0,0,0,0">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="11*"/>
+            <RowDefinition Height="89*"/>
+        </Grid.RowDefinitions>
+        <Label Content="Editar Ação" VerticalAlignment="Top" FontSize="36" FontFamily="Segoe UI Light" Height="60" Margin="0" HorizontalContentAlignment="Center"/>
+        <Label Content="Nome" HorizontalAlignment="Left" Margin="45,74,0,0" Grid.Row="1" VerticalAlignment="Top" Height="26" Width="43"/>
+        <TextBox x:Name="nomeAcaoTxt" HorizontalAlignment="Left" Height="26" Margin="45,100,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="397"/>
+        <Label Content="Código" HorizontalAlignment="Left" Margin="45,267,0,0" Grid.Row="1" VerticalAlignment="Top" Height="26" Width="49"/>
+        <Button Content="Salvar" Margin="470,0,0,28" Grid.Row="1" VerticalAlignment="Bottom" Background="#FF67A210" BorderBrush="{x:Null}" Foreground="White" Click="validarEdicao" Height="27" HorizontalAlignment="Left" Width="108" />
+        <Button Content="Cancelar" Margin="366,0,0,28" Grid.Row="1" VerticalAlignment="Bottom" Background="{x:Null}" Height="27" Click="cancelar" RenderTransformOrigin="0.711,-3.593" HorizontalAlignment="Left" Width="76"/>
+        <Label Content="Tooltip" HorizontalAlignment="Left" Margin="45,174,0,0" Grid.Row="1" VerticalAlignment="Top" Height="26" Width="49"/>
+        <TextBox x:Name="tooltipTxt" HorizontalAlignment="Left" Height="26" Margin="45,200,0,0" Grid.Row="1" TextWrapping="Wrap" VerticalAlignment="Top" Width="397"/>
+        <Label Content="Requer Parametro" HorizontalAlignment="Left" Margin="623,97,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <CheckBox x:Name="requerParametroCheck" Content="" HorizontalAlignment="Left" Margin="594,100,0,0" Grid.Row="1" VerticalAlignment="Top"/>
+        <WindowsFormsHost x:Name="winFormHost"
+            HorizontalAlignment="Right"
+            Height="334" Margin="0,298,50,0" 
+            Grid.Row="1" VerticalAlignment="Top"
+            Width="805">
+            <scintilla:Scintilla x:Name="scintilla" Lexer="Cpp"></scintilla:Scintilla>
+        </WindowsFormsHost>
+
+    </Grid>
+</UserControl>

@@ -1,0 +1,136 @@
+[13/07/2017 12:47:29] D:\Peterson\Projetos\QADynamicFramework\UI_test_player_TD\bin\Debug\ctf\created
+[13/07/2017 12:49:12] Acao: Logar (223.223.2.102) Login 327
+[13/07/2017 12:49:40] Acao: Ir Para Login 361
+[13/07/2017 12:49:47] Acao: Informar Código Honorários, Serviços e Tabelas > Parametrização > Especialidades 651
+[13/07/2017 12:49:52] Acao: Informar Descrição Honorários, Serviços e Tabelas > Parametrização > Especialidades 652
+[13/07/2017 12:49:55] Acao: Informar Característica Honorários, Serviços e Tabelas > Parametrização > Especialidades 653
+[13/07/2017 12:49:56] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[13/07/2017 14:32:13] Acao: Logar (223.223.2.102) Login 327
+[13/07/2017 14:32:43] Acao: Ir Para Login 361
+[13/07/2017 14:32:52] Acao: Informar Código Honorários, Serviços e Tabelas > Parametrização > Especialidades 651
+[13/07/2017 14:32:59] Acao: Informar Descrição Honorários, Serviços e Tabelas > Parametrização > Especialidades 652
+[13/07/2017 14:33:04] Acao: Informar Característica Honorários, Serviços e Tabelas > Parametrização > Especialidades 653
+[13/07/2017 14:33:15] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[13/07/2017 14:35:05] Acao: Logar (223.223.2.102) Login 327
+[13/07/2017 14:35:46] Acao: Ir Para Login 361
+[13/07/2017 14:35:57] Acao: Informar Código Honorários, Serviços e Tabelas > Parametrização > Especialidades 651
+[13/07/2017 14:36:02] Acao: Informar Descrição Honorários, Serviços e Tabelas > Parametrização > Especialidades 652
+[13/07/2017 14:36:05] Acao: Informar Característica Honorários, Serviços e Tabelas > Parametrização > Especialidades 653
+[13/07/2017 14:36:09] Acao: Informar Característica Honorários, Serviços e Tabelas > Parametrização > Especialidades 653
+[13/07/2017 14:36:12] Acao: Selecionar Origem Tipo Honorários, Serviços e Tabelas > Parametrização > Especialidades 654
+[13/07/2017 14:36:42] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[13/07/2017 14:39:52] Acao: Logar (223.223.2.102) Login 327
+[13/07/2017 14:40:25] Acao: Ir Para Login 361
+[13/07/2017 14:40:32] Acao: Informar Código Honorários, Serviços e Tabelas > Parametrização > Especialidades 651
+[13/07/2017 14:40:38] Acao: Informar Descrição Honorários, Serviços e Tabelas > Parametrização > Especialidades 652
+[13/07/2017 14:40:40] Acao: Informar Característica Honorários, Serviços e Tabelas > Parametrização > Especialidades 653
+[13/07/2017 14:40:42] Acao: Informar Característica Honorários, Serviços e Tabelas > Parametrização > Especialidades 653
+[13/07/2017 14:40:45] Acao: Selecionar Origem Tipo Honorários, Serviços e Tabelas > Parametrização > Especialidades 654
+[13/07/2017 14:40:58] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[13/07/2017 15:07:12] Acao: Logar (223.223.2.102) Login 327
+[13/07/2017 15:07:31] Acao: Ir Para Login 361
+[13/07/2017 15:07:36] Acao: Informar Código Honorários, Serviços e Tabelas > Parametrização > Especialidades 651
+[13/07/2017 15:07:40] Acao: Informar Descrição Honorários, Serviços e Tabelas > Parametrização > Especialidades 652
+[13/07/2017 15:07:42] Acao: Informar Característica Honorários, Serviços e Tabelas > Parametrização > Especialidades 653
+[13/07/2017 15:07:44] Acao: Informar Característica Honorários, Serviços e Tabelas > Parametrização > Especialidades 653
+[13/07/2017 15:07:46] Acao: Selecionar Origem Tipo Honorários, Serviços e Tabelas > Parametrização > Especialidades 654
+[13/07/2017 15:07:48] Acao: Informar Tipo Honorários, Serviços e Tabelas > Parametrização > Especialidades 655
+[13/07/2017 15:07:51] Acao: Informar Sexo Honorários, Serviços e Tabelas > Parametrização > Especialidades 656
+[13/07/2017 15:07:53] Acao: Informar Limite Idade (DE) Honorários, Serviços e Tabelas > Parametrização > Especialidades 657
+[13/07/2017 15:07:55] Acao: Informar Limite Idade (ATÉ) Honorários, Serviços e Tabelas > Parametrização > Especialidades 658
+[13/07/2017 15:07:58] Acao: Selecionar 'Utiliza no dimensionamento' Honorários, Serviços e Tabelas > Parametrização > Especialidades 660
+[13/07/2017 15:12:17] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[13/07/2017 15:15:43] Acao: Logar (223.223.2.102) Login 327
+[13/07/2017 15:15:58] Acao: Ir Para Login 361
+[13/07/2017 15:16:01] Acao: Informar Código Honorários, Serviços e Tabelas > Parametrização > Especialidades 651
+[13/07/2017 15:16:05] Acao: Informar Descrição Honorários, Serviços e Tabelas > Parametrização > Especialidades 652
+[13/07/2017 15:16:07] Acao: Informar Característica Honorários, Serviços e Tabelas > Parametrização > Especialidades 653
+[13/07/2017 15:16:09] Acao: Informar Característica Honorários, Serviços e Tabelas > Parametrização > Especialidades 653
+[13/07/2017 15:16:11] Acao: Selecionar Origem Tipo Honorários, Serviços e Tabelas > Parametrização > Especialidades 654
+[13/07/2017 15:16:13] Acao: Informar Tipo Honorários, Serviços e Tabelas > Parametrização > Especialidades 655
+[13/07/2017 15:16:15] Acao: Informar Sexo Honorários, Serviços e Tabelas > Parametrização > Especialidades 656
+[13/07/2017 15:16:17] Acao: Informar Limite Idade (DE) Honorários, Serviços e Tabelas > Parametrização > Especialidades 657
+[13/07/2017 15:16:19] Acao: Informar Limite Idade (ATÉ) Honorários, Serviços e Tabelas > Parametrização > Especialidades 658
+[13/07/2017 15:16:21] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Parametrização > Especialidades 669
+[13/07/2017 15:17:28] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[13/07/2017 15:17:52] Acao: Logar (223.223.2.102) Login 327
+[13/07/2017 15:18:07] Acao: Ir Para Login 361
+[13/07/2017 15:18:11] Acao: Informar Código Honorários, Serviços e Tabelas > Parametrização > Especialidades 651
+[13/07/2017 15:18:15] Acao: Informar Descrição Honorários, Serviços e Tabelas > Parametrização > Especialidades 652
+[13/07/2017 15:18:17] Acao: Informar Característica Honorários, Serviços e Tabelas > Parametrização > Especialidades 653
+[13/07/2017 15:18:19] Acao: Informar Característica Honorários, Serviços e Tabelas > Parametrização > Especialidades 653
+[13/07/2017 15:18:21] Acao: Selecionar Origem Tipo Honorários, Serviços e Tabelas > Parametrização > Especialidades 654
+[13/07/2017 15:18:23] Acao: Informar Tipo Honorários, Serviços e Tabelas > Parametrização > Especialidades 655
+[13/07/2017 15:18:25] Acao: Informar Sexo Honorários, Serviços e Tabelas > Parametrização > Especialidades 656
+[13/07/2017 15:18:28] Acao: Informar Limite Idade (DE) Honorários, Serviços e Tabelas > Parametrização > Especialidades 657
+[13/07/2017 15:18:30] Acao: Informar Limite Idade (ATÉ) Honorários, Serviços e Tabelas > Parametrização > Especialidades 658
+[13/07/2017 15:18:32] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Parametrização > Especialidades 669
+[13/07/2017 15:18:41] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[13/07/2017 15:25:22] Acao: Logar (223.223.2.102) Login 327
+[13/07/2017 15:25:37] Acao: Ir Para Login 361
+[13/07/2017 15:25:41] Acao: Informar Código Honorários, Serviços e Tabelas > Parametrização > Especialidades 651
+[13/07/2017 15:25:45] Acao: Informar Descrição Honorários, Serviços e Tabelas > Parametrização > Especialidades 652
+[13/07/2017 15:25:47] Acao: Informar Característica Honorários, Serviços e Tabelas > Parametrização > Especialidades 653
+[13/07/2017 15:25:49] Acao: Informar Característica Honorários, Serviços e Tabelas > Parametrização > Especialidades 653
+[13/07/2017 15:25:51] Acao: Selecionar Origem Tipo Honorários, Serviços e Tabelas > Parametrização > Especialidades 654
+[13/07/2017 15:25:53] Acao: Informar Tipo Honorários, Serviços e Tabelas > Parametrização > Especialidades 655
+[13/07/2017 15:25:55] Acao: Informar Sexo Honorários, Serviços e Tabelas > Parametrização > Especialidades 656
+[13/07/2017 15:25:57] Acao: Informar Limite Idade (DE) Honorários, Serviços e Tabelas > Parametrização > Especialidades 657
+[13/07/2017 15:25:59] Acao: Informar Limite Idade (ATÉ) Honorários, Serviços e Tabelas > Parametrização > Especialidades 658
+[13/07/2017 15:26:01] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Parametrização > Especialidades 669
+[13/07/2017 15:26:32] Timed out after 30 secondsWebDriver.Support
+[13/07/2017 15:38:54] Acao: Logar (223.223.2.102) Login 327
+[13/07/2017 15:39:10] Acao: Ir Para Login 361
+[13/07/2017 15:39:14] Acao: Informar Código Honorários, Serviços e Tabelas > Parametrização > Especialidades 651
+[13/07/2017 15:39:18] Acao: Informar Descrição Honorários, Serviços e Tabelas > Parametrização > Especialidades 652
+[13/07/2017 15:39:20] Acao: Informar Característica Honorários, Serviços e Tabelas > Parametrização > Especialidades 653
+[13/07/2017 15:39:22] Acao: Informar Característica Honorários, Serviços e Tabelas > Parametrização > Especialidades 653
+[13/07/2017 15:39:24] Acao: Selecionar Origem Tipo Honorários, Serviços e Tabelas > Parametrização > Especialidades 654
+[13/07/2017 15:39:26] Acao: Informar Tipo Honorários, Serviços e Tabelas > Parametrização > Especialidades 655
+[13/07/2017 15:39:30] Acao: Informar Sexo Honorários, Serviços e Tabelas > Parametrização > Especialidades 656
+[13/07/2017 15:39:32] Acao: Informar Limite Idade (DE) Honorários, Serviços e Tabelas > Parametrização > Especialidades 657
+[13/07/2017 15:39:34] Acao: Informar Limite Idade (ATÉ) Honorários, Serviços e Tabelas > Parametrização > Especialidades 658
+[13/07/2017 15:39:36] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Parametrização > Especialidades 669
+[13/07/2017 15:39:39] Acao: [POSCOND] Operação Relizada Com Sucesso? Honorários, Serviços e Tabelas > Parametrização > Especialidades 692
+[13/07/2017 15:42:04] Acao: Logar (223.223.2.102) Login 327
+[13/07/2017 15:42:19] Acao: Ir Para Login 361
+[13/07/2017 15:42:22] Acao: Informar Código Honorários, Serviços e Tabelas > Parametrização > Especialidades 651
+[13/07/2017 15:42:26] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Parametrização > Especialidades 671
+[13/07/2017 15:42:57] Timed out after 30 secondsWebDriver.Support
+[13/07/2017 15:47:04] Acao: Logar (223.223.2.102) Login 327
+[13/07/2017 15:47:22] Acao: Ir Para Login 361
+[13/07/2017 16:00:59] Acao: Logar (223.223.2.102) Login 327
+[13/07/2017 16:01:20] Acao: Ir Para Login 361
+[13/07/2017 16:01:23] Acao: Informar Sigla Honorários, Serviços e Tabelas > Parametrização > Grupo Estatístico 672
+[13/07/2017 16:01:26] Acao: Informar Descrição Honorários, Serviços e Tabelas > Parametrização > Grupo Estatístico 673
+[13/07/2017 17:03:58] Acao: Logar (223.223.2.102) Login 327
+[13/07/2017 17:04:15] Acao: Ir Para Login 361
+[13/07/2017 17:04:17] Acao: Informar Sigla Honorários, Serviços e Tabelas > Parametrização > Grupo Estatístico 672
+[13/07/2017 17:04:20] Acao: Informar Descrição Honorários, Serviços e Tabelas > Parametrização > Grupo Estatístico 673
+[13/07/2017 17:04:22] Acao: Informar 'Utilizado em' Honorários, Serviços e Tabelas > Parametrização > Grupo Estatístico 678
+[13/07/2017 17:04:52] Timed out after 30 secondsWebDriver.Support
+[13/07/2017 17:05:43] Acao: Logar (223.223.2.102) Login 327
+[13/07/2017 17:05:58] Acao: Ir Para Login 361
+[13/07/2017 17:06:01] Acao: Informar Sigla Honorários, Serviços e Tabelas > Parametrização > Grupo Estatístico 672
+[13/07/2017 17:06:04] Acao: Informar Descrição Honorários, Serviços e Tabelas > Parametrização > Grupo Estatístico 673
+[13/07/2017 17:06:06] Acao: Informar 'Utilizado em' Honorários, Serviços e Tabelas > Parametrização > Grupo Estatístico 678
+[13/07/2017 17:06:08] Acao: Informar 'Utilizado em' Honorários, Serviços e Tabelas > Parametrização > Grupo Estatístico 678
+[13/07/2017 17:08:21] Acao: Logar (223.223.2.102) Login 327
+[13/07/2017 17:08:37] Acao: Ir Para Login 361
+[13/07/2017 17:08:40] Acao: Informar Sigla Honorários, Serviços e Tabelas > Parametrização > Grupo Estatístico 672
+[13/07/2017 17:08:43] Acao: Informar Descrição Honorários, Serviços e Tabelas > Parametrização > Grupo Estatístico 673
+[13/07/2017 17:08:45] Acao: Informar 'Utilizado em' Honorários, Serviços e Tabelas > Parametrização > Grupo Estatístico 678
+[13/07/2017 17:08:47] Acao: Informar 'Utilizado em' Honorários, Serviços e Tabelas > Parametrização > Grupo Estatístico 678
+[13/07/2017 17:08:49] Acao: Informar Grupo Principal Honorários, Serviços e Tabelas > Parametrização > Grupo Estatístico 675
+[13/07/2017 17:10:35] Acao: Logar (223.223.2.102) Login 327
+[13/07/2017 17:10:50] Acao: Ir Para Login 361
+[13/07/2017 17:10:53] Acao: Informar Sigla Honorários, Serviços e Tabelas > Parametrização > Grupo Estatístico 672
+[13/07/2017 17:10:56] Acao: Informar Descrição Honorários, Serviços e Tabelas > Parametrização > Grupo Estatístico 673
+[13/07/2017 17:10:58] Acao: Informar 'Utilizado em' Honorários, Serviços e Tabelas > Parametrização > Grupo Estatístico 678
+[13/07/2017 17:10:59] Acao: Informar 'Utilizado em' Honorários, Serviços e Tabelas > Parametrização > Grupo Estatístico 678
+[13/07/2017 17:11:01] Acao: Informar Grupo Principal Honorários, Serviços e Tabelas > Parametrização > Grupo Estatístico 675
+[13/07/2017 17:11:04] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Parametrização > Grupo Estatístico 679
+[13/07/2017 17:11:06] Acao: [POSCOND] Operação Relizada Com Sucesso? Honorários, Serviços e Tabelas > Parametrização > Grupo Estatístico 693
+[13/07/2017 17:48:10] Acao: Entrar Login 697
+[13/07/2017 18:39:01] D:\Peterson\Projetos\QADynamicFramework\UI_test_player_TD\bin\Debug\ctf\created
+[13/07/2017 18:39:18] Acao: Entrar Login 697
