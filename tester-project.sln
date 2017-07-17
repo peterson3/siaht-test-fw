@@ -9,8 +9,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tester-gui", "UI_test_playe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tester-cli", "testercl\tester-cli.csproj", "{47932001-42AD-4FB6-8931-FC26B20169C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tester-webapp", "tester-webapp\tester-webapp.csproj", "{22044D8C-CF99-4675-B6C2-86CE7F47E4F4}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -29,10 +27,6 @@ Global
 		{47932001-42AD-4FB6-8931-FC26B20169C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47932001-42AD-4FB6-8931-FC26B20169C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47932001-42AD-4FB6-8931-FC26B20169C1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{22044D8C-CF99-4675-B6C2-86CE7F47E4F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{22044D8C-CF99-4675-B6C2-86CE7F47E4F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{22044D8C-CF99-4675-B6C2-86CE7F47E4F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{22044D8C-CF99-4675-B6C2-86CE7F47E4F4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
