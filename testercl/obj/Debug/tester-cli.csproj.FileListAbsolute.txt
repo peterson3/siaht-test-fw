@@ -6,3 +6,6 @@ D:\Peterson\Projetos\QADynamicFramework\testercl\bin\Debug\CommandLine.xml
 D:\Peterson\Projetos\QADynamicFramework\testercl\obj\Debug\tester-cli.csprojResolveAssemblyReference.cache
 D:\Peterson\Projetos\QADynamicFramework\testercl\obj\Debug\testercl.exe
 D:\Peterson\Projetos\QADynamicFramework\testercl\obj\Debug\testercl.pdb
+D:\Peterson\Projetos\test-project\testercl\bin\Debug\testercl.exe.config
+D:\Peterson\Projetos\test-project\testercl\obj\Debug\testercl.exe
+D:\Peterson\Projetos\test-project\testercl\obj\Debug\testercl.pdb

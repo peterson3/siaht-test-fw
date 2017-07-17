@@ -1,9 +1,12 @@
-# Testes Automatizados (TopDown)
+# Testes Automatizados
 ---
 
 ## Introdução
 
 Projeto de Testes Automatizados baseados em um arquitetura de FrameWork.
++ Command Line
++ GUI
++ Web app
 
 
 ### Por quê?
