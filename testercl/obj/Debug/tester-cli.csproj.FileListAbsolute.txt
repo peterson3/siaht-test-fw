@@ -12,3 +12,8 @@ D:\Peterson\Projetos\test-project\testercl\obj\Debug\testercl.pdb
 X:\projetos-github\test-project\testercl\bin\Debug\testercl.exe.config
 X:\projetos-github\test-project\testercl\obj\Debug\testercl.exe
 X:\projetos-github\test-project\testercl\obj\Debug\testercl.pdb
+D:\Peterson\Projetos\test-project\testercl\bin\Debug\testercl.exe
+D:\Peterson\Projetos\test-project\testercl\bin\Debug\testercl.pdb
+D:\Peterson\Projetos\test-project\testercl\bin\Debug\CommandLine.dll
+D:\Peterson\Projetos\test-project\testercl\bin\Debug\CommandLine.xml
+D:\Peterson\Projetos\test-project\testercl\obj\Debug\tester-cli.csprojResolveAssemblyReference.cache
