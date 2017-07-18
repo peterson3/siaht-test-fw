@@ -5,12 +5,23 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<h2>@Model.Codigo</h2>
-<h3>@Model.Nome</h3>
-<h3>@Model.Descricao</h3>
-<h3>@Model.Modulo</h3>
-<h3>@Model.Funcao</h3>
-<h3>@Model.PreCondicao</h3>
-<h3>@Model.PosCondicao</h3>
-<h3>@Model.SistemaPai.Nome</h3>
+<ul>
+    <li><strong>Sistema:</strong> @Model.SistemaPai.Nome</li>
+    <li><strong>Código:</strong> @Model.Codigo</li>
+    <li><strong>Nome:</strong> @Model.Nome</li>
+    <li><strong>Descrição:</strong> @Model.Descricao</li>
+    <li><strong>Módulo:</strong> @Model.Modulo</li>
+    <li><strong>Função:</strong> @Model.Funcao</li>
+    <li><strong>Pré-Condição:</strong> @Model.PreCondicao</li>
+    <li><strong>Pós-Condição:</strong> @Model.PosCondicao</li>
+
+    
+</ul>
+
+
+
+
+
+
+
 

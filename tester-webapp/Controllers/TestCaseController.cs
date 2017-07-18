@@ -12,7 +12,7 @@ namespace tester_webapp.Controllers
     public class TestCaseController : Controller
     {
         // GET: TestCase/Random
-        public ActionResult Random()
+        public ViewResult Random()
         {
             Random randomizer = new Random();
             List<Sistema> sistemas = Sistema_DAO.getAllSistemas().ToList();
@@ -20,6 +20,26 @@ namespace tester_webapp.Controllers
             List<TestCase> testCases = TestCase_DAO.GetAllFromSistema(randomSistema);
             var testCase = testCases[randomizer.Next(0, testCases.Count)];
             return View(testCase);
+        }
+
+        // GET: TestCase
+        public ActionResult Index()
+        {
+            //Recuperar Todas os TestCase possíveis
+            List<Sistema> sistemas = Sistema_DAO.getAllSistemas().ToList();
+            List<TestCase> allTestCases = new List<TestCase>();
+            foreach (Sistema sis in sistemas)
+            {
+                allTestCases.AddRange(TestCase_DAO.GetAllFromSistema(sis));
+            }
+
+            return View(allTestCases);
+        }
+
+        public ActionResult Editar (int id)
+        {
+
+            return Content("id= " + id);
         }
     }
 }

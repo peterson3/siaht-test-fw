@@ -1,0 +1,14 @@
+﻿@model List<UI_test_player_TD.Model.TestCase>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+
+<ul>
+    @foreach (var testCase in Model)
+    {
+        <li>@testCase.SistemaPai.Nome:  <strong>@testCase.Codigo</strong></li>
+    }
+</ul>
