@@ -9,7 +9,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tester-gui", "UI_test_playe
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tester-cli", "testercl\tester-cli.csproj", "{47932001-42AD-4FB6-8931-FC26B20169C1}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tester-webapp", "tester-webapp\tester-webapp.csproj", "{579C4788-1E50-4728-8106-EDDF8B995B46}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tester-webapp", "tester-webapp\tester-webapp.csproj", "{4B761469-89C0-46B1-9941-E5843ED4557E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -29,10 +29,10 @@ Global
 		{47932001-42AD-4FB6-8931-FC26B20169C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{47932001-42AD-4FB6-8931-FC26B20169C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{47932001-42AD-4FB6-8931-FC26B20169C1}.Release|Any CPU.Build.0 = Release|Any CPU
-		{579C4788-1E50-4728-8106-EDDF8B995B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{579C4788-1E50-4728-8106-EDDF8B995B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{579C4788-1E50-4728-8106-EDDF8B995B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{579C4788-1E50-4728-8106-EDDF8B995B46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4B761469-89C0-46B1-9941-E5843ED4557E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4B761469-89C0-46B1-9941-E5843ED4557E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4B761469-89C0-46B1-9941-E5843ED4557E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4B761469-89C0-46B1-9941-E5843ED4557E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
