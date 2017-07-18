@@ -57,6 +57,7 @@ namespace TopDown_QA_FrameWork
             //Browser.Wait.Until(ExpectedConditions.ElementSelectionStateToBe(,true);
             //Browser.Wait.Until(ExpectedConditions.ElementToBeClickable())
             //Browser.Driver.Navigate().GoToUrl("");
+            //Browser.Wait.Until(ExpectedConditions.ElementToBeClickable(By.Id("idElemento")));
         }
 
     }
