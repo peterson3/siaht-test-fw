@@ -21,11 +21,22 @@ namespace tester_webapp
 
             bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(
                       "~/Scripts/bootstrap.js",
-                      "~/Scripts/respond.js"));
+                      "~/Scripts/respond.js",
+                      "~/Scripts/plugins/flot/excanvas.min.js",
+                      "~/Scripts/plugins/flot/flot-data.js",
+                      "~/Scripts/plugins/flot/jquery.flot.js",
+                      "~/Scripts/plugins/flot/jquery.flot.pie.js",
+                      "~/Scripts/plugins/flot/jquery.flot.resize.js",
+                      "~/Scripts/plugins/flot/jquery.flot.tooltip.min.js",
+                      "~/Scripts/plugins/morris/morris-data.js",
+                      "~/Scripts/plugins/morris/morris.js",
+                      "~/Scripts/plugins/morris/raphael.min.js"));
 
             bundles.Add(new StyleBundle("~/Content/css").Include(
                       "~/Content/bootstrap.css",
-                      "~/Content/site.css"));
+                      "~/Content/site.css",
+                      "~/Content/sb-admin.css",
+                      "~/Content/plugins/morris.css"));
         }
     }
 }

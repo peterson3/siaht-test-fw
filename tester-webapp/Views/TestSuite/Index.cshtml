@@ -5,10 +5,35 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
-<ul>
-    @foreach (var testSuite in Model)
-    {
-        <li>@testSuite.sistemaPai.Nome: <strong>@testSuite.Codigo</strong></li>
-    }
-</ul>
 
+<div class="row">
+    <h1 class="page-header">
+        Roteiros de Teste
+    </h1>
+</div>
+
+<div class="row">
+    <div class="">
+        <div class="table-responsive">
+            <table class="table table-bordered table-hover table-striped">
+                <thead>
+                    <tr>
+                        <th>Sistema</th>
+                        <th>Código</th>
+                        <th>Descrição</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var testSuite in Model)
+                    {
+                        <tr>
+                            <td>@testSuite.sistemaPai.Nome</td>
+                            <td>@testSuite.Codigo</td>
+                            <td>@testSuite.Descricao</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>

@@ -5,10 +5,50 @@
     Layout = "~/Views/Shared/_Layout.cshtml";
 }
 
+<div class="row">
+    <h1 class="page-header">
+        Casos de Teste
+    </h1>
+</div>
 
-<ul>
-    @foreach (var testCase in Model)
-    {
-        <li>@testCase.SistemaPai.Nome:  <strong>@testCase.Codigo</strong></li>
-    }
-</ul>
+<div class="row">
+    <div class="">
+        <div class="table-responsive">
+            <table class="table table-bordered table-hover table-striped">
+                <thead>
+                    <tr>
+                        <th>Sistema</th>
+                        <th>Código</th>
+                        <th>Nome</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    @foreach (var testCase in Model)
+                    {
+                        string classe = "";
+                        if (!testCase.UltimaSituacao.HasValue)
+                        {
+                            classe = "info";
+                        }
+                        else
+                        {
+                            if (testCase.UltimaSituacao.Value == true)
+                            {
+                                classe = "success";
+                            }
+                            else
+                            {
+                                classe = "danger";
+                            }
+                        }
+                        <tr class="@classe">
+                            <td>@testCase.SistemaPai.Nome</td>
+                            <td>@testCase.Codigo</td>
+                            <td>@testCase.Nome</td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+</div>
