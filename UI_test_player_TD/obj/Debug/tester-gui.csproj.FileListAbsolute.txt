@@ -176,7 +176,6 @@ D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\TopDown_QA_FrameWo
 D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\WebDriver.dll
 D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\WebDriver.Support.dll
 D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\NPOI.dll
-D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\Jolt.Testing.GeneratedTypes.dll
 D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\ICSharpCode.SharpZipLib.dll
 D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\TopDown_QA_FrameWork.pdb
 D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\TopDown_QA_FrameWork.xml
@@ -186,8 +185,6 @@ D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\EntityFramework.xm
 D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\EntityFramework.SqlServer.xml
 D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\Fluent.pdb
 D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\Fluent.xml
-D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\Jolt.pdb
-D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\Jolt.xml
 D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\MahApps.Metro.pdb
 D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\MahApps.Metro.xml
 D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\MahApps.Metro.SimpleChildWindow.pdb
@@ -199,8 +196,6 @@ D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\System.Data.SQLite
 D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\WebDriver.xml
 D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\WebDriver.Support.xml
 D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\NPOI.xml
-D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\Jolt.Testing.GeneratedTypes.pdb
-D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\Jolt.Testing.GeneratedTypes.xml
 D:\Peterson\Projetos\test-project\UI_test_player_TD\obj\Debug\tester-gui.csprojResolveAssemblyReference.cache
 D:\Peterson\Projetos\test-project\UI_test_player_TD\obj\Debug\MainWindow.baml
 D:\Peterson\Projetos\test-project\UI_test_player_TD\obj\Debug\Resources\Icons.baml

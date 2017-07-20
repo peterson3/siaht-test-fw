@@ -1,0 +1,38 @@
+﻿@model tester_webapp.ViewModel.CadastroCasoTesteViewModel
+@{
+    ViewBag.Title = "Novo";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Novo Caso de Teste</h2>
+
+@using (Html.BeginForm("Criar", "TestCase"))
+{
+    <div class="form-group">
+        <label>Selecione o Sistema</label>
+        @Html.DropDownListFor(m => m.sistemas, new SelectList(Model.sistemas, "Id", "Nome"), "Selecione o Sistema", new { @class = "form-control" })
+    </div>
+    
+    <div class="form-group">
+        @Html.LabelFor(m => m.testCase.Codigo)
+        @Html.TextBoxFor(m => m.testCase.Codigo, new { @class = "form-control" })
+    </div>
+    
+    <div class="form-group">
+        @Html.LabelFor(m => m.testCase.Nome)
+        @Html.TextBoxFor(m => m.testCase.Nome, new { @class = "form-control" })
+    </div>
+        
+    <div class="form-group">
+        @Html.LabelFor(m => m.testCase.Descricao)
+        @Html.TextBoxFor(m => m.testCase.Descricao, new { @class = "form-control" })
+    </div>
+
+    <button type="submit" class="btn btn-primary">Criar</button>
+
+
+
+
+}
+
+

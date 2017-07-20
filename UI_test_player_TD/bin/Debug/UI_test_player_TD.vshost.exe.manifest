@@ -55,6 +55,18 @@
     </dependentAssembly>
   </dependency>
   <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CommandLine.dll" size="58368">
+      <assemblyIdentity name="CommandLine" version="1.9.71.2" publicKeyToken="DE6F01BD326F8C32" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>SSNSjT0YaJ1Y+jCz2CKrcqE74hpX8T4LxZtVuGRCT3o=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ControlzEx.dll" size="168960">
       <assemblyIdentity name="ControlzEx" version="2.2.0.4" publicKeyToken="F08B075E934B7045" language="neutral" processorArchitecture="msil" />
       <hash>
@@ -290,7 +302,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>61+KVS53iMl4DEjAMha2dmCCLWLh3Ymxue8J1EmoWVc=</dsig:DigestValue>
+        <dsig:DigestValue>93UuAJgPSR8ZsLeiRMD22sTJcss069if+Ik42b/f6vs=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -302,7 +314,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>noCrmQppJLXLyxrCgLxnvkQ4ZrQBC9nXqmpB0tmllfw=</dsig:DigestValue>
+        <dsig:DigestValue>LIUTvbo22SntHf7TYg3zI4tnpt/FYn7CMe34m190Zrk=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

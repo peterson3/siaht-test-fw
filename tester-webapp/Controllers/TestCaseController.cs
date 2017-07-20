@@ -6,6 +6,7 @@ using System.Web.Mvc;
 using UI_test_player_TD;
 using UI_test_player_TD.Model;
 using UI_test_player_TD.DB;
+using tester_webapp.ViewModel;
 
 namespace tester_webapp.Controllers
 {
@@ -36,10 +37,26 @@ namespace tester_webapp.Controllers
             return View(allTestCases);
         }
 
+        // GET: TestCase/Editar/{id}
         public ActionResult Editar (int id)
         {
 
             return Content("id= " + id);
+        }
+
+        public ActionResult Novo()
+        {
+            CadastroCasoTesteViewModel viewModel = new CadastroCasoTesteViewModel () {
+            sistemas = Sistema_DAO.getAllSistemas().AsEnumerable<Sistema>()
+            };
+
+            return View(viewModel);
+        }
+
+        [HttpPost]
+        public ActionResult Criar(CadastroCasoTesteViewModel viewModel)
+        {
+            return View();
         }
     }
 }

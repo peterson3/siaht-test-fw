@@ -139,18 +139,6 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Jolt.Testing.GeneratedTypes.dll" size="16384">
-      <assemblyIdentity name="Jolt.Testing.GeneratedTypes" version="1.0.0.0" publicKeyToken="F6ADCB4232D754F0" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>MPAAYaYePWXKX9/O4gmzmV2gnnCYXXvulz3ThyjGDJY=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MahApps.Metro.dll" size="1094144">
       <assemblyIdentity name="MahApps.Metro" version="1.4.0.42" publicKeyToken="F4FB5A3C4D1E5B4F" language="neutral" processorArchitecture="msil" />
       <hash>
@@ -302,7 +290,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>93UuAJgPSR8ZsLeiRMD22sTJcss069if+Ik42b/f6vs=</dsig:DigestValue>
+        <dsig:DigestValue>DA2tFaWJCOiYZ2rDOfXlktjfzKGCHjIHAnz73kXv9u0=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -314,7 +302,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>LIUTvbo22SntHf7TYg3zI4tnpt/FYn7CMe34m190Zrk=</dsig:DigestValue>
+        <dsig:DigestValue>84zc9gORGbNC3jKvVaxeY7QRo1J+BrkAs9D9nlev4ZM=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

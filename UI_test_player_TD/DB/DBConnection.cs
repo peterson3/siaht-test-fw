@@ -25,7 +25,9 @@ namespace UI_test_player_TD.DB
                                 )
                               );"
                         + "User Id=test_player;Password=td;";
-            DBConnection.con.Open();
+
+            if (DBConnection.con.State != System.Data.ConnectionState.Open)
+                DBConnection.con.Open();
         }
 
         public static void Close()
