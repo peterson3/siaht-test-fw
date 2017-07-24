@@ -45,6 +45,5 @@ D:\Peterson\Projetos\test-project\TopDown_QA_FrameWork\bin\Debug\ThoughtWorks.Se
 D:\Peterson\Projetos\test-project\TopDown_QA_FrameWork\bin\Debug\ThoughtWorks.Selenium.Core.xml
 D:\Peterson\Projetos\test-project\TopDown_QA_FrameWork\bin\Debug\WebDriver.xml
 D:\Peterson\Projetos\test-project\TopDown_QA_FrameWork\bin\Debug\WebDriver.Support.xml
-D:\Peterson\Projetos\test-project\TopDown_QA_FrameWork\obj\Debug\tester-framework.csprojResolveAssemblyReference.cache
 D:\Peterson\Projetos\test-project\TopDown_QA_FrameWork\obj\Debug\TopDown_QA_FrameWork.dll
 D:\Peterson\Projetos\test-project\TopDown_QA_FrameWork\obj\Debug\TopDown_QA_FrameWork.pdb

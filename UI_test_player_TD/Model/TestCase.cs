@@ -13,6 +13,7 @@ using System.IO;
 using System.Windows;
 using System.ComponentModel;
 using UI_test_player_TD.DB;
+using System.ComponentModel.DataAnnotations;
 
 namespace UI_test_player_TD.Model 
 {
@@ -39,9 +40,12 @@ namespace UI_test_player_TD.Model
             }
         }
         public string Descricao { get; set; }
+
+        [Required(ErrorMessage="Código Obrigatório")]
         public string Codigo { get; set; }
         public ObservableCollection<PassoDoTeste> Passos { get; set; }
         public Sistema SistemaPai { get; set; }
+        public int sistemaPaiId { get; set; }
         public DateTime UltimaVezExecutado { get; set; }
         public string CaminhoArquivoCTF { get; set; }
         public string Funcao { get; set; }
@@ -171,6 +175,17 @@ namespace UI_test_player_TD.Model
         }
 
         public event PropertyChangedEventHandler PropertyChanged;
+
+
+        public TestCase()
+        {
+            Passos = new ObservableCollection<PassoDoTeste>();
+            TotalExecutado = 0;
+            TotalErr = 0;
+            TotalApr = 0;
+            UltimaSituacao = null;
+            testSituationImg = TestCase.IMG_QUEST;
+        }
 
         public TestCase(string Codigo)
         {

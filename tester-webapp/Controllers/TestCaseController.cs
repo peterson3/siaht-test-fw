@@ -54,9 +54,21 @@ namespace tester_webapp.Controllers
         }
 
         [HttpPost]
-        public ActionResult Criar(CadastroCasoTesteViewModel viewModel)
+        public ActionResult Criar(TestCase _testCase)
         {
-            return View();
+            if (!ModelState.IsValid)
+            {
+                var viewModel = new CadastroCasoTesteViewModel()
+                {
+                    testCase = _testCase,
+                    sistemas = Sistema_DAO.getAllSistemas()
+                    
+                };
+                return View("Novo", viewModel);
+            }
+            _testCase.SistemaPai = Sistema_DAO.getAllSistemas().First(x => x.Id == _testCase.sistemaPaiId);
+            _testCase.Salvar();
+            return RedirectToAction("Index","TestCase");
         }
     }
-}
+}   

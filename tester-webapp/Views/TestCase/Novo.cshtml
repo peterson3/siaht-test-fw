@@ -10,12 +10,13 @@
 {
     <div class="form-group">
         <label>Selecione o Sistema</label>
-        @Html.DropDownListFor(m => m.sistemas, new SelectList(Model.sistemas, "Id", "Nome"), "Selecione o Sistema", new { @class = "form-control" })
+        @Html.DropDownListFor(m => m.testCase.sistemaPaiId, new SelectList(Model.sistemas, "Id", "Nome"), "Selecione o Sistema", new { @class = "form-control" })
     </div>
     
     <div class="form-group">
         @Html.LabelFor(m => m.testCase.Codigo)
         @Html.TextBoxFor(m => m.testCase.Codigo, new { @class = "form-control" })
+        @Html.ValidationMessageFor(m => m.testCase.Codigo)
     </div>
     
     <div class="form-group">
