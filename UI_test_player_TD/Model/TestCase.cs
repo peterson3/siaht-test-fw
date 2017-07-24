@@ -41,8 +41,9 @@ namespace UI_test_player_TD.Model
         }
         public string Descricao { get; set; }
 
-        [Required(ErrorMessage="Código Obrigatório")]
+        [Required]
         public string Codigo { get; set; }
+
         public ObservableCollection<PassoDoTeste> Passos { get; set; }
         public Sistema SistemaPai { get; set; }
         public int sistemaPaiId { get; set; }

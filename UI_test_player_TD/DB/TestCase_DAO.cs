@@ -996,5 +996,65 @@ namespace UI_test_player_TD.DB
                 MessageBox.Show(ex.Message + ex.Source + ex.StackTrace);
             }
         }
+
+        public static int GetCount()
+        {
+            //Db existe
+            DBConnection.Connect();
+            //Carrega Registros
+            OracleCommand sql_cmd;
+
+            sql_cmd = new OracleCommand(@"SELECT COUNT(*) FROM TESTCASE", DBConnection.con);
+
+            int count = Convert.ToInt32(sql_cmd.ExecuteScalar());
+
+            DBConnection.Close();
+            return count;
+        }
+
+
+        public static TimeSpan GetAvarageTime()
+        {
+            List<TimeSpan> temposDeExecucao = new List<TimeSpan>();
+
+            //Conectar ao banco
+            DBConnection.Connect();
+
+            try
+            {
+                //Carrega Registros
+                OracleCommand sql_cmd = new OracleCommand("SELECT * FROM TESTCASE", DBConnection.con);
+                OracleDataReader sql_dataReader = sql_cmd.ExecuteReader();
+
+
+                while (sql_dataReader.Read())
+                {
+                    if (!sql_dataReader.IsDBNull(13))
+                    {
+                        temposDeExecucao.Add(sql_dataReader.GetTimeSpan(13));
+                    }
+                }
+            }
+            catch (Exception exc)
+            {
+                //MessageBox.Show(exc.Message + exc.Source + exc.StackTrace);
+            }
+            finally
+            {
+
+
+
+            }
+
+            double doubleAverageTicks = temposDeExecucao.Average(timeSpan => timeSpan.Ticks);
+            long longAverageTicks = Convert.ToInt64(doubleAverageTicks);
+
+
+            //Fecha Conexão
+            DBConnection.Close();
+
+            //Retornar Lista
+            return new TimeSpan(longAverageTicks);
+        }
     }
 }

@@ -54,8 +54,10 @@ namespace tester_webapp.Controllers
         }
 
         [HttpPost]
-        public ActionResult Criar(TestCase _testCase)
+        public ActionResult Criar(CadastroCasoTesteViewModel vModel)
         {
+            TestCase _testCase = vModel.testCase;
+
             if (!ModelState.IsValid)
             {
                 var viewModel = new CadastroCasoTesteViewModel()
@@ -66,9 +68,13 @@ namespace tester_webapp.Controllers
                 };
                 return View("Novo", viewModel);
             }
-            _testCase.SistemaPai = Sistema_DAO.getAllSistemas().First(x => x.Id == _testCase.sistemaPaiId);
-            _testCase.Salvar();
-            return RedirectToAction("Index","TestCase");
+            else
+            {
+                _testCase.SistemaPai = Sistema_DAO.getAllSistemas().First(x => x.Id == _testCase.sistemaPaiId);
+                _testCase.Salvar();
+                return RedirectToAction("Index", "TestCase");
+            }
+
         }
     }
 }   

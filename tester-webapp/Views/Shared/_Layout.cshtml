@@ -31,15 +31,42 @@
             <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav side-nav">
                     <li>
-                        <a href="@Url.Action("Index", "Home")"><i class="fa fa-fw fa-dashboard"></i>Home</a>
+                        <a href="@Url.Action("Index", "Home")"><i class="fa fa-fw fa-dashboard fa-2x"></i>&nbsp;Home</a>
                     </li>
                     <li>
-                        <a href="@Url.Action("Index", "TestCase")"><i class="fa fa-fw fa-file"></i>Casos de Teste</a>
-
+                        <a href="javascript:;" data-toggle="collapse" data-target="#testcase-opts"><i class="fa fa-fw fa-file fa-2x"></i>&nbsp;Casos de Teste<i class="fa fa-fw fa-caret-down"></i></a>
+                        <ul id="testcase-opts" class="collapse">
+                            <li>
+                                <a href="@Url.Action("Index", "TestCase")">Listar</a>
+                            </li>
+                            <li>
+                                <a href="@Url.Action("Novo", "TestCase")">Criar</a>
+                            </li>
+                        </ul>
                     </li>
                     <li>
-                        <a href="@Url.Action("Index", "TestSuite")"><i class="fa fa-fw fa-files"></i>Roteiros de Teste</a>
-
+                        <a href="@Url.Action("Index", "TestSuite")"><i class="fa fa-fw fa-files-o fa-2x"></i>&nbsp;Roteiros de Teste</a>
+                    </li>
+                    <li>
+                        <a href="@Url.Action("Index", "Trello")"><i class="fa fa-fw fa-trello fa-2x"></i>&nbsp;Trello</a>
+                    </li>
+                    <li>
+                        <a href="#">
+                            <span class="fa-stack">
+                                <i class="fa fa-fw fa-tv fa-stack-2x"></i>
+                                <i class="fa fa-fw fa-terminal fa-stack-1x"></i>
+                            </span>
+                            &nbsp;Sistema
+                        </a>
+                    </li>
+                    <li>
+                        <a href="#"><i class="fa fa-fw fa-window-maximize fa-2x"></i>&nbsp;Tela</a>
+                    </li>
+                    <li>
+                        <a href="#"><i class="fa fa-fw fa-code fa-2x"></i>&nbsp;Ação</a>
+                    </li>
+                    <li>
+                        <a href="#"><i class="fa fa-fw fa-book fa-2x"></i>&nbsp;Documentação</a>
                     </li>
                 </ul>
             </div>

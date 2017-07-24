@@ -10,7 +10,8 @@ namespace tester_webapp.Controllers
     {
         public ActionResult Index()
         {
-            return View();
+            var viewModel = new ViewModel.DashboardViewModel();
+            return View("Index",viewModel);
         }
 
         public ActionResult About()

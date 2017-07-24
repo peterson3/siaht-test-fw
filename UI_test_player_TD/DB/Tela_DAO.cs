@@ -80,5 +80,21 @@ namespace UI_test_player_TD.DB
             DBConnection.Close();
             
         }
+
+
+        public static int GetCount()
+        {
+            //Db existe
+            DBConnection.Connect();
+            //Carrega Registros
+            OracleCommand sql_cmd;
+
+            sql_cmd = new OracleCommand(@"SELECT COUNT(*) FROM TELA", DBConnection.con);
+
+            int count = Convert.ToInt32(sql_cmd.ExecuteScalar());
+
+            DBConnection.Close();
+            return count;
+        }
     }
 }

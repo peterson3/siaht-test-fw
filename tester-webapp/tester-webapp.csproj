@@ -117,11 +117,13 @@
     <Compile Include="Controllers\TelaController.cs" />
     <Compile Include="Controllers\TestCaseController.cs" />
     <Compile Include="Controllers\TestSuiteController.cs" />
+    <Compile Include="Controllers\TrelloController.cs" />
     <Compile Include="Global.asax.cs">
       <DependentUpon>Global.asax</DependentUpon>
     </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ViewModel\CadastroCasoTesteViewModel.cs" />
+    <Compile Include="ViewModel\DashboardViewModel.cs" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="Content\bootstrap-rtl.css" />
@@ -132,6 +134,7 @@
     <Content Include="Content\plugins\morris.css" />
     <Content Include="Content\sb-admin-rtl.css" />
     <Content Include="Content\sb-admin.css" />
+    <Content Include="Content\site.css" />
     <Content Include="favicon.ico" />
     <Content Include="fonts\glyphicons-halflings-regular.svg" />
     <Content Include="Global.asax" />
@@ -182,6 +185,7 @@
     <Content Include="Views\TestCase\Index.cshtml" />
     <Content Include="Views\TestSuite\Index.cshtml" />
     <Content Include="Views\TestCase\Novo.cshtml" />
+    <Content Include="Views\Trello\Index.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />

@@ -11,7 +11,6 @@ namespace UI_test_player_TD.DB
     {
         public static OracleConnection con { get; set; } 
 
-
         public static void Connect()
         {
             DBConnection.con = new OracleConnection();

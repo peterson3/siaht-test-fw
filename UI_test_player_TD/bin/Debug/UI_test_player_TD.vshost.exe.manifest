@@ -139,18 +139,6 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Jolt.Testing.GeneratedTypes.dll" size="16384">
-      <assemblyIdentity name="Jolt.Testing.GeneratedTypes" version="1.0.0.0" publicKeyToken="F6ADCB4232D754F0" language="neutral" processorArchitecture="msil" />
-      <hash>
-        <dsig:Transforms>
-          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
-        </dsig:Transforms>
-        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>MPAAYaYePWXKX9/O4gmzmV2gnnCYXXvulz3ThyjGDJY=</dsig:DigestValue>
-      </hash>
-    </dependentAssembly>
-  </dependency>
-  <dependency>
     <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MahApps.Metro.dll" size="1094144">
       <assemblyIdentity name="MahApps.Metro" version="1.4.0.42" publicKeyToken="F4FB5A3C4D1E5B4F" language="neutral" processorArchitecture="msil" />
       <hash>
@@ -302,19 +290,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>93UuAJgPSR8ZsLeiRMD22sTJcss069if+Ik42b/f6vs=</dsig:DigestValue>
+        <dsig:DigestValue>U/X5+E1ME9ZXtN61NBhg0ohajTbU1+jmHhLb5uh0MQI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="UI_test_player_TD.exe" size="33208768">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="UI_test_player_TD.exe" size="33209280">
       <assemblyIdentity name="UI_test_player_TD" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>LIUTvbo22SntHf7TYg3zI4tnpt/FYn7CMe34m190Zrk=</dsig:DigestValue>
+        <dsig:DigestValue>WRu//sTQF5ObWQ+rim82Rrv24lpjcEYZ8KFcBMGRYps=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
