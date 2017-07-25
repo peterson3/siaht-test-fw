@@ -162,77 +162,70 @@ namespace UI_test_player_TD.DB
         public static ObservableCollection<TestSuite> getTestSuitesFromSistema(Sistema sistema)
         {
             var testSuites = new ObservableCollection<TestSuite>();
-            DBConnection.Connect();
 
-
-            try
+            using (OracleConnection con = new OracleConnection(DBConnection.conString))
             {
-
-
-                //Carrega Registros
-                OracleCommand sql_cmd = new OracleCommand("SELECT * FROM TESTSUITE where COD_SISTEMA = :COD_SISTEMA", DBConnection.con);
-                sql_cmd.Parameters.Add(":COD_SISTEMA", sistema.Id);
-                OracleDataReader sql_dataReader = sql_cmd.ExecuteReader();
-
-
-                while (sql_dataReader.Read())
+                try
                 {
-
-                    var testSuite = new TestSuite(sql_dataReader.GetString(2), sistema);
-                    testSuite.Id = Convert.ToInt32(sql_dataReader.GetDecimal(0));
-                    if (!sql_dataReader.IsDBNull(3))
-                        testSuite.Descricao = sql_dataReader.GetString(3);
-                    testSuites.Add(testSuite);
-                }
-
-
-
-                foreach (TestSuite testSuite in testSuites)
-                {
-                    ////MessageBox.Show(testCases.Count.ToString());
-                    //if (DBConnection.con.State == ConnectionState.Closed)
-                    //{
-                    //    DBConnection.Connect();
-                    //}
-                    //MessageBox.Show(testCase.Id.ToString());
-                    OracleCommand sql_cmd2 = new OracleCommand("SELECT * FROM PASSO_ROTEIRO WHERE COD_TESTSUITE=:COD_TESTSUITE ORDER BY NUM_ORDEM", DBConnection.con);
-                    sql_cmd2.Parameters.Add("@COD_TESTSUITE", testSuite.Id);
-
-                    OracleDataReader sql_dataReader2 = sql_cmd2.ExecuteReader();
-
-
-                    while (sql_dataReader2.Read())
+                     
+                    con.Open();
+                    //Carrega Registros
+                    using (OracleCommand sql_cmd = new OracleCommand("SELECT * FROM TESTSUITE where COD_SISTEMA = :COD_SISTEMA", con))
                     {
-                        PassoDoRoteiro passoDoRoteiro = new PassoDoRoteiro(testSuite);
-                        //passoDoRoteiro.TestCasePossiveis = new ObservableCollection<TestCase>(TestCase_DAO.GetAllFromSistema(passoDoRoteiro.TestSuitePai.sistemaPai));
-
-
-                        if (passoDoRoteiro.TestCasePossiveis == null)
+                        sql_cmd.Parameters.Add(":COD_SISTEMA", sistema.Id);
+                        
+                        using (OracleDataReader sql_dataReader = sql_cmd.ExecuteReader())
                         {
-                            
+                            while (sql_dataReader.Read())
+                            {
+
+                                var testSuite = new TestSuite(sql_dataReader.GetString(2), sistema);
+                                testSuite.Id = Convert.ToInt32(sql_dataReader.GetDecimal(0));
+                                if (!sql_dataReader.IsDBNull(3))
+                                    testSuite.Descricao = sql_dataReader.GetString(3);
+                                testSuites.Add(testSuite);
+                            }
                         }
-
-
-                        testSuite.PassosDoRoteiro.Add(passoDoRoteiro);
 
                     }
 
+                    //Recupera Passos do Roteiro no Banco
+                    foreach (TestSuite testSuite in testSuites)
+                    {
+
+                        using (OracleCommand sql_cmd2 = new OracleCommand("SELECT * FROM PASSO_ROTEIRO WHERE COD_TESTSUITE=:COD_TESTSUITE ORDER BY NUM_ORDEM", con))
+                        {
+                            sql_cmd2.Parameters.Add("@COD_TESTSUITE", testSuite.Id);
+
+                            using (OracleDataReader sql_dataReader2 = sql_cmd2.ExecuteReader())
+                            {
+                                while (sql_dataReader2.Read())
+                                {
+                                    PassoDoRoteiro passoDoRoteiro = new PassoDoRoteiro(testSuite);
+
+                                    if (passoDoRoteiro.TestCasePossiveis == null)
+                                    {
+
+                                    }
+                                    testSuite.PassosDoRoteiro.Add(passoDoRoteiro);
+
+                                }
+                            }
+                        }
+
+                    }
+                    con.Close();
+                }
+                catch (Exception exc)
+                {
+
+                }
+                finally
+                {
+
                 }
             }
-            catch (Exception exc)
-            {
-                //MessageBox.Show(exc.Message + exc.Source + exc.StackTrace);
-            }
-            finally
-            {
 
-
-
-            }
-
-
-
-            DBConnection.Close();
             return testSuites;
         }
 

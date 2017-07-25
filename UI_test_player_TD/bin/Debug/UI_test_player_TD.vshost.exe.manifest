@@ -290,19 +290,19 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>U/X5+E1ME9ZXtN61NBhg0ohajTbU1+jmHhLb5uh0MQI=</dsig:DigestValue>
+        <dsig:DigestValue>qpRvH3UtL5pPdvw74nfcevHQE1DyHiwvbqBwr3Lp8So=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="UI_test_player_TD.exe" size="33209280">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="UI_test_player_TD.exe" size="33210304">
       <assemblyIdentity name="UI_test_player_TD" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>WRu//sTQF5ObWQ+rim82Rrv24lpjcEYZ8KFcBMGRYps=</dsig:DigestValue>
+        <dsig:DigestValue>pCLSrrDCzK9Id3JBsuDu7N6tNE694522TBx1hJAo49E=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

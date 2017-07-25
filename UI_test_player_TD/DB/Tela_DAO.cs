@@ -16,22 +16,29 @@ namespace UI_test_player_TD.DB
             ObservableCollection<Tela> telas = new ObservableCollection<Tela>();
  
                 //Conectar no BD
-                DBConnection.Connect();
-
-                OracleCommand sql_cmd = new OracleCommand(@"SELECT * FROM TELA WHERE Cod_Sistema= :Cod_Sistema"
-                    , DBConnection.con);
-                sql_cmd.Parameters.Add(":Cod_Sistema", sistema.Id);
-
-                OracleDataReader dr = sql_cmd.ExecuteReader();
-
-                while (dr.Read())
+            using (OracleConnection con = new OracleConnection(DBConnection.conString))
+            {
+                con.Open();
+                using (OracleCommand sql_cmd = new OracleCommand(@"SELECT * FROM TELA WHERE Cod_Sistema= :Cod_Sistema"
+                , con))
                 {
-                    Tela tela = new Tela(dr.GetString(1), sistema);
-                    tela.Id = Convert.ToInt32(dr.GetDecimal(0));
-                    telas.Add(tela);
+                    sql_cmd.Parameters.Add(":Cod_Sistema", sistema.Id);
+
+                    OracleDataReader dr = sql_cmd.ExecuteReader();
+
+                    while (dr.Read())
+                    {
+                        Tela tela = new Tela(dr.GetString(1), sistema);
+                        tela.Id = Convert.ToInt32(dr.GetDecimal(0));
+                        telas.Add(tela);
+                    }
+                    //Fecha Conexão
                 }
-                //Fecha Conexão
-                DBConnection.Close();
+
+                con.Close();
+            }
+
+
             
 
             return telas;
@@ -42,58 +49,70 @@ namespace UI_test_player_TD.DB
             //verificar se o caso de teste existe no banco 
 
             //Conectar ao banco
-            DBConnection.Connect();
-
-            //Carrega Registros
-            OracleCommand sql_cmd;
-
-            sql_cmd = new OracleCommand(@"INSERT INTO TELA  (Cod_Tela, nome, Cod_Sistema) 
+            using (OracleConnection con = new OracleConnection(DBConnection.conString))
+            {
+                con.Open();
+                //Carrega Registros
+                using (OracleCommand sql_cmd = new OracleCommand(@"INSERT INTO TELA  (Cod_Tela, nome, Cod_Sistema) 
                         VALUES (seq_cod_tela.nextval, :nome, :Cod_Sistema)
-                    ", DBConnection.con);
+                    ", con))
+                {
+                    sql_cmd.Parameters.Add(":nome", tela.Nome);
+                    sql_cmd.Parameters.Add(":Cod_Sistema", tela.SistemaPai.Id);
+                    sql_cmd.ExecuteNonQuery();
 
-            sql_cmd.Parameters.Add(":nome", tela.Nome);
-            sql_cmd.Parameters.Add(":Cod_Sistema", tela.SistemaPai.Id);
-            sql_cmd.ExecuteNonQuery();
+                    int lastId = Convert.ToInt32(sql_cmd.Parameters["Cod_tela"]);
+                    tela.Id = lastId;
+                }
+                //Fecha Conexão
+                con.Close();
+            }
 
-            int lastId = Convert.ToInt32(sql_cmd.Parameters["Cod_tela"]);
-            tela.Id = lastId;
 
-            //Fecha Conexão
-            DBConnection.Close();
             
         }
 
         public static void Deletar(Tela tela)
         {
-            DBConnection.Connect();
-
+            using (OracleConnection con = new OracleConnection(DBConnection.conString))
+            {
+                con.Open();
                 //Carrega Registros
-                OracleCommand sql_cmd;
+                using (OracleCommand sql_cmd = new OracleCommand(@"DELETE FROM Tela WHERE Cod_Tela = :Cod_Tela
+                        ", con))
+                {
+                    sql_cmd.Parameters.Add("@Cod_Tela", tela.Id);
+                    sql_cmd.ExecuteNonQuery();
+                }
+                //Fecha Conexão
+                con.Close();
+            }
 
-                sql_cmd = new OracleCommand(@"DELETE FROM Tela WHERE Cod_Tela = :Cod_Tela
-                        ", DBConnection.con);
 
-                sql_cmd.Parameters.Add("@Cod_Tela", tela.Id);
-                sql_cmd.ExecuteNonQuery();
                 
-            //Fecha Conexão
-            DBConnection.Close();
+
             
         }
 
 
         public static int GetCount()
         {
+            int count = 0;
             //Db existe
-            DBConnection.Connect();
-            //Carrega Registros
-            OracleCommand sql_cmd;
+            using (OracleConnection con = new OracleConnection(DBConnection.conString))
+            {
+                con.Open();
+                //Carrega Registros
+                using (OracleCommand sql_cmd = new OracleCommand(@"SELECT COUNT(*) FROM TELA", con))
+                {
+                    count = Convert.ToInt32(sql_cmd.ExecuteScalar());
 
-            sql_cmd = new OracleCommand(@"SELECT COUNT(*) FROM TELA", DBConnection.con);
+                }
 
-            int count = Convert.ToInt32(sql_cmd.ExecuteScalar());
+                con.Close();
+            }
 
-            DBConnection.Close();
+
             return count;
         }
     }

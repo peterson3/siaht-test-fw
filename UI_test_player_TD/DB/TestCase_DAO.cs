@@ -14,33 +14,28 @@ namespace UI_test_player_TD.DB
     {
         public static void Salvar(TestCase testCase)
         {
-            try
+            using (OracleConnection con = new OracleConnection(DBConnection.conString))
             {
+                con.Open();
 
-
-                DBConnection.Connect();
-
-                //Carrega Registros
-                OracleCommand sql_cmd = new OracleCommand(@"
-                SELECT * FROM TESTCASE WHERE COD_TESTCASE= :COD_TESTCASE",
-                DBConnection.con);
-                sql_cmd.Parameters.Add(":COD_TESTCASE", testCase.Id);
-
-                OracleDataReader sql_dataReader = sql_cmd.ExecuteReader();
-
-                //while (sql_dataReader.Read())
-                //{
-
-                //}
-
-                //MessageBox.Show("Exists? = " + sql_dataReader.HasRows.ToString());
-
-                if (sql_dataReader.HasRows)
+                try
                 {
-                    //MessageBox.Show("achou");
-                    try
+
+                    //Carrega Registros
+                    using (OracleCommand sql_cmd = new OracleCommand(@"
+                        SELECT * FROM TESTCASE WHERE COD_TESTCASE= :COD_TESTCASE",
+                    con)) 
                     {
-                        sql_cmd = new OracleCommand(@"UPDATE TESTCASE 
+
+                        sql_cmd.Parameters.Add(":COD_TESTCASE", testCase.Id);
+
+                        OracleDataReader sql_dataReader = sql_cmd.ExecuteReader();
+
+                        if (sql_dataReader.HasRows)
+                        {
+                            //MessageBox.Show("achou");
+
+                            sql_cmd.CommandText = new OracleCommand(@"UPDATE TESTCASE 
                         SET 
                             NOME= :NOME,
                             TXT_DESCRICAO= :TXT_DESCRICAO,
@@ -55,131 +50,122 @@ namespace UI_test_player_TD.DB
                             NUM_TOTAL_APROV= :NUM_TOTAL_APROV,
                             TEMPO_ESTIMADO= :TEMPO_ESTIMADO
 
-                        WHERE COD_TESTCASE= :COD_TESTCASE", DBConnection.con);
+                        WHERE COD_TESTCASE= :COD_TESTCASE", con);
 
-                        testCase.UltimaVezExecutado = DateTime.Now;
+                            testCase.UltimaVezExecutado = DateTime.Now;
 
-                        sql_cmd.Parameters.Add(":NOME", testCase.Nome);
-                        sql_cmd.Parameters.Add(":TXT_DESCRICAO", testCase.Descricao);
-                        sql_cmd.Parameters.Add(":TXT_CODIGO", testCase.Codigo);
-                        sql_cmd.Parameters.Add(":DT_ULTIMA_EXEC", testCase.UltimaVezExecutado);
-                        sql_cmd.Parameters.Add(":TXT_FUNC_NOME", testCase.Funcao);
-                        sql_cmd.Parameters.Add(":TXT_MODULO_NOME", testCase.Modulo);
-                        sql_cmd.Parameters.Add(":TXT_PRE_COND", testCase.PreCondicao);
-                        sql_cmd.Parameters.Add(":TXT_POS_COND", testCase.PosCondicao);
-                        int ultimaSituacao_NUM;
+                            sql_cmd.Parameters.Add(":NOME", testCase.Nome);
+                            sql_cmd.Parameters.Add(":TXT_DESCRICAO", testCase.Descricao);
+                            sql_cmd.Parameters.Add(":TXT_CODIGO", testCase.Codigo);
+                            sql_cmd.Parameters.Add(":DT_ULTIMA_EXEC", testCase.UltimaVezExecutado);
+                            sql_cmd.Parameters.Add(":TXT_FUNC_NOME", testCase.Funcao);
+                            sql_cmd.Parameters.Add(":TXT_MODULO_NOME", testCase.Modulo);
+                            sql_cmd.Parameters.Add(":TXT_PRE_COND", testCase.PreCondicao);
+                            sql_cmd.Parameters.Add(":TXT_POS_COND", testCase.PosCondicao);
+                            int ultimaSituacao_NUM;
 
-                        if (testCase.UltimaSituacao.HasValue)
-                        {
-                            if (testCase.UltimaSituacao.Value == true)
+                            if (testCase.UltimaSituacao.HasValue)
                             {
-                                ultimaSituacao_NUM = 1;
+                                if (testCase.UltimaSituacao.Value == true)
+                                {
+                                    ultimaSituacao_NUM = 1;
+                                }
+                                else
+                                {
+                                    ultimaSituacao_NUM = -1;
+                                }
                             }
                             else
                             {
-                                ultimaSituacao_NUM = -1;
+                                ultimaSituacao_NUM = 0;
                             }
-                        }
-                        else
-                        {
-                            ultimaSituacao_NUM = 0;
-                        }
-                        sql_cmd.Parameters.Add(":NUM_ULTIMA_SITUACAO", ultimaSituacao_NUM);
-                        sql_cmd.Parameters.Add(":NUM_TOTAL_EXEC", testCase.TotalExecutado);
-                        sql_cmd.Parameters.Add(":NUM_TOTAL_APROV", testCase.TotalApr);
-                        sql_cmd.Parameters.Add(":TEMPO_ESTIMADO", testCase.tempoEstimado);
-                        sql_cmd.Parameters.Add(":COD_TESTCASE", testCase.Id);
+                            sql_cmd.Parameters.Add(":NUM_ULTIMA_SITUACAO", ultimaSituacao_NUM);
+                            sql_cmd.Parameters.Add(":NUM_TOTAL_EXEC", testCase.TotalExecutado);
+                            sql_cmd.Parameters.Add(":NUM_TOTAL_APROV", testCase.TotalApr);
+                            sql_cmd.Parameters.Add(":TEMPO_ESTIMADO", testCase.tempoEstimado);
+                            sql_cmd.Parameters.Add(":COD_TESTCASE", testCase.Id);
 
-                        //MessageBox.Show(testCase.UltimaVezExecutado.ToString("dd/MM/yyyy HH:mm:ss"));
+                            //MessageBox.Show(testCase.UltimaVezExecutado.ToString("dd/MM/yyyy HH:mm:ss"));
 
-                        sql_cmd.ExecuteNonQuery();
+                            sql_cmd.ExecuteNonQuery();
 
 
-                        //Deletando Registro dos Passos
-                        sql_cmd = new OracleCommand(@"DELETE FROM PASSODOTESTE 
+                            //Deletando Registro dos Passos
+                            sql_cmd = new OracleCommand(@"DELETE FROM PASSODOTESTE 
                         WHERE  COD_TESTCASE=:COD_TESTCASE", DBConnection.con);
-                        sql_cmd.Parameters.Add(":COD_TESTCASE", testCase.Id);
-                        sql_cmd.ExecuteNonQuery();
+                            sql_cmd.Parameters.Add(":COD_TESTCASE", testCase.Id);
+                            sql_cmd.ExecuteNonQuery();
 
-                        //Colocando as Alterações e Novos Passos
-                        foreach (PassoDoTeste passo in testCase.Passos)
-                        {
-                            sql_cmd = new OracleCommand(@"
+                            //Colocando as Alterações e Novos Passos
+                            foreach (PassoDoTeste passo in testCase.Passos)
+                            {
+                                sql_cmd = new OracleCommand(@"
                             INSERT INTO PASSODOTESTE 
                             VALUES 
                             (:COD_TESTCASE, :COD_TELA, :COD_ACAO,
                             :TXT_PARAMETRO, :DEVE_FOTOGRAFAR, :DEVE_EXECUTAR,
                             :TEVE_SUCESSO, :NUM_ORDEM_SEQ, :TXT_RETORNO, :TXT_OBS, seq_cod_passo.nextval)", DBConnection.con);
 
-                            sql_cmd.Parameters.Add(":COD_TESTCASE", testCase.Id);
-                            sql_cmd.Parameters.Add(":COD_TELA", passo.telaSelecionada.Id);
-                            sql_cmd.Parameters.Add(":COD_ACAO", passo.acaoSelecionada.Id);
-                            sql_cmd.Parameters.Add(":TXT_PARAMETRO", passo.Parametro);
-                            int deveFotografar_NUM;
-                            if (passo.deveFotografar)
-                            {
-                                deveFotografar_NUM = 1;
-                            }
-                            else
-                            {
-                                deveFotografar_NUM = 0;
-                            }
-                            sql_cmd.Parameters.Add(":DEVE_FOTOGRAFAR", deveFotografar_NUM);
-                            
-                            int deveExecutar_NUM;
-                            if (passo.deveExecutar)
-                            {
-                                deveExecutar_NUM = 1;
-                            }
-                            else
-                            {
-                                deveExecutar_NUM = 0;
-                            }
-                            sql_cmd.Parameters.Add(":DEVE_EXECUTAR", deveExecutar_NUM);
-
-                            int teveSucesso_NUM;
-
-                            if (passo.teveSucesso.HasValue)
-                            {
-                                if (passo.teveSucesso.Value)
+                                sql_cmd.Parameters.Add(":COD_TESTCASE", testCase.Id);
+                                sql_cmd.Parameters.Add(":COD_TELA", passo.telaSelecionada.Id);
+                                sql_cmd.Parameters.Add(":COD_ACAO", passo.acaoSelecionada.Id);
+                                sql_cmd.Parameters.Add(":TXT_PARAMETRO", passo.Parametro);
+                                int deveFotografar_NUM;
+                                if (passo.deveFotografar)
                                 {
-                                    teveSucesso_NUM = 1;
+                                    deveFotografar_NUM = 1;
                                 }
                                 else
                                 {
-                                    teveSucesso_NUM = -1;
+                                    deveFotografar_NUM = 0;
                                 }
+                                sql_cmd.Parameters.Add(":DEVE_FOTOGRAFAR", deveFotografar_NUM);
+
+                                int deveExecutar_NUM;
+                                if (passo.deveExecutar)
+                                {
+                                    deveExecutar_NUM = 1;
+                                }
+                                else
+                                {
+                                    deveExecutar_NUM = 0;
+                                }
+                                sql_cmd.Parameters.Add(":DEVE_EXECUTAR", deveExecutar_NUM);
+
+                                int teveSucesso_NUM;
+
+                                if (passo.teveSucesso.HasValue)
+                                {
+                                    if (passo.teveSucesso.Value)
+                                    {
+                                        teveSucesso_NUM = 1;
+                                    }
+                                    else
+                                    {
+                                        teveSucesso_NUM = -1;
+                                    }
+                                }
+                                else
+                                {
+                                    teveSucesso_NUM = 0;
+                                }
+
+                                sql_cmd.Parameters.Add(":TEVE_SUCESSO", teveSucesso_NUM);
+
+
+                                sql_cmd.Parameters.Add(":NUM_ORDEM_SEQ", passo.OrdemSeq);
+                                sql_cmd.Parameters.Add(":TXT_RETORNO", passo.Retorno);
+                                sql_cmd.Parameters.Add(":TXT_OBS", passo.Obs);
+
+
+                                sql_cmd.ExecuteNonQuery();
                             }
-                            else
-                            {
-                                teveSucesso_NUM = 0;
-                            }
 
-                            sql_cmd.Parameters.Add(":TEVE_SUCESSO", teveSucesso_NUM);
-
-
-                            sql_cmd.Parameters.Add(":NUM_ORDEM_SEQ", passo.OrdemSeq);
-                            sql_cmd.Parameters.Add(":TXT_RETORNO", passo.Retorno);
-                            sql_cmd.Parameters.Add(":TXT_OBS", passo.Obs);
-
-
-                            sql_cmd.ExecuteNonQuery();
                         }
+                        else
+                        {
 
-                    }
-                    catch (Exception ex)
-                    {
-                        MessageBox.Show(ex.Message + ex.Source + ex.StackTrace);
-                    }
-
-
-
-
-                }
-                else
-                {
-
-                    sql_cmd = new OracleCommand(@"
+                            sql_cmd = new OracleCommand(@"
                         INSERT INTO TESTCASE  
                         (COD_TESTCASE, NOME, TXT_DESCRICAO, TXT_CODIGO, TXT_FUNC_NOME,
                         TXT_MODULO_NOME, TXT_PRE_COND, TXT_POS_COND, COD_SISTEMA) 
@@ -195,38 +181,38 @@ namespace UI_test_player_TD.DB
                                 :COD_SISTEMA)
                         ", DBConnection.con);
 
-                    sql_cmd.Parameters.Add(":NOME", testCase.Nome);
-                    sql_cmd.Parameters.Add(":TXT_DESCRICAO", testCase.Descricao);
-                    sql_cmd.Parameters.Add(":TXT_CODIGO", testCase.Codigo);
-                    sql_cmd.Parameters.Add(":TXT_FUNC_NOME", testCase.Funcao);
-                    sql_cmd.Parameters.Add(":TXT_MODULO_NOME", testCase.Modulo);
-                    sql_cmd.Parameters.Add(":TXT_PRE_COND", testCase.PreCondicao);
-                    sql_cmd.Parameters.Add(":TXT_POS_COND", testCase.PosCondicao);
-                    sql_cmd.Parameters.Add(":COD_SISTEMA", testCase.SistemaPai.Id);
+                            sql_cmd.Parameters.Add(":NOME", testCase.Nome);
+                            sql_cmd.Parameters.Add(":TXT_DESCRICAO", testCase.Descricao);
+                            sql_cmd.Parameters.Add(":TXT_CODIGO", testCase.Codigo);
+                            sql_cmd.Parameters.Add(":TXT_FUNC_NOME", testCase.Funcao);
+                            sql_cmd.Parameters.Add(":TXT_MODULO_NOME", testCase.Modulo);
+                            sql_cmd.Parameters.Add(":TXT_PRE_COND", testCase.PreCondicao);
+                            sql_cmd.Parameters.Add(":TXT_POS_COND", testCase.PosCondicao);
+                            sql_cmd.Parameters.Add(":COD_SISTEMA", testCase.SistemaPai.Id);
 
-                    sql_cmd.ExecuteNonQuery();
+                            sql_cmd.ExecuteNonQuery();
 
-//                    sql_cmd = new OracleCommand(@"SELECT last_insert_rowid();
-//                        ", DBConnection.con);
+                            //                    sql_cmd = new OracleCommand(@"SELECT last_insert_rowid();
+                            //                        ", DBConnection.con);
 
-                    int lastId = Convert.ToInt32(sql_cmd.Parameters["COD_TESTCASE"]);
-                    testCase.Id = lastId;
-
-
-                    //MessageBox.Show("INSERT: " + testCase.Id.ToString());
+                            int lastId = Convert.ToInt32(sql_cmd.Parameters["COD_TESTCASE"]);
+                            testCase.Id = lastId;
 
 
-                    //Deletando Registro dos Passos
-                    sql_cmd = new OracleCommand(@"DELETE  FROM PASSODOTESTE 
+                            //MessageBox.Show("INSERT: " + testCase.Id.ToString());
+
+
+                            //Deletando Registro dos Passos
+                            sql_cmd = new OracleCommand(@"DELETE  FROM PASSODOTESTE 
                         WHERE COD_TESTCASE=:COD_TESTCASE", DBConnection.con);
 
-                    sql_cmd.Parameters.Add(":COD_TESTCASE", testCase.Id);
-                    sql_cmd.ExecuteNonQuery();
+                            sql_cmd.Parameters.Add(":COD_TESTCASE", testCase.Id);
+                            sql_cmd.ExecuteNonQuery();
 
-                    //Colocando as Alterações e Novos Passos
-                    foreach (PassoDoTeste passo in testCase.Passos)
-                    {
-                        sql_cmd = new OracleCommand(@"INSERT INTO PASSODOTESTE 
+                            //Colocando as Alterações e Novos Passos
+                            foreach (PassoDoTeste passo in testCase.Passos)
+                            {
+                                sql_cmd = new OracleCommand(@"INSERT INTO PASSODOTESTE 
                             VALUES (:COD_TESTCASE,
                                     :COD_TELA,
                                     :COD_ACAO,
@@ -239,30 +225,37 @@ namespace UI_test_player_TD.DB
                                     :TXT_OBS,
                                     SEQ_COD_PASSO.nextval)", DBConnection.con);
 
-                        sql_cmd.Parameters.Add(":COD_TESTCASE", testCase.Id);
-                        sql_cmd.Parameters.Add(":COD_TELA", passo.telaSelecionada.Id);
-                        sql_cmd.Parameters.Add(":COD_ACAO", passo.acaoSelecionada.Id);
-                        sql_cmd.Parameters.Add(":TXT_PARAMETRO", passo.Parametro);
-                        sql_cmd.Parameters.Add(":DEVE_FOTOGRAFAR", passo.deveFotografar);
-                        sql_cmd.Parameters.Add(":DEVE_EXECUTAR", passo.deveExecutar);
-                        sql_cmd.Parameters.Add(":TEVE_SUCESSO", passo.teveSucesso);
-                        sql_cmd.Parameters.Add(":NUM_ORDEM_SEQ", passo.OrdemSeq);
-                        sql_cmd.Parameters.Add(":TXT_RETORNO", passo.Retorno);
-                        sql_cmd.Parameters.Add(":TXT_OBS", passo.Obs);
-                        sql_cmd.ExecuteNonQuery();
+                                sql_cmd.Parameters.Add(":COD_TESTCASE", testCase.Id);
+                                sql_cmd.Parameters.Add(":COD_TELA", passo.telaSelecionada.Id);
+                                sql_cmd.Parameters.Add(":COD_ACAO", passo.acaoSelecionada.Id);
+                                sql_cmd.Parameters.Add(":TXT_PARAMETRO", passo.Parametro);
+                                sql_cmd.Parameters.Add(":DEVE_FOTOGRAFAR", passo.deveFotografar);
+                                sql_cmd.Parameters.Add(":DEVE_EXECUTAR", passo.deveExecutar);
+                                sql_cmd.Parameters.Add(":TEVE_SUCESSO", passo.teveSucesso);
+                                sql_cmd.Parameters.Add(":NUM_ORDEM_SEQ", passo.OrdemSeq);
+                                sql_cmd.Parameters.Add(":TXT_RETORNO", passo.Retorno);
+                                sql_cmd.Parameters.Add(":TXT_OBS", passo.Obs);
+                                sql_cmd.ExecuteNonQuery();
+                            }
+
+                        }
                     }
+                    
 
+
+
+
+                    //Fecha Conexão
+                    DBConnection.Close();
                 }
-
-                //Fecha Conexão
-                DBConnection.Close();
+                catch (Exception ex)
+                {
+                    MessageBox.Show(ex.Message + Environment.NewLine + ex.Source + Environment.NewLine + ex.StackTrace);
+                }
+                //se exister salva as alterações
+                //se não exister - insere novo       
             }
-            catch (Exception ex)
-            {
-                MessageBox.Show(ex.Message + Environment.NewLine + ex.Source + Environment.NewLine + ex.StackTrace);
-            }
-            //se exister salva as alterações
-            //se não exister - insere novo        
+             
         }
 
         public static void GetPassos(TestCase testCase) 
@@ -999,19 +992,20 @@ namespace UI_test_player_TD.DB
 
         public static int GetCount()
         {
-            //Db existe
-            DBConnection.Connect();
-            //Carrega Registros
-            OracleCommand sql_cmd;
+            using (OracleConnection con = new OracleConnection(DBConnection.conString))
+            {
+                con.Open();
 
-            sql_cmd = new OracleCommand(@"SELECT COUNT(*) FROM TESTCASE", DBConnection.con);
+                using (OracleCommand sql_cmd = new OracleCommand(@"SELECT COUNT(*) FROM TESTCASE", con))
+                {
 
-            int count = Convert.ToInt32(sql_cmd.ExecuteScalar());
+                    int count = Convert.ToInt32(sql_cmd.ExecuteScalar());
+                    return count;
+                }
 
-            DBConnection.Close();
-            return count;
+            }
+
         }
-
 
         public static TimeSpan GetAvarageTime()
         {
