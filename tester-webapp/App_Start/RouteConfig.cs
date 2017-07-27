@@ -14,6 +14,12 @@ namespace tester_webapp
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
             routes.MapRoute(
+                name: "TelaRoute",
+                url: "Tela/TelasSistema/{sistemaId}/{id}",
+                defaults: new { sistemaId = UrlParameter.Optional, id = UrlParameter.Optional }
+                );
+
+            routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",
                 defaults: new { controller = "Home", action = "Index", id = UrlParameter.Optional }
