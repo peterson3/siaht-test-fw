@@ -188,12 +188,14 @@
     <Content Include="Views\Trello\Index.cshtml" />
     <Content Include="Views\Tela\Index.cshtml" />
     <Content Include="Views\Tela\TelasSistema.cshtml" />
+    <Content Include="Views\Sistema\Index.cshtml" />
+    <Content Include="Views\Acao\Index.cshtml" />
+    <Content Include="Views\Acao\SelecionaSistema.cshtml" />
+    <Content Include="Views\Acao\SelecionaTela.cshtml" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
     <Folder Include="Models\" />
-    <Folder Include="Views\Acao\" />
-    <Folder Include="Views\Sistema\" />
   </ItemGroup>
   <ItemGroup>
     <Content Include="fonts\glyphicons-halflings-regular.woff" />

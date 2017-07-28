@@ -19,12 +19,19 @@ namespace tester_webapp.Controllers
         
         }
 
-        public ActionResult TelasSistema(int sistemaId)
+        public ActionResult TelasSistema(int sistemaId, int? id)
         {
-            List<Sistema> sistemas = Sistema_DAO.getAllSistemas().ToList();
-            List<Tela> telas = Tela_DAO.getAllTelas(sistemas.First(x => x.Id == sistemaId)).ToList();
-
-            return View(telas);
+            if (id.HasValue)
+            {
+                return Content("Sistema ID=" + sistemaId.ToString() + "\n" + "IdTela=" + id.ToString() + "não implementado ainda");
+            }
+            else
+            {
+                List<Sistema> sistemas = Sistema_DAO.getAllSistemas().ToList();
+                List<Tela> telas = Tela_DAO.getAllTelas(sistemas.First(x => x.Id == sistemaId)).ToList();
+                return View(telas);
+            }
+            
         }
     }
 }

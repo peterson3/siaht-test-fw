@@ -31,13 +31,13 @@
             <div class="collapse navbar-collapse navbar-ex1-collapse">
                 <ul class="nav navbar-nav side-nav">
                     <li>
-                        <a href="@Url.Action("Index", "Home")"><i class="fa fa-fw fa-dashboard fa-2x"></i>&nbsp;Home</a>
+                        <a href="@Url.Action("", "Home")"><i class="fa fa-fw fa-dashboard fa-2x"></i>&nbsp;Home</a>
                     </li>
                     <li>
                         <a href="javascript:;" data-toggle="collapse" data-target="#testcase-opts"><i class="fa fa-fw fa-file fa-2x"></i>&nbsp;Casos de Teste<i class="fa fa-fw fa-caret-down"></i></a>
                         <ul id="testcase-opts" class="collapse">
                             <li>
-                                <a href="@Url.Action("Index", "TestCase")">Listar</a>
+                                <a href="@Url.Action("", "TestCase")">Listar</a>
                             </li>
                             <li>
                                 <a href="@Url.Action("Novo", "TestCase")">Criar</a>
@@ -45,13 +45,13 @@
                         </ul>
                     </li>
                     <li>
-                        <a href="@Url.Action("Index", "TestSuite")"><i class="fa fa-fw fa-files-o fa-2x"></i>&nbsp;Roteiros de Teste</a>
+                        <a href="@Url.Action("", "TestSuite")"><i class="fa fa-fw fa-files-o fa-2x"></i>&nbsp;Roteiros de Teste</a>
                     </li>
                     <li>
-                        <a href="@Url.Action("Index", "Trello")"><i class="fa fa-fw fa-trello fa-2x"></i>&nbsp;Trello</a>
+                        <a href="@Url.Action("", "Trello")"><i class="fa fa-fw fa-trello fa-2x"></i>&nbsp;Trello</a>
                     </li>
                     <li>
-                        <a href="#">
+                        <a href="@Url.Action("", "Sistema")">
                             <span class="fa-stack">
                                 <i class="fa fa-fw fa-tv fa-stack-2x"></i>
                                 <i class="fa fa-fw fa-terminal fa-stack-1x"></i>
@@ -60,13 +60,13 @@
                         </a>
                     </li>
                     <li>
-                        <a href="#"><i class="fa fa-fw fa-window-maximize fa-2x"></i>&nbsp;Tela</a>
+                        <a href="@Url.Action("", "Tela")"><i class="fa fa-fw fa-window-maximize fa-2x"></i>&nbsp;Tela</a>
                     </li>
                     <li>
-                        <a href="#"><i class="fa fa-fw fa-code fa-2x"></i>&nbsp;Ação</a>
+                        <a href="@Url.Action("", "Acao")"><i class="fa fa-fw fa-code fa-2x"></i>&nbsp;Ação</a>
                     </li>
                     <li>
-                        <a href="#"><i class="fa fa-fw fa-book fa-2x"></i>&nbsp;Documentação</a>
+                        <a href="@Url.Action("", "Documentacao")"><i class="fa fa-fw fa-book fa-2x"></i>&nbsp;Documentação</a>
                     </li>
                 </ul>
             </div>

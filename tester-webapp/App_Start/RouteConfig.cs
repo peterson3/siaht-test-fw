@@ -13,12 +13,27 @@ namespace tester_webapp
         {
             routes.IgnoreRoute("{resource}.axd/{*pathInfo}");
 
+
+            routes.MapRoute(
+                name: "TelaRouteIndex",
+                url: "Tela/Index",
+                defaults: new { controller = "Tela", action = "Index"}
+                );
             routes.MapRoute(
                 name: "TelaRoute",
-                url: "Tela/TelasSistema/{sistemaId}/{id}",
-                defaults: new { sistemaId = UrlParameter.Optional, id = UrlParameter.Optional }
+                url: "Tela/{sistemaId}/{id}",
+                defaults: new { controller = "Tela", action = "TelasSistema", id = UrlParameter.Optional }
                 );
-
+            routes.MapRoute(
+                name: "AcaoRouteSelecaoSistema",
+                url: "Acao/Index",
+                defaults: new { controller = "Acao", action = "Index" }
+                );
+            routes.MapRoute(
+                name: "AcaoRoute",
+                url: "Acao/{sistemaId}/{telaId}/{acaoId}",
+                defaults: new { controller = "Acao", action = "SelecionaTela", sistemaId = UrlParameter.Optional, telaId = UrlParameter.Optional, acaoId = UrlParameter.Optional }
+                );
             routes.MapRoute(
                 name: "Default",
                 url: "{controller}/{action}/{id}",

@@ -26,7 +26,7 @@ namespace UI_test_player_TD.DB
                         SELECT * FROM TESTCASE WHERE COD_TESTCASE= :COD_TESTCASE",
                     con)) 
                     {
-
+                        sql_cmd.Parameters.Clear();
                         sql_cmd.Parameters.Add(":COD_TESTCASE", testCase.Id);
 
                         OracleDataReader sql_dataReader = sql_cmd.ExecuteReader();
@@ -53,7 +53,7 @@ namespace UI_test_player_TD.DB
                         WHERE COD_TESTCASE= :COD_TESTCASE";
 
                             testCase.UltimaVezExecutado = DateTime.Now;
-
+                            sql_cmd.Parameters.Clear();
                             sql_cmd.Parameters.Add(":NOME", testCase.Nome);
                             sql_cmd.Parameters.Add(":TXT_DESCRICAO", testCase.Descricao);
                             sql_cmd.Parameters.Add(":TXT_CODIGO", testCase.Codigo);
@@ -93,6 +93,7 @@ namespace UI_test_player_TD.DB
                             //Deletando Registro dos Passos
                             sql_cmd.CommandText = @"DELETE FROM PASSODOTESTE 
                         WHERE  COD_TESTCASE=:COD_TESTCASE";
+                            sql_cmd.Parameters.Clear();
                             sql_cmd.Parameters.Add(":COD_TESTCASE", testCase.Id);
                             sql_cmd.ExecuteNonQuery();
 
@@ -105,6 +106,7 @@ namespace UI_test_player_TD.DB
                             (:COD_TESTCASE, :COD_TELA, :COD_ACAO,
                             :TXT_PARAMETRO, :DEVE_FOTOGRAFAR, :DEVE_EXECUTAR,
                             :TEVE_SUCESSO, :NUM_ORDEM_SEQ, :TXT_RETORNO, :TXT_OBS, seq_cod_passo.nextval)";
+                                sql_cmd.Parameters.Clear();
 
                                 sql_cmd.Parameters.Add(":COD_TESTCASE", testCase.Id);
                                 sql_cmd.Parameters.Add(":COD_TELA", passo.telaSelecionada.Id);
@@ -180,6 +182,7 @@ namespace UI_test_player_TD.DB
                                 :TXT_POS_COND,
                                 :COD_SISTEMA)
                         ";
+                            sql_cmd.Parameters.Clear();
 
                             sql_cmd.Parameters.Add(":NOME", testCase.Nome);
                             sql_cmd.Parameters.Add(":TXT_DESCRICAO", testCase.Descricao);
@@ -205,6 +208,7 @@ namespace UI_test_player_TD.DB
                             //Deletando Registro dos Passos
                             sql_cmd.CommandText = @"DELETE  FROM PASSODOTESTE 
                         WHERE COD_TESTCASE=:COD_TESTCASE";
+                            sql_cmd.Parameters.Clear();
 
                             sql_cmd.Parameters.Add(":COD_TESTCASE", testCase.Id);
                             sql_cmd.ExecuteNonQuery();
@@ -224,7 +228,7 @@ namespace UI_test_player_TD.DB
                                     :TXT_RETORNO, 
                                     :TXT_OBS,
                                     SEQ_COD_PASSO.nextval)";
-
+                                sql_cmd.Parameters.Clear();
                                 sql_cmd.Parameters.Add(":COD_TESTCASE", testCase.Id);
                                 sql_cmd.Parameters.Add(":COD_TELA", passo.telaSelecionada.Id);
                                 sql_cmd.Parameters.Add(":COD_ACAO", passo.acaoSelecionada.Id);
