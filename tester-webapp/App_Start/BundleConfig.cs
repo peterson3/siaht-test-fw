@@ -22,6 +22,7 @@ namespace tester_webapp
             bundles.Add(new ScriptBundle("~/bundles/bootstrap").Include(
                       "~/Scripts/bootstrap.js",
                       "~/Scripts/respond.js",
+                      "~/Scripts/app.js",
                       "~/Scripts/plugins/flot/excanvas.min.js",
                       "~/Scripts/plugins/flot/flot-data.js",
                       "~/Scripts/plugins/flot/jquery.flot.js",
