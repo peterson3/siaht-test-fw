@@ -1089,5 +1089,62 @@ namespace UI_test_player_TD.DB
             //Retornar Lista
             return new TimeSpan(longAverageTicks);
         }
+
+        public static int GetCountApprovedTests()
+        {
+            int count;
+            using (OracleConnection con = new OracleConnection(DBConnection.conString))
+            {
+                con.Open();
+
+                using (OracleCommand sql_cmd = new OracleCommand(@"SELECT COUNT(*) FROM TESTCASE where num_ultima_situacao=1", con))
+                {
+
+                    count = Convert.ToInt32(sql_cmd.ExecuteScalar());
+
+                }
+
+
+            }
+            return count;
+        }
+
+        public static int GetCountErrorTests()
+        {
+            int count;
+            using (OracleConnection con = new OracleConnection(DBConnection.conString))
+            {
+                con.Open();
+
+                using (OracleCommand sql_cmd = new OracleCommand(@"SELECT COUNT(*) FROM TESTCASE where num_ultima_situacao=-1", con))
+                {
+
+                    count = Convert.ToInt32(sql_cmd.ExecuteScalar());
+
+                }
+
+
+            }
+            return count;
+        }
+
+        public static int GetCountNotExecutedTests()
+        {
+            int count;
+            using (OracleConnection con = new OracleConnection(DBConnection.conString))
+            {
+                con.Open();
+ 
+                using (OracleCommand sql_cmd = new OracleCommand(@"SELECT COUNT(*) FROM TESTCASE where num_ultima_situacao=0", con))
+                {
+
+                    count = Convert.ToInt32(sql_cmd.ExecuteScalar());
+
+                }
+
+
+            }
+            return count;
+        }
     }
 }

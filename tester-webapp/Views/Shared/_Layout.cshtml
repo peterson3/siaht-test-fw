@@ -13,6 +13,7 @@
     <link rel="stylesheet" type="text/css" href="https://cdn.datatables.net/1.10.15/css/jquery.dataTables.min.css">
     @Styles.Render("~/Content/css")
     @Scripts.Render("~/bundles/modernizr")
+    @Scripts.Render("~/bundles/jquery")
 </head>
 <body>
     <div id="wrapper">
@@ -86,7 +87,7 @@
     <!-- Bootstrap Core JavaScript -->
     <!-- Morris Charts JavaScript -->
     
-    @Scripts.Render("~/bundles/jquery")
+
     @Scripts.Render("~/bundles/bootstrap")
     @RenderSection("scripts", required: false)
     <script src="https://cdn.datatables.net/1.10.15/js/jquery.dataTables.min.js"></script>

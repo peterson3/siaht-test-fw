@@ -24,12 +24,11 @@ namespace tester_webapp
                       "~/Scripts/respond.js",
                       "~/Scripts/app.js",
                       "~/Scripts/plugins/flot/excanvas.min.js",
-                      "~/Scripts/plugins/flot/flot-data.js",
                       "~/Scripts/plugins/flot/jquery.flot.js",
                       "~/Scripts/plugins/flot/jquery.flot.pie.js",
                       "~/Scripts/plugins/flot/jquery.flot.resize.js",
                       "~/Scripts/plugins/flot/jquery.flot.tooltip.min.js",
-                      "~/Scripts/plugins/morris/morris-data.js",
+                      "~/Scripts/plugins/flot/flot-data.js",
                       "~/Scripts/plugins/morris/morris.js",
                       "~/Scripts/plugins/morris/raphael.min.js"));
 

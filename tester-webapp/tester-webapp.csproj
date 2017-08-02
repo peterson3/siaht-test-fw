@@ -160,7 +160,6 @@
     <Content Include="Scripts\plugins\flot\jquery.flot.pie.js" />
     <Content Include="Scripts\plugins\flot\jquery.flot.resize.js" />
     <Content Include="Scripts\plugins\flot\jquery.flot.tooltip.min.js" />
-    <Content Include="Scripts\plugins\morris\morris-data.js" />
     <Content Include="Scripts\plugins\morris\morris.js" />
     <Content Include="Scripts\plugins\morris\morris.min.js" />
     <Content Include="Scripts\plugins\morris\raphael.min.js" />
