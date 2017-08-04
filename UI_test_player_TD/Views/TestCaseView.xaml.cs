@@ -4,6 +4,7 @@ using Microsoft.Win32;
 using System;
 using System.Collections.Generic;
 using System.Collections.ObjectModel;
+using System.ComponentModel;
 using System.Diagnostics;
 using System.Drawing;
 using System.IO;
@@ -513,39 +514,47 @@ namespace UI_test_player_TD.Views
             //Informar ao Usuário
 
 
-            OpenFileDialog dialog = new OpenFileDialog();
+            SaveFileDialog dialog = new SaveFileDialog();
             dialog.Filter = "Arquivos CSV (.csv) | *.csv";
             dialog.FilterIndex = 1;
-            dialog.Multiselect = false;
+            dialog.FileName = this.selectedCase.Codigo+"-data.csv";
             dialog.ShowDialog();
-
-            string fileName = "";
-
-            if (dialog.FileNames.Length <= 0)
-            {
-                return;
-            }
-            if (dialog.FileNames.Length > 0)
-            {
-                fileName = dialog.FileNames[0];
-            }
-
+            dialog.CreatePrompt = true;
+            dialog.CheckFileExists = true;
+            dialog.CheckPathExists = true;
+            string fileName = dialog.FileName;
+            
+            
             FileInfo file = new FileInfo(fileName);
+            if (!file.Exists)
+            {
+                using (file.Create())
+                {
 
+                }
 
-
-
+            }
 
             int qtdPassos = selectedCase.Passos.Count;
             int qtdParametros = 0;
             int qtdTestes = 0;
 
+
             StreamReader reader = new StreamReader(file.FullName, System.Text.Encoding.Default);
-            reader.ReadToEnd();
+            string result = reader.ReadToEnd();
             reader.Close();
 
+
             StreamWriter writer = new StreamWriter(file.FullName, true, System.Text.Encoding.Default);
-            writer.WriteLine();
+            if (String.IsNullOrWhiteSpace(result))
+            {
+                //Não Pula Linha
+            }
+            else
+            {
+                //Pula Linha
+                writer.WriteLine();
+            }
             for (int i = 0; i < selectedCase.Passos.Count; i++)
             {
                 writer.Write(selectedCase.Passos[i].Parametro);
@@ -918,6 +927,7 @@ namespace UI_test_player_TD.Views
             ////Selecionar a Nova Acao Adicionada
             //getSelectedPasso().acaoSelecionada = novaAcaoAdicionada;
         }
+
 
 
     }

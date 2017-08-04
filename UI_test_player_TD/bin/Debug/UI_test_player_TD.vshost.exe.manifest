@@ -295,14 +295,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="UI_test_player_TD.exe" size="33212864">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="UI_test_player_TD.exe" size="33212352">
       <assemblyIdentity name="UI_test_player_TD" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>6MSyIJbAANLKPkNaepsGUI3aB7XrIUo2Qbj6MpueOkc=</dsig:DigestValue>
+        <dsig:DigestValue>nZeMJSPAVK3XITG8fyVI5X+m4a4cslAA+dBoxA4W57E=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

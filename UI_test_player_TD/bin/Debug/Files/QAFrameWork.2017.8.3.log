@@ -1,0 +1,191 @@
+[03/08/2017 11:46:13] Acao: Logar (223.223.2.102) Login 327
+[03/08/2017 11:46:44] Acao: Ir Para Login 361
+[03/08/2017 11:46:50] Acao: Informar Produto ANS Produtos e Planos > Ocorrências 841
+[03/08/2017 11:46:53] Acao: Clicar Botão: Adicionar Ocorrência Produtos e Planos > Ocorrências 842
+[03/08/2017 11:46:56] Acao: Informar Data Fato Produtos e Planos > Ocorrências 843
+[03/08/2017 11:46:58] Acao: Informar Observação Produtos e Planos > Ocorrências 844
+[03/08/2017 11:47:01] Acao: Clicar Botão: Incluir Produtos e Planos > Ocorrências 845
+[03/08/2017 11:47:02] Acao: [POSCOND] Operação Realizada com Sucesso? Produtos e Planos > Ocorrências 846
+[03/08/2017 11:47:06] no such element: Unable to locate element: {"method":"class name","selector":"msg"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.10586 x86_64)WebDriver
+[03/08/2017 12:21:35] D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\ctf\created
+[03/08/2017 12:50:52] Acao: Logar (223.223.2.102) Login 327
+[03/08/2017 12:51:29] Acao: Ir Para Login 361
+[03/08/2017 12:51:38] Acao: Informar Código Produtos e Planos > Grupo Produto 861
+[03/08/2017 12:51:45] Acao: Informar Nome Produtos e Planos > Grupo Produto 862
+[03/08/2017 12:51:49] Acao: Selecionar Tipo Plano Produtos e Planos > Grupo Produto 863
+[03/08/2017 12:52:20] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[03/08/2017 14:22:03] Acao: Logar (223.223.2.102) Login 327
+[03/08/2017 14:22:22] Acao: Ir Para Login 361
+[03/08/2017 14:22:24] Acao: Informar Código Produto ANS Produtos e Planos > Produto ANS 741
+[03/08/2017 14:22:30] Acao: Informar Nome Produtos e Planos > Produto ANS 742
+[03/08/2017 14:22:31] Acao: Informar Operadora Produtos e Planos > Produto ANS 743
+[03/08/2017 14:22:32] Acao: Selecionar Linha de Produto Produtos e Planos > Produto ANS 744
+[03/08/2017 14:22:33] Acao: Selecionar Segmentação Produtos e Planos > Produto ANS 745
+[03/08/2017 14:22:35] Acao: Informar Normativa ANS Produtos e Planos > Produto ANS 746
+[03/08/2017 14:22:36] Acao: Informar Tipo Contratação Produtos e Planos > Produto ANS 747
+[03/08/2017 14:22:37] Acao: Informar Regulamentado Produtos e Planos > Produto ANS 748
+[03/08/2017 14:22:39] Acao: Informar Registro ANS Produtos e Planos > Produto ANS 749
+[03/08/2017 14:22:40] Acao: Informar Tipo Registro ANS Produtos e Planos > Produto ANS 758
+[03/08/2017 14:22:41] Acao: Informar Vendas Nova De Produtos e Planos > Produto ANS 750
+[03/08/2017 14:22:42] Acao: Informar Vendas Novas Até Produtos e Planos > Produto ANS 751
+[03/08/2017 14:22:43] Acao: Selecionar Abrangência Produtos e Planos > Produto ANS 752
+[03/08/2017 14:22:44] Acao: Selecionar Formação Preço Produtos e Planos > Produto ANS 753
+[03/08/2017 14:22:45] Acao: Informar Código Rede Atendimento Produtos e Planos > Produto ANS 755
+[03/08/2017 14:22:46] Acao: Selecionar Tipo de Faixa Produtos e Planos > Produto ANS 756
+[03/08/2017 14:22:47] Acao: Clicar Botão: Incluir Produtos e Planos > Produto ANS 757
+[03/08/2017 14:23:18] Timed out after 30 secondsWebDriver.Support
+[03/08/2017 14:23:25] Acao: Logar (223.223.2.102) Login 327
+[03/08/2017 14:23:40] Acao: Ir Para Login 361
+[03/08/2017 14:23:42] Acao: Informar Código Produto ANS Produtos e Planos > Produto ANS 741
+[03/08/2017 14:23:46] Acao: Clicar Botão: Excluir Produtos e Planos > Produto ANS 760
+[03/08/2017 14:23:47] Acao: [POSCOND] Operação Relizada Com Sucesso? Produtos e Planos > Produto ANS 759
+[03/08/2017 14:23:54] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[03/08/2017 14:24:00] Acao: Logar (223.223.2.102) Login 327
+[03/08/2017 14:24:17] Acao: Ir Para Login 361
+[03/08/2017 14:24:19] Acao: Informar Codigo do Plano Produtos e Planos > Plano 821
+[03/08/2017 14:24:57] Acao: Informar Nome Produtos e Planos > Plano 822
+[03/08/2017 14:24:58] Acao: Informar Produto ANS Produtos e Planos > Plano 823
+[03/08/2017 14:24:59] Acao: Informar Tipo Contratação Pessoa Física Produtos e Planos > Plano 824
+[03/08/2017 14:25:03] Acao: Informar Data Contratação De Produtos e Planos > Plano 825
+[03/08/2017 14:25:04] Acao: Informar Data Contratação Até Produtos e Planos > Plano 826
+[03/08/2017 14:25:05] Acao: Clicar Botão: Incluir Produtos e Planos > Plano 827
+[03/08/2017 14:25:05] Acao: [POSCOND] Operação Realizada com Sucesso? Produtos e Planos > Plano 828
+[03/08/2017 14:25:35] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[03/08/2017 14:25:40] Acao: Logar (223.223.2.102) Login 327
+[03/08/2017 14:25:55] Acao: Ir Para Login 361
+[03/08/2017 14:25:58] Acao: Informar Codigo do Plano Produtos e Planos > Plano 821
+[03/08/2017 14:26:24] Acao: Clicar Botão: Alterar Produtos e Planos > Plano 830
+[03/08/2017 14:26:55] Timed out after 30 secondsWebDriver.Support
+[03/08/2017 14:27:00] Acao: Logar (223.223.2.102) Login 327
+[03/08/2017 14:27:15] Acao: Ir Para Login 361
+[03/08/2017 14:27:17] Acao: Informar Codigo do Plano Produtos e Planos > Plano 821
+[03/08/2017 14:27:44] Acao: Clicar Botão: Excluir Produtos e Planos > Plano 829
+[03/08/2017 14:28:14] Timed out after 30 secondsWebDriver.Support
+[03/08/2017 14:28:20] Acao: Logar (223.223.2.102) Login 327
+[03/08/2017 14:28:35] Acao: Ir Para Login 361
+[03/08/2017 14:28:37] Acao: Informar Código Plano Produtos e Planos > Planos de Repasse 831
+[03/08/2017 14:28:37] A operação solicitada não pode ser executada em um arquivo com uma seção mapeada pelo usuário aberta.
+mscorlib
+[03/08/2017 14:28:43] Acao: Logar (223.223.2.102) Login 327
+[03/08/2017 14:28:58] Acao: Ir Para Login 361
+[03/08/2017 14:29:00] Acao: Informar Código Plano Produtos e Planos > Planos de Repasse 831
+[03/08/2017 14:29:01] Acao: Clicar Botão: Alterar Produtos e Planos > Planos de Repasse 835
+[03/08/2017 14:29:31] Timed out after 30 secondsWebDriver.Support
+[03/08/2017 14:29:35] Acao: Logar (223.223.2.102) Login 327
+[03/08/2017 14:29:51] Acao: Ir Para Login 361
+[03/08/2017 14:29:52] Acao: Informar Código Plano Produtos e Planos > Planos de Repasse 831
+[03/08/2017 14:29:53] Acao: Clicar Botão: Excluir Produtos e Planos > Planos de Repasse 836
+[03/08/2017 14:30:24] Timed out after 30 secondsWebDriver.Support
+[03/08/2017 14:41:35] Acao: Logar (223.223.2.102) Login 327
+[03/08/2017 14:41:52] Acao: Ir Para Login 361
+[03/08/2017 14:41:55] Acao: Informar Código Produtos e Planos > Grupo Produto 861
+[03/08/2017 14:41:57] Acao: Informar Nome Produtos e Planos > Grupo Produto 862
+[03/08/2017 14:41:59] Acao: Selecionar Tipo Plano Produtos e Planos > Grupo Produto 863
+[03/08/2017 14:42:01] Acao: Clicar Botão: Incluir Produtos e Planos > Grupo Produto 865
+[03/08/2017 14:42:03] Acao: [POSCOND] Operação Realizada com Sucesso? Produtos e Planos > Grupo Produto 866
+[03/08/2017 14:42:06] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[03/08/2017 14:43:00] D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\ctf\created
+[03/08/2017 14:49:03] Acao: Logar (223.223.2.102) Login 327
+[03/08/2017 14:49:33] Acao: Ir Para Login 361
+[03/08/2017 14:49:36] Acao: Informar Código Produtos e Planos > Grupo Produto 861
+[03/08/2017 14:49:38] Acao: Informar Nome Produtos e Planos > Grupo Produto 862
+[03/08/2017 14:49:41] Acao: Selecionar Tipo Plano Produtos e Planos > Grupo Produto 863
+[03/08/2017 14:49:42] Acao: Clicar Botão: Incluir Produtos e Planos > Grupo Produto 865
+[03/08/2017 14:49:44] Acao: [POSCOND] Operação Realizada com Sucesso? Produtos e Planos > Grupo Produto 866
+[03/08/2017 14:49:47] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[03/08/2017 15:00:38] Acao: Logar (223.223.2.102) Login 327
+[03/08/2017 15:00:56] Acao: Ir Para Login 361
+[03/08/2017 15:00:58] Acao: Informar Código Produtos e Planos > Grupo Produto 861
+[03/08/2017 15:01:01] Acao: Informar Nome Produtos e Planos > Grupo Produto 862
+[03/08/2017 15:01:38] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[03/08/2017 15:02:42] Acao: Logar (223.223.2.102) Login 327
+[03/08/2017 15:03:05] Acao: Ir Para Login 361
+[03/08/2017 15:03:09] Acao: Informar Código Produtos e Planos > Grupo Produto 861
+[03/08/2017 15:03:12] Acao: Informar Nome Produtos e Planos > Grupo Produto 862
+[03/08/2017 15:03:14] Acao: Selecionar Tipo Plano Produtos e Planos > Grupo Produto 863
+[03/08/2017 15:03:16] Acao: Clicar Botão: Incluir Produtos e Planos > Grupo Produto 865
+[03/08/2017 15:03:18] Acao: [POSCOND] Operação Realizada com Sucesso? Produtos e Planos > Grupo Produto 866
+[03/08/2017 15:09:16] Acao: Logar (223.223.2.102) Login 327
+[03/08/2017 15:09:39] Acao: Ir Para Login 361
+[03/08/2017 15:09:42] Acao: Informar Código Produtos e Planos > Grupo Produto 861
+[03/08/2017 15:09:46] Acao: Informar Nome Produtos e Planos > Grupo Produto 862
+[03/08/2017 15:09:47] Acao: Clicar Botão: Alterar Produtos e Planos > Grupo Produto 867
+[03/08/2017 15:09:49] Acao: [POSCOND] Operação Realizada com Sucesso? Produtos e Planos > Grupo Produto 866
+[03/08/2017 15:10:23] Acao: Logar (223.223.2.102) Login 327
+[03/08/2017 15:10:41] Acao: Ir Para Login 361
+[03/08/2017 15:10:44] Acao: Informar Código Produtos e Planos > Grupo Produto 861
+[03/08/2017 15:10:46] Acao: Informar Nome Produtos e Planos > Grupo Produto 862
+[03/08/2017 15:10:48] Acao: Clicar Botão: Excluir Produtos e Planos > Grupo Produto 868
+[03/08/2017 15:10:50] Acao: [POSCOND] Operação Realizada com Sucesso? Produtos e Planos > Grupo Produto 866
+[03/08/2017 15:10:50] unexpected alert open: {Alert text : Deseja realmente excluir?}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.10586 x86_64)WebDriver
+[03/08/2017 15:18:21] Acao: Logar (223.223.2.102) Login 327
+[03/08/2017 15:18:37] Acao: Ir Para Login 361
+[03/08/2017 15:18:40] Acao: Informar Código Produtos e Planos > Grupo Produto 861
+[03/08/2017 15:18:42] Acao: Clicar Botão: Excluir Produtos e Planos > Grupo Produto 868
+[03/08/2017 15:18:44] Acao: Aceitar Alerta COMANDOS GENÉRICOS 870
+[03/08/2017 15:18:51] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[03/08/2017 15:20:07] Acao: Logar (223.223.2.102) Login 327
+[03/08/2017 15:20:24] Acao: Ir Para Login 361
+[03/08/2017 15:20:27] Acao: Informar Código Produtos e Planos > Grupo Produto 861
+[03/08/2017 15:20:29] Acao: Clicar Botão: Excluir Produtos e Planos > Grupo Produto 868
+[03/08/2017 15:20:31] Acao: Aceitar Alerta COMANDOS GENÉRICOS 870
+[03/08/2017 15:20:31] unexpected alert open: {Alert text : Deseja realmente excluir?}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.10586 x86_64)WebDriver
+[03/08/2017 15:22:44] Acao: Logar (223.223.2.102) Login 327
+[03/08/2017 15:23:01] Acao: Ir Para Login 361
+[03/08/2017 15:23:06] Acao: Informar Código Produtos e Planos > Grupo Produto 861
+[03/08/2017 15:23:09] Acao: Clicar Botão: Excluir Produtos e Planos > Grupo Produto 868
+[03/08/2017 15:23:10] Acao: Aceitar Alerta COMANDOS GENÉRICOS 870
+[03/08/2017 15:23:41] Timed out after 30 secondsWebDriver.Support
+[03/08/2017 15:24:12] Acao: Logar (223.223.2.102) Login 327
+[03/08/2017 15:24:33] Acao: Ir Para Login 361
+[03/08/2017 15:24:38] Acao: Informar Código Produtos e Planos > Grupo Produto 861
+[03/08/2017 15:24:42] Acao: Informar Nome Produtos e Planos > Grupo Produto 862
+[03/08/2017 15:24:44] Acao: Selecionar Tipo Plano Produtos e Planos > Grupo Produto 863
+[03/08/2017 15:24:46] Acao: Clicar Botão: Incluir Produtos e Planos > Grupo Produto 865
+[03/08/2017 15:24:48] Acao: [POSCOND] Operação Realizada com Sucesso? Produtos e Planos > Grupo Produto 866
+[03/08/2017 15:25:13] Acao: Logar (223.223.2.102) Login 327
+[03/08/2017 15:25:30] Acao: Ir Para Login 361
+[03/08/2017 15:25:33] Acao: Informar Código Produtos e Planos > Grupo Produto 861
+[03/08/2017 15:25:36] Acao: Clicar Botão: Excluir Produtos e Planos > Grupo Produto 868
+[03/08/2017 15:25:38] Acao: [POSCOND] Operação Realizada com Sucesso? Produtos e Planos > Grupo Produto 866
+[03/08/2017 16:36:18] Acao: Logar (223.223.2.102) Login 327
+[03/08/2017 16:36:37] Acao: Ir Para Login 361
+[03/08/2017 16:36:40] Acao: Informar Código Produto ANS Produtos e Planos > Anexos 872
+[03/08/2017 16:42:18] Acao: Logar (223.223.2.102) Login 327
+[03/08/2017 16:42:38] Acao: Ir Para Login 361
+[03/08/2017 16:42:42] Acao: Informar Código Produto ANS Produtos e Planos > Anexos 872
+[03/08/2017 16:42:44] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[03/08/2017 16:42:48] Acao: Informar Arquivo Produtos e Planos > Anexos 873
+[03/08/2017 16:42:50] Acao: Informar Descrição Produtos e Planos > Anexos 874
+[03/08/2017 16:42:52] Acao: Clicar Botão: Executar Produtos e Planos > Anexos 875
+[03/08/2017 16:42:53] Acao: [POSCOND] Operação Realizada Com Sucesso? COMANDOS GENÉRICOS 871
+[03/08/2017 16:42:57] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[03/08/2017 16:45:59] Acao: Logar (223.223.2.102) Login 327
+[03/08/2017 16:46:17] Acao: Ir Para Login 361
+[03/08/2017 16:46:19] Acao: Informar Código Produto ANS Produtos e Planos > Anexos 872
+[03/08/2017 16:46:21] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[03/08/2017 16:46:24] Acao: Informar Arquivo Produtos e Planos > Anexos 873
+[03/08/2017 16:46:26] Acao: Informar Descrição Produtos e Planos > Anexos 874
+[03/08/2017 16:46:27] Acao: Clicar Botão: Executar Produtos e Planos > Anexos 875
+[03/08/2017 16:46:29] Acao: [POSCOND] Operação Realizada Com Sucesso? COMANDOS GENÉRICOS 871
+[03/08/2017 16:51:47] Acao: Logar (223.223.2.102) Login 327
+[03/08/2017 16:52:06] Acao: Ir Para Login 361
+[03/08/2017 16:52:10] Acao: Informar Código Produto ANS Produtos e Planos > Anexos 872
+[03/08/2017 16:52:12] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[03/08/2017 16:52:15] Acao: Informar Arquivo Produtos e Planos > Anexos 873
+[03/08/2017 16:52:17] Acao: Informar Descrição Produtos e Planos > Anexos 874
+[03/08/2017 16:52:19] Acao: Clicar Botão: Executar Produtos e Planos > Anexos 875
+[03/08/2017 16:52:21] Acao: [POSCOND] Operação Realizada Com Sucesso? COMANDOS GENÉRICOS 871
+[03/08/2017 16:52:37] Acao: Logar (223.223.2.102) Login 327
+[03/08/2017 16:52:59] Acao: Ir Para Login 361
+[03/08/2017 16:53:02] Acao: Informar Código Produto ANS Produtos e Planos > Anexos 872
+[03/08/2017 16:53:04] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[03/08/2017 16:53:07] Acao: Clicar Campo Excluir Anexo Produtos e Planos > Anexos 876
+[03/08/2017 16:53:09] Acao: Clicar Botão: Executar Produtos e Planos > Anexos 875
+[03/08/2017 16:53:11] Acao: [POSCOND] Operação Realizada Com Sucesso? COMANDOS GENÉRICOS 871

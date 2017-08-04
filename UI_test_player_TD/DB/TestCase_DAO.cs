@@ -680,136 +680,136 @@ namespace UI_test_player_TD.DB
 
                     }
                     
-                    foreach (TestCase testCase in testCases)
-                    {
-                        ////MessageBox.Show(testCases.Count.ToString());
-                        //if (DBConnection.con.State == ConnectionState.Closed)
-                        //{
-                        //    DBConnection.Connect();
-                        //}
-                        //MessageBox.Show(testCase.Id.ToString());
-                        using (OracleCommand sql_cmd2 = new OracleCommand("SELECT * FROM PassoDoTeste WHERE COD_TESTCASE=:COD_TESTCASE", con))
-                        {
-                            sql_cmd2.Parameters.Add("@COD_TESTCASE", testCase.Id);
+                    //foreach (TestCase testCase in testCases)
+                    //{
+                    //    ////MessageBox.Show(testCases.Count.ToString());
+                    //    //if (DBConnection.con.State == ConnectionState.Closed)
+                    //    //{
+                    //    //    DBConnection.Connect();
+                    //    //}
+                    //    //MessageBox.Show(testCase.Id.ToString());
+                    //    using (OracleCommand sql_cmd2 = new OracleCommand("SELECT * FROM PassoDoTeste WHERE COD_TESTCASE=:COD_TESTCASE", con))
+                    //    {
+                    //        sql_cmd2.Parameters.Add("@COD_TESTCASE", testCase.Id);
 
-                            OracleDataReader sql_dataReader2 = sql_cmd2.ExecuteReader();
-
-
-                            while (sql_dataReader2.Read())
-                            {
-                                PassoDoTeste passoDoTeste = new PassoDoTeste(testCase);
+                    //        OracleDataReader sql_dataReader2 = sql_cmd2.ExecuteReader();
 
 
-                                if (passoDoTeste.telasPossiveis == null)
-                                {
-                                    //MessageBox.Show("passoDoTest.TelasPossiveis == null");
-                                }
-
-                                if (!sql_dataReader2.IsDBNull(3))
-                                    passoDoTeste.Parametro = sql_dataReader2.GetString(3);
+                    //        while (sql_dataReader2.Read())
+                    //        {
+                    //            PassoDoTeste passoDoTeste = new PassoDoTeste(testCase);
 
 
-                                if (!sql_dataReader2.IsDBNull(4))
-                                {
-                                    int deveFotografar_INT = Convert.ToInt32(sql_dataReader2.GetDecimal(4));
-                                    if (deveFotografar_INT == 0)
-                                    {
-                                        passoDoTeste.deveFotografar = false;
-                                    }
-                                    else
-                                    {
-                                        passoDoTeste.deveFotografar = true;
-                                    }
-                                }
+                    //            if (passoDoTeste.telasPossiveis == null)
+                    //            {
+                    //                //MessageBox.Show("passoDoTest.TelasPossiveis == null");
+                    //            }
 
-                                if (!sql_dataReader2.IsDBNull(5))
-                                {
-                                    int deveExecutar_INT = Convert.ToInt32(sql_dataReader2.GetDecimal(5));
-                                    if (deveExecutar_INT == 0)
-                                    {
-                                        passoDoTeste.deveExecutar = false;
-                                    }
-                                    else
-                                    {
-                                        passoDoTeste.deveExecutar = true;
-                                    }
-                                }
-
-                                if (!sql_dataReader2.IsDBNull(7))
-                                    passoDoTeste.OrdemSeq = Convert.ToInt32(sql_dataReader2.GetDecimal(7));
-
-                                if (!sql_dataReader2.IsDBNull(6))
-                                {
-                                    int teveSucesso_INT = Convert.ToInt32(sql_dataReader2.GetDecimal(6));
-                                    if (teveSucesso_INT == -1)
-                                    {
-                                        passoDoTeste.teveSucesso = false;
-                                    }
-                                    else
-                                    {
-                                        if (teveSucesso_INT == 0)
-                                        {
-                                            passoDoTeste.teveSucesso = null;
-                                        }
-                                        else
-                                        {
-                                            //teveSucesso == 1
-                                            passoDoTeste.teveSucesso = true;
-                                        }
-                                    }
-
-                                    if (passoDoTeste.teveSucesso == true)
-                                    {
-                                        passoDoTeste.SituationImg = PassoDoTeste.IMG_APPR;
-                                    }
-                                    else
-                                    {
-                                        passoDoTeste.SituationImg = PassoDoTeste.IMG_ERRO;
-                                    }
-                                }
-                                else
-                                {
-                                    passoDoTeste.teveSucesso = null;
-                                    passoDoTeste.SituationImg = PassoDoTeste.IMG_QUEST;
-                                }
+                    //            if (!sql_dataReader2.IsDBNull(3))
+                    //                passoDoTeste.Parametro = sql_dataReader2.GetString(3);
 
 
+                    //            if (!sql_dataReader2.IsDBNull(4))
+                    //            {
+                    //                int deveFotografar_INT = Convert.ToInt32(sql_dataReader2.GetDecimal(4));
+                    //                if (deveFotografar_INT == 0)
+                    //                {
+                    //                    passoDoTeste.deveFotografar = false;
+                    //                }
+                    //                else
+                    //                {
+                    //                    passoDoTeste.deveFotografar = true;
+                    //                }
+                    //            }
 
-                                if (passoDoTeste.telasPossiveis == null)
-                                {
-                                    //MessageBox.Show("passoDoTest.TelasPossiveis == null");
-                                }
-                                else
-                                {
-                                    int idTelaSelecionada = Convert.ToInt32(sql_dataReader2.GetDecimal(1));
-                                    foreach (Tela tela in passoDoTeste.telasPossiveis)
-                                    {
-                                        if (tela.Id == idTelaSelecionada)
-                                        {
-                                            passoDoTeste.telaSelecionada = tela;
-                                        }
-                                    }
-                                }
+                    //            if (!sql_dataReader2.IsDBNull(5))
+                    //            {
+                    //                int deveExecutar_INT = Convert.ToInt32(sql_dataReader2.GetDecimal(5));
+                    //                if (deveExecutar_INT == 0)
+                    //                {
+                    //                    passoDoTeste.deveExecutar = false;
+                    //                }
+                    //                else
+                    //                {
+                    //                    passoDoTeste.deveExecutar = true;
+                    //                }
+                    //            }
+
+                    //            if (!sql_dataReader2.IsDBNull(7))
+                    //                passoDoTeste.OrdemSeq = Convert.ToInt32(sql_dataReader2.GetDecimal(7));
+
+                    //            if (!sql_dataReader2.IsDBNull(6))
+                    //            {
+                    //                int teveSucesso_INT = Convert.ToInt32(sql_dataReader2.GetDecimal(6));
+                    //                if (teveSucesso_INT == -1)
+                    //                {
+                    //                    passoDoTeste.teveSucesso = false;
+                    //                }
+                    //                else
+                    //                {
+                    //                    if (teveSucesso_INT == 0)
+                    //                    {
+                    //                        passoDoTeste.teveSucesso = null;
+                    //                    }
+                    //                    else
+                    //                    {
+                    //                        //teveSucesso == 1
+                    //                        passoDoTeste.teveSucesso = true;
+                    //                    }
+                    //                }
+
+                    //                if (passoDoTeste.teveSucesso == true)
+                    //                {
+                    //                    passoDoTeste.SituationImg = PassoDoTeste.IMG_APPR;
+                    //                }
+                    //                else
+                    //                {
+                    //                    passoDoTeste.SituationImg = PassoDoTeste.IMG_ERRO;
+                    //                }
+                    //            }
+                    //            else
+                    //            {
+                    //                passoDoTeste.teveSucesso = null;
+                    //                passoDoTeste.SituationImg = PassoDoTeste.IMG_QUEST;
+                    //            }
 
 
-                                int idAcaoSelecionada = Convert.ToInt32(sql_dataReader2.GetDecimal(2));
 
-                                foreach (AcaoDyn acao in passoDoTeste.acoesPossiveis)
-                                {
-                                    if (acao.Id == idAcaoSelecionada)
-                                    {
-                                        passoDoTeste.acaoSelecionada = acao;
-                                    }
-                                }
+                    //            if (passoDoTeste.telasPossiveis == null)
+                    //            {
+                    //                //MessageBox.Show("passoDoTest.TelasPossiveis == null");
+                    //            }
+                    //            else
+                    //            {
+                    //                int idTelaSelecionada = Convert.ToInt32(sql_dataReader2.GetDecimal(1));
+                    //                foreach (Tela tela in passoDoTeste.telasPossiveis)
+                    //                {
+                    //                    if (tela.Id == idTelaSelecionada)
+                    //                    {
+                    //                        passoDoTeste.telaSelecionada = tela;
+                    //                    }
+                    //                }
+                    //            }
 
 
-                                testCase.Passos.Add(passoDoTeste);
+                    //            int idAcaoSelecionada = Convert.ToInt32(sql_dataReader2.GetDecimal(2));
 
-                            }
-                        }
+                    //            foreach (AcaoDyn acao in passoDoTeste.acoesPossiveis)
+                    //            {
+                    //                if (acao.Id == idAcaoSelecionada)
+                    //                {
+                    //                    passoDoTeste.acaoSelecionada = acao;
+                    //                }
+                    //            }
+
+
+                    //            testCase.Passos.Add(passoDoTeste);
+
+                    //        }
+                    //    }
                        
 
-                    }
+                    //}
                 }
                 catch (Exception exc)
                 {
@@ -1134,8 +1134,8 @@ namespace UI_test_player_TD.DB
             using (OracleConnection con = new OracleConnection(DBConnection.conString))
             {
                 con.Open();
- 
-                using (OracleCommand sql_cmd = new OracleCommand(@"SELECT COUNT(*) FROM TESTCASE where num_ultima_situacao=0", con))
+
+                using (OracleCommand sql_cmd = new OracleCommand(@"SELECT COUNT(*) FROM TESTCASE where num_ultima_situacao=0 or num_ultima_situacao is null", con))
                 {
 
                     count = Convert.ToInt32(sql_cmd.ExecuteScalar());

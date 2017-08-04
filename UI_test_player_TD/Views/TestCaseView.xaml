@@ -29,7 +29,7 @@
     </UserControl.Resources>
 
     <Grid x:Name="mainGrid">
-        <ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Visible" Margin="0">
+        <!--<ScrollViewer VerticalScrollBarVisibility="Auto" HorizontalScrollBarVisibility="Visible" Margin="0">-->
             <Grid>
                 <Grid.ColumnDefinitions>
                     <ColumnDefinition Width="0*" MaxWidth="0"/>
@@ -41,11 +41,12 @@
                     <RowDefinition Height="0" MaxHeight="75"/>
                     <RowDefinition/>
                 </Grid.RowDefinitions>
-                <Grid Margin="0" Grid.Row="2" Grid.ColumnSpan="2">
+                    <Grid Margin="0" Grid.Row="2" Grid.ColumnSpan="2">
                     <Grid.ColumnDefinitions>
                         <ColumnDefinition/>
                     </Grid.ColumnDefinitions>
-                    <ListBox  x:Name="ctfBox" Margin="5,180,10,60"
+                    <ScrollViewer VerticalScrollBarVisibility="Auto" Margin="5,180,10,60" MaxHeight="800">
+                        <ListBox  x:Name="ctfBox" 
         				SelectionChanged="ctfBox_SelectionChanged" 
         				ItemsSource="{Binding testCases, Mode=TwoWay, UpdateSourceTrigger=Default}"
         				Background="{x:Null}">
@@ -60,28 +61,33 @@
                             </ContextMenu>
                         </ListBox.ContextMenu>
                         <ListBox.ItemTemplate>
-                            <DataTemplate>
-                                <Grid Margin="0,2" Height="30">
-                                    <Grid.ColumnDefinitions>
-                                        <ColumnDefinition Width="30" />
-                                        <ColumnDefinition Width="Auto" />
-                                    </Grid.ColumnDefinitions>
-                                    <Image x:Name="testIcon" RenderOptions.BitmapScalingMode="HighQuality" Source="{Binding testSituationImg, Mode=TwoWay}" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Stretch="Fill"/>
-                                    <TextBlock Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="5,0,0,0" >
+                                <DataTemplate>
+                                    <Grid Margin="0,2" Height="30">
+                                        <Grid.ColumnDefinitions>
+                                            <ColumnDefinition Width="30" />
+                                            <ColumnDefinition Width="Auto" />
+                                        </Grid.ColumnDefinitions>
+                                        <Image x:Name="testIcon" RenderOptions.BitmapScalingMode="HighQuality" Source="{Binding testSituationImg, Mode=TwoWay}" VerticalAlignment="Stretch" HorizontalAlignment="Stretch" Stretch="Fill"/>
+                                        <TextBlock Grid.Column="1" VerticalAlignment="Center" HorizontalAlignment="Center" Margin="5,0,0,0" >
                                     <Run Text ="{Binding Codigo}"/>
                                     <Run Text= " - " /> <!-- space -->
                                     <Run Text ="{Binding Nome}"/>
-                                    </TextBlock>
-                                </Grid>
-                            </DataTemplate>
+                                        </TextBlock>
+                                    </Grid>
+                
+                                </DataTemplate>
                         </ListBox.ItemTemplate>
                     </ListBox>
-                    <ComboBox x:Name="sistemaComboBox" 
+                        </ScrollViewer>
+
+                            <ComboBox x:Name="sistemaComboBox" 
                     	ItemsSource="{Binding sistemas, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
                     	SelectedItem="{Binding selectedSistema, Mode=TwoWay, UpdateSourceTrigger=Default}"
                     	DisplayMemberPath="Nome"
                     	SelectionChanged="selectedSistema_Changed" Margin="5,10,10,0" VerticalAlignment="Top" Height="30"/>
                 </Grid>
+     
+                
                 <Grid  Grid.Column="2" Margin="0" Grid.Row="2">
                     <Grid.ColumnDefinitions>
                         <ColumnDefinition/>
@@ -411,7 +417,7 @@
                     </Rectangle>
                 </Button>
             </Grid>
-        </ScrollViewer>
+        <!--</ScrollViewer>-->
 
     </Grid>
 </UserControl>
