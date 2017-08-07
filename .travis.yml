@@ -1,7 +1,7 @@
 language: csharp
 solution: tester-project.sln
-  - sudo apt-get install nunit-console
-  - nuget restore tester-project.sln
+#   - sudo apt-get install nunit-console
+#   - nuget restore tester-project.sln
 
-script:
-  - xbuild tester-project.sln
+# script:
+#   - xbuild tester-project.sln
