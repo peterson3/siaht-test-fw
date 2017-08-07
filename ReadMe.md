@@ -1,3 +1,6 @@
+# tester-project
+[![Build Status](https://travis-ci.org/peterson3/test-project.svg?branch=master)](https://travis-ci.org/peterson3/test-project)
+
 # Testes Automatizados
 ---
 
