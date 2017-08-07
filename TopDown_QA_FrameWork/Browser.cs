@@ -189,6 +189,8 @@ namespace TopDown_QA_FrameWork
             {
                 try
                 {
+                    webDriver.Dispose();
+                    webDriver.Quit();
                     webDriver.Close();
                 }
                 catch (Exception ex)
