@@ -1,2 +1,4 @@
 language: csharp
 solution: tester-project.sln
+  - sudo apt-get install -y gtk-sharp2
+  - nuget restore tester-project.sln
