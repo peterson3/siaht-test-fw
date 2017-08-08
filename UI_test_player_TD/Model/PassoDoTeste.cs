@@ -205,6 +205,9 @@ namespace UI_test_player_TD.Model
 
                  switch (funcao)
                  {
+                     case "PARAMETRO":
+                         this.Parametro = this.TestCaseParent.getPassoDoTestAtIndex(Convert.ToInt32(parametroFunc)).Parametro;
+                         break;
                      case "RETORNO":
                          //Recuperar Passo do Teste Específico do Caso de Teste do Qual esse Passo Pertence
                          this.Parametro = this.TestCaseParent.getPassoDoTestAtIndex(Convert.ToInt32(parametroFunc)).Retorno;

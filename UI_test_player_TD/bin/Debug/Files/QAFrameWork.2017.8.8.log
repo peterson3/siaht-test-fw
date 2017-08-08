@@ -1,0 +1,279 @@
+[08/08/2017 11:28:12] Acao: Logar (223.223.2.102) Login 327
+[08/08/2017 11:28:44] Acao: Ir Para Login 361
+[08/08/2017 11:28:52] Acao: Informar Código Produto ANS Produtos e Planos > Produto ANS 741
+[08/08/2017 11:29:04] Acao: Informar Nome Produtos e Planos > Produto ANS 742
+[08/08/2017 11:29:06] Acao: Informar Operadora Produtos e Planos > Produto ANS 743
+[08/08/2017 11:29:08] Acao: Selecionar Linha de Produto Produtos e Planos > Produto ANS 744
+[08/08/2017 11:29:09] Acao: Selecionar Segmentação Produtos e Planos > Produto ANS 745
+[08/08/2017 11:29:11] Acao: Informar Normativa ANS Produtos e Planos > Produto ANS 746
+[08/08/2017 11:29:12] Acao: Informar Tipo Contratação Produtos e Planos > Produto ANS 747
+[08/08/2017 11:29:14] Acao: Informar Regulamentado Produtos e Planos > Produto ANS 748
+[08/08/2017 11:29:16] Acao: Informar Registro ANS Produtos e Planos > Produto ANS 749
+[08/08/2017 11:29:17] Acao: Informar Tipo Registro ANS Produtos e Planos > Produto ANS 758
+[08/08/2017 11:29:18] Acao: Informar Vendas Nova De Produtos e Planos > Produto ANS 750
+[08/08/2017 11:29:19] Acao: Informar Vendas Novas Até Produtos e Planos > Produto ANS 751
+[08/08/2017 11:29:21] Acao: Selecionar Abrangência Produtos e Planos > Produto ANS 752
+[08/08/2017 11:29:23] Acao: Selecionar Formação Preço Produtos e Planos > Produto ANS 753
+[08/08/2017 11:29:24] Acao: Informar Código Rede Atendimento Produtos e Planos > Produto ANS 755
+[08/08/2017 11:29:25] Acao: Selecionar Tipo de Faixa Produtos e Planos > Produto ANS 756
+[08/08/2017 11:29:27] Acao: Clicar Botão: Incluir Produtos e Planos > Produto ANS 757
+[08/08/2017 11:29:58] Timed out after 30 secondsWebDriver.Support
+[08/08/2017 11:30:14] Acao: Logar (223.223.2.102) Login 327
+[08/08/2017 11:30:33] Acao: Ir Para Login 361
+[08/08/2017 11:30:36] Acao: Informar Código Produto ANS Produtos e Planos > Produto ANS 741
+[08/08/2017 11:30:47] Acao: Clicar Botão: Excluir Produtos e Planos > Produto ANS 760
+[08/08/2017 11:30:48] Acao: [POSCOND] Operação Relizada Com Sucesso? Produtos e Planos > Produto ANS 759
+[08/08/2017 11:31:02] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[08/08/2017 11:31:15] Acao: Logar (223.223.2.102) Login 327
+[08/08/2017 11:31:35] Acao: Ir Para Login 361
+[08/08/2017 11:31:40] Acao: Informar Codigo do Plano Produtos e Planos > Plano 821
+[08/08/2017 11:32:40] The HTTP request to the remote WebDriver server for URL http://localhost:54297/session/2d3e08c9615a97c7e27b6c0160810a0f/keys timed out after 60 seconds.WebDriver
+[08/08/2017 11:33:32] Acao: Logar (223.223.2.102) Login 327
+[08/08/2017 11:33:53] Acao: Ir Para Login 361
+[08/08/2017 11:33:59] Acao: Informar Codigo do Plano Produtos e Planos > Plano 821
+[08/08/2017 11:35:00] The HTTP request to the remote WebDriver server for URL http://localhost:54430/session/8036904a013415281aaad828de375b34/keys timed out after 60 seconds.WebDriver
+[08/08/2017 11:35:49] Acao: Logar (223.223.2.102) Login 327
+[08/08/2017 11:36:08] Acao: Ir Para Login 361
+[08/08/2017 11:36:13] Acao: Informar Codigo do Plano Produtos e Planos > Plano 821
+[08/08/2017 11:37:14] The HTTP request to the remote WebDriver server for URL http://localhost:54514/session/6923dfd60497c705516f4eec11788a2c/keys timed out after 60 seconds.WebDriver
+[08/08/2017 11:37:43] Acao: Logar (223.223.2.102) Login 327
+[08/08/2017 11:38:01] Acao: Ir Para Login 361
+[08/08/2017 11:38:06] Acao: Informar Código Plano Produtos e Planos > Planos de Repasse 831
+[08/08/2017 11:38:06] Acao: Informar Nome Produtos e Planos > Planos de Repasse 832
+[08/08/2017 11:38:07] Acao: Selecionar Segmentação Produtos e Planos > Planos de Repasse 833
+[08/08/2017 11:38:07] no such element: Unable to locate element: {"method":"name","selector":"cod_cobertura"}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.10586 x86_64)WebDriver
+[08/08/2017 11:38:19] Acao: Logar (223.223.2.102) Login 327
+[08/08/2017 11:38:40] Acao: Ir Para Login 361
+[08/08/2017 11:38:44] Acao: Informar Código Plano Produtos e Planos > Planos de Repasse 831
+[08/08/2017 11:38:45] Acao: Clicar Botão: Alterar Produtos e Planos > Planos de Repasse 835
+[08/08/2017 11:39:19] Timed out after 30 secondsWebDriver.Support
+[08/08/2017 11:39:31] Acao: Logar (223.223.2.102) Login 327
+[08/08/2017 11:39:51] Acao: Ir Para Login 361
+[08/08/2017 11:39:56] Acao: Informar Código Plano Produtos e Planos > Planos de Repasse 831
+[08/08/2017 11:39:56] Acao: Clicar Botão: Excluir Produtos e Planos > Planos de Repasse 836
+[08/08/2017 11:40:27] Timed out after 30 secondsWebDriver.Support
+[08/08/2017 11:40:39] Acao: Logar (223.223.2.102) Login 327
+[08/08/2017 11:40:57] Acao: Ir Para Login 361
+[08/08/2017 11:41:00] Acao: Informar Código Produto ANS Produtos e Planos > Anexos 872
+[08/08/2017 11:41:01] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[08/08/2017 11:41:04] Acao: Informar Arquivo Produtos e Planos > Anexos 873
+[08/08/2017 11:41:05] Acao: Informar Descrição Produtos e Planos > Anexos 874
+[08/08/2017 11:41:06] Acao: Clicar Botão: Executar Produtos e Planos > Anexos 875
+[08/08/2017 11:41:07] Acao: [POSCOND] Operação Realizada Com Sucesso? COMANDOS GENÉRICOS 871
+[08/08/2017 11:41:25] Acao: Logar (223.223.2.102) Login 327
+[08/08/2017 11:41:37] Acao: Ir Para Login 361
+[08/08/2017 11:41:40] Acao: Informar Código Produto ANS Produtos e Planos > Anexos 872
+[08/08/2017 11:41:41] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[08/08/2017 11:41:45] Acao: Clicar Campo Excluir Anexo Produtos e Planos > Anexos 876
+[08/08/2017 11:41:46] Acao: Clicar Botão: Executar Produtos e Planos > Anexos 875
+[08/08/2017 11:41:47] Acao: [POSCOND] Operação Realizada Com Sucesso? COMANDOS GENÉRICOS 871
+[08/08/2017 11:42:06] Acao: Logar (223.223.2.102) Login 327
+[08/08/2017 11:42:18] Acao: Ir Para Login 361
+[08/08/2017 11:42:22] Acao: Informar Código Produtos e Planos > Grupo Produto 861
+[08/08/2017 11:42:25] Acao: Informar Nome Produtos e Planos > Grupo Produto 862
+[08/08/2017 11:42:26] Acao: Selecionar Tipo Plano Produtos e Planos > Grupo Produto 863
+[08/08/2017 11:42:27] Acao: Clicar Botão: Incluir Produtos e Planos > Grupo Produto 865
+[08/08/2017 11:42:28] Acao: [POSCOND] Operação Realizada com Sucesso? Produtos e Planos > Grupo Produto 866
+[08/08/2017 11:42:45] Acao: Logar (223.223.2.102) Login 327
+[08/08/2017 11:42:59] Acao: Ir Para Login 361
+[08/08/2017 11:43:03] Acao: Informar Código Produtos e Planos > Grupo Produto 861
+[08/08/2017 11:43:06] Acao: Informar Nome Produtos e Planos > Grupo Produto 862
+[08/08/2017 11:43:06] Acao: Clicar Botão: Alterar Produtos e Planos > Grupo Produto 867
+[08/08/2017 11:43:07] Acao: [POSCOND] Operação Realizada com Sucesso? Produtos e Planos > Grupo Produto 866
+[08/08/2017 11:43:26] Acao: Logar (223.223.2.102) Login 327
+[08/08/2017 11:43:37] Acao: Ir Para Login 361
+[08/08/2017 11:43:40] Acao: Informar Código Produtos e Planos > Grupo Produto 861
+[08/08/2017 11:43:42] Acao: Clicar Botão: Excluir Produtos e Planos > Grupo Produto 868
+[08/08/2017 11:43:44] Acao: [POSCOND] Operação Realizada com Sucesso? Produtos e Planos > Grupo Produto 866
+[08/08/2017 11:47:42] Acao: Logar (223.223.2.102) Login 327
+[08/08/2017 11:47:59] Acao: Ir Para Login 361
+[08/08/2017 11:48:05] Acao: Informar Codigo do Plano Produtos e Planos > Plano 821
+[08/08/2017 11:49:07] Acao: Informar Nome Produtos e Planos > Plano 822
+[08/08/2017 11:49:09] Acao: Informar Produto ANS Produtos e Planos > Plano 823
+[08/08/2017 11:49:11] Acao: Informar Tipo Contratação Pessoa Física Produtos e Planos > Plano 824
+[08/08/2017 11:49:17] Acao: Informar Data Contratação De Produtos e Planos > Plano 825
+[08/08/2017 11:49:18] Acao: Informar Data Contratação Até Produtos e Planos > Plano 826
+[08/08/2017 11:49:20] Acao: Clicar Botão: Incluir Produtos e Planos > Plano 827
+[08/08/2017 11:49:22] Acao: [POSCOND] Operação Realizada com Sucesso? Produtos e Planos > Plano 828
+[08/08/2017 11:50:08] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[08/08/2017 11:51:58] Acao: Logar (223.223.2.102) Login 327
+[08/08/2017 11:52:13] Acao: Ir Para Login 361
+[08/08/2017 11:52:18] Acao: Informar Codigo do Plano Produtos e Planos > Plano 821
+[08/08/2017 11:53:04] Acao: Informar Nome Produtos e Planos > Plano 822
+[08/08/2017 11:53:06] Acao: Informar Produto ANS Produtos e Planos > Plano 823
+[08/08/2017 11:53:08] Acao: Informar Tipo Contratação Pessoa Física Produtos e Planos > Plano 824
+[08/08/2017 11:53:13] Acao: Informar Data Contratação De Produtos e Planos > Plano 825
+[08/08/2017 11:53:15] Acao: Informar Data Contratação Até Produtos e Planos > Plano 826
+[08/08/2017 11:53:17] Acao: Clicar Botão: Incluir Produtos e Planos > Plano 827
+[08/08/2017 11:53:19] Acao: [POSCOND] Operação Realizada com Sucesso? Produtos e Planos > Plano 828
+[08/08/2017 11:54:03] Acao: Logar (223.223.2.102) Login 327
+[08/08/2017 11:54:17] Acao: Ir Para Login 361
+[08/08/2017 11:54:22] Acao: Informar Codigo do Plano Produtos e Planos > Plano 821
+[08/08/2017 11:55:10] Acao: Clicar Botão: Alterar Produtos e Planos > Plano 830
+[08/08/2017 11:55:13] Acao: [POSCOND] Operação Realizada com Sucesso? Produtos e Planos > Plano 828
+[08/08/2017 11:55:13] unexpected alert open: {Alert text : Linha de Produto é obrigatório.}
+  (Session info: chrome=59.0.3071.115)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.10586 x86_64)WebDriver
+[08/08/2017 11:58:57] Acao: Logar (223.223.2.102) Login 327
+[08/08/2017 11:59:12] Acao: Ir Para Login 361
+[08/08/2017 11:59:18] Acao: Informar Codigo do Plano Produtos e Planos > Plano 821
+[08/08/2017 12:00:03] Acao: Clicar Botão: Excluir Produtos e Planos > Plano 829
+[08/08/2017 12:00:06] Acao: [POSCOND] Operação Realizada com Sucesso? Produtos e Planos > Plano 828
+[08/08/2017 12:01:39] Acao: Logar (223.223.2.102) Login 327
+[08/08/2017 12:02:01] Acao: Ir Para Login 361
+[08/08/2017 12:02:07] Acao: Informar Código Plano Produtos e Planos > Planos de Repasse 831
+[08/08/2017 12:02:10] Acao: Informar Nome Produtos e Planos > Planos de Repasse 832
+[08/08/2017 12:02:13] Acao: Selecionar Segmentação Produtos e Planos > Planos de Repasse 833
+[08/08/2017 12:02:28] Acao: Clicar Botão: Incluir Produtos e Planos > Planos de Repasse 834
+[08/08/2017 12:02:33] Acao: [POSCOND] Operação Realizada Com Sucesso? Produtos e Planos > Planos de Repasse 838
+[08/08/2017 12:02:45] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[08/08/2017 12:05:17] Acao: Logar (223.223.2.102) Login 327
+[08/08/2017 12:05:42] Acao: Ir Para Login 361
+[08/08/2017 12:05:48] Acao: Informar Código Plano Produtos e Planos > Planos de Repasse 831
+[08/08/2017 12:05:51] Acao: Informar Nome Produtos e Planos > Planos de Repasse 832
+[08/08/2017 12:06:10] Acao: Selecionar Segmentação Produtos e Planos > Planos de Repasse 833
+[08/08/2017 12:06:13] Acao: Clicar Botão: Incluir Produtos e Planos > Planos de Repasse 834
+[08/08/2017 12:06:16] Acao: [POSCOND] Operação Realizada Com Sucesso? Produtos e Planos > Planos de Repasse 838
+[08/08/2017 12:07:45] Acao: Logar (223.223.2.102) Login 327
+[08/08/2017 12:08:03] Acao: Ir Para Login 361
+[08/08/2017 12:08:08] Acao: Informar Código Plano Produtos e Planos > Planos de Repasse 831
+[08/08/2017 12:08:10] Acao: Clicar Botão: Alterar Produtos e Planos > Planos de Repasse 835
+[08/08/2017 12:08:31] Acao: [POSCOND] Operação Realizada Com Sucesso? Produtos e Planos > Planos de Repasse 838
+[08/08/2017 12:08:45] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[08/08/2017 14:30:58] Acao: Logar (223.223.2.102) Login 327
+[08/08/2017 14:31:24] Acao: Ir Para Login 361
+[08/08/2017 14:31:31] Acao: Informar Código Plano Produtos e Planos > Planos de Repasse 831
+[08/08/2017 14:31:34] Acao: Clicar Botão: Excluir Produtos e Planos > Planos de Repasse 836
+[08/08/2017 14:32:27] Acao: [POSCOND] Operação Realizada Com Sucesso? Produtos e Planos > Planos de Repasse 838
+[08/08/2017 14:34:19] Acao: Logar (223.223.2.102) Login 327
+[08/08/2017 14:34:40] Acao: Ir Para Login 361
+[08/08/2017 14:34:45] Acao: Informar Código Produto ANS Produtos e Planos > Produto ANS 741
+[08/08/2017 14:34:57] Acao: Informar Nome Produtos e Planos > Produto ANS 742
+[08/08/2017 14:35:00] Acao: Informar Operadora Produtos e Planos > Produto ANS 743
+[08/08/2017 14:35:03] Acao: Selecionar Linha de Produto Produtos e Planos > Produto ANS 744
+[08/08/2017 14:35:06] Acao: Selecionar Segmentação Produtos e Planos > Produto ANS 745
+[08/08/2017 14:35:09] Acao: Informar Normativa ANS Produtos e Planos > Produto ANS 746
+[08/08/2017 14:35:11] Acao: Informar Tipo Contratação Produtos e Planos > Produto ANS 747
+[08/08/2017 14:35:13] Acao: Informar Regulamentado Produtos e Planos > Produto ANS 748
+[08/08/2017 14:35:16] Acao: Informar Registro ANS Produtos e Planos > Produto ANS 749
+[08/08/2017 14:35:19] Acao: Informar Tipo Registro ANS Produtos e Planos > Produto ANS 758
+[08/08/2017 14:35:21] Acao: Informar Vendas Nova De Produtos e Planos > Produto ANS 750
+[08/08/2017 14:35:24] Acao: Informar Vendas Novas Até Produtos e Planos > Produto ANS 751
+[08/08/2017 14:35:26] Acao: Selecionar Abrangência Produtos e Planos > Produto ANS 752
+[08/08/2017 14:35:28] Acao: Selecionar Formação Preço Produtos e Planos > Produto ANS 753
+[08/08/2017 14:35:31] Acao: Informar Código Rede Atendimento Produtos e Planos > Produto ANS 755
+[08/08/2017 14:35:34] Acao: Selecionar Tipo de Faixa Produtos e Planos > Produto ANS 756
+[08/08/2017 14:35:38] Acao: Clicar Botão: Incluir Produtos e Planos > Produto ANS 757
+[08/08/2017 14:35:41] Acao: [POSCOND] Operação Relizada Com Sucesso? Produtos e Planos > Produto ANS 759
+[08/08/2017 14:35:50] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[08/08/2017 14:37:19] Acao: Logar (223.223.2.102) Login 327
+[08/08/2017 14:37:40] Acao: Ir Para Login 361
+[08/08/2017 14:37:48] Acao: Informar Código Produto ANS Produtos e Planos > Produto ANS 741
+[08/08/2017 14:38:04] Acao: Informar Nome Produtos e Planos > Produto ANS 742
+[08/08/2017 14:38:07] Acao: Informar Operadora Produtos e Planos > Produto ANS 743
+[08/08/2017 14:38:10] Acao: Selecionar Linha de Produto Produtos e Planos > Produto ANS 744
+[08/08/2017 14:38:13] Acao: Selecionar Segmentação Produtos e Planos > Produto ANS 745
+[08/08/2017 14:38:15] Acao: Informar Normativa ANS Produtos e Planos > Produto ANS 746
+[08/08/2017 14:38:17] Acao: Informar Tipo Contratação Produtos e Planos > Produto ANS 747
+[08/08/2017 14:38:20] Acao: Informar Regulamentado Produtos e Planos > Produto ANS 748
+[08/08/2017 14:38:23] Acao: Informar Registro ANS Produtos e Planos > Produto ANS 749
+[08/08/2017 14:38:25] Acao: Informar Tipo Registro ANS Produtos e Planos > Produto ANS 758
+[08/08/2017 14:38:27] Acao: Informar Vendas Nova De Produtos e Planos > Produto ANS 750
+[08/08/2017 14:38:29] Acao: Informar Vendas Novas Até Produtos e Planos > Produto ANS 751
+[08/08/2017 14:38:32] Acao: Selecionar Abrangência Produtos e Planos > Produto ANS 752
+[08/08/2017 14:38:35] Acao: Selecionar Formação Preço Produtos e Planos > Produto ANS 753
+[08/08/2017 14:38:38] Acao: Informar Código Rede Atendimento Produtos e Planos > Produto ANS 755
+[08/08/2017 14:38:40] Acao: Selecionar Tipo de Faixa Produtos e Planos > Produto ANS 756
+[08/08/2017 14:38:42] Acao: Clicar Botão: Incluir Produtos e Planos > Produto ANS 757
+[08/08/2017 14:39:13] Timed out after 30 secondsWebDriver.Support
+[08/08/2017 14:39:51] Acao: Logar (223.223.2.102) Login 327
+[08/08/2017 14:40:10] Acao: Ir Para Login 361
+[08/08/2017 14:40:15] Acao: Informar Código Produto ANS Produtos e Planos > Produto ANS 741
+[08/08/2017 14:40:27] Acao: Clicar Botão: Excluir Produtos e Planos > Produto ANS 760
+[08/08/2017 14:40:29] Acao: [POSCOND] Operação Relizada Com Sucesso? Produtos e Planos > Produto ANS 759
+[08/08/2017 14:41:12] Acao: Logar (223.223.2.102) Login 327
+[08/08/2017 14:41:33] Acao: Ir Para Login 361
+[08/08/2017 14:41:36] Acao: Informar Código Produto ANS Produtos e Planos > Produto ANS 741
+[08/08/2017 14:41:52] Acao: Informar Nome Produtos e Planos > Produto ANS 742
+[08/08/2017 14:41:55] Acao: Informar Operadora Produtos e Planos > Produto ANS 743
+[08/08/2017 14:41:57] Acao: Selecionar Linha de Produto Produtos e Planos > Produto ANS 744
+[08/08/2017 14:41:59] Acao: Selecionar Segmentação Produtos e Planos > Produto ANS 745
+[08/08/2017 14:42:02] Acao: Informar Normativa ANS Produtos e Planos > Produto ANS 746
+[08/08/2017 14:42:04] Acao: Informar Tipo Contratação Produtos e Planos > Produto ANS 747
+[08/08/2017 14:42:07] Acao: Informar Regulamentado Produtos e Planos > Produto ANS 748
+[08/08/2017 14:42:09] Acao: Informar Registro ANS Produtos e Planos > Produto ANS 749
+[08/08/2017 14:42:11] Acao: Informar Tipo Registro ANS Produtos e Planos > Produto ANS 758
+[08/08/2017 14:42:13] Acao: Informar Vendas Nova De Produtos e Planos > Produto ANS 750
+[08/08/2017 14:42:15] Acao: Informar Vendas Novas Até Produtos e Planos > Produto ANS 751
+[08/08/2017 14:42:18] Acao: Selecionar Abrangência Produtos e Planos > Produto ANS 752
+[08/08/2017 14:42:19] Acao: Selecionar Formação Preço Produtos e Planos > Produto ANS 753
+[08/08/2017 14:42:22] Acao: Informar Código Rede Atendimento Produtos e Planos > Produto ANS 755
+[08/08/2017 14:42:24] Acao: Selecionar Tipo de Faixa Produtos e Planos > Produto ANS 756
+[08/08/2017 14:42:27] Acao: Clicar Botão: Incluir Produtos e Planos > Produto ANS 757
+[08/08/2017 14:42:29] Acao: [POSCOND] Operação Relizada Com Sucesso? Produtos e Planos > Produto ANS 759
+[08/08/2017 14:42:51] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[08/08/2017 14:53:28] Acao: Logar (223.223.2.102) Login 327
+[08/08/2017 14:53:54] Acao: Ir Para Login 361
+[08/08/2017 14:54:01] Acao: Informar Código Produto ANS Produtos e Planos > Produto ANS 741
+[08/08/2017 14:54:14] Acao: Informar Nome Produtos e Planos > Produto ANS 742
+[08/08/2017 14:54:19] Acao: Informar Operadora Produtos e Planos > Produto ANS 743
+[08/08/2017 14:54:24] Acao: Selecionar Linha de Produto Produtos e Planos > Produto ANS 744
+[08/08/2017 14:54:28] Acao: Selecionar Segmentação Produtos e Planos > Produto ANS 745
+[08/08/2017 14:54:32] Acao: Informar Normativa ANS Produtos e Planos > Produto ANS 746
+[08/08/2017 14:54:38] Acao: Informar Tipo Contratação Produtos e Planos > Produto ANS 747
+[08/08/2017 14:54:41] Acao: Informar Regulamentado Produtos e Planos > Produto ANS 748
+[08/08/2017 14:54:45] Acao: Informar Registro ANS Produtos e Planos > Produto ANS 749
+[08/08/2017 14:54:49] Acao: Informar Tipo Registro ANS Produtos e Planos > Produto ANS 758
+[08/08/2017 14:54:54] Acao: Informar Vendas Nova De Produtos e Planos > Produto ANS 750
+[08/08/2017 14:55:00] Acao: Informar Vendas Novas Até Produtos e Planos > Produto ANS 751
+[08/08/2017 14:55:05] Acao: Selecionar Abrangência Produtos e Planos > Produto ANS 752
+[08/08/2017 14:55:07] Acao: Selecionar Formação Preço Produtos e Planos > Produto ANS 753
+[08/08/2017 14:55:09] Acao: Informar Código Rede Atendimento Produtos e Planos > Produto ANS 755
+[08/08/2017 14:55:13] Acao: Selecionar Tipo de Faixa Produtos e Planos > Produto ANS 756
+[08/08/2017 14:55:15] Acao: Clicar Botão: Incluir Produtos e Planos > Produto ANS 757
+[08/08/2017 14:55:17] Acao: [POSCOND] Operação Relizada Com Sucesso? Produtos e Planos > Produto ANS 759
+[08/08/2017 14:55:30] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[08/08/2017 14:57:44] Acao: Logar (223.223.2.102) Login 327
+[08/08/2017 14:58:06] Acao: Ir Para Login 361
+[08/08/2017 14:58:11] Acao: Informar Código Produto ANS Produtos e Planos > Produto ANS 741
+[08/08/2017 14:58:22] Acao: Informar Nome Produtos e Planos > Produto ANS 742
+[08/08/2017 14:58:25] Acao: Informar Operadora Produtos e Planos > Produto ANS 743
+[08/08/2017 14:58:28] Acao: Selecionar Linha de Produto Produtos e Planos > Produto ANS 744
+[08/08/2017 14:58:31] Acao: Selecionar Segmentação Produtos e Planos > Produto ANS 745
+[08/08/2017 14:58:33] Acao: Informar Normativa ANS Produtos e Planos > Produto ANS 746
+[08/08/2017 14:58:35] Acao: Informar Tipo Contratação Produtos e Planos > Produto ANS 747
+[08/08/2017 14:58:37] Acao: Informar Regulamentado Produtos e Planos > Produto ANS 748
+[08/08/2017 14:58:40] Acao: Informar Registro ANS Produtos e Planos > Produto ANS 749
+[08/08/2017 14:58:42] Acao: Informar Tipo Registro ANS Produtos e Planos > Produto ANS 758
+[08/08/2017 14:58:45] Acao: Informar Vendas Nova De Produtos e Planos > Produto ANS 750
+[08/08/2017 14:58:47] Acao: Informar Vendas Novas Até Produtos e Planos > Produto ANS 751
+[08/08/2017 14:58:49] Acao: Selecionar Abrangência Produtos e Planos > Produto ANS 752
+[08/08/2017 14:58:51] Acao: Selecionar Formação Preço Produtos e Planos > Produto ANS 753
+[08/08/2017 14:58:54] Acao: Informar Código Rede Atendimento Produtos e Planos > Produto ANS 755
+[08/08/2017 14:58:56] Acao: Selecionar Tipo de Faixa Produtos e Planos > Produto ANS 756
+[08/08/2017 14:58:58] Acao: Clicar Botão: Incluir Produtos e Planos > Produto ANS 757
+[08/08/2017 14:59:01] Acao: [POSCOND] Operação Relizada Com Sucesso? Produtos e Planos > Produto ANS 759
+[08/08/2017 14:59:17] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[08/08/2017 15:59:34] Acao: Logar (223.223.2.102) Login 327
+[08/08/2017 15:59:57] Acao: Ir Para Login 361
+[08/08/2017 16:00:00] Acao: Informar Código Produtos e Planos > Opcionais / Benefícios > Cadastro 881
+[08/08/2017 16:00:30] Timed out after 30 secondsWebDriver.Support
+[08/08/2017 17:00:39] Acao: Logar (223.223.2.102) Login 327
+[08/08/2017 17:01:01] Acao: Ir Para Login 361
+[08/08/2017 17:01:03] Acao: Informar Código Produtos e Planos > Opcionais / Benefícios > Cadastro 881
+[08/08/2017 17:01:34] Timed out after 30 secondsWebDriver.Support
+[08/08/2017 17:03:52] Acao: Logar (223.223.2.102) Login 327
+[08/08/2017 17:04:11] Acao: Ir Para Login 361
+[08/08/2017 17:04:14] Acao: Informar Código Produtos e Planos > Opcionais / Benefícios > Cadastro 881
+[08/08/2017 17:04:45] Timed out after 30 secondsWebDriver.Support
+[08/08/2017 17:21:04] Acao: Logar (223.223.2.102) Login 327
+[08/08/2017 17:21:32] Acao: Ir Para Login 361
+[08/08/2017 17:21:37] Acao: Informar Código Produtos e Planos > Opcionais / Benefícios > Cadastro 881
+[08/08/2017 17:22:08] Timed out after 30 secondsWebDriver.Support
+[08/08/2017 17:30:02] Acao: Logar (223.223.2.102) Login 327
+[08/08/2017 17:30:24] Acao: Ir Para Produtos e Planos > Opcionais / Benefícios > Cadastro 893
+[08/08/2017 17:30:24] no such element: Unable to locate element: {"method":"css selector","selector":"a[data-href='/ace/mvcToAsp.asp?../../pep/asp/pep0021a.asp$$$p=&PT=Cadastra Opcionais / Benefício&pm=75&pcf=PEP0021&pprf=99,ADM,ADMIN,UNICO&PPRM=S,S,S,N,N,N&tipoFuncao=A&chaveAcesso=ADMIN[TD]88868B82919C9611[TD]TS_MASTER[TD]4'"}
+  (Session info: chrome=60.0.3112.90)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.10586 x86_64)WebDriver
