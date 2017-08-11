@@ -1,0 +1,132 @@
+[09/08/2017 13:29:24] Acao: Logar (223.223.2.102) Login 327
+[09/08/2017 13:29:49] Acao: Ir Para Produtos e Planos > Opcionais / Benefícios > Cadastro 893
+[09/08/2017 13:30:12] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[09/08/2017 14:33:01] Acao: Logar (223.223.2.102) Login 327
+[09/08/2017 14:33:25] Acao: Ir Para Produtos e Planos > Opcionais / Benefícios > Cadastro 893
+[09/08/2017 14:33:26] no such element: Unable to locate element: {"method":"css selector","selector":"a[data-href="/ace/mvcToAsp.asp?../../pep/asp/pep0021a.asp$$$p=&PT=Cadastra Opcionais / Benefício&pm=75&pcf=PEP0021&pprf=99,ADM,ADMIN,UNICO&PPRM=S,S,S,N,N,N&tipoFuncao=A&chaveAcesso=ADMIN[TD]88868B82919C9611[TD]TS_MASTER[TD]4"]"}
+  (Session info: chrome=60.0.3112.90)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.10586 x86_64)WebDriver
+[09/08/2017 14:34:50] Acao: Logar (223.223.2.102) Login 327
+[09/08/2017 14:35:11] Acao: Ir Para Produtos e Planos > Opcionais / Benefícios > Cadastro 893
+[09/08/2017 14:35:19] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[09/08/2017 14:35:57] Acao: Logar (223.223.2.102) Login 327
+[09/08/2017 14:36:18] Acao: Ir Para Produtos e Planos > Opcionais / Benefícios > Cadastro 893
+[09/08/2017 14:36:18] element not visible
+  (Session info: chrome=60.0.3112.90)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.10586 x86_64)WebDriver
+[09/08/2017 14:36:45] D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\ctf\created
+[09/08/2017 14:37:02] Acao: Logar (223.223.2.102) Login 327
+[09/08/2017 14:37:22] Acao: Ir Para Produtos e Planos > Opcionais / Benefícios > Cadastro 893
+[09/08/2017 14:37:23] element not visible
+  (Session info: chrome=60.0.3112.90)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.10586 x86_64)WebDriver
+[09/08/2017 14:38:01] Acao: Logar (223.223.2.102) Login 327
+[09/08/2017 14:38:19] Acao: Ir Para Produtos e Planos > Opcionais / Benefícios > Cadastro 893
+[09/08/2017 14:38:20] element not visible
+  (Session info: chrome=60.0.3112.90)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.10586 x86_64)WebDriver
+[09/08/2017 14:39:28] Acao: Logar (223.223.2.102) Login 327
+[09/08/2017 14:39:48] Acao: Ir Para Produtos e Planos > Opcionais / Benefícios > Cadastro 893
+[09/08/2017 14:39:49] element not visible
+  (Session info: chrome=60.0.3112.90)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.10586 x86_64)WebDriver
+[09/08/2017 14:42:38] Acao: Logar (223.223.2.102) Login 327
+[09/08/2017 14:42:57] Acao: Ir Para Produtos e Planos > Opcionais / Benefícios > Cadastro 893
+[09/08/2017 14:43:50] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[09/08/2017 14:44:41] Acao: Logar (223.223.2.102) Login 327
+[09/08/2017 14:45:01] Acao: Ir Para Produtos e Planos > Opcionais / Benefícios > Cadastro 893
+[09/08/2017 14:45:32] Timed out after 30 secondsWebDriver.Support
+[09/08/2017 14:49:03] Acao: Logar (223.223.2.102) Login 327
+[09/08/2017 14:49:23] Acao: Ir Para Produtos e Planos > Opcionais / Benefícios > Cadastro 893
+[09/08/2017 14:49:29] Acao: Informar Código Produtos e Planos > Opcionais / Benefícios > Cadastro 881
+[09/08/2017 14:49:31] Acao: Informar Nome Produtos e Planos > Opcionais / Benefícios > Cadastro 882
+[09/08/2017 14:49:32] invalid element state
+  (Session info: chrome=60.0.3112.90)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.10586 x86_64)WebDriver
+[09/08/2017 14:50:11] Acao: Logar (223.223.2.102) Login 327
+[09/08/2017 14:50:30] Acao: Ir Para Produtos e Planos > Opcionais / Benefícios > Cadastro 893
+[09/08/2017 14:50:40] Acao: Informar Código Produtos e Planos > Opcionais / Benefícios > Cadastro 881
+[09/08/2017 14:50:42] Acao: Informar Nome Produtos e Planos > Opcionais / Benefícios > Cadastro 882
+[09/08/2017 14:50:42] invalid element state
+  (Session info: chrome=60.0.3112.90)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.10586 x86_64)WebDriver
+[09/08/2017 14:51:15] Acao: Logar (223.223.2.102) Login 327
+[09/08/2017 14:51:37] Acao: Ir Para Produtos e Planos > Opcionais / Benefícios > Cadastro 893
+[09/08/2017 14:51:46] Acao: Informar Código Produtos e Planos > Opcionais / Benefícios > Cadastro 881
+[09/08/2017 14:51:49] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[09/08/2017 14:52:40] Acao: Informar Nome Produtos e Planos > Opcionais / Benefícios > Cadastro 882
+[09/08/2017 14:52:44] Acao: Selecionar Grupo Produtos e Planos > Opcionais / Benefícios > Cadastro 883
+[09/08/2017 14:52:48] Acao: Selecionar Rubrica Cobrança Produtos e Planos > Opcionais / Benefícios > Cadastro 884
+[09/08/2017 14:52:53] Acao: Selecionar Carência Produtos e Planos > Opcionais / Benefícios > Cadastro 885
+[09/08/2017 14:52:58] Acao: Selecionar Tipo Produtos e Planos > Opcionais / Benefícios > Cadastro 886
+[09/08/2017 14:53:02] Acao: Informar Controla Movimento Produtos e Planos > Opcionais / Benefícios > Cadastro 887
+[09/08/2017 14:53:05] Acao: Informar Utilizado em Produtos e Planos > Opcionais / Benefícios > Cadastro 888
+[09/08/2017 14:53:11] Acao: Informar Vigência Ativo DE Produtos e Planos > Opcionais / Benefícios > Cadastro 889
+[09/08/2017 14:53:16] Acao: Selecionar Tipo Opcional/Benef Produtos e Planos > Opcionais / Benefícios > Cadastro 890
+[09/08/2017 14:53:18] Acao: Selecionar Abrangência Produtos e Planos > Opcionais / Benefícios > Cadastro 891
+[09/08/2017 14:53:21] Acao: Clicar Botão: Incluir Produtos e Planos > Opcionais / Benefícios > Cadastro 892
+[09/08/2017 15:05:02] Acao: Logar (223.223.2.102) Login 327
+[09/08/2017 15:05:25] Acao: Ir Para Produtos e Planos > Opcionais / Benefícios > Encerramento 894
+[09/08/2017 15:15:12] Acao: Logar (223.223.2.102) Login 327
+[09/08/2017 15:15:35] Acao: Ir Para Produtos e Planos > Opcionais / Benefícios > Encerramento 894
+[09/08/2017 15:15:39] Acao: Informar Código Produtos e Planos > Opcionais / Benefícios > Encerramento 895
+[09/08/2017 15:15:41] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[09/08/2017 15:15:43] Acao: Clicar: Continuar Encerramento? Produtos e Planos > Opcionais / Benefícios > Encerramento 896
+[09/08/2017 15:15:44] element not visible
+  (Session info: chrome=60.0.3112.90)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.10586 x86_64)WebDriver
+[09/08/2017 15:18:45] Acao: Logar (223.223.2.102) Login 327
+[09/08/2017 15:19:05] Acao: Ir Para Produtos e Planos > Opcionais / Benefícios > Encerramento 894
+[09/08/2017 15:19:09] Acao: Informar Código Produtos e Planos > Opcionais / Benefícios > Encerramento 895
+[09/08/2017 15:19:10] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[09/08/2017 15:19:14] Acao: Clicar: Continuar Encerramento? Produtos e Planos > Opcionais / Benefícios > Encerramento 896
+[09/08/2017 15:19:45] Timed out after 30 secondsWebDriver.Support
+[09/08/2017 15:22:13] Acao: Logar (223.223.2.102) Login 327
+[09/08/2017 15:22:34] Acao: Ir Para Produtos e Planos > Opcionais / Benefícios > Cadastro 893
+[09/08/2017 15:22:43] Acao: Informar Código Produtos e Planos > Opcionais / Benefícios > Cadastro 881
+[09/08/2017 15:22:45] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[09/08/2017 15:23:45] The HTTP request to the remote WebDriver server for URL http://localhost:50737/session/ff52017ffa94db1bd89a9335732a4365/keys timed out after 60 seconds.WebDriver
+[09/08/2017 15:48:41] Acao: Logar (223.223.2.102) Login 327
+[09/08/2017 15:49:02] Acao: Ir Para Produtos e Planos > Opcionais / Benefícios > Cadastro 893
+[09/08/2017 15:49:11] Acao: Informar Código Produtos e Planos > Opcionais / Benefícios > Cadastro 881
+[09/08/2017 15:49:13] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[09/08/2017 15:49:56] Acao: Informar Nome Produtos e Planos > Opcionais / Benefícios > Cadastro 882
+[09/08/2017 15:49:58] Acao: Selecionar Grupo Produtos e Planos > Opcionais / Benefícios > Cadastro 883
+[09/08/2017 15:50:00] Acao: Selecionar Rubrica Cobrança Produtos e Planos > Opcionais / Benefícios > Cadastro 884
+[09/08/2017 15:50:02] Acao: Selecionar Carência Produtos e Planos > Opcionais / Benefícios > Cadastro 885
+[09/08/2017 15:50:04] Acao: Selecionar Tipo Produtos e Planos > Opcionais / Benefícios > Cadastro 886
+[09/08/2017 15:50:06] Acao: Informar Controla Movimento Produtos e Planos > Opcionais / Benefícios > Cadastro 887
+[09/08/2017 15:50:08] Acao: Informar Utilizado em Produtos e Planos > Opcionais / Benefícios > Cadastro 888
+[09/08/2017 15:50:11] Acao: Informar Vigência Ativo DE Produtos e Planos > Opcionais / Benefícios > Cadastro 889
+[09/08/2017 15:50:13] Acao: Selecionar Tipo Opcional/Benef Produtos e Planos > Opcionais / Benefícios > Cadastro 890
+[09/08/2017 15:50:16] Acao: Selecionar Abrangência Produtos e Planos > Opcionais / Benefícios > Cadastro 891
+[09/08/2017 15:50:18] Acao: Clicar Botão: Incluir Produtos e Planos > Opcionais / Benefícios > Cadastro 892
+[09/08/2017 15:55:46] Acao: Logar (223.223.2.102) Login 327
+[09/08/2017 15:56:36] Acao: Ir Para Produtos e Planos > Opcionais / Benefícios > Cadastro 893
+[09/08/2017 15:56:53] Acao: Informar Código Produtos e Planos > Opcionais / Benefícios > Cadastro 881
+[09/08/2017 15:56:58] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[09/08/2017 15:57:58] The HTTP request to the remote WebDriver server for URL http://localhost:51594/session/fd760d8a8b32dbbd6be1ec6e58e1fa76/keys timed out after 60 seconds.WebDriver
+[09/08/2017 16:15:17] Acao: Logar (223.223.2.102) Login 327
+[09/08/2017 16:15:41] Acao: Ir Para Produtos e Planos > Opcionais / Benefícios > Cadastro 893
+[09/08/2017 16:15:52] Acao: Informar Código Produtos e Planos > Opcionais / Benefícios > Cadastro 881
+[09/08/2017 16:15:55] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[09/08/2017 16:16:31] Acao: Informar Nome Produtos e Planos > Opcionais / Benefícios > Cadastro 882
+[09/08/2017 16:16:35] Acao: Selecionar Grupo Produtos e Planos > Opcionais / Benefícios > Cadastro 883
+[09/08/2017 16:16:37] Acao: Selecionar Rubrica Cobrança Produtos e Planos > Opcionais / Benefícios > Cadastro 884
+[09/08/2017 16:16:39] Acao: Selecionar Carência Produtos e Planos > Opcionais / Benefícios > Cadastro 885
+[09/08/2017 16:16:41] Acao: Selecionar Tipo Produtos e Planos > Opcionais / Benefícios > Cadastro 886
+[09/08/2017 16:16:43] Acao: Informar Controla Movimento Produtos e Planos > Opcionais / Benefícios > Cadastro 887
+[09/08/2017 16:16:45] Acao: Informar Utilizado em Produtos e Planos > Opcionais / Benefícios > Cadastro 888
+[09/08/2017 16:16:48] Acao: Informar Vigência Ativo DE Produtos e Planos > Opcionais / Benefícios > Cadastro 889
+[09/08/2017 16:16:50] Acao: Selecionar Tipo Opcional/Benef Produtos e Planos > Opcionais / Benefícios > Cadastro 890
+[09/08/2017 16:16:53] Acao: Selecionar Abrangência Produtos e Planos > Opcionais / Benefícios > Cadastro 891
+[09/08/2017 16:16:55] Acao: Clicar Botão: Incluir Produtos e Planos > Opcionais / Benefícios > Cadastro 892
+[09/08/2017 16:16:57] Acao: [POSCOND] Operação Realizada Com Sucesso? Produtos e Planos > Opcionais / Benefícios > Cadastro 898
+[09/08/2017 16:29:32] Acao: Logar (223.223.2.102) Login 327
+[09/08/2017 16:30:03] Acao: Ir Para Produtos e Planos > Opcionais / Benefícios > Encerramento 894
+[09/08/2017 16:30:08] Acao: Informar Código Produtos e Planos > Opcionais / Benefícios > Encerramento 895
+[09/08/2017 16:30:10] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[09/08/2017 16:30:16] Acao: Clicar: Continuar Encerramento? Produtos e Planos > Opcionais / Benefícios > Encerramento 896
+[09/08/2017 16:30:19] Acao: [POSCOND] Operação Realizada Com Sucesso? Produtos e Planos > Opcionais / Benefícios > Encerramento 897
+[09/08/2017 16:43:12] Acao: Logar (223.223.2.102) Login 327
+[09/08/2017 16:43:38] Acao: Ir Para Produtos e Planos > Opcionais / Benefícios > Grupo 899

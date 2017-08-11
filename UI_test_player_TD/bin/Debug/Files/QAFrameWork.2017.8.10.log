@@ -1,0 +1,71 @@
+[10/08/2017 14:40:31] Acao: Logar (223.223.2.102) Login 327
+[10/08/2017 14:40:50] Acao: Ir Para Produtos e Planos > Opcionais / Benefícios > Grupo 899
+[10/08/2017 14:40:55] Acao: Informar Código Produtos e Planos > Opcionais / Benefícios > Grupo 900
+[10/08/2017 14:40:56] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[10/08/2017 14:41:01] Acao: Informar Nome Produtos e Planos > Opcionais / Benefícios > Grupo 901
+[10/08/2017 14:41:03] Acao: Clicar Botão: Incluir Produtos e Planos > Opcionais / Benefícios > Grupo 902
+[10/08/2017 14:41:05] Acao: [POSCOND] Operação Realizada Com Sucesso? Produtos e Planos > Opcionais / Benefícios > Grupo 903
+[10/08/2017 14:41:36] Timed out after 30 secondsWebDriver.Support
+[10/08/2017 14:43:46] Acao: Logar (223.223.2.102) Login 327
+[10/08/2017 14:44:04] Acao: Ir Para Produtos e Planos > Opcionais / Benefícios > Grupo 899
+[10/08/2017 14:44:08] Acao: Informar Código Produtos e Planos > Opcionais / Benefícios > Grupo 900
+[10/08/2017 14:44:10] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[10/08/2017 14:44:11] Acao: Clicar Botão: Excluir Produtos e Planos > Opcionais / Benefícios > Grupo 904
+[10/08/2017 14:44:13] Acao: Aceitar Alerta COMANDOS GENÉRICOS 870
+[10/08/2017 14:44:14] unexpected alert open: {Alert text : Deseja realmente excluir?}
+  (Session info: chrome=60.0.3112.90)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.10586 x86_64)WebDriver
+[10/08/2017 14:44:50] Acao: Logar (223.223.2.102) Login 327
+[10/08/2017 14:45:09] Acao: Ir Para Produtos e Planos > Opcionais / Benefícios > Grupo 899
+[10/08/2017 14:45:12] Acao: Informar Código Produtos e Planos > Opcionais / Benefícios > Grupo 900
+[10/08/2017 14:45:14] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[10/08/2017 14:45:16] Acao: Clicar Botão: Excluir Produtos e Planos > Opcionais / Benefícios > Grupo 904
+[10/08/2017 14:45:18] Acao: [POSCOND] Operação Realizada Com Sucesso? Produtos e Planos > Opcionais / Benefícios > Grupo 903
+[10/08/2017 14:45:48] Timed out after 30 secondsWebDriver.Support
+[10/08/2017 14:46:07] D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\ctf\created
+[10/08/2017 14:46:31] Acao: Logar (223.223.2.102) Login 327
+[10/08/2017 14:46:48] Acao: Ir Para Produtos e Planos > Opcionais / Benefícios > Grupo 899
+[10/08/2017 14:46:52] Acao: Informar Código Produtos e Planos > Opcionais / Benefícios > Grupo 900
+[10/08/2017 14:46:53] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[10/08/2017 14:46:55] Acao: Informar Nome Produtos e Planos > Opcionais / Benefícios > Grupo 901
+[10/08/2017 14:46:57] Acao: Clicar Botão: Incluir Produtos e Planos > Opcionais / Benefícios > Grupo 902
+[10/08/2017 14:46:58] Acao: [POSCOND] Operação Realizada Com Sucesso? Produtos e Planos > Opcionais / Benefícios > Grupo 903
+[10/08/2017 14:47:29] Timed out after 30 secondsWebDriver.Support
+[10/08/2017 14:56:23] Acao: Logar (223.223.2.102) Login 327
+[10/08/2017 14:56:41] Acao: Ir Para Produtos e Planos > Opcionais / Benefícios > Grupo 899
+[10/08/2017 14:56:45] Acao: Informar Código Produtos e Planos > Opcionais / Benefícios > Grupo 900
+[10/08/2017 14:56:47] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[10/08/2017 14:56:49] Acao: Clicar Botão: Excluir Produtos e Planos > Opcionais / Benefícios > Grupo 904
+[10/08/2017 14:56:51] Acao: [POSCOND] Operação Realizada Com Sucesso? Produtos e Planos > Opcionais / Benefícios > Grupo 903
+[10/08/2017 15:04:44] Acao: Logar (223.223.2.102) Login 327
+[10/08/2017 15:05:04] Acao: Ir Para Login 361
+[10/08/2017 15:05:08] Acao: Informar Codigo do Plano Produtos e Planos > Plano 821
+[10/08/2017 15:05:43] Acao: Informar Nome Produtos e Planos > Plano 822
+[10/08/2017 15:05:46] Acao: Informar Produto ANS Produtos e Planos > Plano 823
+[10/08/2017 15:05:48] Acao: Informar Tipo Contratação Pessoa Física Produtos e Planos > Plano 824
+[10/08/2017 15:05:53] Acao: Informar Data Contratação De Produtos e Planos > Plano 825
+[10/08/2017 15:05:55] Acao: Informar Data Contratação Até Produtos e Planos > Plano 826
+[10/08/2017 15:05:57] Acao: Clicar Botão: Incluir Produtos e Planos > Plano 827
+[10/08/2017 15:05:59] Acao: [POSCOND] Operação Realizada com Sucesso? Produtos e Planos > Plano 828
+[10/08/2017 16:54:02] Acao: Logar (223.223.2.102) Login 327
+[10/08/2017 16:54:29] Acao: Ir Para Produtos e Planos > Rede Atendimento > Rede 905
+[10/08/2017 16:57:08] Acao: Logar (223.223.2.102) Login 327
+[10/08/2017 16:57:28] Acao: Ir Para Produtos e Planos > Rede Atendimento > Rede 905
+[10/08/2017 16:57:34] Acao: Informar Código Produtos e Planos > Rede Atendimento > Rede 906
+[10/08/2017 16:57:35] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[10/08/2017 17:19:04] Acao: Logar (223.223.2.102) Login 327
+[10/08/2017 17:19:22] Acao: Ir Para Produtos e Planos > Rede Atendimento > Rede 905
+[10/08/2017 17:19:26] Acao: Informar Código Produtos e Planos > Rede Atendimento > Rede 906
+[10/08/2017 17:19:28] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[10/08/2017 17:19:32] Acao: Informar Nome Produtos e Planos > Rede Atendimento > Rede 907
+[10/08/2017 17:19:33] Acao: Selecionar Classe Rede Produtos e Planos > Rede Atendimento > Rede 908
+[10/08/2017 17:19:37] Acao: Informar Nome Divulgação Produtos e Planos > Rede Atendimento > Rede 909
+[10/08/2017 17:19:40] Acao: Selecionar Operadora Produtos e Planos > Rede Atendimento > Rede 911
+[10/08/2017 17:19:43] Acao: Clicar Botão: Incluir Produtos e Planos > Rede Atendimento > Rede 912
+[10/08/2017 17:19:45] Acao: [POSCOND] Operação Realizada Com Sucesso? Produtos e Planos > Rede Atendimento > Rede 913
+[10/08/2017 17:22:49] Acao: Logar (223.223.2.102) Login 327
+[10/08/2017 17:23:15] Acao: Ir Para Produtos e Planos > Rede Atendimento > Rede 905
+[10/08/2017 17:23:23] Acao: Informar Código Produtos e Planos > Rede Atendimento > Rede 906
+[10/08/2017 17:23:26] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[10/08/2017 17:23:34] Acao: Clicar Botão: Excluir Produtos e Planos > Rede Atendimento > Rede 914
+[10/08/2017 17:23:36] Acao: [POSCOND] Operação Realizada Com Sucesso? Produtos e Planos > Rede Atendimento > Rede 913

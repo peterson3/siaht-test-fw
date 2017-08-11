@@ -1,0 +1,84 @@
+[11/08/2017 10:37:57] Acao: Logar (223.223.2.102) Login 327
+[11/08/2017 10:38:19] Acao: Ir Para Produtos e Planos > Rede Atendimento > Classe Rede 921
+[11/08/2017 10:47:45] Acao: Logar (223.223.2.102) Login 327
+[11/08/2017 10:48:11] Acao: Ir Para Produtos e Planos > Rede Atendimento > Rede 905
+[11/08/2017 10:48:16] Acao: Informar Código Produtos e Planos > Rede Atendimento > Rede 906
+[11/08/2017 10:48:18] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[11/08/2017 10:48:22] Acao: Informar Nome Produtos e Planos > Rede Atendimento > Rede 907
+[11/08/2017 10:48:24] Acao: Selecionar Classe Rede Produtos e Planos > Rede Atendimento > Rede 908
+[11/08/2017 10:48:28] Acao: Informar Nome Divulgação Produtos e Planos > Rede Atendimento > Rede 909
+[11/08/2017 10:48:30] Acao: Selecionar Operadora Produtos e Planos > Rede Atendimento > Rede 911
+[11/08/2017 10:48:32] Acao: Clicar Botão: Incluir Produtos e Planos > Rede Atendimento > Rede 912
+[11/08/2017 10:48:34] Acao: [POSCOND] Operação Realizada Com Sucesso? Produtos e Planos > Rede Atendimento > Rede 913
+[11/08/2017 11:28:21] Acao: Logar (223.223.2.102) Login 327
+[11/08/2017 11:28:41] Acao: Ir Para Produtos e Planos > Rede Atendimento > Classe Rede 921
+[11/08/2017 11:28:45] Acao: Informar Código Produtos e Planos > Rede Atendimento > Classe Rede 922
+[11/08/2017 11:28:47] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[11/08/2017 11:28:49] Acao: Informar Descrição Produtos e Planos > Rede Atendimento > Classe Rede 923
+[11/08/2017 11:28:51] Acao: Informar Classe Rede Cartão Produtos e Planos > Rede Atendimento > Classe Rede 924
+[11/08/2017 11:28:53] Acao: Selecionar Classe Rede Intercâmbio Produtos e Planos > Rede Atendimento > Classe Rede 925
+[11/08/2017 11:28:55] Acao: Clicar Botão: Incluir Produtos e Planos > Rede Atendimento > Classe Rede 926
+[11/08/2017 11:28:56] Acao: [POSCOND] Operação Realizada com Sucesso? Produtos e Planos > Rede Atendimento > Classe Rede 927
+[11/08/2017 11:39:25] Acao: Logar (223.223.2.102) Login 327
+[11/08/2017 11:39:43] Acao: Ir Para Produtos e Planos > Rede Atendimento > Classe Rede 921
+[11/08/2017 11:39:47] Acao: Informar Código Produtos e Planos > Rede Atendimento > Classe Rede 922
+[11/08/2017 11:39:49] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[11/08/2017 11:39:52] Acao: Clicar Botão: Excluir Produtos e Planos > Rede Atendimento > Classe Rede 928
+[11/08/2017 11:39:54] Acao: [POSCOND] Operação Realizada com Sucesso? Produtos e Planos > Rede Atendimento > Classe Rede 927
+[11/08/2017 14:33:40] Acao: Logar (223.223.2.102) Login 327
+[11/08/2017 14:34:03] Acao: Ir Para Produtos e Planos > Parametrização > Coberturas 929
+[11/08/2017 14:34:08] Acao: Informar Código Produtos e Planos > Parametrização > Coberturas 930
+[11/08/2017 14:34:10] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[11/08/2017 14:34:14] Acao: Informar Nome Produtos e Planos > Parametrização > Coberturas 931
+[11/08/2017 15:03:30] D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\ctf\created
+[11/08/2017 15:03:45] Acao: Logar (223.223.2.102) Login 327
+[11/08/2017 15:04:13] Acao: Ir Para Produtos e Planos > Parametrização > Coberturas 929
+[11/08/2017 15:04:20] Acao: Informar Código Produtos e Planos > Parametrização > Coberturas 930
+[11/08/2017 15:04:21] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[11/08/2017 15:04:27] Acao: Informar Nome Produtos e Planos > Parametrização > Coberturas 931
+[11/08/2017 15:04:30] Acao: Selecionar Tipo Cobertura Produtos e Planos > Parametrização > Coberturas 932
+[11/08/2017 15:04:32] Acao: Informar Caráter Atendimento Produtos e Planos > Parametrização > Coberturas 933
+[11/08/2017 15:04:34] Acao: Informar Sexo Produtos e Planos > Parametrização > Coberturas 934
+[11/08/2017 15:04:37] Acao: Limite de Idade (DE) Produtos e Planos > Parametrização > Coberturas 935
+[11/08/2017 15:04:38] Acao: Informar Limite de Idade (ATÉ) Produtos e Planos > Parametrização > Coberturas 936
+[11/08/2017 15:04:42] Acao: Clicar Botão: Incluir Produtos e Planos > Parametrização > Coberturas 937
+[11/08/2017 15:09:31] Acao: Logar (223.223.2.102) Login 327
+[11/08/2017 15:09:51] Acao: Ir Para Produtos e Planos > Parametrização > Coberturas 929
+[11/08/2017 15:09:56] Acao: Informar Código Produtos e Planos > Parametrização > Coberturas 930
+[11/08/2017 15:09:58] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[11/08/2017 15:10:02] Acao: Informar Nome Produtos e Planos > Parametrização > Coberturas 931
+[11/08/2017 15:10:03] Acao: Selecionar Tipo Cobertura Produtos e Planos > Parametrização > Coberturas 932
+[11/08/2017 15:10:06] Acao: Informar Caráter Atendimento Produtos e Planos > Parametrização > Coberturas 933
+[11/08/2017 15:10:08] Acao: Informar Sexo Produtos e Planos > Parametrização > Coberturas 934
+[11/08/2017 15:10:10] Acao: Limite de Idade (DE) Produtos e Planos > Parametrização > Coberturas 935
+[11/08/2017 15:10:11] Acao: Informar Limite de Idade (ATÉ) Produtos e Planos > Parametrização > Coberturas 936
+[11/08/2017 15:10:13] Acao: Clicar Botão: Incluir Produtos e Planos > Parametrização > Coberturas 937
+[11/08/2017 15:10:49] Acao: Logar (223.223.2.102) Login 327
+[11/08/2017 15:11:09] Acao: Ir Para Produtos e Planos > Parametrização > Coberturas 929
+[11/08/2017 15:11:15] Acao: Informar Código Produtos e Planos > Parametrização > Coberturas 930
+[11/08/2017 15:11:18] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[11/08/2017 15:11:27] Acao: Informar Nome Produtos e Planos > Parametrização > Coberturas 931
+[11/08/2017 15:11:30] Acao: Selecionar Tipo Cobertura Produtos e Planos > Parametrização > Coberturas 932
+[11/08/2017 15:11:32] Acao: Informar Caráter Atendimento Produtos e Planos > Parametrização > Coberturas 933
+[11/08/2017 15:11:35] Acao: Informar Sexo Produtos e Planos > Parametrização > Coberturas 934
+[11/08/2017 15:11:37] Acao: Limite de Idade (DE) Produtos e Planos > Parametrização > Coberturas 935
+[11/08/2017 15:11:39] Acao: Informar Limite de Idade (ATÉ) Produtos e Planos > Parametrização > Coberturas 936
+[11/08/2017 15:11:42] Acao: Clicar Botão: Incluir Produtos e Planos > Parametrização > Coberturas 937
+[11/08/2017 15:13:00] Acao: Logar (223.223.2.102) Login 327
+[11/08/2017 15:13:19] Acao: Ir Para Produtos e Planos > Parametrização > Coberturas 929
+[11/08/2017 15:13:23] Acao: Informar Código Produtos e Planos > Parametrização > Coberturas 930
+[11/08/2017 15:13:25] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[11/08/2017 15:13:29] Acao: Informar Nome Produtos e Planos > Parametrização > Coberturas 931
+[11/08/2017 15:13:32] Acao: Selecionar Tipo Cobertura Produtos e Planos > Parametrização > Coberturas 932
+[11/08/2017 15:13:34] Acao: Informar Caráter Atendimento Produtos e Planos > Parametrização > Coberturas 933
+[11/08/2017 15:13:37] Acao: Informar Sexo Produtos e Planos > Parametrização > Coberturas 934
+[11/08/2017 15:13:40] Acao: Limite de Idade (DE) Produtos e Planos > Parametrização > Coberturas 935
+[11/08/2017 15:13:42] Acao: Informar Limite de Idade (ATÉ) Produtos e Planos > Parametrização > Coberturas 936
+[11/08/2017 15:13:44] Acao: Clicar Botão: Incluir Produtos e Planos > Parametrização > Coberturas 937
+[11/08/2017 15:13:46] Acao: [POSCOND] Operação Realizada Com Sucesso? Produtos e Planos > Parametrização > Coberturas 938
+[11/08/2017 15:25:54] Acao: Logar (223.223.2.102) Login 327
+[11/08/2017 15:26:12] Acao: Ir Para Produtos e Planos > Parametrização > Coberturas 929
+[11/08/2017 15:26:16] Acao: Informar Código Produtos e Planos > Parametrização > Coberturas 930
+[11/08/2017 15:26:18] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[11/08/2017 15:26:21] Acao: Clicar Botão: Excluir Produtos e Planos > Parametrização > Coberturas 939
+[11/08/2017 15:26:23] Acao: [POSCOND] Operação Realizada Com Sucesso? Produtos e Planos > Parametrização > Coberturas 938
