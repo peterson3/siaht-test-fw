@@ -1,0 +1,148 @@
+[15/08/2017 12:25:23] Acao: Logar (223.223.2.102) Login 327
+[15/08/2017 12:25:48] Acao: Ir Para Produtos e Planos > Parametrização > Cobertura Grupo 954
+[15/08/2017 12:25:53] Acao: Informar Código Produtos e Planos > Parametrização > Cobertura Grupo 942
+[15/08/2017 12:25:55] Acao: Informar Nome Produtos e Planos > Parametrização > Cobertura Grupo 943
+[15/08/2017 12:25:58] Acao: Clicar Botão Incluir Linha Produtos e Planos > Parametrização > Cobertura Grupo 944
+[15/08/2017 12:26:00] Acao: Informar Código (1) Produtos e Planos > Parametrização > Cobertura Grupo 945
+[15/08/2017 12:26:02] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[15/08/2017 12:26:05] Acao: Informar Limite Técnico (1) Produtos e Planos > Parametrização > Cobertura Grupo 946
+[15/08/2017 12:26:07] Acao: Informar 'Por Período (dias)' (1) Produtos e Planos > Parametrização > Cobertura Grupo 947
+[15/08/2017 12:26:09] Acao: Informar Tipo Limite (1) Produtos e Planos > Parametrização > Cobertura Grupo 948
+[15/08/2017 12:26:09] Element should have been select but was inputWebDriver.Support
+[15/08/2017 12:28:13] Acao: Logar (223.223.2.102) Login 327
+[15/08/2017 12:28:32] Acao: Ir Para Produtos e Planos > Parametrização > Cobertura Grupo 954
+[15/08/2017 12:28:37] Acao: Informar Código Produtos e Planos > Parametrização > Cobertura Grupo 942
+[15/08/2017 12:28:39] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[15/08/2017 12:28:42] Acao: Informar Nome Produtos e Planos > Parametrização > Cobertura Grupo 943
+[15/08/2017 12:28:44] Acao: Clicar Botão Incluir Linha Produtos e Planos > Parametrização > Cobertura Grupo 944
+[15/08/2017 12:28:46] Acao: Informar Código (1) Produtos e Planos > Parametrização > Cobertura Grupo 945
+[15/08/2017 12:28:48] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[15/08/2017 12:28:49] Acao: Informar Limite Técnico (1) Produtos e Planos > Parametrização > Cobertura Grupo 946
+[15/08/2017 12:28:51] Acao: Informar 'Por Período (dias)' (1) Produtos e Planos > Parametrização > Cobertura Grupo 947
+[15/08/2017 12:28:53] Acao: Informar Tipo Limite (1) Produtos e Planos > Parametrização > Cobertura Grupo 948
+[15/08/2017 12:28:55] Acao: Informar Tipo Controle Cobertura (1) Produtos e Planos > Parametrização > Cobertura Grupo 949
+[15/08/2017 12:28:58] Acao: Selecionar Exclusivo Reembolso (1) Produtos e Planos > Parametrização > Cobertura Grupo 950
+[15/08/2017 12:29:00] Acao: Informar Início em (1) Produtos e Planos > Parametrização > Cobertura Grupo 951
+[15/08/2017 12:29:02] Acao: Clicar Botão: Incluir Produtos e Planos > Parametrização > Cobertura Grupo 952
+[15/08/2017 12:29:05] Acao: [POSCOND] Operação Realizada Com Sucesso? Produtos e Planos > Parametrização > Cobertura Grupo 953
+[15/08/2017 12:29:05] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[15/08/2017 12:30:15] Acao: Logar (223.223.2.102) Login 327
+[15/08/2017 12:30:32] Acao: Ir Para Produtos e Planos > Parametrização > Cobertura Grupo 954
+[15/08/2017 12:30:37] Acao: Informar Código Produtos e Planos > Parametrização > Cobertura Grupo 942
+[15/08/2017 12:30:38] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[15/08/2017 12:30:41] Acao: Clicar Botão: Excluir Produtos e Planos > Parametrização > Cobertura Grupo 955
+[15/08/2017 12:30:43] Acao: [POSCOND] Operação Realizada Com Sucesso? Produtos e Planos > Parametrização > Cobertura Grupo 953
+[15/08/2017 14:20:30] Acao: Logar (223.223.2.102) Login 327
+[15/08/2017 14:20:52] Acao: Ir Para Produtos e Planos > Parametrização > Cobertura Grupo 954
+[15/08/2017 14:20:56] Acao: Informar Código Produtos e Planos > Parametrização > Cobertura Grupo 942
+[15/08/2017 14:20:58] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[15/08/2017 14:21:01] Acao: Informar Nome Produtos e Planos > Parametrização > Cobertura Grupo 943
+[15/08/2017 14:21:03] Acao: Clicar Botão Incluir Linha Produtos e Planos > Parametrização > Cobertura Grupo 944
+[15/08/2017 14:21:06] Acao: Informar Código (1) Produtos e Planos > Parametrização > Cobertura Grupo 945
+[15/08/2017 14:21:08] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[15/08/2017 14:21:10] Acao: Informar Limite Técnico (1) Produtos e Planos > Parametrização > Cobertura Grupo 946
+[15/08/2017 14:21:12] Acao: Informar 'Por Período (dias)' (1) Produtos e Planos > Parametrização > Cobertura Grupo 947
+[15/08/2017 14:21:15] Acao: Informar Tipo Limite (1) Produtos e Planos > Parametrização > Cobertura Grupo 948
+[15/08/2017 14:21:17] Acao: Informar Tipo Controle Cobertura (1) Produtos e Planos > Parametrização > Cobertura Grupo 949
+[15/08/2017 14:21:20] Acao: Selecionar Exclusivo Reembolso (1) Produtos e Planos > Parametrização > Cobertura Grupo 950
+[15/08/2017 14:21:22] Acao: Informar Início em (1) Produtos e Planos > Parametrização > Cobertura Grupo 951
+[15/08/2017 14:21:24] Acao: Clicar Botão: Incluir Produtos e Planos > Parametrização > Cobertura Grupo 952
+[15/08/2017 14:21:27] Acao: [POSCOND] Operação Realizada Com Sucesso? Produtos e Planos > Parametrização > Cobertura Grupo 953
+[15/08/2017 14:21:49] Acao: Logar (223.223.2.102) Login 327
+[15/08/2017 14:22:07] Acao: Ir Para Produtos e Planos > Parametrização > Cobertura Grupo 954
+[15/08/2017 14:22:11] Acao: Informar Código Produtos e Planos > Parametrização > Cobertura Grupo 942
+[15/08/2017 14:22:12] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[15/08/2017 14:22:15] Acao: Clicar Botão: Excluir Produtos e Planos > Parametrização > Cobertura Grupo 955
+[15/08/2017 14:22:17] Acao: [POSCOND] Operação Realizada Com Sucesso? Produtos e Planos > Parametrização > Cobertura Grupo 953
+[15/08/2017 16:23:50] Acao: Logar (223.223.2.102) Login 327
+[15/08/2017 16:24:12] Acao: Ir Para Produtos e Planos > Parametrização > Questionário Saúde 956
+[15/08/2017 16:24:19] Acao: Informar Código Produtos e Planos > Parametrização > Questionário Saúde 957
+[15/08/2017 16:24:21] Acao: Informar Cópia Produtos e Planos > Parametrização > Questionário Saúde 958
+[15/08/2017 16:24:56] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[15/08/2017 16:25:28] Acao: Logar (223.223.2.102) Login 327
+[15/08/2017 16:25:47] Acao: Ir Para Produtos e Planos > Parametrização > Questionário Saúde 956
+[15/08/2017 16:25:53] Acao: Informar Código Produtos e Planos > Parametrização > Questionário Saúde 957
+[15/08/2017 16:25:55] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[15/08/2017 16:25:58] Acao: Informar Cópia Produtos e Planos > Parametrização > Questionário Saúde 958
+[15/08/2017 16:26:00] Acao: Informar Início Data Vigência  Produtos e Planos > Parametrização > Questionário Saúde 959
+[15/08/2017 16:26:02] Acao: Informar Data Vigência Fim Produtos e Planos > Parametrização > Questionário Saúde 960
+[15/08/2017 16:26:04] Acao: Informar Observação Produtos e Planos > Parametrização > Questionário Saúde 961
+[15/08/2017 16:26:06] Acao: Inserir Pergunta Produtos e Planos > Parametrização > Questionário Saúde 962
+[15/08/2017 16:26:16] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[15/08/2017 16:26:40] Acao: Logar (223.223.2.102) Login 327
+[15/08/2017 16:26:58] Acao: Ir Para Produtos e Planos > Parametrização > Questionário Saúde 956
+[15/08/2017 16:27:04] Acao: Informar Código Produtos e Planos > Parametrização > Questionário Saúde 957
+[15/08/2017 16:27:06] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[15/08/2017 16:27:09] Acao: Informar Cópia Produtos e Planos > Parametrização > Questionário Saúde 958
+[15/08/2017 16:27:11] Acao: Informar Início Data Vigência  Produtos e Planos > Parametrização > Questionário Saúde 959
+[15/08/2017 16:27:13] Acao: Informar Data Vigência Fim Produtos e Planos > Parametrização > Questionário Saúde 960
+[15/08/2017 16:27:15] Acao: Informar Observação Produtos e Planos > Parametrização > Questionário Saúde 961
+[15/08/2017 16:27:17] Acao: Inserir Pergunta Produtos e Planos > Parametrização > Questionário Saúde 962
+[15/08/2017 16:27:19] Acao: Clicar Botão: Incluir Produtos e Planos > Parametrização > Questionário Saúde 963
+[15/08/2017 16:29:43] Acao: Logar (223.223.2.102) Login 327
+[15/08/2017 16:30:01] Acao: Ir Para Produtos e Planos > Parametrização > Questionário Saúde 956
+[15/08/2017 16:30:07] Acao: Informar Código Produtos e Planos > Parametrização > Questionário Saúde 957
+[15/08/2017 16:30:09] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[15/08/2017 16:30:12] Acao: Informar Cópia Produtos e Planos > Parametrização > Questionário Saúde 958
+[15/08/2017 16:30:14] Acao: Informar Início Data Vigência  Produtos e Planos > Parametrização > Questionário Saúde 959
+[15/08/2017 16:30:15] Acao: Informar Data Vigência Fim Produtos e Planos > Parametrização > Questionário Saúde 960
+[15/08/2017 16:30:17] Acao: Informar Observação Produtos e Planos > Parametrização > Questionário Saúde 961
+[15/08/2017 16:30:19] Acao: Inserir Pergunta Produtos e Planos > Parametrização > Questionário Saúde 962
+[15/08/2017 16:30:21] Acao: Clicar Botão: Incluir Produtos e Planos > Parametrização > Questionário Saúde 963
+[15/08/2017 16:30:23] Acao: [POSCOND] Operação Realizada Com Sucesso? Produtos e Planos > Parametrização > Questionário Saúde 964
+[15/08/2017 16:34:56] Acao: Logar (223.223.2.102) Login 327
+[15/08/2017 16:35:12] Acao: Ir Para Produtos e Planos > Parametrização > Questionário Saúde 956
+[15/08/2017 16:35:19] Acao: Informar Código Produtos e Planos > Parametrização > Questionário Saúde 957
+[15/08/2017 16:35:21] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[15/08/2017 16:35:24] Acao: Clicar Botão: Excluir Produtos e Planos > Parametrização > Questionário Saúde 965
+[15/08/2017 16:35:25] Acao: [POSCOND] Operação Realizada Com Sucesso? Produtos e Planos > Parametrização > Questionário Saúde 964
+[15/08/2017 18:16:15] Acao: Logar (223.223.2.102) Login 327
+[15/08/2017 18:16:36] Acao: Ir Para Produtos e Planos > Parametrização > Questionário Portabilidade 966
+[15/08/2017 18:16:43] Acao: Informar Código Produtos e Planos > Parametrização > Questionário Portabilidade 967
+[15/08/2017 18:16:45] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[15/08/2017 18:16:48] Acao: Selecionar Cópia Existente? Produtos e Planos > Parametrização > Questionário Portabilidade 968
+[15/08/2017 18:16:50] Acao: Informar Data Fim Validade Produtos e Planos > Parametrização > Questionário Portabilidade 971
+[15/08/2017 18:16:52] Acao: Informar Observação Produtos e Planos > Parametrização > Questionário Portabilidade 969
+[15/08/2017 18:16:54] Acao: Inserir Pergunta Produtos e Planos > Parametrização > Questionário Portabilidade 970
+[15/08/2017 18:16:56] Acao: Clicar Botão: Incluir Produtos e Planos > Parametrização > Questionário Portabilidade 972
+[15/08/2017 18:16:59] Acao: [POSCOND] Operação Realizada com Sucesso? Produtos e Planos > Parametrização > Questionário Portabilidade 975
+[15/08/2017 18:18:09] Acao: Logar (223.223.2.102) Login 327
+[15/08/2017 18:18:27] Acao: Ir Para Produtos e Planos > Parametrização > Questionário Portabilidade 966
+[15/08/2017 18:18:33] Acao: Informar Código Produtos e Planos > Parametrização > Questionário Portabilidade 967
+[15/08/2017 18:18:35] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[15/08/2017 18:18:37] Acao: Clicar Botão: Excluir Produtos e Planos > Parametrização > Questionário Portabilidade 973
+[15/08/2017 18:18:39] Acao: [POSCOND] Operação Realizada com Sucesso? Produtos e Planos > Parametrização > Questionário Portabilidade 975
+[15/08/2017 18:39:41] Acao: Logar (223.223.2.102) Login 327
+[15/08/2017 18:39:59] Acao: Ir Para Produtos e Planos > Parametrização > Carências 976
+[15/08/2017 18:40:04] Acao: Informar Código Produtos e Planos > Parametrização > Carências 977
+[15/08/2017 18:40:06] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[15/08/2017 18:40:09] Acao: Informar Nome Produtos e Planos > Parametrização > Carências 978
+[15/08/2017 18:40:41] Acao: Logar (223.223.2.102) Login 327
+[15/08/2017 18:40:58] Acao: Ir Para Produtos e Planos > Parametrização > Carências 976
+[15/08/2017 18:41:02] Acao: Informar Código Produtos e Planos > Parametrização > Carências 977
+[15/08/2017 18:41:04] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[15/08/2017 18:41:07] Acao: Informar Nome Produtos e Planos > Parametrização > Carências 978
+[15/08/2017 20:46:31] Acao: Logar (223.223.2.102) Login 327
+[15/08/2017 20:47:18] Acao: Ir Para Produtos e Planos > Parametrização > Carências 976
+[15/08/2017 20:47:26] Acao: Informar Código Produtos e Planos > Parametrização > Carências 977
+[15/08/2017 20:47:29] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[15/08/2017 20:47:33] Acao: Informar Nome Produtos e Planos > Parametrização > Carências 978
+[15/08/2017 20:47:36] Acao: Selecionar Caráter Atendimento Produtos e Planos > Parametrização > Carências 979
+[15/08/2017 20:47:39] Acao: Selecionar Sexo Produtos e Planos > Parametrização > Carências 980
+[15/08/2017 20:47:43] Acao: Informar Classificação Carência (ANS) Produtos e Planos > Parametrização > Carências 981
+[15/08/2017 20:47:46] Acao: Selecionar Exclusiv. Carga A100 Produtos e Planos > Parametrização > Carências 983
+[15/08/2017 20:47:49] Acao: Selecionar Classif. Carência Carteira Produtos e Planos > Parametrização > Carências 984
+[15/08/2017 20:47:52] Acao: Inserir Tipo Composição Parametro  (1) Produtos e Planos > Parametrização > Carências 985
+[15/08/2017 20:47:55] Acao: Informar Código Composição Carência (1) Produtos e Planos > Parametrização > Carências 986
+[15/08/2017 20:47:58] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[15/08/2017 20:48:00] Acao: Selecionar Código Tipo Tratamento Carência (1) Produtos e Planos > Parametrização > Carências 987
+[15/08/2017 20:48:03] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[15/08/2017 20:48:05] Acao: Clicar Botão: Incluir Produtos e Planos > Parametrização > Carências 988
+[15/08/2017 20:48:08] Acao: [POSCOND] Operação Realizada Com Sucesso? Produtos e Planos > Parametrização > Carências 990
+[15/08/2017 20:48:08] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[15/08/2017 20:49:24] Acao: Logar (223.223.2.102) Login 327
+[15/08/2017 20:49:41] Acao: Ir Para Produtos e Planos > Parametrização > Carências 976
+[15/08/2017 20:49:46] Acao: Informar Código Produtos e Planos > Parametrização > Carências 977
+[15/08/2017 20:49:47] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[15/08/2017 20:49:51] Acao: Clicar Botão: Excluir Produtos e Planos > Parametrização > Carências 989
+[15/08/2017 20:49:54] Acao: [POSCOND] Operação Realizada Com Sucesso? Produtos e Planos > Parametrização > Carências 990

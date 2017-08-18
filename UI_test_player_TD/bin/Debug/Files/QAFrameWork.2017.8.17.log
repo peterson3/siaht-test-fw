@@ -1,0 +1,368 @@
+[17/08/2017 12:31:56] Acao: Logar (223.223.2.101) Login 1042
+[17/08/2017 12:32:15] Acao: Ir Para Login 361
+[17/08/2017 12:32:27] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 413
+[17/08/2017 12:32:38] Acao: [PRECOND] A Tabela deve Existir? Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 501
+[17/08/2017 12:32:46] Acao: Informar Nome Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 407
+[17/08/2017 12:32:50] Acao: Informar Tipo Tabela Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 409
+[17/08/2017 12:32:53] Acao: Selecionar Padrão Codificação Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 410
+[17/08/2017 12:32:54] Cannot locate element with text: Tabela AMBWebDriver.Support
+[17/08/2017 12:33:15] Acao: Logar (223.223.2.101) Login 1042
+[17/08/2017 12:33:27] Acao: Ir Para Login 361
+[17/08/2017 12:33:34] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 413
+[17/08/2017 12:33:44] Acao: [PRECOND] A Tabela deve Existir? Honorários, Serviços e Tabelas > Honorários > Cadastro de Tabela 501
+[17/08/2017 12:33:50] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[17/08/2017 12:34:03] Acao: Logar (223.223.2.101) Login 1042
+[17/08/2017 12:34:15] Acao: Ir Para Login 361
+[17/08/2017 12:34:19] Acao: Informar Tabela Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 473
+[17/08/2017 12:34:24] Acao: [PRECOND] A Tabela Informada deve Existir? Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 502
+[17/08/2017 12:34:26] Acao: Informar Descrição Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 481
+[17/08/2017 12:34:28] Acao: Selecionar % ICMS Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 482
+[17/08/2017 12:34:28] Cannot locate element with text: 0WebDriver.Support
+[17/08/2017 12:34:42] Acao: Logar (223.223.2.101) Login 1042
+[17/08/2017 12:34:54] Acao: Ir Para Login 361
+[17/08/2017 12:34:59] Acao: Informar Tabela Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 473
+[17/08/2017 12:35:04] Acao: [PRECOND] A Tabela Informada deve Existir? Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Tabela 502
+[17/08/2017 12:35:04] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[17/08/2017 12:35:20] Acao: Logar (223.223.2.101) Login 1042
+[17/08/2017 12:35:33] Acao: Ir Para Login 361
+[17/08/2017 12:35:41] Acao: Informar Codigo Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 431
+[17/08/2017 12:35:43] Acao: Clicar no botão: Continuar Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 432
+[17/08/2017 12:35:45] Acao: [PRECOND] O Procedimento deve Existir no Sistema? Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 503
+[17/08/2017 12:35:49] Acao: Informar Descrição Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 433
+[17/08/2017 12:35:51] Acao: Selecionar Padrão Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 435
+[17/08/2017 12:35:52] Cannot locate element with text: AMBWebDriver.Support
+[17/08/2017 12:36:09] Acao: Logar (223.223.2.101) Login 1042
+[17/08/2017 12:36:21] Acao: Ir Para Login 361
+[17/08/2017 12:36:27] Acao: Informar Codigo Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 431
+[17/08/2017 12:36:29] Acao: Clicar no botão: Continuar Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 432
+[17/08/2017 12:36:31] Acao: [PRECOND] O Procedimento deve Existir no Sistema? Honorários, Serviços e Tabelas > Honorários > Cadastro de Procedimentos 503
+[17/08/2017 12:36:36] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[17/08/2017 12:36:54] Acao: Logar (223.223.2.101) Login 1042
+[17/08/2017 12:37:05] Acao: Ir Para Login 361
+[17/08/2017 12:37:08] Acao: Informar Código Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 450
+[17/08/2017 12:37:18] Acao: [PRECOND] O Serviço Deve Existir? Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 505
+[17/08/2017 12:37:20] Acao: Informar Descrição Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 452
+[17/08/2017 12:37:22] Acao: Informar Regime Atendimento Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 453
+[17/08/2017 12:37:22] unknown error: Cannot set property 'checked' of undefined
+  (Session info: chrome=60.0.3112.90)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.10586 x86_64)WebDriver
+[17/08/2017 12:37:38] Acao: Logar (223.223.2.101) Login 1042
+[17/08/2017 12:37:50] Acao: Ir Para Login 361
+[17/08/2017 12:37:54] Acao: Informar Código Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 450
+[17/08/2017 12:38:03] Acao: [PRECOND] O Serviço Deve Existir? Honorários, Serviços e Tabelas > Taxas e Serviços > Cadastro de Serviços 505
+[17/08/2017 12:38:03] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[17/08/2017 12:38:18] Acao: Logar (223.223.2.101) Login 1042
+[17/08/2017 12:38:29] Acao: Ir Para Login 361
+[17/08/2017 12:38:35] Acao: Informar Código Tabela Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 456
+[17/08/2017 12:38:42] Acao: [PRECOND] O Tipo Tabela deve Existir? Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 546
+[17/08/2017 12:38:45] Acao: Informar Descrição Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 458
+[17/08/2017 12:38:47] Acao: Informar TISS Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 462
+[17/08/2017 12:38:47] Cannot locate element with text: Própria TaxasWebDriver.Support
+[17/08/2017 12:39:02] Acao: Logar (223.223.2.101) Login 1042
+[17/08/2017 12:39:15] Acao: Ir Para Login 361
+[17/08/2017 12:39:20] Acao: Informar Código Tabela Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 456
+[17/08/2017 12:39:27] Acao: [PRECOND] O Tipo Tabela deve Existir? Honorários, Serviços e Tabelas > Taxas e Serviços > Tipo Tabela 546
+[17/08/2017 12:39:27] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[17/08/2017 12:39:41] Acao: Logar (223.223.2.101) Login 1042
+[17/08/2017 12:39:54] Acao: Ir Para Login 361
+[17/08/2017 12:40:00] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 459
+[17/08/2017 12:40:07] Acao: Informar Data Vigência Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 460
+[17/08/2017 12:40:09] Acao: [PRECOND] Valorização pra Data NÃO Deve Existir Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 509
+[17/08/2017 12:40:39] Timed out after 30 secondsWebDriver.Support
+[17/08/2017 12:40:55] Acao: Logar (223.223.2.101) Login 1042
+[17/08/2017 12:41:07] Acao: Ir Para Login 361
+[17/08/2017 12:41:13] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 459
+[17/08/2017 12:41:20] Acao: [PRECOND] Valorização para Data DEVE Existir Honorários, Serviços e Tabelas > Taxas e Serviços > Valorização 525
+[17/08/2017 12:41:50] Timed out after 30 secondsWebDriver.Support
+[17/08/2017 12:42:04] Acao: Logar (223.223.2.101) Login 1042
+[17/08/2017 12:42:16] Acao: Ir Para Login 361
+[17/08/2017 12:42:22] Acao: Informar Tipo Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 475
+[17/08/2017 12:42:25] Acao: Informar Código Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 476
+[17/08/2017 12:42:35] Acao: [PRECOND] Material / Medicamento deve Existir? Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 510
+[17/08/2017 12:42:36] Acao: Informar Descrição Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 477
+[17/08/2017 12:42:38] Acao: Selecionar Classificação (Por Nome) Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 478
+[17/08/2017 12:43:11] Timed out after 30 secondsWebDriver.Support
+[17/08/2017 12:43:26] Acao: Logar (223.223.2.101) Login 1042
+[17/08/2017 12:43:40] Acao: Ir Para Login 361
+[17/08/2017 12:43:44] Acao: Informar Tipo Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 475
+[17/08/2017 12:43:48] Acao: Informar Código Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 476
+[17/08/2017 12:43:58] Acao: [PRECOND] Material / Medicamento deve Existir? Honorários, Serviços e Tabelas > Material / Medicamento > Cadastro de Material e Medicamento 510
+[17/08/2017 12:43:58] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[17/08/2017 12:44:13] Acao: Logar (223.223.2.101) Login 1042
+[17/08/2017 12:44:27] Acao: Ir Para Login 361
+[17/08/2017 12:44:34] Acao: Informar Tabela Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 581
+[17/08/2017 12:44:39] Acao: Informar Vigência Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 582
+[17/08/2017 12:44:41] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 583
+[17/08/2017 12:44:43] Acao: Informar Opção Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 584
+[17/08/2017 12:45:14] Timed out after 30 secondsWebDriver.Support
+[17/08/2017 12:45:28] Acao: Logar (223.223.2.101) Login 1042
+[17/08/2017 12:45:41] Acao: Ir Para Login 361
+[17/08/2017 12:45:49] Acao: Informar Tabela Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 581
+[17/08/2017 12:45:54] Acao: Informar Vigência Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 582
+[17/08/2017 12:45:55] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 583
+[17/08/2017 12:45:56] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Material / Medicamento > Valorização 587
+[17/08/2017 12:46:27] Timed out after 30 secondsWebDriver.Support
+[17/08/2017 12:46:41] Acao: Logar (223.223.2.101) Login 1042
+[17/08/2017 12:46:54] Acao: Ir Para Login 361
+[17/08/2017 12:46:57] Acao: Informar Data Cotação Porte Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 621
+[17/08/2017 12:46:58] Acao: [PRECOND] Porte para data NÃO deve existir Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 622
+[17/08/2017 12:47:30] Timed out after 30 secondsWebDriver.Support
+[17/08/2017 12:47:45] Acao: Logar (223.223.2.101) Login 1042
+[17/08/2017 12:47:57] Acao: Ir Para Login 361
+[17/08/2017 12:48:01] Acao: Informar Data Cotação Porte Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 621
+[17/08/2017 12:48:02] Acao: [PRECOND] Porte para a data DEVE existir Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 627
+[17/08/2017 12:48:34] Timed out after 30 secondsWebDriver.Support
+[17/08/2017 12:48:50] Acao: Logar (223.223.2.101) Login 1042
+[17/08/2017 12:49:03] Acao: Ir Para Login 361
+[17/08/2017 12:49:06] Acao: Informar Data Cotação Porte Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 621
+[17/08/2017 12:49:07] Acao: [PRECOND] Porte para a data DEVE existir Honorários, Serviços e Tabelas > Cotações > Porte CBHPM 627
+[17/08/2017 12:49:39] Timed out after 30 secondsWebDriver.Support
+[17/08/2017 12:49:53] Acao: Logar (223.223.2.101) Login 1042
+[17/08/2017 12:50:08] Acao: Ir Para Login 361
+[17/08/2017 12:50:10] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 631
+[17/08/2017 12:50:12] Acao: Informar Data Cotação Porte Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 637
+[17/08/2017 12:50:14] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 633
+[17/08/2017 12:50:16] Acao: Informar Valores do Porte Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 638
+[17/08/2017 12:50:28] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 634
+[17/08/2017 12:50:58] Timed out after 30 secondsWebDriver.Support
+[17/08/2017 12:51:14] Acao: Logar (223.223.2.101) Login 1042
+[17/08/2017 12:51:28] Acao: Ir Para Login 361
+[17/08/2017 12:51:31] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 631
+[17/08/2017 12:52:02] Timed out after 30 secondsWebDriver.Support
+[17/08/2017 12:52:17] Acao: Logar (223.223.2.101) Login 1042
+[17/08/2017 12:52:30] Acao: Ir Para Login 361
+[17/08/2017 12:52:34] Acao: Informar Sigla Tabela Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 631
+[17/08/2017 12:52:37] Acao: Informar Data Cotação Porte Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 637
+[17/08/2017 12:52:38] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 633
+[17/08/2017 12:52:39] Acao: Clicar Botão: Excluir Honorários, Serviços e Tabelas > Cotações > Porte CBHPM por Tabela 636
+[17/08/2017 12:53:11] Timed out after 30 secondsWebDriver.Support
+[17/08/2017 12:53:26] Acao: Logar (223.223.2.101) Login 1042
+[17/08/2017 12:53:40] Acao: Ir Para Login 361
+[17/08/2017 12:53:44] Acao: Informar Índice Honorários, Serviços e Tabelas > Cotações > Índices 641
+[17/08/2017 12:53:46] Acao: Clicar Botão: Continuar Honorários, Serviços e Tabelas > Cotações > Índices 642
+[17/08/2017 12:53:48] Acao: Informar Nome Honorários, Serviços e Tabelas > Cotações > Índices 643
+[17/08/2017 12:53:49] Acao: Informar Data Cotação Honorários, Serviços e Tabelas > Cotações > Índices 647
+[17/08/2017 12:53:51] Acao: Informar Valor Cotação Honorários, Serviços e Tabelas > Cotações > Índices 648
+[17/08/2017 12:53:52] Acao: Clicar Botão: Incluir Honorários, Serviços e Tabelas > Cotações > Índices 646
+[17/08/2017 12:53:54] Acao: [POSCOND] Operação Realizada Com Sucesso? Honorários, Serviços e Tabelas > Cotações > Índices 650
+[17/08/2017 14:09:32] Acao: Logar (223.223.2.101) Login 1042
+[17/08/2017 14:10:49] Acao: Ir Para Login 361
+[17/08/2017 14:11:15] Acao: Informar Código Produtos e Planos > Grupo Produto 861
+[17/08/2017 14:11:26] Acao: Informar Nome Produtos e Planos > Grupo Produto 862
+[17/08/2017 14:11:35] Acao: Selecionar Tipo Plano Produtos e Planos > Grupo Produto 863
+[17/08/2017 14:11:38] Cannot locate element with text: Assistência MédicaWebDriver.Support
+[17/08/2017 14:12:26] Acao: Logar (223.223.2.101) Login 1042
+[17/08/2017 14:12:56] Acao: Ir Para Login 361
+[17/08/2017 14:13:03] Acao: Informar Código Produtos e Planos > Grupo Produto 861
+[17/08/2017 14:13:13] Acao: Informar Nome Produtos e Planos > Grupo Produto 862
+[17/08/2017 14:13:15] Acao: Clicar Botão: Incluir Produtos e Planos > Grupo Produto 865
+[17/08/2017 14:13:19] Acao: [POSCOND] Operação Realizada com Sucesso? Produtos e Planos > Grupo Produto 866
+[17/08/2017 14:13:23] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[17/08/2017 14:15:10] Acao: Logar (223.223.2.101) Login 1042
+[17/08/2017 14:15:34] Acao: Ir Para Login 361
+[17/08/2017 14:15:41] Acao: Informar Codigo do Plano Produtos e Planos > Plano 821
+[17/08/2017 14:16:15] Acao: Informar Nome Produtos e Planos > Plano 822
+[17/08/2017 14:16:18] Acao: Informar Produto ANS Produtos e Planos > Plano 823
+[17/08/2017 14:16:21] Acao: Informar Tipo Contratação Pessoa Física Produtos e Planos > Plano 824
+[17/08/2017 14:16:52] Timed out after 30 secondsWebDriver.Support
+[17/08/2017 14:19:04] D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\ctf\created
+[17/08/2017 14:20:47] Acao: Logar (223.223.2.101) Login 1042
+[17/08/2017 14:21:00] Acao: Ir Para Login 361
+[17/08/2017 14:21:05] Acao: Informar Codigo do Plano Produtos e Planos > Plano 821
+[17/08/2017 14:21:56] Acao: Informar Nome Produtos e Planos > Plano 822
+[17/08/2017 14:21:59] Acao: Informar Produto ANS Produtos e Planos > Plano 823
+[17/08/2017 14:22:02] Acao: Informar Tipo Contratação Pessoa Física Produtos e Planos > Plano 824
+[17/08/2017 14:22:32] Timed out after 30 secondsWebDriver.Support
+[17/08/2017 14:23:17] Acao: Logar (223.223.2.102) Login 327
+[17/08/2017 14:24:02] Timed out after 30 secondsWebDriver.Support
+[17/08/2017 14:24:21] Acao: Logar (223.223.2.101) Login 1042
+[17/08/2017 14:24:34] Acao: Ir Para Produtos e Planos > Parametrização > Questionário Portabilidade 966
+[17/08/2017 14:24:43] Acao: Informar Código Produtos e Planos > Parametrização > Questionário Portabilidade 967
+[17/08/2017 14:24:46] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[17/08/2017 14:24:51] Acao: Selecionar Cópia Existente? Produtos e Planos > Parametrização > Questionário Portabilidade 968
+[17/08/2017 14:24:55] Acao: Informar Data Fim Validade Produtos e Planos > Parametrização > Questionário Portabilidade 971
+[17/08/2017 14:24:58] Acao: Informar Observação Produtos e Planos > Parametrização > Questionário Portabilidade 969
+[17/08/2017 14:25:01] Acao: Inserir Pergunta Produtos e Planos > Parametrização > Questionário Portabilidade 970
+[17/08/2017 14:25:04] Acao: Clicar Botão: Incluir Produtos e Planos > Parametrização > Questionário Portabilidade 972
+[17/08/2017 14:25:07] Acao: [POSCOND] Operação Realizada com Sucesso? Produtos e Planos > Parametrização > Questionário Portabilidade 975
+[17/08/2017 14:25:34] Acao: Logar (223.223.2.101) Login 1042
+[17/08/2017 14:25:46] Acao: Ir Para Produtos e Planos > Parametrização > Questionário Portabilidade 966
+[17/08/2017 14:25:54] Acao: Informar Código Produtos e Planos > Parametrização > Questionário Portabilidade 967
+[17/08/2017 14:25:57] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[17/08/2017 14:26:00] Acao: Clicar Botão: Excluir Produtos e Planos > Parametrização > Questionário Portabilidade 973
+[17/08/2017 14:26:03] Acao: [POSCOND] Operação Realizada com Sucesso? Produtos e Planos > Parametrização > Questionário Portabilidade 975
+[17/08/2017 14:30:34] Acao: Logar (223.223.2.101) Login 1042
+[17/08/2017 14:30:51] Acao: Ir Para Login 361
+[17/08/2017 14:30:59] Acao: Informar Código Produto ANS Produtos e Planos > Produto ANS 741
+[17/08/2017 14:31:11] Acao: Informar Nome Produtos e Planos > Produto ANS 742
+[17/08/2017 14:31:17] Acao: Informar Operadora Produtos e Planos > Produto ANS 743
+[17/08/2017 14:31:18] Cannot locate element with text: TOPDOWNWebDriver.Support
+[17/08/2017 14:33:26] Acao: Logar (223.223.2.102) Login 327
+[17/08/2017 14:33:50] Acao: Ir Para Produtos e Planos > Parametrização > Carências 976
+[17/08/2017 14:33:57] Acao: Informar Código Produtos e Planos > Parametrização > Carências 977
+[17/08/2017 14:34:01] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[17/08/2017 14:34:06] Acao: Informar Nome Produtos e Planos > Parametrização > Carências 978
+[17/08/2017 14:34:10] Acao: Selecionar Caráter Atendimento Produtos e Planos > Parametrização > Carências 979
+[17/08/2017 14:34:14] Acao: Selecionar Sexo Produtos e Planos > Parametrização > Carências 980
+[17/08/2017 14:34:18] Acao: Informar Classificação Carência (ANS) Produtos e Planos > Parametrização > Carências 981
+[17/08/2017 14:34:22] Acao: Selecionar Exclusiv. Carga A100 Produtos e Planos > Parametrização > Carências 983
+[17/08/2017 14:34:28] Acao: Selecionar Classif. Carência Carteira Produtos e Planos > Parametrização > Carências 984
+[17/08/2017 14:34:35] Acao: Inserir Tipo Composição Parametro  (1) Produtos e Planos > Parametrização > Carências 985
+[17/08/2017 14:34:40] Acao: Informar Código Composição Carência (1) Produtos e Planos > Parametrização > Carências 986
+[17/08/2017 14:34:45] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[17/08/2017 14:34:49] chrome not reachable
+  (Session info: chrome=60.0.3112.90)
+  (Driver info: chromedriver=2.29.461591 (62ebf098771772160f391d75e589dc567915b233),platform=Windows NT 10.0.10586 x86_64) (100)WebDriver
+[17/08/2017 14:35:08] Acao: Logar (223.223.2.101) Login 1042
+[17/08/2017 14:35:24] Acao: Ir Para Produtos e Planos > Parametrização > Carências 976
+[17/08/2017 14:35:32] Acao: Informar Código Produtos e Planos > Parametrização > Carências 977
+[17/08/2017 14:35:36] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[17/08/2017 14:35:43] Acao: Informar Nome Produtos e Planos > Parametrização > Carências 978
+[17/08/2017 14:35:47] Acao: Selecionar Caráter Atendimento Produtos e Planos > Parametrização > Carências 979
+[17/08/2017 14:35:51] Acao: Selecionar Sexo Produtos e Planos > Parametrização > Carências 980
+[17/08/2017 14:35:56] Acao: Informar Classificação Carência (ANS) Produtos e Planos > Parametrização > Carências 981
+[17/08/2017 14:35:56] Cannot locate element with text: carencia para procedimentos ambulatorialWebDriver.Support
+[17/08/2017 14:37:55] Acao: Logar (223.223.2.101) Login 1042
+[17/08/2017 14:38:09] Acao: Ir Para Produtos e Planos > Rede Atendimento > Classe Rede 921
+[17/08/2017 14:38:14] Acao: Informar Código Produtos e Planos > Rede Atendimento > Classe Rede 922
+[17/08/2017 14:38:18] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[17/08/2017 14:38:22] Acao: Informar Descrição Produtos e Planos > Rede Atendimento > Classe Rede 923
+[17/08/2017 14:38:26] Acao: Informar Classe Rede Cartão Produtos e Planos > Rede Atendimento > Classe Rede 924
+[17/08/2017 14:38:29] Acao: Selecionar Classe Rede Intercâmbio Produtos e Planos > Rede Atendimento > Classe Rede 925
+[17/08/2017 14:38:31] Acao: Clicar Botão: Incluir Produtos e Planos > Rede Atendimento > Classe Rede 926
+[17/08/2017 14:38:34] Acao: [POSCOND] Operação Realizada com Sucesso? Produtos e Planos > Rede Atendimento > Classe Rede 927
+[17/08/2017 16:05:15] Acao: Logar (223.223.2.102) Login 327
+[17/08/2017 16:05:44] Acao: Ir Para Produtos e Planos > Parametrização > Coparticipações 1035
+[17/08/2017 16:05:51] Acao: Informar Código Produtos e Planos > Parametrização > Coparticipações 1036
+[17/08/2017 16:06:44] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[17/08/2017 16:07:21] Acao: Logar (223.223.2.102) Login 327
+[17/08/2017 16:07:42] Acao: Ir Para Produtos e Planos > Parametrização > Coparticipações 1035
+[17/08/2017 16:07:49] Acao: Informar Código Produtos e Planos > Parametrização > Coparticipações 1036
+[17/08/2017 16:07:51] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[17/08/2017 16:07:53] Acao: Informar Nome Produtos e Planos > Parametrização > Coparticipações 1037
+[17/08/2017 16:08:09] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[17/08/2017 16:08:56] Acao: Logar (223.223.2.102) Login 327
+[17/08/2017 16:09:17] Acao: Ir Para Produtos e Planos > Parametrização > Coparticipações 1035
+[17/08/2017 16:09:22] Acao: Informar Código Produtos e Planos > Parametrização > Coparticipações 1036
+[17/08/2017 16:09:24] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[17/08/2017 16:09:26] Acao: Informar Nome Produtos e Planos > Parametrização > Coparticipações 1037
+[17/08/2017 16:09:28] Acao: Selecionar Usa na Cotação PJ Produtos e Planos > Parametrização > Coparticipações 1038
+[17/08/2017 16:09:29] O índice estava fora do intervalo. Ele deve ser não-negativo e menor que o tamanho da coleção.
+Nome do parâmetro: indexmscorlib
+[17/08/2017 16:11:12] Acao: Logar (223.223.2.102) Login 327
+[17/08/2017 16:11:34] Acao: Ir Para Produtos e Planos > Parametrização > Coparticipações 1035
+[17/08/2017 16:11:39] Acao: Informar Código Produtos e Planos > Parametrização > Coparticipações 1036
+[17/08/2017 16:11:41] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[17/08/2017 16:11:44] Acao: Informar Nome Produtos e Planos > Parametrização > Coparticipações 1037
+[17/08/2017 16:11:46] Acao: Selecionar Usa na Cotação PJ Produtos e Planos > Parametrização > Coparticipações 1038
+[17/08/2017 16:11:48] Acao: Informar Ordem Exibição Cotação PJ Produtos e Planos > Parametrização > Coparticipações 1039
+[17/08/2017 16:11:50] Acao: Informar TIPO Comp Copart Produtos e Planos > Parametrização > Coparticipações 1050
+[17/08/2017 16:11:52] Acao: Informar CÓDIGO Comp Copart Produtos e Planos > Parametrização > Coparticipações 1051
+[17/08/2017 16:11:54] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[17/08/2017 16:11:56] Acao: Informar CODIGO Comp Copart (TIPO TRAT) Produtos e Planos > Parametrização > Coparticipações 1052
+[17/08/2017 16:11:58] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[17/08/2017 16:12:00] Acao: Clicar Botão: Incluir Produtos e Planos > Parametrização > Coparticipações 1053
+[17/08/2017 16:12:02] Acao: [POSCOND] Operação Realizada Com Sucesso? Produtos e Planos > Parametrização > Coparticipações 1055
+[17/08/2017 16:12:57] Acao: Logar (223.223.2.102) Login 327
+[17/08/2017 16:13:16] Acao: Ir Para Produtos e Planos > Parametrização > Coparticipações 1035
+[17/08/2017 16:13:20] Acao: Informar Código Produtos e Planos > Parametrização > Coparticipações 1036
+[17/08/2017 16:13:22] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[17/08/2017 16:13:24] Acao: Clicar Botão: Excluir Produtos e Planos > Parametrização > Coparticipações 1054
+[17/08/2017 16:13:26] Acao: [POSCOND] Operação Realizada Com Sucesso? Produtos e Planos > Parametrização > Coparticipações 1055
+[17/08/2017 16:14:52] Acao: Logar (223.223.2.102) Login 327
+[17/08/2017 16:15:14] Acao: Ir Para Produtos e Planos > Parametrização > Coparticipações 1035
+[17/08/2017 16:15:19] Acao: Informar Código Produtos e Planos > Parametrização > Coparticipações 1036
+[17/08/2017 16:15:21] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[17/08/2017 16:15:23] Acao: Informar Nome Produtos e Planos > Parametrização > Coparticipações 1037
+[17/08/2017 16:15:25] Acao: Selecionar Usa na Cotação PJ Produtos e Planos > Parametrização > Coparticipações 1038
+[17/08/2017 16:15:27] Acao: Informar Ordem Exibição Cotação PJ Produtos e Planos > Parametrização > Coparticipações 1039
+[17/08/2017 16:15:29] Acao: Informar TIPO Comp Copart Produtos e Planos > Parametrização > Coparticipações 1050
+[17/08/2017 16:15:31] Acao: Informar CÓDIGO Comp Copart Produtos e Planos > Parametrização > Coparticipações 1051
+[17/08/2017 16:15:33] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[17/08/2017 16:15:35] Acao: Informar CODIGO Comp Copart (TIPO TRAT) Produtos e Planos > Parametrização > Coparticipações 1052
+[17/08/2017 16:15:36] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[17/08/2017 16:15:39] Acao: Clicar Botão: Incluir Produtos e Planos > Parametrização > Coparticipações 1053
+[17/08/2017 16:15:41] Acao: [POSCOND] Operação Realizada Com Sucesso? Produtos e Planos > Parametrização > Coparticipações 1055
+[17/08/2017 18:12:56] Acao: Logar (223.223.2.102) Login 327
+[17/08/2017 18:13:22] Acao: Ir Para Produtos e Planos > Parametrização > Exclusão co-participação 1073
+[17/08/2017 18:13:26] Acao: Informar Código Produtos e Planos > Parametrização > Exclusão co-participação 1074
+[17/08/2017 18:13:28] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[17/08/2017 18:13:30] Acao: Informar Nome Produtos e Planos > Parametrização > Exclusão co-participação 1075
+[17/08/2017 18:13:32] Acao: Informar Limite Idade De Produtos e Planos > Parametrização > Exclusão co-participação 1076
+[17/08/2017 18:13:34] Acao: Informar Limite Idade Até Produtos e Planos > Parametrização > Exclusão co-participação 1077
+[17/08/2017 18:13:36] Acao: Informar Sexo Produtos e Planos > Parametrização > Exclusão co-participação 1078
+[17/08/2017 18:13:38] Acao: Informar Tipo Beneficiário Produtos e Planos > Parametrização > Exclusão co-participação 1079
+[17/08/2017 18:13:43] Acao: Informar CODIGO Comp. Exc. Copart. Produtos e Planos > Parametrização > Exclusão co-participação 1081
+[17/08/2017 18:13:44] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[17/08/2017 18:13:47] Acao: Informar TIPO Comp. Exc. Copart.  Produtos e Planos > Parametrização > Exclusão co-participação 1080
+[17/08/2017 18:13:47] Cannot locate element with text: CONWebDriver.Support
+[17/08/2017 18:14:55] Acao: Logar (223.223.2.102) Login 327
+[17/08/2017 18:15:16] Acao: Ir Para Produtos e Planos > Parametrização > Exclusão co-participação 1073
+[17/08/2017 18:15:20] Acao: Informar Código Produtos e Planos > Parametrização > Exclusão co-participação 1074
+[17/08/2017 18:15:22] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[17/08/2017 18:15:25] Acao: Informar Nome Produtos e Planos > Parametrização > Exclusão co-participação 1075
+[17/08/2017 18:15:27] Acao: Informar Limite Idade De Produtos e Planos > Parametrização > Exclusão co-participação 1076
+[17/08/2017 18:15:29] Acao: Informar Limite Idade Até Produtos e Planos > Parametrização > Exclusão co-participação 1077
+[17/08/2017 18:15:31] Acao: Informar Sexo Produtos e Planos > Parametrização > Exclusão co-participação 1078
+[17/08/2017 18:15:33] Acao: Informar Tipo Beneficiário Produtos e Planos > Parametrização > Exclusão co-participação 1079
+[17/08/2017 18:15:35] Acao: Informar TIPO Comp. Exc. Copart.  Produtos e Planos > Parametrização > Exclusão co-participação 1080
+[17/08/2017 18:15:37] Acao: Informar CODIGO Comp. Exc. Copart. Tipo Trat Produtos e Planos > Parametrização > Exclusão co-participação 1084
+[17/08/2017 18:15:39] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[17/08/2017 18:15:41] Acao: Informar CODIGO Comp. Exc. Copart. Tipo Trat Produtos e Planos > Parametrização > Exclusão co-participação 1084
+[17/08/2017 18:15:44] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[17/08/2017 18:15:46] Acao: Clicar Botão: Incluir Produtos e Planos > Parametrização > Exclusão co-participação 1085
+[17/08/2017 18:15:47] Acao: [POSCOND] Operação Realizada Com Sucesso? Produtos e Planos > Parametrização > Exclusão co-participação 1087
+[17/08/2017 18:17:02] Acao: Logar (223.223.2.102) Login 327
+[17/08/2017 18:17:22] Acao: Ir Para Produtos e Planos > Parametrização > Exclusão co-participação 1073
+[17/08/2017 18:17:28] Acao: Informar Código Produtos e Planos > Parametrização > Exclusão co-participação 1074
+[17/08/2017 18:17:30] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[17/08/2017 18:17:34] Acao: Clicar Botão: Excluir Produtos e Planos > Parametrização > Exclusão co-participação 1086
+[17/08/2017 18:17:36] Acao: [POSCOND] Operação Realizada Com Sucesso? Produtos e Planos > Parametrização > Exclusão co-participação 1087
+[17/08/2017 19:49:47] Acao: Logar (223.223.2.102) Login 327
+[17/08/2017 19:50:12] Acao: Ir Para Produtos e Planos > Parametrização > Tipo Dependência 1090
+[17/08/2017 19:50:17] Acao: Informar Código Produtos e Planos > Parametrização > Tipo Dependência 1091
+[17/08/2017 19:50:19] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[17/08/2017 19:50:22] Acao: Informar Nome Produtos e Planos > Parametrização > Tipo Dependência 1092
+[17/08/2017 19:50:24] Acao: Selecionar Dependência SIB Produtos e Planos > Parametrização > Tipo Dependência 1093
+[17/08/2017 19:50:25] Cannot locate element with text: Beneficiário TitularWebDriver.Support
+[17/08/2017 19:50:52] Acao: Logar (223.223.2.102) Login 327
+[17/08/2017 19:51:11] Acao: Ir Para Produtos e Planos > Parametrização > Tipo Dependência 1090
+[17/08/2017 19:51:15] Acao: Informar Código Produtos e Planos > Parametrização > Tipo Dependência 1091
+[17/08/2017 19:51:17] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[17/08/2017 19:51:19] Acao: Informar Nome Produtos e Planos > Parametrização > Tipo Dependência 1092
+[17/08/2017 19:51:22] Acao: Selecionar Dependência SIB Produtos e Planos > Parametrização > Tipo Dependência 1093
+[17/08/2017 19:51:24] Acao: Selecionar Sexo Produtos e Planos > Parametrização > Tipo Dependência 1094
+[17/08/2017 19:51:27] Acao: Selecionar Teste RN Produtos e Planos > Parametrização > Tipo Dependência 1095
+[17/08/2017 19:51:29] Acao: Selecionar Teste Conjuge Produtos e Planos > Parametrização > Tipo Dependência 1096
+[17/08/2017 19:51:31] Acao: Selecionar Teste Nascimento Produtos e Planos > Parametrização > Tipo Dependência 1097
+[17/08/2017 19:51:33] Acao: Informar Limitado A Produtos e Planos > Parametrização > Tipo Dependência 1098
+[17/08/2017 19:51:35] Acao: Informar Código Dependência DMED Produtos e Planos > Parametrização > Tipo Dependência 1099
+[17/08/2017 19:51:37] Acao: Clicar Botão: Incluir Produtos e Planos > Parametrização > Tipo Dependência 1100
+[17/08/2017 19:51:39] Acao: [POSCOND] Operação Realizada Com Sucesso? Produtos e Planos > Parametrização > Tipo Dependência 1102
+[17/08/2017 19:53:05] Acao: Logar (223.223.2.102) Login 327
+[17/08/2017 19:53:22] Acao: Ir Para Produtos e Planos > Parametrização > Tipo Dependência 1090
+[17/08/2017 19:53:26] Acao: Informar Código Produtos e Planos > Parametrização > Tipo Dependência 1091
+[17/08/2017 19:53:28] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[17/08/2017 19:53:30] Acao: Clicar Botão: Excluir Produtos e Planos > Parametrização > Tipo Dependência 1101
+[17/08/2017 19:53:32] Acao: [POSCOND] Operação Realizada Com Sucesso? Produtos e Planos > Parametrização > Tipo Dependência 1102
+[17/08/2017 19:53:32] Ação retornou FALSE (resultado esperado falhou).UI_test_player_TD
+[17/08/2017 19:58:51] Acao: Logar (223.223.2.102) Login 327
+[17/08/2017 19:59:08] Acao: Ir Para Produtos e Planos > Parametrização > Tipo Dependência 1090
+[17/08/2017 19:59:12] Acao: Informar Código Produtos e Planos > Parametrização > Tipo Dependência 1091
+[17/08/2017 19:59:15] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[17/08/2017 19:59:17] Acao: Informar Nome Produtos e Planos > Parametrização > Tipo Dependência 1092
+[17/08/2017 19:59:19] Acao: Selecionar Dependência SIB Produtos e Planos > Parametrização > Tipo Dependência 1093
+[17/08/2017 19:59:21] Acao: Selecionar Sexo Produtos e Planos > Parametrização > Tipo Dependência 1094
+[17/08/2017 19:59:23] Acao: Selecionar Teste RN Produtos e Planos > Parametrização > Tipo Dependência 1095
+[17/08/2017 19:59:25] Acao: Selecionar Teste Conjuge Produtos e Planos > Parametrização > Tipo Dependência 1096
+[17/08/2017 19:59:27] Acao: Selecionar Teste Nascimento Produtos e Planos > Parametrização > Tipo Dependência 1097
+[17/08/2017 19:59:29] Acao: Informar Limitado A Produtos e Planos > Parametrização > Tipo Dependência 1098
+[17/08/2017 19:59:31] Acao: Informar Código Dependência DMED Produtos e Planos > Parametrização > Tipo Dependência 1099
+[17/08/2017 19:59:33] Acao: Clicar Botão: Incluir Produtos e Planos > Parametrização > Tipo Dependência 1100
+[17/08/2017 19:59:35] Acao: [POSCOND] Operação Realizada Com Sucesso? Produtos e Planos > Parametrização > Tipo Dependência 1102
+[17/08/2017 20:00:58] Acao: Logar (223.223.2.102) Login 327
+[17/08/2017 20:01:16] Acao: Ir Para Produtos e Planos > Parametrização > Tipo Dependência 1090
+[17/08/2017 20:01:20] Acao: Informar Código Produtos e Planos > Parametrização > Tipo Dependência 1091
+[17/08/2017 20:01:22] Acao: Inserir Tecla: TAB COMANDOS GENÉRICOS 869
+[17/08/2017 20:01:24] Acao: Clicar Botão: Excluir Produtos e Planos > Parametrização > Tipo Dependência 1101
+[17/08/2017 20:01:25] Acao: [POSCOND] Operação Realizada Com Sucesso? Produtos e Planos > Parametrização > Tipo Dependência 1102
