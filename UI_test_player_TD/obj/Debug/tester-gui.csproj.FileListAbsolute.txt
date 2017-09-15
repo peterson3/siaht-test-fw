@@ -245,3 +245,9 @@ D:\Peterson\Projetos\test-project\UI_test_player_TD\obj\Debug\UI_test_player_TD.
 D:\Peterson\Projetos\test-project\UI_test_player_TD\obj\Debug\UI_test_player_TD.application
 D:\Peterson\Projetos\test-project\UI_test_player_TD\obj\Debug\UI_test_player_TD.exe
 D:\Peterson\Projetos\test-project\UI_test_player_TD\obj\Debug\UI_test_player_TD.pdb
+D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\PdfSharp.Charting.dll
+D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\PdfSharp.dll
+D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\PdfSharp.xml
+D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\PdfSharp.Charting.xml
+D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\de\PdfSharp.resources.dll
+D:\Peterson\Projetos\test-project\UI_test_player_TD\bin\Debug\de\PdfSharp.Charting.resources.dll

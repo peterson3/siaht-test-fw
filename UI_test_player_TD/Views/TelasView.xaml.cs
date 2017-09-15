@@ -86,9 +86,27 @@ namespace UI_test_player_TD.Views
             }
         }
 
-        private void EditarRegitroTela(object sender, RoutedEventArgs e)
+        private async void EditarRegitroTela(object sender, RoutedEventArgs e)
         {
 
+             MetroDialogSettings st = new MetroDialogSettings();
+            st.AffirmativeButtonText = "Ok";
+            st.NegativeButtonText = "Cancelar";
+            st.DefaultText = selectedTela.Nome;
+            string nomeTemp = await this.mainWindow.ShowInputAsync("Alterar Nome Tela", "Insira Novo Nome Da Tela", st);
+            if (!String.IsNullOrEmpty(nomeTemp))
+            {
+
+                selectedTela.Nome = nomeTemp;
+                selectedTela.Alterar();
+                await this.mainWindow.ShowMessageAsync("Sucesso!", "Nome Da Tela alterado com sucesso!");
+
+            }
+            else
+            {
+                await this.mainWindow.ShowMessageAsync("Novo Nome Não Informado", "A Tela não foi Alterada");
+            }
+            
         }
 
         private void ValidarEdicao(object sender, RoutedEventArgs e)
@@ -124,9 +142,9 @@ namespace UI_test_player_TD.Views
         private void novaTela_Btn(object sender, RoutedEventArgs e)
         {
             mainWindow.OpenTelaAddChildWindow(this);
-
         }
 
+        
 
     }
 }

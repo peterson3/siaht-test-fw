@@ -21,6 +21,8 @@ using UI_test_player_TD.DB;
 using UI_test_player_TD.Model;
 using System.Reflection;
 using System.ComponentModel;
+using System.IO;
+using System.Diagnostics;
 
 namespace UI_test_player_TD.Views
 {
@@ -180,14 +182,30 @@ namespace UI_test_player_TD.Views
 
             AutocompleteMenu menu = new AutocompleteMenu();
             menu.TargetControlWrapper = new ScintillaWrapper(scintilla);
-            string[] snippets = { "//Input Template\nBrowser.Wait.Until(ExpectedConditions.FrameToBeAvailableAndSwitchToIt(\"principal\"));\nIWebElement inputElement = Browser.Driver.FindElement(By.Name(\"elementName\"));\ninputElement.SendKeys(Parametro);\nPassou = true;",
-                                    "//Button Template\nBrowser.Wait.Until(ExpectedConditions.FrameToBeAvailableAndSwitchToIt(\"toolbar\"));\nBrowser.Wait.Until(ExpectedConditions.ElementExists(By.Id(\"elementId\")));\nIWebElement btn_Element = Browser.Driver.FindElement(By.Id(\"elementId\"));\nBrowser.Action.MoveToElement(btn_Element).Click().Build().Perform();\nPassou = true;", 
-                                    "//RadioButton Template\n//Mudar para o Frame que contém o elemento\nBrowser.Wait.Until(ExpectedConditions.FrameToBeAvailableAndSwitchToIt(\"principal\"));\nint opt = 0;\n//Colocar elementos referentes a ordem\nif (Parametro.ToUpper() == \"MÉDICO\")\nopt = 0;\nif (Parametro.ToUpper() == \"ODONTOLÓGICO\")\nopt = 1;\n//Seletor Do Elemento\nBrowser.JSexec.ExecuteScript(@\"\nvar element = document.getElementsByName('ind_arq')[\" + opt.ToString() + @\"];\nelement.checked='\" + true + \"';\");\nPassou = true;",
-                                    "//CheckBox Template\n //Mudar para o Frame que contém o elemento\nBrowser.Wait.Until(ExpectedConditions.FrameToBeAvailableAndSwitchToIt(\"principal\"));\nstring opt = \"\";\n//Colocar elementos referentes a ordem\nif (Parametro.ToUpper() == \"AMBULATÓRIO / CONSULTÓRIO\")\nopt = \"regime_1\";\nif (Parametro.ToUpper() == \"SADT\")\nopt = \"regime_2\";\nif (Parametro.ToUpper() == \"INTERNAÇÃO HOSPITALAR\")\nopt = \"regime_3\";\nif (Parametro.ToUpper() == \"HOSPITAL DIA\")\nopt = \"regime_4\";\n//Seletor Do Elemento\nBrowser.JSexec.ExecuteScript(@\"\nvar element = document.getElementById('\"+opt+@\"');\nelement.checked='\" + true + \"';\");\n\nPassou = true;",
-                                    "//Dropdown Template\nBrowser.Wait.Until(ExpectedConditions.FrameToBeAvailableAndSwitchToIt(\"principal\"));\nvar dropDownElement = new SelectElement(Browser.Driver.FindElement(By.Name(\"element_name\")));\ndropDownElement.SelectByText(Parametro);\nPassou = true;",
-                                    "//Javascript Command\nBrowser.Wait.Until(ExpectedConditions.FrameToBeAvailableAndSwitchToIt(\"menu\"));\nBrowser.Sleep(3);\n//Comando javascript referente ao acesso da função (verificar menu)\nBrowser.JSexec.ExecuteScript(@\"\nSelecionarMenu('../../ans/asp/ans1025a.asp?cod_funcao=F&pt=Finalizar\nReferência&pprf=ADMIN&pprm=N,N,N,N,N,S&pcf=ANS20.4&pm=2&pr=S', '');\n\");\nBrowser.Sleep(3);\nPassou = true;",
-                                    "//VERIFICADOR\ntry\n{\nBrowser.Wait.Until(ExpectedConditions.FrameToBeAvailableAndSwitchToIt(\"menu\"));\nPassou = true;\n}\ncatch (Exception ex)\n{\nPassou = false;\n}\n//Se o resultado esperado é a FALHA, então inverta o sucesso.\nif (Parametro.ToUpper() == \"SIM\")\n{\nPassou = Passou;\n}\nelse //”NÃO”\n{\nPassou = !Passou;\n}",
-                                    };
+
+
+            List<string> arqs = Directory.GetFiles("source-codes").ToList();
+
+
+            List<string> arqsContent = new List<string>();
+
+            foreach (var arq in arqs)
+            {
+                arqsContent.Add(File.ReadAllText(arq, Encoding.Default));
+            }
+
+            string[] snippets = arqsContent.ToArray();
+
+
+            //string[] snippets = { "//Input Template\nBrowser.Wait.Until(ExpectedConditions.FrameToBeAvailableAndSwitchToIt(\"principal\"));\nBy modoDeProcura = By.Name(\"elementName\");\nBrowser.Wait.Until(ExpectedConditions.ElementExists(modoDeProcura));\nIWebElement inputElement = Browser.Driver.FindElement(modoDeProcura);\ninputElement.SendKeys(Parametro);\nPassou = true;",
+            //                        "//Button Template\nBrowser.Wait.Until(ExpectedConditions.FrameToBeAvailableAndSwitchToIt(\"toolbar\"));\nBy modoDeProcura = By.Id(\"elementId\");\nBrowser.Wait.Until(ExpectedConditions.ElementExists(modoDeProcura));\nIWebElement btn_Element = Browser.Driver.FindElement(modoDeProcura);\nbtn_Element.Click();\nPassou = true;", 
+            //                        "//RadioButton Template\n//Mudar para o Frame que contém o elemento\nBrowser.Wait.Until(ExpectedConditions.FrameToBeAvailableAndSwitchToIt(\"principal\"));\nint opt = 0;\n//Colocar elementos referentes a ordem\nif (Parametro.ToUpper() == \"MÉDICO\")\nopt = 0;\nif (Parametro.ToUpper() == \"ODONTOLÓGICO\")\nopt = 1;\n//Seletor Do Elemento\nBy modoDeProcura = By.Name(\"elementName\");\nBrowser.Wait.Until(ExpectedConditions.ElementExists(modoDeProcura));\nIWebElement radioBtn_Element = Browser.Driver.FindElements(modoDeProcura)[opt];\nradioBtn_Element.Click();\nPassou = true;",
+            //                        "//CheckBox Template\n //Mudar para o Frame que contém o elemento\nBrowser.Wait.Until(ExpectedConditions.FrameToBeAvailableAndSwitchToIt(\"principal\"));\nstring opt = \"\";\n//Colocar elementos referentes a ordem\nif (Parametro.ToUpper() == \"AMBULATÓRIO / CONSULTÓRIO\")\nopt = \"regime_1\";\nif (Parametro.ToUpper() == \"SADT\")\nopt = \"regime_2\";\nif (Parametro.ToUpper() == \"INTERNAÇÃO HOSPITALAR\")\nopt = \"regime_3\";\nif (Parametro.ToUpper() == \"HOSPITAL DIA\")\nopt = \"regime_4\";\n//Seletor Do Elemento\nBy modoDeProcura = By.Name(opt);\nBrowser.Wait.Until(ExpectedConditions.ElementExists(modoDeProcura));\nIWebElement checkBox_Element = Browser.Driver.FindElement(modoDeProcura);\ncheckBox_Element.Click();\nPassou = true;",
+            //                        "//Dropdown Template\nBrowser.Wait.Until(ExpectedConditions.FrameToBeAvailableAndSwitchToIt(\"principal\"));\nBy modoDeProcura = By.Name(\"element_name\");\nBrowser.Wait.Until(ExpectedConditions.ElementExists(modoDeProcura));\nvar dropDownElement = new SelectElement(Browser.Driver.FindElement(modoDeProcura));\ndropDownElement.SelectByText(Parametro);\nPassou = true;",
+            //                        "//Javascript Command\nBrowser.Wait.Until(ExpectedConditions.FrameToBeAvailableAndSwitchToIt(\"menu\"));\nBrowser.Sleep(3);\n//Comando javascript referente ao acesso da função (verificar menu)\nBrowser.JSexec.ExecuteScript(@\"\nSelecionarMenu('../../ans/asp/ans1025a.asp?cod_funcao=F&pt=Finalizar\nReferência&pprf=ADMIN&pprm=N,N,N,N,N,S&pcf=ANS20.4&pm=2&pr=S', '');\n\");\nBrowser.Sleep(3);\nPassou = true;",
+            //                        "//Alerta\nBrowser.Wait.Until(ExpectedConditions.AlertIsPresent());\nBrowser.Driver.SwitchTo().Alert().Accept();",
+            //                        "//VERIFICADOR\ntry\n{\nBrowser.Wait.Until(ExpectedConditions.FrameToBeAvailableAndSwitchToIt(\"menu\"));\nPassou = true;\n}\ncatch (Exception ex)\n{\nPassou = false;\n}\n//Se o resultado esperado é a FALHA, então inverta o sucesso.\nif (Parametro.ToUpper() == \"SIM\")\n{\nPassou = Passou;\n}\nelse //\"NÃO\"\n{\nPassou = !Passou;\n}",
+            //                        };
             //string[] snippets = { "if(^)\n{\n}", "if(^)\n{\n}\nelse\n{\n}", "for(^;;)\n{\n}", "while(^)\n{\n}", "do${\n^}while();", "switch(^)\n{\n\tcase : break;\n}" }; 
             menu.Items = snippets; 
             
@@ -222,5 +240,20 @@ namespace UI_test_player_TD.Views
         private TestCaseView parentWindow1;
         private Tela selectedTela1;
         private Sistema selectedSistema1;
+
+        private void abrirDoc(object sender, RoutedEventArgs e)
+        {
+            if (File.Exists(Settings.docPath))
+            {
+                ProcessStartInfo processInfo = new ProcessStartInfo();
+                processInfo.UseShellExecute = true;
+                processInfo.FileName = Settings.docPath;
+                Process.Start(processInfo);
+            }
+            else
+            {
+
+            }
+        }
     }
 }

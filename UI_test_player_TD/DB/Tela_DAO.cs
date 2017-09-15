@@ -94,6 +94,29 @@ namespace UI_test_player_TD.DB
             
         }
 
+        public static void Alterar(Tela tela)
+        {
+            //verificar se o caso de teste existe no banco 
+
+            //Conectar ao banco
+            using (OracleConnection con = new OracleConnection(DBConnection.conString))
+            {
+                con.Open();
+                //Carrega Registros
+                using (OracleCommand sql_cmd = new OracleCommand(@"UPDATE TELA SET COD_TELA= :cod_tela, NOME= :nome, COD_SISTEMA= :cod_sistema
+                        WHERE COD_TELA = :telaId
+                    ", con))
+                {
+                    sql_cmd.Parameters.Add(":cod_tela", tela.Id);
+                    sql_cmd.Parameters.Add(":nome", tela.Nome);
+                    sql_cmd.Parameters.Add(":cod_sistema", tela.SistemaPai.Id);
+                    sql_cmd.Parameters.Add(":telaId", tela.Id);
+                    sql_cmd.ExecuteNonQuery();
+                }
+                //Fecha Conexão
+                con.Close();
+            }
+        }
 
         public static int GetCount()
         {

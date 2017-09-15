@@ -65,6 +65,11 @@
                           SelectedItem="{Binding SelectedSuite, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
                           
                           Background="{x:Null}" SelectionChanged="testSuiteBox_SelectionChanged">
+                    <ListBox.ContextMenu>
+                        <ContextMenu>
+                            <MenuItem Header="Editar Código Do Roteiro" Click="EditarCodigoRoteiro"/>
+                        </ContextMenu>
+                    </ListBox.ContextMenu>
                     <ListBox.ItemTemplate>
                         <DataTemplate>
                             <Grid Margin="0,2" Height="30">
@@ -134,8 +139,19 @@
                                     FontFamily="Segoe UI Semilight" 
                                     UseLayoutRounding="False" HorizontalContentAlignment="Stretch"
                                     MinHeight="350" MinWidth="830" VerticalScrollBarVisibility="Visible">
+                    <DataGrid.ContextMenu>
+                        <ContextMenu >
+                            <!--<MenuItem Header="Copiar"/>-->
+                            <MenuItem Header="Detalhes do Caso de Teste" Click="abrirDetalhesCasoDeTeste"/>
+                            <MenuItem Header="Excluir Passo" Click="excluirPasso"/>
+                            <MenuItem Header="Adicionar Passo Abaixo" Click="adicionarPassoAbaixo"/>
+                            <MenuItem Header="Abrir CTF Gerado" Click="abrirCTFGerado"/>
+                            <MenuItem Header="Abrir Arquivo de Parâmetros" Click="abrirArqParam"/>
+                        </ContextMenu>
+                    </DataGrid.ContextMenu>
                     <DataGrid.Columns>
-                        <DataGridTextColumn Header="Ordem" Binding="{Binding Ordem, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></DataGridTextColumn>
+                        <DataGridCheckBoxColumn Binding="{Binding deveExecutar, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"/>
+                        <DataGridTextColumn Binding="{Binding Ordem, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"></DataGridTextColumn>
                         <DataGridTemplateColumn Header="TestCase" >
                             <DataGridTemplateColumn.CellTemplate>
                                 <DataTemplate>
@@ -305,6 +321,36 @@
             		Fill="{Binding Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}">
                     <Rectangle.OpacityMask>
                         <VisualBrush Visual="{StaticResource appbar_email_minimal}" />
+                    </Rectangle.OpacityMask>
+                </Rectangle>
+            </Button>
+            <Button
+            	ToolTip="Gerar Compacto de Casos do Roteiro"
+            	Height="50"
+            	Background="{x:Null}"
+            	Style="{DynamicResource MetroCircleButtonStyle}" Margin="716,0,258,15" 
+            	Foreground="Black" BorderBrush="Black" VerticalAlignment="Bottom"
+            	Click="gerarZipRoteiro" Width="50" HorizontalAlignment="Center">
+                <Rectangle Width="20"
+            		Height="20"
+            		Fill="{Binding Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}">
+                    <Rectangle.OpacityMask>
+                        <VisualBrush Visual="{StaticResource appbar_layer_add}" />
+                    </Rectangle.OpacityMask>
+                </Rectangle>
+            </Button>
+            <Button
+            	ToolTip="Gerar Relatório HTML do Roteiro"
+            	Height="50"
+            	Background="{x:Null}"
+            	Style="{DynamicResource MetroCircleButtonStyle}" Margin="766,0,208,15" 
+            	Foreground="Black" BorderBrush="Black" VerticalAlignment="Bottom"
+            	Click="gerarRelatorioHTML" Width="50" HorizontalAlignment="Center">
+                <Rectangle Width="20"
+            		Height="20"
+            		Fill="{Binding Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}">
+                    <Rectangle.OpacityMask>
+                        <VisualBrush Visual="{StaticResource appbar_page_xml}" />
                     </Rectangle.OpacityMask>
                 </Rectangle>
             </Button>

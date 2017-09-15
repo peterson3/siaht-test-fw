@@ -108,5 +108,33 @@ namespace UI_test_player_TD.Controllers
 
 
 
+
+        public TestCaseView getTestCaseView(TestCase testCase)
+        {
+            if (testCaseView == null)
+            {
+                testCaseView = new TestCaseView(mainWindow);
+            }
+            foreach (var sistema in testCaseView.sistemas)
+            {
+                if (sistema.Id == testCase.SistemaPai.Id)
+                {
+                    testCaseView.selectedSistema = sistema;
+                    break;
+                }
+            }
+
+            foreach (TestCase tc in testCaseView.ctfBox.Items)
+            {
+                if (tc.Id == testCase.Id)
+                {
+                    testCaseView.selectedCase = tc;
+                    testCaseView.ctfBox.SelectedItem = tc;
+                }
+            }
+
+            testCaseView.refresh();
+            return testCaseView;
+        }
     }
 }

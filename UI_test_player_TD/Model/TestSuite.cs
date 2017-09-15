@@ -113,5 +113,18 @@ namespace UI_test_player_TD.Model
         {
             TestSuite_DAO.GetPassos(this);
         }
+
+        public void ordenarPassos()
+        {
+            //Ordenando
+            int i = 1;
+            foreach (PassoDoRoteiro passo in PassosDoRoteiro)
+            {
+                passo.Ordem = i;
+                i++;
+            }
+
+            this.PassosDoRoteiro.OrderBy(passo => passo.Ordem);
+        }
     }
 }

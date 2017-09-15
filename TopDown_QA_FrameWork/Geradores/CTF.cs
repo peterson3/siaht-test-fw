@@ -65,6 +65,8 @@ namespace TopDown_QA_FrameWork.Geradores
             //informar dados de cabeçalho
 
             XLSUtils.WriteToFile(currentFile);
+
+
         }
 
         public static void Finalizar()

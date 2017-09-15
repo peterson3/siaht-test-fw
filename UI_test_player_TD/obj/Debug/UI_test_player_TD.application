@@ -7,14 +7,14 @@
     <framework targetVersion="4.5" profile="Full" supportedRuntime="4.0.30319" />
   </compatibleFrameworks>
   <dependency>
-    <dependentAssembly dependencyType="install" codebase="UI_test_player_TD.exe.manifest" size="19713">
+    <dependentAssembly dependencyType="install" codebase="UI_test_player_TD.exe.manifest" size="22472">
       <assemblyIdentity name="UI_test_player_TD.exe" version="1.0.0.1" publicKeyToken="0000000000000000" language="neutral" processorArchitecture="msil" type="win32" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>d/OB/AZDxZC6O7062eXOZ7FmZtewR3a/kdxcWJrkezM=</dsig:DigestValue>
+        <dsig:DigestValue>1pqXIEXU9lmQa+kDBd/KIQx3nyiMW4xAjTFY78LlvbQ=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

@@ -10,11 +10,27 @@ namespace testercl
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("*******************************");
-            Console.WriteLine("****Auto-Tester Console App****");
-            Console.WriteLine("*******************************");
-            Console.ReadKey();
+            var options = new Options();
+            var isValid = CommandLine.Parser.Default.ParseArgumentsStrict(args, options);
 
+
+           if (isValid) 
+           {
+
+               Console.WriteLine("*******************************");
+               Console.WriteLine("****Auto-Tester Console App****");
+               Console.WriteLine("*******************************");
+
+               Console.Write ("CTF(s) count: ", options.CasosDeTesteToExec.Count.ToString());  
+           }
+
+           else
+           {
+               Console.WriteLine("Argumentos Inválidos");
+
+           }
+
+           
         }
 
     }

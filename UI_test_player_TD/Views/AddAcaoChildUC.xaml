@@ -40,13 +40,14 @@
         	DisplayMemberPath="Nome" 
         	SelectedItem="{Binding selectedTela, Mode=TwoWay, UpdateSourceTrigger=Default}"
         	ItemsSource="{Binding telas, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}" Grid.Row="1" Height="26"/>
-        <Label Content="Requer Parametro" HorizontalAlignment="Left" Margin="613,48,0,0" Grid.Row="2" VerticalAlignment="Top" Height="26" Width="106"/>
-        <CheckBox x:Name="requerParametroCheck" Content="" HorizontalAlignment="Left" Margin="584,51,0,0" Grid.Row="2" VerticalAlignment="Top" Height="18" Width="24"/>
+        <Label Content="Requer Parametro" HorizontalAlignment="Left" Margin="615,10,0,0" Grid.Row="2" VerticalAlignment="Top" Height="26" Width="106"/>
+        <CheckBox x:Name="requerParametroCheck" Content="" HorizontalAlignment="Left" Margin="586,13,0,0" Grid.Row="2" VerticalAlignment="Top" Height="18" Width="24"/>
         <CheckBox Content="CheckBox" HorizontalAlignment="Left" Height="100" Margin="1052,220,-252,-260" Grid.Row="3" VerticalAlignment="Top" Width="100"/>
         <WindowsFormsHost x:Name="winFormHost" HorizontalAlignment="Left" Height="352" VerticalAlignment="Top" Width="641" Margin="153,162,0,0" Grid.Row="2">
             <scintilla:Scintilla x:Name="scintilla" Lexer="Cpp">
             </scintilla:Scintilla>
         </WindowsFormsHost>
+        <Button Content="Abrir Doc" HorizontalAlignment="Left" Margin="586,0,0,441" Grid.Row="2" VerticalAlignment="Bottom" Width="76" Background="{x:Null}" Click="abrirDoc" Height="27"/>
 
     </Grid>
 

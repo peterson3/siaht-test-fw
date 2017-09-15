@@ -32,6 +32,8 @@ namespace UI_test_player_TD.Model
             }
         }
 
+        public bool deveExecutar { get; set; }
+
         private FileInfo _SelectedArq { get; set; }
         public FileInfo SelectedArq 
         { 

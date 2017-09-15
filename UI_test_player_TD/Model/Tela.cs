@@ -48,5 +48,10 @@ namespace UI_test_player_TD.Model
         {
             Tela_DAO.Deletar(this);
         }
+
+        public void Alterar()
+        {
+            Tela_DAO.Alterar(this);
+        }
     }
 }

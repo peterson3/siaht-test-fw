@@ -13,7 +13,10 @@ namespace UI_test_player_TD.DB
 {
     public class TestSuite_DAO
     {
-
+        /// <summary>
+        /// Salva (Inserindo Novo Ou Atualizando Existente)
+        /// </summary>
+        /// <param name="testSuite"></param>
         public static void Salvar(TestSuite testSuite)
         {
            

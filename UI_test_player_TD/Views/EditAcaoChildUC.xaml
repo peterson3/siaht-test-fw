@@ -31,6 +31,7 @@
             Width="805">
             <scintilla:Scintilla x:Name="scintilla" Lexer="Cpp"></scintilla:Scintilla>
         </WindowsFormsHost>
+        <Button x:Name="btn_abrir_doc" Content="Abrir Doc" Margin="594,0,0,529" Grid.Row="1" VerticalAlignment="Bottom" Background="{x:Null}" Height="27" Click="abrirDoc" RenderTransformOrigin="0.711,-3.593" HorizontalAlignment="Left" Width="76"/>
 
     </Grid>
 </UserControl>

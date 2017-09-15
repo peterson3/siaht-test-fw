@@ -9,6 +9,8 @@ using System.Diagnostics;
 using System.Drawing;
 using System.IO;
 using System.Linq;
+using System.Net;
+using System.Net.Mail;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows;
@@ -530,46 +532,158 @@ namespace UI_test_player_TD.Views
             {
                 using (file.Create())
                 {
-
+                    //Cria arquivo
                 }
+                     
+                        //Adicionar Nova Linha
+                        int qtdPassos = selectedCase.Passos.Count;
+                        int qtdParametros = 0;
+                        int qtdTestes = 0;
+
+                   
+                        StreamReader reader = new StreamReader(file.FullName, System.Text.Encoding.Default);
+                        string result = reader.ReadToEnd();
+                        reader.Close();
+
+
+                        StreamWriter writer = new StreamWriter(file.FullName, true, System.Text.Encoding.Default);
+                        if (String.IsNullOrWhiteSpace(result))
+                        {
+                            //Não Pula Linha
+                        }
+                        else
+                        {
+                            //Pula Linha
+                            writer.WriteLine();
+                        }
+                        for (int i = 0; i < selectedCase.Passos.Count; i++)
+                        {
+                            writer.Write(selectedCase.Passos[i].Parametro);
+                            if (i + 1 >= selectedCase.Passos.Count)
+                            {
+                                //É o último índice
+                            }
+                            else
+                            {
+                                writer.Write(";");
+                            }
+                        }
+
+                        writer.Close();
+                        MessageBox.Show("Arquivo Criado e Parâmetros Gravados!");
+                
 
             }
 
-            int qtdPassos = selectedCase.Passos.Count;
-            int qtdParametros = 0;
-            int qtdTestes = 0;
-
-
-            StreamReader reader = new StreamReader(file.FullName, System.Text.Encoding.Default);
-            string result = reader.ReadToEnd();
-            reader.Close();
-
-
-            StreamWriter writer = new StreamWriter(file.FullName, true, System.Text.Encoding.Default);
-            if (String.IsNullOrWhiteSpace(result))
-            {
-                //Não Pula Linha
-            }
             else
             {
-                //Pula Linha
-                writer.WriteLine();
-            }
-            for (int i = 0; i < selectedCase.Passos.Count; i++)
-            {
-                writer.Write(selectedCase.Passos[i].Parametro);
-                if (i + 1 >= selectedCase.Passos.Count)
+                MessageBoxResult dialogResult = MessageBox.Show("Adicionar Nova Linha = Sim; Sobreescrever Arquivo = Não", "Adicionar Nova Linha de Parâmetros?", MessageBoxButton.YesNoCancel);
+                if (dialogResult == MessageBoxResult.Cancel)
                 {
-                    //É o último índice
+                    //do Nth
+                    MessageBox.Show("Operação Cancelada!");
+                    return;
                 }
                 else
                 {
-                    writer.Write(";");
+                    if (dialogResult == MessageBoxResult.Yes)
+                    {
+                        //Adicionar Nova Linha
+                        int qtdPassos = selectedCase.Passos.Count;
+                        int qtdParametros = 0;
+                        int qtdTestes = 0;
+
+
+                        StreamReader reader = new StreamReader(file.FullName, System.Text.Encoding.Default);
+                        string result = reader.ReadToEnd();
+                        reader.Close();
+
+
+                        StreamWriter writer = new StreamWriter(file.FullName, true, System.Text.Encoding.Default);
+                        if (String.IsNullOrWhiteSpace(result))
+                        {
+                            //Não Pula Linha
+                        }
+                        else
+                        {
+                            //Pula Linha
+                            writer.WriteLine();
+                        }
+                        for (int i = 0; i < selectedCase.Passos.Count; i++)
+                        {
+                            writer.Write(selectedCase.Passos[i].Parametro);
+                            if (i + 1 >= selectedCase.Passos.Count)
+                            {
+                                //É o último índice
+                            }
+                            else
+                            {
+                                writer.Write(";");
+                            }
+                        }
+
+                        writer.Close();
+                        MessageBox.Show("Nova Linha da Parâmetros adicionada");
+                    }
+                    else
+                    {
+                        if (dialogResult == MessageBoxResult.No)
+                        {
+                            //Sobreescrever Arquivo
+                            MessageBoxResult dialogResult2 = MessageBox.Show("Tem certeza que deseja sobreescrever o arquivo?", "Confirmação de Operação", MessageBoxButton.YesNoCancel);
+                            if (dialogResult2 == MessageBoxResult.Cancel)
+                            {
+                                MessageBox.Show("Operação Cancelada!");
+                            }
+                            else{
+
+                                if (dialogResult2 == MessageBoxResult.No)
+                                {
+                                    MessageBox.Show("Operação Cancelada!");
+
+                                }
+                                else
+                                {
+                                    if (dialogResult2 == MessageBoxResult.Yes)
+                                    {
+   
+                                        //Adicionar Nova Linha
+                                        int qtdPassos = selectedCase.Passos.Count;
+                                        int qtdParametros = 0;
+                                        int qtdTestes = 0;
+
+
+                                        StreamReader reader = new StreamReader(file.FullName, System.Text.Encoding.Default);
+                                        string result = reader.ReadToEnd();
+                                        reader.Close();
+
+
+                                        StreamWriter writer = new StreamWriter(file.FullName, false, System.Text.Encoding.Default);
+
+                                        for (int i = 0; i < selectedCase.Passos.Count; i++)
+                                        {
+                                            writer.Write(selectedCase.Passos[i].Parametro);
+                                            if (i + 1 >= selectedCase.Passos.Count)
+                                            {
+                                                //É o último índice
+                                            }
+                                            else
+                                            {
+                                                writer.Write(";");
+                                            }
+                                        }
+
+                                        writer.Close();
+                                        // Sobreescrever Arquivo
+                                        MessageBox.Show("Arquivo Sobreescrito!");
+                                    }
+                                }
+                            }
+                        }
+                    }
                 }
             }
-
-            writer.Close();
-            MessageBox.Show("Parâmetros gravados no Arquivo");
+           
 
         }
 
@@ -926,6 +1040,128 @@ namespace UI_test_player_TD.Views
             this.mainWindow.FlyOutFeedBack("re");
             ////Selecionar a Nova Acao Adicionada
             //getSelectedPasso().acaoSelecionada = novaAcaoAdicionada;
+        }
+
+        private void abrirPastaCasosTeste(object sender, RoutedEventArgs e)
+        {
+               ProcessStartInfo processInfo = new ProcessStartInfo();
+               processInfo.UseShellExecute = true;
+               processInfo.FileName = Settings.ctfsPath;
+               Process.Start(processInfo);
+        }
+
+        private async void enviarTestCaseViaEmail(object sender, RoutedEventArgs e)
+        {
+            // A Principio setado para enviar o caso de teste em anexo
+            SmtpClient smtpClient = new SmtpClient();
+            NetworkCredential basicCredential = new NetworkCredential("peterson@topdown.com.br", "humanbeing123");
+            MailMessage message = new MailMessage();
+            MailAddress fromAddress = new MailAddress("peterson@topdown.com.br");
+
+            smtpClient.Host = "smtp.gmail.com";
+            smtpClient.Port = 587;
+            //smtpClient.Port = 465;
+            smtpClient.DeliveryMethod = SmtpDeliveryMethod.Network;
+            smtpClient.UseDefaultCredentials = false;
+            smtpClient.EnableSsl = true;
+            smtpClient.Credentials = basicCredential;
+            smtpClient.Timeout = 500000;
+
+            message.From = fromAddress;
+            message.Subject = "Relatório de Execução de Caso de Teste";
+            //Set IsBodyHtml to true means you can send HTML email.
+            message.IsBodyHtml = true;
+
+            message.Body = @"<h1>Relatório do Caso de Teste</h1></br> 
+                             
+                            <h2>Sistema: " + selectedSistema.Nome + @"</h2></br>" +
+                          "<h2>Caso: " + this.selectedCase.Codigo.ToUpper() + @"</h2></br>";
+
+            message.Body += @"<h5> Hora da Execução: " + this.selectedCase.UltimaVezExecutado.ToString() + "</h5></br>";
+            //message.Body += @"<h5> Tempo de Execução: " + this.selectedCase.t.ToString() + "</h5></br>";
+            message.Body += @"<h5> Quantidade de Passos: " + this.selectedCase.Passos.Count.ToString() + "</h5></br>";
+
+//              message.Body += @"<table style=' font-family: arial, sans-serif; border-collapse: collapse; width: 100%;'> 
+//                                <tr> 
+//                                    <th style='border: 1px solid #dddddd;text-align: left;padding: 8px;'>Código</th> 
+//                                    <th style='border: 1px solid #dddddd;text-align: left;padding: 8px;'>Nome</th> 
+//                                    <th style='border: 1px solid #dddddd;text-align: left;padding: 8px;'>APR/TOTAL IE</th> 
+//                                    <th style='border: 1px solid #dddddd;text-align: left;padding: 8px;'>APR/TOTAL FFOX</th>
+//                                    <th style='border: 1px solid #dddddd;text-align: left;padding: 8px;'>APR/TOTAL CHROME</th>
+//                                    <th style='border: 1px solid #dddddd;text-align: left;padding: 8px;'>APR/TOTAL EDGE</th>
+//                                    <th style='border: 1px solid #dddddd;text-align: left;padding: 8px;'>INFO</th>
+//                                </tr>";
+
+
+//            foreach (PassoDoRoteiro passo in  this.SelectedSuite.PassosDoRoteiro)
+//            {
+//                message.Body += "<tr>";
+//                message.Body += "<td style='border: 1px solid #dddddd;text-align: left;padding: 8px;'>" + passo.SelectedCase.Codigo + "</td>";
+//                message.Body += "<td style='border: 1px solid #dddddd;text-align: left;padding: 8px;'>" + passo.SelectedCase.Nome + "</td>";
+//                message.Body += "<td style='border: 1px solid #dddddd;text-align: left;padding: 8px;'>" + passo.ie_stats + "</td>";
+//                message.Body += "<td style='border: 1px solid #dddddd;text-align: left;padding: 8px;'>" + passo.ffox_stats + "</td>";
+//                message.Body += "<td style='border: 1px solid #dddddd;text-align: left;padding: 8px;'>" + passo.chrome_stats + "</td>";
+//                message.Body += "<td style='border: 1px solid #dddddd;text-align: left;padding: 8px;'>" + passo.edge_stats + "</td>";
+//                message.Body += "<td style='border: 1px solid #dddddd;text-align: left;padding: 8px;'>" + passo.Obs + "</td>";
+//                message.Body += "</tr>";
+//                //Attachment anexo;
+//                //anexo = new Attachment(passo.SelectedCase.CaminhoArquivoCTF);
+//                //message.Attachments.Add(anexo);
+
+//            }
+
+            //Attachment anexo;
+            var anexo = new Attachment(this.selectedCase.CaminhoArquivoCTF);
+            message.Attachments.Add(anexo);
+
+            //message.Body += "</table>";
+            MetroDialogSettings st = new MetroDialogSettings();
+            st.AffirmativeButtonText = "Ok";
+            st.NegativeButtonText = "Cancelar";
+            string emailDest = await this.mainWindow.ShowInputAsync("Email", "Insira o EMAIL para envio do Caso de Teste", st);
+
+            if (!String.IsNullOrEmpty(emailDest))
+            {
+                message.To.Add(emailDest);
+                try
+                {
+                    smtpClient.Send(message);
+                    await this.mainWindow.ShowMessageAsync("Sucesso", "Mensagem Enviada para "+ emailDest + ".");
+                    //MessageBox.Show("Mensagem Enviada");
+                }
+                catch (Exception ex)
+                {
+                    //Error, could not send the message
+                    this.mainWindow.ShowMessageAsync("Erro", "Detalhes: " + ex.Message + ex.Source + ex.StackTrace);
+                }
+            }
+            else
+            {
+                await this.mainWindow.ShowMessageAsync("Erro", "Insira o email.");
+            }
+
+
+        }
+
+        private async void editarCodigoTestCase(object sender, RoutedEventArgs e)
+        {
+            MetroDialogSettings st = new MetroDialogSettings();
+            st.AffirmativeButtonText = "Ok";
+            st.NegativeButtonText = "Cancelar";
+            st.DefaultText = selectedCase.Codigo;
+            string nomeTemp = await this.mainWindow.ShowInputAsync("Alterar Código do Caso de Teste", "Insira Novo Código do Caso de Teste", st);
+            if (!String.IsNullOrEmpty(nomeTemp))
+            {
+
+                selectedCase.Codigo = nomeTemp;
+                selectedCase.Salvar();
+                await this.mainWindow.ShowMessageAsync("Sucesso!", "Código Do Caso de Teste alterado com sucesso!");
+
+            }
+            else
+            {
+                await this.mainWindow.ShowMessageAsync("Novo Código Não Informado", "O Código do Caso não foi alterado");
+            }
         }
 
 

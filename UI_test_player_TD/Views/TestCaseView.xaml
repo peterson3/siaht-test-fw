@@ -55,6 +55,7 @@
                                 <MenuItem Header="Executar" Click="Run_Test"/>
                                 <MenuItem Header="Executar Todos" Click="Run_All_Test"/>
                                 <MenuItem Header="Inserir Novo" Click="adicionarTestCase"/>
+                                <MenuItem Header="Editar Código" Click="editarCodigoTestCase"/>
                                 <MenuItem Header="Copiar" Click="copiarTeste"/>
                                 <MenuItem Header="Deletar" Click="removerTestCase"/>
                                 <MenuItem Header="Ordenar Por Código" Click="ordernarCTFporNome"/>
@@ -391,7 +392,39 @@
                             </Grid>
                         </TabItem>
                     </TabControl>
-                </Grid>
+                <Button
+                	ToolTip="Abrir Pasta Casos de Teste"
+                	Width="50"
+                	Height="50"
+                	Background="{x:Null}"
+                	Style="{DynamicResource MetroCircleButtonStyle}" Margin="60,0,876,15" Foreground="Black" BorderBrush="Black" VerticalAlignment="Bottom" HorizontalAlignment="Center" Click="abrirPastaCasosTeste">
+                    <Rectangle Width="20"
+                		Height="20"
+                		Fill="{Binding Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}" Margin="0">
+                        <Rectangle.OpacityMask>
+
+                            <VisualBrush Visual="{StaticResource appbar_folder_open}" Stretch="Uniform" />
+
+                        </Rectangle.OpacityMask>
+                    </Rectangle>
+                </Button>
+                <Button
+                	ToolTip="Enviar Relatório do Caso de Teste Via Email"
+                	Width="50"
+                	Height="50"
+                	Background="{x:Null}"
+                	Style="{DynamicResource MetroCircleButtonStyle}" Margin="114,0,822,15" Foreground="Black" BorderBrush="Black" VerticalAlignment="Bottom" HorizontalAlignment="Center" Click="enviarTestCaseViaEmail">
+                    <Rectangle Width="20"
+                		Height="20"
+                		Fill="{Binding Foreground, RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Button}}}" Margin="0">
+                        <Rectangle.OpacityMask>
+
+                            <VisualBrush Visual="{StaticResource appbar_email_minimal}" Stretch="Uniform" />
+
+                        </Rectangle.OpacityMask>
+                    </Rectangle>
+                </Button>
+            </Grid>
                 <Button
         			ToolTip="Adicionar Novo Caso de Teste"
         			Background="{x:Null}"

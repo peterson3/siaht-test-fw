@@ -146,6 +146,9 @@ namespace UI_test_player_TD.Model
             //telasPossiveis = new ObservableCollection<Tela>(parent.SistemaPai.telas);
             resultado = new AcaoDynResult();
             this.TestCaseParent = parent;
+            List<Tela> telas = telasPossiveis.ToList();
+            telas.OrderBy(tela => tela.Nome);
+            telasPossiveis = new ObservableCollection<Tela>(telas);
         }
 
 

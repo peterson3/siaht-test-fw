@@ -185,7 +185,10 @@ namespace UI_test_player_TD
         }
 
 
-
-
+        public void OpenTestCaseViewWithSelectedCase(TestCase testCase)
+        {
+            testCaseView = mainController.getTestCaseView(testCase);
+            this.refreshContent(testCaseView);
+        }
     }
 }

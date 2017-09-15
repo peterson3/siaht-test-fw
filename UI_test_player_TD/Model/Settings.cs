@@ -19,5 +19,6 @@ namespace UI_test_player_TD.Model
         public static bool IgnorarFalha = false;
         public static bool CloseBrowserAfterTestCase = true;
 
+        public static string docPath = Environment.CurrentDirectory + "\\doc\\doc_auto_teste.pdf";
     }
 }

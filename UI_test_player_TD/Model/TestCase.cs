@@ -14,6 +14,8 @@ using System.Windows;
 using System.ComponentModel;
 using UI_test_player_TD.DB;
 using System.ComponentModel.DataAnnotations;
+using PdfSharp.Pdf;
+using PdfSharp.Drawing;
 
 namespace UI_test_player_TD.Model 
 {
@@ -215,6 +217,10 @@ namespace UI_test_player_TD.Model
 
         public void exec()
         {
+
+           
+
+
             #region Cabeçalho CTF
             CTF.Iniciar(this.Codigo);
             CTF.InformacoesIniciais(
@@ -231,6 +237,7 @@ namespace UI_test_player_TD.Model
             #endregion
 
 
+
             foreach (PassoDoTeste passo in Passos)
             {
                 if (passo.deveExecutar)
@@ -238,6 +245,7 @@ namespace UI_test_player_TD.Model
                     passo.executar();
                 }
             }
+
 
             CTF.Finalizar();
         }
@@ -279,6 +287,31 @@ namespace UI_test_player_TD.Model
                 DateTime.Today.ToString(@"DD/MM/YYYY"));
             //
             #endregion
+
+
+            //#region generate pdf
+            //// Create a new PDF document
+            //var dir = Directory.CreateDirectory("ctf-pdf\\" + this.SistemaPai.Nome);
+
+            //PdfDocument document = new PdfDocument();
+            //document.Info.Title = "Caso de Teste - TopDown Sistemas";
+
+            //// Create an empty page
+            //PdfPage page = document.AddPage();
+
+            //// Get an XGraphics object for drawing
+            //XGraphics gfx = XGraphics.FromPdfPage(page);
+
+            //// Create a font
+            //XFont font = new XFont("Verdana", 20, XFontStyle.Bold);
+
+            //// Draw the text
+            //gfx.DrawString(this.Codigo + " - " + this.Nome, font, XBrushes.Black, 0, 0);
+            //#endregion
+
+
+
+
             Stopwatch cronometro = new Stopwatch();
             cronometro.Start();
             foreach (PassoDoTeste passo in Passos)
@@ -288,14 +321,19 @@ namespace UI_test_player_TD.Model
                 passo.Obs = "";
                 passo.Retorno = "";
             }
+
+            int pos = 30;
+
             foreach (PassoDoTeste passo in Passos)
             {
+
+                
                 if (passo.deveExecutar)
                 {
                     try
                     {
                         passo.executar();
-                        if (passo.acaoSelecionada.Nome.ToUpper().Contains("IR PARA"))
+                        if (passo.acaoSelecionada.Nome.ToUpper().Trim() == "IR PARA")
                         {
                             CTF.irParaFuncionalidade(passo.telaSelecionada.Nome);
                         }
@@ -304,10 +342,17 @@ namespace UI_test_player_TD.Model
                             if (passo.ParametroEhFuncao())
                             {
                                 CTF.inserirComando("", passo.acaoSelecionada.Nome, passo.parametroComputado, "", "", passo.Retorno);
+                                // Draw the text
+                                //pos += 50;
+                                //gfx.DrawString(passo.acaoSelecionada.Nome+ " - PARAM: " + passo.parametroComputado, font, XBrushes.Black, 0, pos);
+                               
+                                
                             }
                             else
                             {
                                 CTF.inserirComando("", passo.acaoSelecionada.Nome, passo.Parametro, "", "", passo.Retorno);
+                                //pos +=50;
+                                //gfx.DrawString(passo.acaoSelecionada.Nome + " - PARAM: " + passo.Parametro, font, XBrushes.Black, 0, pos);
                             }
                         }
                     }
@@ -365,7 +410,8 @@ namespace UI_test_player_TD.Model
             {
                 tempoEstimado = TimeSpan.FromTicks((tempoEstimado.Ticks + cronometro.Elapsed.Ticks)/ 2);
             }
-
+            // Save the document...
+            //document.Save(dir.FullName + "\\" + this.Codigo + ".pdf");
             CTF.Finalizar();
         }
 
@@ -510,6 +556,9 @@ namespace UI_test_player_TD.Model
                 //Passar o Browser Desejado
                 TopDown_QA_FrameWork.Browser.Initialize(this.SistemaPai.homeURL, browser_cod, IE_DRIVER_PATH, CHROME_DRIVER_PATH, FIREFOX_DRIVER_PATH, SAFARI_DRIVER_PATH, EDGE_DRIVER_PATH, OPERA_DRIVER_PATH);
                 CTF.Iniciar(this.Codigo);
+
+
+
                 this.exec(stepDelay, browser_cod);
                 this.aprovar();
             }
