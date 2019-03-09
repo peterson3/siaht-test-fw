@@ -1,0 +1,6 @@
+C:\Users\tiago\repos\test-project\Tester.CrossCutting\bin\Debug\Tester.CrossCutting.dll
+C:\Users\tiago\repos\test-project\Tester.CrossCutting\bin\Debug\Tester.CrossCutting.pdb
+C:\Users\tiago\repos\test-project\Tester.CrossCutting\obj\Debug\Tester.CrossCutting.csproj.CoreCompileInputs.cache
+C:\Users\tiago\repos\test-project\Tester.CrossCutting\obj\Debug\Tester.CrossCutting.dll
+C:\Users\tiago\repos\test-project\Tester.CrossCutting\obj\Debug\Tester.CrossCutting.pdb
+C:\Users\tiago\repos\test-project\Tester.CrossCutting\obj\Debug\Tester.CrossCutting.csprojResolveAssemblyReference.cache

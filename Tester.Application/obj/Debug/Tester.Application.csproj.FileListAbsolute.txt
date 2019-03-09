@@ -1,0 +1,6 @@
+C:\Users\tiago\repos\test-project\Tester.Application\bin\Debug\Tester.Application.dll
+C:\Users\tiago\repos\test-project\Tester.Application\bin\Debug\Tester.Application.pdb
+C:\Users\tiago\repos\test-project\Tester.Application\obj\Debug\Tester.Application.csprojResolveAssemblyReference.cache
+C:\Users\tiago\repos\test-project\Tester.Application\obj\Debug\Tester.Application.csproj.CoreCompileInputs.cache
+C:\Users\tiago\repos\test-project\Tester.Application\obj\Debug\Tester.Application.dll
+C:\Users\tiago\repos\test-project\Tester.Application\obj\Debug\Tester.Application.pdb

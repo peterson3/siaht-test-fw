@@ -331,19 +331,19 @@ namespace UI_test_player_TD.Views
 
                         if (ie_check.IsChecked.Value)
                         {
-                            passoDoRoteiro.run(0, Browser.IE_BROWSER);
+                            passoDoRoteiro.run(0, Driver.IE_BROWSER);
                         }
                         if (ffox_check.IsChecked.Value)
                         {
-                            passoDoRoteiro.run(0, Browser.FIREFOX_BROWSER);
+                            passoDoRoteiro.run(0, Driver.FIREFOX_BROWSER);
                         }
                         if (chrome_check.IsChecked.Value)
                         {
-                            passoDoRoteiro.run(0, Browser.CHROME_BROWSER);
+                            passoDoRoteiro.run(0, Driver.CHROME_BROWSER);
                         }
                         if (edge_check.IsChecked.Value)
                         {
-                            passoDoRoteiro.run(0, Browser.EDGE_BROWSER);
+                            passoDoRoteiro.run(0, Driver.EDGE_BROWSER);
                         }
 
 

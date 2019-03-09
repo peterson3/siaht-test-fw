@@ -162,13 +162,13 @@ namespace UI_test_player_TD
             await this.ShowChildWindowAsync(new AddAcaoChildWindow(this, parentWindow) { IsModal = true });
         }
 
-        public async void OpenAddAcaoChildWindow(AcoesView parentWindow, Tela selectedTela, Sistema selectedSistema)
+        public async void OpenAddAcaoChildWindow(AcoesView parentWindow, Screen selectedTela, Sistema selectedSistema)
         {
             await this.ShowChildWindowAsync(new AddAcaoChildWindow(this, parentWindow, selectedTela, selectedSistema) { IsModal = true });
 
         }
 
-        public async void OpenAddAcaoChildWindow(TestCaseView parentWindow, Tela selectedTela, Sistema selectedSistema)
+        public async void OpenAddAcaoChildWindow(TestCaseView parentWindow, Screen selectedTela, Sistema selectedSistema)
         {
             await this.ShowChildWindowAsync(new AddAcaoChildWindow(this, parentWindow, selectedTela, selectedSistema) { IsModal = true });
 

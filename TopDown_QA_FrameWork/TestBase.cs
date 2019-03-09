@@ -13,7 +13,7 @@ namespace TopDown_QA_FrameWork
         [OneTimeSetUp]
         public static void Initialize(int COD_BROWSER, string IE_DRIVER_PATH, string CHROME_DRIVER_PATH, string FIREFOX_DRIVER_PATH, string SAFARI_DRIVER_PATH, string EDGE_DRIVER_PATH, string OPERA_DRIVER_PATH)
         {
-            Browser.Initialize("http://10.10.100.147", COD_BROWSER, IE_DRIVER_PATH, CHROME_DRIVER_PATH, FIREFOX_DRIVER_PATH, SAFARI_DRIVER_PATH, EDGE_DRIVER_PATH, OPERA_DRIVER_PATH);
+            Driver.Initialize("http://10.10.100.147", COD_BROWSER, IE_DRIVER_PATH, CHROME_DRIVER_PATH, FIREFOX_DRIVER_PATH, SAFARI_DRIVER_PATH, EDGE_DRIVER_PATH, OPERA_DRIVER_PATH);
            // UserGenerator.Initialize();
 
         }

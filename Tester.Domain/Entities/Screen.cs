@@ -1,0 +1,45 @@
+﻿using System.Collections.ObjectModel;
+
+namespace UI_test_player_TD.Model
+{
+    public class Screen
+    {
+        public int Id { get; set; }
+        public string Nome { get; set; }
+        public Sistema SistemaPai { get; set; }
+
+        private ObservableCollection<AcaoDyn> _acoesPossiveis { get; set; }
+        public ObservableCollection<AcaoDyn> acoesPossiveis 
+        { 
+            get 
+            {
+                if (_acoesPossiveis == null)
+                {
+                    _acoesPossiveis = new ObservableCollection<AcaoDyn>(AcaoDyn_DAO.getAllActionsFromTela(this));
+                }
+                return _acoesPossiveis;
+            }
+        }
+
+        public Screen(string Nome, Sistema SistemaPai)
+        {
+            this.Nome = Nome;
+            this.SistemaPai = SistemaPai;
+        }
+
+        public void Salvar()
+        {
+            //Tela_DAO.Salvar(this);
+        }
+
+        public void Deletar()
+        {
+            //Tela_DAO.Deletar(this);
+        }
+
+        public void Alterar()
+        {
+            //Tela_DAO.Alterar(this);
+        }
+    }
+}

@@ -23,7 +23,7 @@ namespace UI_test_player_TD.Views
     {
         private MainWindow mainWindow;
         private AcoesView parentWindow;
-        private Tela selectedTela;
+        private Screen selectedTela;
         private Sistema selectedSistema;
         private TestCaseView parentWindow1;
         public AddAcaoChildUC addAcaoChildW { get; set; }
@@ -43,7 +43,7 @@ namespace UI_test_player_TD.Views
             mainGrid.Children.Add(addAcaoChildW);
         }
 
-        public AddAcaoChildWindow(MainWindow mainWindow, AcoesView parentWindow, Tela selectedTela, Sistema selectedSistema)
+        public AddAcaoChildWindow(MainWindow mainWindow, AcoesView parentWindow, Screen selectedTela, Sistema selectedSistema)
         {
             // TODO: Complete member initialization
             InitializeComponent();
@@ -57,7 +57,7 @@ namespace UI_test_player_TD.Views
             mainGrid.Children.Add(addAcaoChildW);
         }
 
-        public AddAcaoChildWindow(MainWindow mainWindow, TestCaseView parentWindow1, Tela selectedTela, Sistema selectedSistema)
+        public AddAcaoChildWindow(MainWindow mainWindow, TestCaseView parentWindow1, Screen selectedTela, Sistema selectedSistema)
         {
             // TODO: Complete member initialization
             InitializeComponent();

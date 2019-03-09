@@ -1,0 +1,9 @@
+C:\Users\tiago\repos\test-project\testercl\bin\Debug\testercl.exe.config
+C:\Users\tiago\repos\test-project\testercl\bin\Debug\testercl.exe
+C:\Users\tiago\repos\test-project\testercl\bin\Debug\testercl.pdb
+C:\Users\tiago\repos\test-project\testercl\bin\Debug\CommandLine.dll
+C:\Users\tiago\repos\test-project\testercl\bin\Debug\CommandLine.xml
+C:\Users\tiago\repos\test-project\testercl\obj\Debug\Tester.CLI.csproj.CoreCompileInputs.cache
+C:\Users\tiago\repos\test-project\testercl\obj\Debug\testercl.exe
+C:\Users\tiago\repos\test-project\testercl\obj\Debug\testercl.pdb
+C:\Users\tiago\repos\test-project\testercl\obj\Debug\Tester.CLI.csprojResolveAssemblyReference.cache

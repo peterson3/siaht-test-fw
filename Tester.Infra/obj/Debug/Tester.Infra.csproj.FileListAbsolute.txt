@@ -1,0 +1,6 @@
+C:\Users\tiago\repos\test-project\Tester.Infra\bin\Debug\Tester.Infra.dll
+C:\Users\tiago\repos\test-project\Tester.Infra\bin\Debug\Tester.Infra.pdb
+C:\Users\tiago\repos\test-project\Tester.Infra\obj\Debug\Tester.Infra.csprojResolveAssemblyReference.cache
+C:\Users\tiago\repos\test-project\Tester.Infra\obj\Debug\Tester.Infra.csproj.CoreCompileInputs.cache
+C:\Users\tiago\repos\test-project\Tester.Infra\obj\Debug\Tester.Infra.dll
+C:\Users\tiago\repos\test-project\Tester.Infra\obj\Debug\Tester.Infra.pdb

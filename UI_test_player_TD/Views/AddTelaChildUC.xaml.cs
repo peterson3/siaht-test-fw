@@ -63,7 +63,7 @@ namespace UI_test_player_TD.Views
                 else
                 {
                     //Adiciona no Bd
-                    Tela telaAdicionada = new Tela(nomeTelaTxt.Text, selectedSistema);
+                    Screen telaAdicionada = new Screen(nomeTelaTxt.Text, selectedSistema);
                     telaAdicionada.Salvar();
                     //sai da tela
                     parentWindow.refresh();

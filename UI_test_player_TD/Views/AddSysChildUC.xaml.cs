@@ -48,7 +48,7 @@ namespace UI_test_player_TD.Views
                 sistemaAdicionado.Salvar();
                 this.parentChildWindow.Close();
                 parentWindow.refresh();
-                mainWindow.FlyOutFeedBack("Novo Sistema Adicionado!");
+                mainWindow.FlyOutFeedBack("New System Added!");
             }
         }
 

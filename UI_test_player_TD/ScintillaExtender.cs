@@ -295,7 +295,7 @@ static class ScintillaExtender
             switch (lastkeyword)
             {
                 case "Browser":
-                    dynamic props = typeof(TopDown_QA_FrameWork.Browser).GetProperties();
+                    dynamic props = typeof(TopDown_QA_FrameWork.Driver).GetProperties();
                     foreach (var p_loopVariable in props)
                     {
                         //System.Windows.Forms.MessageBox.Show(p_loopVariable.Name);
@@ -303,7 +303,7 @@ static class ScintillaExtender
                         suggestions += (p.Name) + " ";
                     }
 
-                    dynamic methods = typeof(TopDown_QA_FrameWork.Browser).GetMethods();
+                    dynamic methods = typeof(TopDown_QA_FrameWork.Driver).GetMethods();
                     foreach (var m_loopVariable in methods)
                     {
                         var m = m_loopVariable;
@@ -398,7 +398,7 @@ static class ScintillaExtender
             switch (lastobj)
             {
                 case "Browser":
-                    dynamic prop = typeof(TopDown_QA_FrameWork.Browser).GetMember(lastkeyword);
+                    dynamic prop = typeof(TopDown_QA_FrameWork.Driver).GetMember(lastkeyword);
 					if (prop.Length > 0)
 						helptext = ScintillaExtender.FormatHelpTip(scintilla, prop[0], reader);
 					break;

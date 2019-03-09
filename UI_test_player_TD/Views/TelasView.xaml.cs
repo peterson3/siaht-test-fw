@@ -27,7 +27,7 @@ namespace UI_test_player_TD.Views
     {
         MainWindow mainWindow;
         public ObservableCollection<Sistema> sistemas { get; set; }
-        public ObservableCollection<Tela> telas { get; set; }
+        public ObservableCollection<Screen> telas { get; set; }
 
         public Sistema selectedSistema { get; set; }
         public TelasView(MainWindow mainWindow)
@@ -41,7 +41,7 @@ namespace UI_test_player_TD.Views
 
         }
 
-        public Tela selectedTela { get; set; }
+        public Screen selectedTela { get; set; }
         public void refresh()
         {
             loadData();

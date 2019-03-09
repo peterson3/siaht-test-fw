@@ -1,0 +1,6 @@
+C:\Users\tiago\repos\test-project\Tester.Domain\bin\Debug\Tester.Domain.dll
+C:\Users\tiago\repos\test-project\Tester.Domain\bin\Debug\Tester.Domain.pdb
+C:\Users\tiago\repos\test-project\Tester.Domain\obj\Debug\Tester.Domain.csproj.CoreCompileInputs.cache
+C:\Users\tiago\repos\test-project\Tester.Domain\obj\Debug\Tester.Domain.dll
+C:\Users\tiago\repos\test-project\Tester.Domain\obj\Debug\Tester.Domain.pdb
+C:\Users\tiago\repos\test-project\Tester.Domain\obj\Debug\Tester.Domain.csprojResolveAssemblyReference.cache

@@ -28,7 +28,7 @@ namespace tester_webapp.Controllers
             else
             {
                 List<Sistema> sistemas = Sistema_DAO.getAllSistemas().ToList();
-                List<Tela> telas = Tela_DAO.getAllTelas(sistemas.First(x => x.Id == sistemaId)).ToList();
+                List<Screen> telas = Tela_DAO.getAllTelas(sistemas.First(x => x.Id == sistemaId)).ToList();
                 return View(telas);
             }
             

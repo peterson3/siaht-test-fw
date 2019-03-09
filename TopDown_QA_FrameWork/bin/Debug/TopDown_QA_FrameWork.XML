@@ -9,16 +9,31 @@
             Classe de acesso ao Browser (E ao Driver)
             </summary>
         </member>
+        <member name="P:TopDown_QA_FrameWork.Browser.Title">
+            <summary>
+            Teste
+            </summary>
+        </member>
         <member name="M:TopDown_QA_FrameWork.Browser.Print">
             <summary>
             Retorna a local onde foi salvo o print
             </summary>
             <returns></returns>
         </member>
-        <member name="P:TopDown_QA_FrameWork.Browser.Title">
+        <member name="M:TopDown_QA_FrameWork.Geradores.Utils.GerarNomePessoa">
+             <summary>
+            
+             
+             </summary>
+             <returns></returns>
+        </member>
+        <member name="M:TopDown_QA_FrameWork.Geradores.Utils.GerarNumeroAleatorio(System.Int32,System.Int32)">
             <summary>
-            Teste
+            Gerar um número aleatório entre os parametros init e fim (valores também inclusos)
             </summary>
+            <param name="init"></param>
+            <param name="fim"></param>
+            <returns></returns>
         </member>
         <member name="T:ScreenShotDemo.ScreenCapture">
             <summary>
@@ -62,21 +77,6 @@
             <summary>
             Helper class containing User32 API functions
             </summary>
-        </member>
-        <member name="M:TopDown_QA_FrameWork.Geradores.Utils.GerarNomePessoa">
-             <summary>
-            
-             
-             </summary>
-             <returns></returns>
-        </member>
-        <member name="M:TopDown_QA_FrameWork.Geradores.Utils.GerarNumeroAleatorio(System.Int32,System.Int32)">
-            <summary>
-            Gerar um número aleatório entre os parametros init e fim (valores também inclusos)
-            </summary>
-            <param name="init"></param>
-            <param name="fim"></param>
-            <returns></returns>
         </member>
     </members>
 </doc>

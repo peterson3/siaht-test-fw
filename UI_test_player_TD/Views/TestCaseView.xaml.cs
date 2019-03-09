@@ -39,7 +39,7 @@ namespace UI_test_player_TD.Views
 
         public ObservableCollection<TestCase> testCases { get; set; }
         public TestCase selectedCase { get; set; }
-        public ObservableCollection<Tela> Telas { get; set; }
+        public ObservableCollection<Screen> Telas { get; set; }
         public bool telasComboIsBeingEditedByUser { get; set; }
         public MainWindow mainWindow;
         public bool Loading { get; set; }
@@ -338,7 +338,7 @@ namespace UI_test_player_TD.Views
             }
 
            // MessageBox.Show("SISTEMA: " + selectedSistema.Id + " - " + selectedSistema.Nome);
-            Tela telaPassoAnterior = null;
+            Screen telaPassoAnterior = null;
             if (selectedCase.Passos.Count != 0)
             {
                 
